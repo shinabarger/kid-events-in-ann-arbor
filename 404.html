@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>That page moved. Here is the calendar instead.</title>
+<meta name="description" content="That link did not land anywhere. The Ann Arbor kids calendar is one click away.">
+<meta name="robots" content="noindex, follow">
+<meta name="theme-color" content="#14563a">
+<link rel="icon" href="/kid-events-in-ann-arbor/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/kid-events-in-ann-arbor/assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" sizes="180x180" href="/kid-events-in-ann-arbor/assets/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700&family=Karla:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="/kid-events-in-ann-arbor/assets/style.css">
+<style>
+  .lost { max-width: 40rem; margin: 0 auto; padding: 12vh 20px 6rem; text-align: center; }
+  .lost h1 { font-family: var(--font-display); font-size: clamp(1.6rem, 5vw, 2.4rem); margin: 1.4rem 0 .6rem; }
+  .lost p { color: var(--text-soft); font-size: 1.05rem; margin: 0 0 1.2rem; }
+  .lost .go { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1.8rem; }
+  .lost svg { width: 84px; height: 84px; }
+  .lost ul { text-align: left; display: inline-block; margin: 2.4rem 0 0; padding-left: 1.1rem; color: var(--text-soft); }
+  .lost li { margin: .4rem 0; }
+</style>
+</head>
+<body>
+<main class="lost">
+  <svg viewBox="0 0 40 40" aria-hidden="true" focusable="false">
+    <path d="M20 3 L33 15 v20 a2 2 0 0 1-2 2 H9 a2 2 0 0 1-2-2 V15 Z" fill="#62b9d8"/>
+    <path d="M20 10c4 4 6 7 6 10a6 6 0 0 1-12 0c0-3 2-6 6-10Z" fill="#7fd8a8"/>
+    <circle cx="20" cy="30" r="2.4" fill="#ffffff"/>
+  </svg>
+
+  <h1>That link did not land anywhere</h1>
+  <p>
+    Probably an event that has already happened, or a page that moved. The
+    calendar itself is fine, and it is one tap away.
+  </p>
+
+  <div class="go">
+    <a class="btn btn-primary" href="/kid-events-in-ann-arbor/">See what is on today</a>
+    <a class="btn btn-ghost" href="/kid-events-in-ann-arbor/?when=weekend">This weekend</a>
+  </div>
+
+  <ul>
+    <li><a href="/kid-events-in-ann-arbor/?age=baby,toddler">Babies and toddlers</a></li>
+    <li><a href="/kid-events-in-ann-arbor/?cost=free">Free things</a></li>
+    <li><a href="/kid-events-in-ann-arbor/?setting=indoor">Indoors, for a rainy day</a></li>
+    <li><a href="https://github.com/shinabarger/kid-events-in-ann-arbor/issues/new?template=add-event.yml" rel="noopener">Tell me about an event I am missing</a></li>
+  </ul>
+</main>
+</body>
+</html>

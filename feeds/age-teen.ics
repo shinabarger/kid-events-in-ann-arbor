@@ -1,0 +1,539 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kid-events-in-ann-arbor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kid Events: Teens (13-18)
+X-WR-CALDESC:Events suitable for teens (13-18)
+X-WR-TIMEZONE:America/Detroit
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:94494bada3f1c29b@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T140000Z
+DTEND:20260906T010000Z
+SUMMARY:Saline Fair
+LOCATION:Washtenaw Farm Council Fairgrounds\, 5055 Ann Arbor Saline Rd\, A
+ nn Arbor\, MI 48103
+GEO:42.212444;-83.794707
+DESCRIPTION:The Saline Fair returns the week before Labor Day. Regular adm
+ ission is $10 per person ages 11 and up. Most vendors on site are cash on
+ ly\, so bring plenty.\n\nWhere: 5055 Ann Arbor Saline Rd\, Ann Arbor\, MI
+  48103\nDrive: about 14 minutes from downtown Ann Arbor\nAges: Babies\, T
+ oddler\, Preschoolers\, Elementary\, Middle Schoolers\, High Schoolers\nC
+ ost: $10\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the we
+ ather\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.
+ com/events/saline-fair-2026-09-04/\nFound on: https://shinabarger.github.
+ io/kid-events-in-ann-arbor/?event=94494bada3f1c29b\n\nDouble check the ti
+ me with the organizer before you go.
+URL:https://annarborwithkids.com/events/saline-fair-2026-09-04/
+END:VEVENT
+BEGIN:VEVENT
+UID:b24f0973f7b0e5fd@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T150000Z
+DTEND:20260905T230000Z
+SUMMARY:Foodie Fridays
+LOCATION:County Farm Park\, 2230 Platt Rd\, Ann Arbor\, MI 48104
+GEO:42.2556912;-83.7016151
+DESCRIPTION:Local food trucks at County Farm Park's Platt entrance every F
+ riday from mid-May through September\, 11a until 7p or until they sell ou
+ t.\n\nWhere: 2230 Platt Rd\, Ann Arbor\, MI 48104\nAges: Preschoolers\, E
+ lementary\, Middle Schoolers\, High Schoolers\nCost: Not listed\nSignup: 
+ Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed by: 
+ Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/foodie-
+ fridays-2026-09-04/\nFound on: https://shinabarger.github.io/kid-events-i
+ n-ann-arbor/?event=b24f0973f7b0e5fd\n\nDouble check the time with the org
+ anizer before you go.
+URL:https://annarborwithkids.com/events/foodie-fridays-2026-09-04/
+END:VEVENT
+BEGIN:VEVENT
+UID:b53877cf0c621201@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T160000Z
+DTEND:20260905T163000Z
+SUMMARY:Play the Kerrytown Chime
+LOCATION:Kerrytown Market & Shops\, 315 Detroit St\, Ann Arbor\, MI 48104
+GEO:42.2843336;-83.7461086
+DESCRIPTION:The Kerrytown Chime is open for the public to play three times
+  a week. Saturdays 10:30-11a\, Wednesdays and Fridays noon-12:30p.\n\nWhe
+ re: 315 Detroit St\, Ann Arbor\, MI 48104\nAges: Elementary\, Middle Scho
+ olers\, High Schoolers\nCost: Free\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids
+ .com/events/play-the-kerrytown-chime-2026-09-04/\nFound on: https://shina
+ barger.github.io/kid-events-in-ann-arbor/?event=b53877cf0c621201\n\nDoubl
+ e check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/play-the-kerrytown-chime-2026-09-0
+ 4/
+END:VEVENT
+BEGIN:VEVENT
+UID:af563d2f847211e2@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T170000Z
+DTEND:20260905T180000Z
+SUMMARY:Tech Take-Apart
+LOCATION:Downtown Branch of AADL\, Ann Arbor\, MI
+GEO:42.278198;-83.745971
+DESCRIPTION:How does a toaster work? What does the inside of a keyboard lo
+ ok like? Come find out as the group takes apart small devices. You do not
+  have to put them back together.\n\nWhere: Downtown Branch of AADL\, Ann 
+ Arbor\nAges: Grade 2 and up\nCost: Free\nSignup: Drop in\, no signup need
+ ed\nIndoors\nListed by: Ann Arbor District Library\nDetails: https://anna
+ rborwithkids.com/events/tech-take-apart/\nFound on: https://shinabarger.g
+ ithub.io/kid-events-in-ann-arbor/?event=af563d2f847211e2\n\nDouble check 
+ the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/tech-take-apart/
+END:VEVENT
+BEGIN:VEVENT
+UID:f97d1d181c979244@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T200000Z
+DTEND:20260906T020000Z
+SUMMARY:First Friday Ypsilanti
+LOCATION:Downtown Ypsilanti\, Ypsilanti\, MI
+GEO:42.2407765;-83.6128497
+DESCRIPTION:Every month from April through December\, Ypsilanti celebrates
+  with special activities and sales along Michigan Ave and in Depot Town. 
+ Bring the family.\n\nWhere: Downtown Ypsilanti\nDrive: about 23 minutes f
+ rom downtown Ann Arbor\nAges: Babies\, Toddler\, Preschoolers\, Elementar
+ y\, High Schoolers\nCost: Free\nSignup: Drop in\, no signup needed\nOutdo
+ ors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: htt
+ ps://annarborwithkids.com/events/first-friday-ypsilanti-3-2026-09-04/\nFo
+ und on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=f97d
+ 1d181c979244\n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/first-friday-ypsilanti-3-2026-09-0
+ 4/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2384a2adcd9908@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T210000Z
+DTEND:20260905T223000Z
+SUMMARY:Family Trivia Night
+LOCATION:Ann Arbor Senior Center\, Ann Arbor\, MI
+GEO:42.2650621;-83.7265878
+DESCRIPTION:Looking for something for the whole family? Questions range fr
+ om things your kids will know to things that will stump the adults.\n\nWh
+ ere: Ann Arbor Senior Center\nAges: Elementary\, Middle Schoolers\, High 
+ Schoolers\nCost: Free\nSignup: Registration required\, book before you go
+ \nIndoors\nListed by: Ann Arbor Parks & Rec\nDetails: https://annarborwit
+ hkids.com/events/family-trivia-night/\nFound on: https://shinabarger.gith
+ ub.io/kid-events-in-ann-arbor/?event=7f2384a2adcd9908\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborwithkids.com/events/family-trivia-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:5c59a04e4365b136@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T213000Z
+DTEND:20260905T233000Z
+SUMMARY:Silent Disco Dance Party
+LOCATION:Downtown Branch of AADL\, Ann Arbor\, MI
+GEO:42.278198;-83.745971
+DESCRIPTION:Put on headphones and start dancing. Wireless headphones provi
+ ded and local musician Ki5 provides the music. Held in the 4th floor prog
+ ram room.\n\nWhere: Downtown Branch of AADL\, Ann Arbor\nAges: Grade 6-12
+ \nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann
+  Arbor District Library\nDetails: https://annarborwithkids.com/events/sil
+ ent-disco-dance-party/\nFound on: https://shinabarger.github.io/kid-event
+ s-in-ann-arbor/?event=5c59a04e4365b136\n\nDouble check the time with the 
+ organizer before you go.
+URL:https://annarborwithkids.com/events/silent-disco-dance-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:188df7597585764e@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T220000Z
+DTEND:20260905T233000Z
+SUMMARY:Handmade Felt Food: Cherries
+LOCATION:Traverwood Branch of AADL\, 3333 Traverwood Dr\, Ann Arbor\, MI 4
+ 8105
+GEO:42.307952;-83.714805
+DESCRIPTION:Learn to make toy food with this beginner craft. Involves shar
+ p sewing needles\, so it suits older kids and adults.\n\nWhere: 3333 Trav
+ erwood Dr\, Ann Arbor\, MI 48105\nAges: High Schoolers\nCost: Free\nSignu
+ p: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor District Lib
+ rary\nDetails: https://annarborwithkids.com/events/handmade-felt-food-che
+ rries/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?
+ event=188df7597585764e\n\nDouble check the time with the organizer before
+  you go.
+URL:https://annarborwithkids.com/events/handmade-felt-food-cherries/
+END:VEVENT
+BEGIN:VEVENT
+UID:f4a26c002910db0b@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T230000Z
+DTEND:20260905T230000Z
+SUMMARY:Anything Goes\, Professional Youth Theatre of Michigan
+LOCATION:Riverside Arts Center\, Ypsilanti\, MI
+GEO:42.242199;-83.6127173
+DESCRIPTION:Anything Goes sets sail with the Professional Youth Theatre of
+  Michigan's young performers in this high-energy musical comedy aboard th
+ e S.S. American.\n\nWhere: Riverside Arts Center\, Ypsilanti\nDrive: abou
+ t 22 minutes from downtown Ann Arbor\nAges: Elementary\, Middle Schoolers
+ \, High Schoolers\nCost: $18\nSignup: Registration required\, book before
+  you go\nIndoors\nListed by: Ann Arbor with Kids\nDetails: https://annarb
+ orwithkids.com/events/hadestown-teen-edition-2026-09-04/\nFound on: https
+ ://shinabarger.github.io/kid-events-in-ann-arbor/?event=f4a26c002910db0b\
+ n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/hadestown-teen-edition-2026-09-04/
+END:VEVENT
+BEGIN:VEVENT
+UID:89b0af9ecae980de@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T120000Z
+DTEND:20260906T133000Z
+SUMMARY:Lillie parkrun
+LOCATION:Lillie Park\, Ann Arbor\, MI
+GEO:42.223922;-83.697273
+DESCRIPTION:A free\, family friendly weekly 5k. Walk\, jog\, run\, volunte
+ er\, or spectate. Meets at 8a from May through September.\n\nWhere: Lilli
+ e Park\, Ann Arbor\nDrive: about 16 minutes from downtown Ann Arbor\nAges
+ : Elementary\, Middle Schoolers\, High Schoolers\nCost: Free\nSignup: Dro
+ p in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann
+  Arbor with Kids\nDetails: https://annarborwithkids.com/events/lillie-par
+ krun-2026-09-05/\nFound on: https://shinabarger.github.io/kid-events-in-a
+ nn-arbor/?event=89b0af9ecae980de\n\nDouble check the time with the organi
+ zer before you go.
+URL:https://annarborwithkids.com/events/lillie-parkrun-2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+UID:fa7c4f734fc16e4c@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T140000Z
+DTEND:20260907T010000Z
+SUMMARY:Saline Fair
+LOCATION:Washtenaw Farm Council Fairgrounds\, 5055 Ann Arbor Saline Rd\, A
+ nn Arbor\, MI 48103
+GEO:42.212444;-83.794707
+DESCRIPTION:Heroes Day and Family Day. Military\, first responders\, and h
+ ealth care workers get in free. Rides open at 1p.\n\nWhere: 5055 Ann Arbo
+ r Saline Rd\, Ann Arbor\, MI 48103\nDrive: about 14 minutes from downtown
+  Ann Arbor\nAges: Babies\, Toddler\, Preschoolers\, Elementary\, High Sch
+ oolers\nCost: $10\nSignup: Drop in\, no signup needed\nOutdoors\, dress f
+ or the weather\nListed by: Ann Arbor with Kids\nDetails: https://annarbor
+ withkids.com/events/saline-fair-2026-09-05/\nFound on: https://shinabarge
+ r.github.io/kid-events-in-ann-arbor/?event=fa7c4f734fc16e4c\n\nDouble che
+ ck the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/saline-fair-2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+UID:fb9e1c932352503f@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T150000Z
+DTEND:20260906T160000Z
+SUMMARY:Grow Your Garden: Community Garden Plant Out
+LOCATION:Ypsilanti District Library - Michigan Ave Branch\, 5577 Whittaker
+  Rd\, Ypsilanti\, MI 48197
+GEO:42.240746;-83.61565
+DESCRIPTION:No matter your age or experience\, join YDL for the joy of gar
+ dening. Each month explores an aspect of gardening using the community ga
+ rden as a practice space.\n\nWhere: 5577 Whittaker Rd\, Ypsilanti\, MI 48
+ 197\nDrive: about 17 minutes from downtown Ann Arbor\nAges: All ages\nCos
+ t: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the wea
+ ther\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.c
+ om/events/grow-your-garden-community-garden-plant-out-2/\nFound on: https
+ ://shinabarger.github.io/kid-events-in-ann-arbor/?event=fb9e1c932352503f\
+ n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/grow-your-garden-community-garden-
+ plant-out-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a877758fe75a37d@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T180000Z
+DTEND:20260906T200000Z
+SUMMARY:Crafternoon: Sew a Pouch
+LOCATION:SCRAP Creative Reuse\, Ann Arbor\, MI
+GEO:42.252249;-83.669839
+DESCRIPTION:A self-guided\, themed crafting session using reuse materials.
+  Weekly themes vary.\n\nWhere: SCRAP Creative Reuse\, Ann Arbor\nDrive: a
+ bout 15 minutes from downtown Ann Arbor\nAges: Elementary\, Middle School
+ ers\, High Schoolers\nCost: $12\nSignup: Registration required\, book bef
+ ore you go\nIndoors\nListed by: Ann Arbor with Kids\nDetails: https://ann
+ arborwithkids.com/events/crafternoon-decoupage/\nFound on: https://shinab
+ arger.github.io/kid-events-in-ann-arbor/?event=1a877758fe75a37d\n\nDouble
+  check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/crafternoon-decoupage/
+END:VEVENT
+BEGIN:VEVENT
+UID:285354beaea9cf06@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T200000Z
+DTEND:20260906T213000Z
+SUMMARY:Author Event: The Side Questers with J.J. Kochmanski
+LOCATION:Traverwood Branch of AADL\, 3333 Traverwood Dr\, Ann Arbor\, MI 4
+ 8105
+GEO:42.307952;-83.714805
+DESCRIPTION:Local author J.J. Kochmanski reads from his debut science fict
+ ion novel\, an unconventional hero's journey following a burnt-out NPC ba
+ rtender.\n\nWhere: 3333 Traverwood Dr\, Ann Arbor\, MI 48105\nAges: High 
+ Schoolers\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nListe
+ d by: Ann Arbor District Library\nDetails: https://annarborwithkids.com/e
+ vents/author-event-the-side-questers-with-j-j-kochmanski/\nFound on: http
+ s://shinabarger.github.io/kid-events-in-ann-arbor/?event=285354beaea9cf06
+ \n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/author-event-the-side-questers-wit
+ h-j-j-kochmanski/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0205459ad9698a2@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T230000Z
+DTEND:20260906T230000Z
+SUMMARY:Anything Goes\, Professional Youth Theatre of Michigan
+LOCATION:Riverside Arts Center\, Ypsilanti\, MI
+GEO:42.242199;-83.6127173
+DESCRIPTION:Evening performance of the youth theatre production.\n\nWhere:
+  Riverside Arts Center\, Ypsilanti\nDrive: about 22 minutes from downtown
+  Ann Arbor\nAges: Elementary\, Middle Schoolers\, High Schoolers\nCost: $
+ 18\nSignup: Registration required\, book before you go\nIndoors\nListed b
+ y: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/hade
+ stown-teen-edition-2026-09-05/\nFound on: https://shinabarger.github.io/k
+ id-events-in-ann-arbor/?event=a0205459ad9698a2\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborwithkids.com/events/hadestown-teen-edition-2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+UID:81be967e51fc73ad@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260907T140000Z
+DTEND:20260908T010000Z
+SUMMARY:Saline Fair
+LOCATION:Washtenaw Farm Council Fairgrounds\, 5055 Ann Arbor Saline Rd\, A
+ nn Arbor\, MI 48103
+GEO:42.212444;-83.794707
+DESCRIPTION:Agriculture Day. Taste of Agriculture 11:30-1:30p\, rides open
+  at 1p\, car and tractor show 2-5p.\n\nWhere: 5055 Ann Arbor Saline Rd\, 
+ Ann Arbor\, MI 48103\nDrive: about 14 minutes from downtown Ann Arbor\nAg
+ es: All ages\nCost: $10\nSignup: Drop in\, no signup needed\nOutdoors\, d
+ ress for the weather\nListed by: Ann Arbor with Kids\nDetails: https://an
+ narborwithkids.com/events/saline-fair-2026-09-06/\nFound on: https://shin
+ abarger.github.io/kid-events-in-ann-arbor/?event=81be967e51fc73ad\n\nDoub
+ le check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/saline-fair-2026-09-06/
+END:VEVENT
+BEGIN:VEVENT
+UID:45c070d55288034e@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260907T160000Z
+DTEND:20260907T173000Z
+SUMMARY:Women in Engineering
+LOCATION:Malletts Creek Branch of AADL\, 3090 E Eisenhower Pkwy\, Ann Arbo
+ r\, MI 48108
+GEO:42.2436533;-83.7179922
+DESCRIPTION:NASA Solar System Ambassador Kailly Nocera brings three engine
+ ers to talk about their work and run hands-on activities.\n\nWhere: 3090 
+ E Eisenhower Pkwy\, Ann Arbor\, MI 48108\nAges: Grade 3-8\nCost: Free\nSi
+ gnup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor District 
+ Library\nDetails: https://annarborwithkids.com/events/women-in-engineerin
+ g/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?even
+ t=45c070d55288034e\n\nDouble check the time with the organizer before you
+  go.
+URL:https://annarborwithkids.com/events/women-in-engineering/
+END:VEVENT
+BEGIN:VEVENT
+UID:3110467fe09bb4ea@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260907T163000Z
+DTEND:20260907T180000Z
+SUMMARY:Guided Acrylic Painting with Katie Hammond
+LOCATION:Downtown Branch of AADL\, Ann Arbor\, MI
+GEO:42.278198;-83.745971
+DESCRIPTION:Paint along in this guided workshop with local artist Katie Ha
+ mmond. Acrylic on a 16 by 20 canvas\, inspired by tattoo and folk art.\n\
+ nWhere: Downtown Branch of AADL\, Ann Arbor\nAges: High Schoolers\nCost: 
+ Free\nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor D
+ istrict Library\nDetails: https://annarborwithkids.com/events/guided-acry
+ lic-painting-with-katie-hammond/\nFound on: https://shinabarger.github.io
+ /kid-events-in-ann-arbor/?event=3110467fe09bb4ea\n\nDouble check the time
+  with the organizer before you go.
+URL:https://annarborwithkids.com/events/guided-acrylic-painting-with-katie
+ -hammond/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a14948b2e68dc8e@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260907T170000Z
+DTEND:20260907T183000Z
+SUMMARY:Celebrating 10 Years of Westgate Branch
+LOCATION:Westgate Branch of AADL\, 2503 Jackson Ave\, Ann Arbor\, MI 48103
+GEO:42.2786067;-83.7827306
+DESCRIPTION:Westgate opened September 6\, 2016. Cookies\, buttons\, and co
+ mmemorative bookmarks.\n\nWhere: 2503 Jackson Ave\, Ann Arbor\, MI 48103\
+ nAges: All ages\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\
+ nListed by: Ann Arbor District Library\nDetails: https://annarborwithkids
+ .com/events/celebrating-10-years-of-westgate-branch/\nFound on: https://s
+ hinabarger.github.io/kid-events-in-ann-arbor/?event=7a14948b2e68dc8e\n\nD
+ ouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/celebrating-10-years-of-westgate-b
+ ranch/
+END:VEVENT
+BEGIN:VEVENT
+UID:e88dadbebe2e7ad4@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260907T200000Z
+DTEND:20260907T220000Z
+SUMMARY:Puzzle and Board Game Swap
+LOCATION:Downtown Branch of AADL\, Ann Arbor\, MI
+GEO:42.278198;-83.745971
+DESCRIPTION:Drop off old puzzles and games\, pick out new-to-you ones. You
+  do not need to bring anything to take something home.\n\nWhere: Downtown
+  Branch of AADL\, Ann Arbor\nAges: Elementary\, Middle Schoolers\, High S
+ choolers\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nListed
+  by: Ann Arbor District Library\nDetails: https://annarborwithkids.com/ev
+ ents/puzzle-and-board-game-swap-2/\nFound on: https://shinabarger.github.
+ io/kid-events-in-ann-arbor/?event=e88dadbebe2e7ad4\n\nDouble check the ti
+ me with the organizer before you go.
+URL:https://annarborwithkids.com/events/puzzle-and-board-game-swap-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:61fdbd2335543447@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260908T140000Z
+DTEND:20260908T220000Z
+SUMMARY:Labor Day at Rolling Hills Water Park
+LOCATION:Rolling Hills County Park\, 7660 Stony Creek Rd\, Ypsilanti\, MI 
+ 48197
+GEO:42.1737;-83.6247
+DESCRIPTION:Last day of the water park season. Slides\, lazy river\, and t
+ he toddler splash area. Check the county site before driving out.\n\nWher
+ e: 7660 Stony Creek Rd\, Ypsilanti\, MI 48197\nDrive: about 20 minutes fr
+ om downtown Ann Arbor\nAges: All ages\nCost: $10\nSignup: Drop in\, no si
+ gnup needed\nOutdoors\, dress for the weather\nListed by: Washtenaw Count
+ y Parks\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/
+ ?event=61fdbd2335543447\n\nDouble check the time with the organizer befor
+ e you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:b282f3310ba9a226@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260910T213000Z
+DTEND:20260910T233000Z
+SUMMARY:Open Lab: 3D Printers and Laser Engraver
+LOCATION:Downtown Branch of AADL\, Ann Arbor\, MI
+GEO:42.278198;-83.745971
+DESCRIPTION:Drop in to the Secret Lab and use the 3D printers and laser en
+ graver with staff on hand.\n\nWhere: Downtown Branch of AADL\, Ann Arbor\
+ nAges: Grade 6-12\nCost: Free\nSignup: Drop in\, no signup needed\nIndoor
+ s\nListed by: Ann Arbor District Library\nFound on: https://shinabarger.g
+ ithub.io/kid-events-in-ann-arbor/?event=b282f3310ba9a226\n\nDouble check 
+ the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:fecf2226a6726d18@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260911T140000Z
+DTEND:20260911T180000Z
+SUMMARY:Nature Lab: Fossils Up Close
+LOCATION:U-M Museum of Natural History\, 1105 N University Ave\, Ann Arbor
+ \, MI 48109
+GEO:42.2786;-83.7345
+DESCRIPTION:Kids age 6 and up get into the museum's labs to handle real sp
+ ecimens with real tools. Drop in any time in the window.\n\nWhere: 1105 N
+  University Ave\, Ann Arbor\, MI 48109\nAges: Age 6 & up\nCost: Free\nSig
+ nup: Drop in\, no signup needed\nIndoors\nListed by: U-M Happening\nFound
+  on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=fecf222
+ 6a6726d18\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee74f624ff25c350@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260911T150000Z
+DTEND:20260911T200000Z
+SUMMARY:Monarch Migration Festival
+LOCATION:Leslie Science & Nature Center\, 1831 Traver Rd\, Ann Arbor\, MI 
+ 48105
+GEO:42.300787;-83.730284
+DESCRIPTION:Butterfly tagging\, live raptors\, crafts\, and a food truck. 
+ The tagging demo runs on the hour and fills up fast.\n\nWhere: 1831 Trave
+ r Rd\, Ann Arbor\, MI 48105\nAges: All ages\nCost: $12\nSignup: Drop in\,
+  no signup needed\nOutdoors\, dress for the weather\nListed by: Hands-On 
+ Museum & Leslie Science\nFound on: https://shinabarger.github.io/kid-even
+ ts-in-ann-arbor/?event=ee74f624ff25c350\n\nDouble check the time with the
+  organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:f27c6a5204b4dcdf@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260912T150000Z
+DTEND:20260912T150000Z
+SUMMARY:Tales from Detroit
+LOCATION:Ypsi Freighthouse\, Ypsilanti\, MI
+DESCRIPTION:Flying Cardboard Theater performs a puppet play celebrating th
+ e hidden wonders of Detroit\, then leads a workshop where kids make and u
+ se a rod puppet.\n\nWhere: Ypsi Freighthouse\, Ypsilanti\nAges: kids ages
+  5-18\nCost: $5\nSignup: Registration required\, book before you go\nIndo
+ ors\nListed by: Ann Arbor Observer Kids Calendar\nFound on: https://shina
+ barger.github.io/kid-events-in-ann-arbor/?event=f27c6a5204b4dcdf\n\nDoubl
+ e check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:decbe38e78ce33f4@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260912T223000Z
+DTEND:20260913T000000Z
+SUMMARY:Family Campfire Night
+LOCATION:Hudson Mills Metropark\, 8801 N Territorial Rd\, Dexter\, MI 4813
+ 0
+GEO:42.3922;-83.9109
+DESCRIPTION:Marshmallows\, a short night hike\, and a naturalist who knows
+  every owl call in the park. $5 per vehicle entry.\n\nWhere: 8801 N Terri
+ torial Rd\, Dexter\, MI 48130\nDrive: about 22 minutes from downtown Ann 
+ Arbor\nAges: All ages\nCost: $5\nSignup: Registration required\, book bef
+ ore you go\nOutdoors\, dress for the weather\nListed by: Huron-Clinton Me
+ troparks\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor
+ /?event=decbe38e78ce33f4\n\nDouble check the time with the organizer befo
+ re you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:18775fc718cde8af@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260914T160000Z
+DTEND:20260914T210000Z
+SUMMARY:Splash Pad Open Swim
+LOCATION:Rolling Hills County Park\, 7660 Stony Creek Rd\, Ypsilanti\, MI 
+ 48197
+GEO:42.1737;-83.6247
+DESCRIPTION:The water park stays open on warm September weekends. Check th
+ e county site before you drive out\, they close it when it gets cold.\n\n
+ Where: 7660 Stony Creek Rd\, Ypsilanti\, MI 48197\nDrive: about 20 minute
+ s from downtown Ann Arbor\nAges: All ages\nCost: $10\nSignup: Drop in\, n
+ o signup needed\nOutdoors\, dress for the weather\nListed by: Washtenaw C
+ ounty Parks\nFound on: https://shinabarger.github.io/kid-events-in-ann-ar
+ bor/?event=18775fc718cde8af\n\nDouble check the time with the organizer b
+ efore you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:45e32a28758208cf@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260914T190000Z
+DTEND:20260914T203000Z
+SUMMARY:Crochet for Kids
+LOCATION:Malletts Creek Branch of AADL\, 3090 E Eisenhower Pkwy\, Ann Arbo
+ r\, MI 48108
+GEO:42.2436533;-83.7179922
+DESCRIPTION:Learn crochet basics.\n\nWhere: 3090 E Eisenhower Pkwy\, Ann A
+ rbor\, MI 48108\nAges: Grade 3-8\nCost: Free\nSignup: Drop in\, no signup
+  needed\nIndoors\nListed by: Ann Arbor Observer Kids Calendar\nFound on: 
+ https://shinabarger.github.io/kid-events-in-ann-arbor/?event=45e32a287582
+ 08cf\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e994e89b45f6476@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260915T200000Z
+DTEND:20260915T213000Z
+SUMMARY:Beginner Chess Club
+LOCATION:Malletts Creek Branch of AADL\, 3090 E Eisenhower Pkwy\, Ann Arbo
+ r\, MI 48108
+GEO:42.2436533;-83.7179922
+DESCRIPTION:Learn the pieces\, play a few games. No experience needed\, bo
+ ards provided.\n\nWhere: 3090 E Eisenhower Pkwy\, Ann Arbor\, MI 48108\nA
+ ges: Grade 2-8\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\n
+ Listed by: Ann Arbor District Library\nFound on: https://shinabarger.gith
+ ub.io/kid-events-in-ann-arbor/?event=9e994e89b45f6476\n\nDouble check the
+  time with the organizer before you go.
+END:VEVENT
+END:VCALENDAR

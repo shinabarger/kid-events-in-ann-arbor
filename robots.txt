@@ -1,0 +1,11 @@
+# Kid Events in Ann Arbor
+#
+# Crawl it. That is the point. The one thing this file must never quietly
+# become is "Disallow: /", which is the classic way a site ships and then sits
+# invisible for three months. tests/test_seo.py fails the build if that shows
+# up here.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://shinabarger.github.io/kid-events-in-ann-arbor/sitemap.xml

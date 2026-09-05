@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ann Arbor Kids Events: Storytimes, Playgroups, Free Things to Do</title>
+
+<!-- This is the search result copy, not a label. It has to earn the click
+     against a dozen listing sites, so it says what you get and what it costs. -->
+<meta name="description" content="Every kids event in and around Ann Arbor, updated daily and free. Filter by your child's age, how far you will drive, indoor or outdoor, and whether it needs signup. Storytimes, playgroups, museums, festivals. Sync it to Google or Apple Calendar.">
+
+<link rel="canonical" href="https://shinabarger.github.io/kid-events-in-ann-arbor/">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#14563a">
+
+<meta property="og:site_name" content="Kid Events in Ann Arbor">
+<meta property="og:title" content="Kid Events in Ann Arbor">
+<meta property="og:description" content="Storytimes, playgroups, museums and festivals for Ann Arbor kids, all on one page you can filter by age and drive time. Updated every morning.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://shinabarger.github.io/kid-events-in-ann-arbor/">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://shinabarger.github.io/kid-events-in-ann-arbor/assets/og-cover.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Kid Events in Ann Arbor. Storytimes, playgroups and festivals, all on one page you can filter.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Kid Events in Ann Arbor">
+<meta name="twitter:description" content="Storytimes, playgroups, museums and festivals for Ann Arbor kids, all on one page you can filter by age and drive time.">
+<meta name="twitter:image" content="https://shinabarger.github.io/kid-events-in-ann-arbor/assets/og-cover.png">
+<meta name="twitter:image:alt" content="Kid Events in Ann Arbor">
+
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/favicon-16.png" sizes="16x16" type="image/png">
+<link rel="alternate icon" href="assets/favicon.ico" sizes="48x48">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+
+<link rel="alternate" type="text/calendar" title="Kid Events in Ann Arbor, all events" href="feeds/all.ics">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://shinabarger.github.io/kid-events-in-ann-arbor/#website",
+      "url": "https://shinabarger.github.io/kid-events-in-ann-arbor/",
+      "name": "Kid Events in Ann Arbor",
+      "description": "A daily updated calendar of children's events in and around Ann Arbor, Michigan.",
+      "inLanguage": "en-US",
+      "isAccessibleForFree": true,
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://shinabarger.github.io/kid-events-in-ann-arbor/?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://shinabarger.github.io/kid-events-in-ann-arbor/#page",
+      "url": "https://shinabarger.github.io/kid-events-in-ann-arbor/",
+      "name": "Kid Events in Ann Arbor",
+      "isPartOf": { "@id": "https://shinabarger.github.io/kid-events-in-ann-arbor/#website" },
+      "about": {
+        "@type": "Place",
+        "name": "Ann Arbor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Ann Arbor",
+          "addressRegion": "MI",
+          "addressCountry": "US"
+        }
+      }
+    }
+  ]
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700&family=Karla:ital,wght@0,400;0,500;0,700;1,400&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#results">Skip to the events</a>
+
+<header class="masthead">
+  <div class="wrap masthead-inner">
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true" focusable="false">
+        <path d="M20 3 L33 15 v20 a2 2 0 0 1-2 2 H9 a2 2 0 0 1-2-2 V15 Z" fill="#62b9d8"/>
+        <path d="M20 10c4 4 6 7 6 10a6 6 0 0 1-12 0c0-3 2-6 6-10Z" fill="#7fd8a8"/>
+        <circle cx="20" cy="30" r="2.4" fill="#ffffff"/>
+      </svg>
+      <div>
+        <h1>Kid Events in Ann Arbor</h1>
+        <p class="tagline">Storytimes, playgroups, festivals, and everything else worth leaving the house for.</p>
+      </div>
+    </div>
+    <div class="masthead-actions">
+      <button type="button" class="btn btn-primary" id="subscribe-open">
+        <svg viewBox="0 0 20 20" aria-hidden="true" class="icon"><path d="M4 3h12a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Zm-1 5h14M7 1v4m6-4v4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        Sync to my calendar
+      </button>
+      <button type="button" class="btn btn-ghost" id="theme-toggle" aria-pressed="false">
+        <span class="theme-label">Dark</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <form class="ask" id="ask-form" role="search" aria-label="Search events in plain language">
+    <label class="ask-label" for="ask">What are you looking for?</label>
+    <div class="ask-row">
+      <svg class="ask-icon" viewBox="0 0 20 20" aria-hidden="true"><circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m13.5 13.5 4 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <input type="search" id="ask" name="ask" enterkeyhint="search" autocomplete="off"
+             placeholder="events for my 1.5 year old tomorrow afternoon">
+      <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+  </form>
+
+  <form class="filters" id="filters" aria-label="Filter events">
+
+    <div class="field">
+      <span class="field-label" id="lbl-age">Age</span>
+      <div class="multi" data-filter="age">
+        <button type="button" class="multi-btn" id="btn-age"
+                aria-expanded="false" aria-controls="panel-age"
+                aria-labelledby="lbl-age val-age">
+          <span class="multi-value" id="val-age">All ages</span>
+          <svg class="caret" viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5 6 6.5 11 1.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="multi-panel" id="panel-age" role="group" aria-labelledby="lbl-age" hidden></div>
+      </div>
+    </div>
+
+    <div class="field">
+      <span class="field-label" id="lbl-where">Location</span>
+      <div class="multi" data-filter="where">
+        <button type="button" class="multi-btn" id="btn-where"
+                aria-expanded="false" aria-controls="panel-where"
+                aria-labelledby="lbl-where val-where">
+          <span class="multi-value" id="val-where">Anywhere</span>
+          <svg class="caret" viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5 6 6.5 11 1.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="multi-panel" id="panel-where" role="group" aria-labelledby="lbl-where" hidden></div>
+      </div>
+    </div>
+
+    <div class="field">
+      <span class="field-label" id="lbl-setting">Indoor or outdoor</span>
+      <div class="multi" data-filter="setting">
+        <button type="button" class="multi-btn" id="btn-setting"
+                aria-expanded="false" aria-controls="panel-setting"
+                aria-labelledby="lbl-setting val-setting">
+          <span class="multi-value" id="val-setting">Either</span>
+          <svg class="caret" viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5 6 6.5 11 1.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="multi-panel" id="panel-setting" role="group" aria-labelledby="lbl-setting" hidden></div>
+      </div>
+    </div>
+
+    <div class="field">
+      <span class="field-label" id="lbl-cost">Cost</span>
+      <div class="multi" data-filter="cost">
+        <button type="button" class="multi-btn" id="btn-cost"
+                aria-expanded="false" aria-controls="panel-cost"
+                aria-labelledby="lbl-cost val-cost">
+          <span class="multi-value" id="val-cost">Any</span>
+          <svg class="caret" viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5 6 6.5 11 1.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="multi-panel" id="panel-cost" role="group" aria-labelledby="lbl-cost" hidden></div>
+      </div>
+    </div>
+
+    <div class="field">
+      <span class="field-label" id="lbl-signup">Signup</span>
+      <div class="multi" data-filter="signup">
+        <button type="button" class="multi-btn" id="btn-signup"
+                aria-expanded="false" aria-controls="panel-signup"
+                aria-labelledby="lbl-signup val-signup">
+          <span class="multi-value" id="val-signup">Any</span>
+          <svg class="caret" viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5 6 6.5 11 1.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="multi-panel" id="panel-signup" role="group" aria-labelledby="lbl-signup" hidden></div>
+      </div>
+    </div>
+
+    <div class="field">
+      <span class="field-label" id="lbl-repeats">Repeats</span>
+      <div class="multi" data-filter="repeats">
+        <button type="button" class="multi-btn" id="btn-repeats"
+                aria-expanded="false" aria-controls="panel-repeats"
+                aria-labelledby="lbl-repeats val-repeats">
+          <span class="multi-value" id="val-repeats">Show all-day repeats</span>
+          <svg class="caret" viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5 6 6.5 11 1.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="multi-panel" id="panel-repeats" role="group" aria-labelledby="lbl-repeats" hidden></div>
+      </div>
+    </div>
+
+    <fieldset class="field field-when">
+      <legend class="field-label">When</legend>
+      <div class="chips">
+        <label class="chip"><input type="radio" name="when" value="next2" checked><span>Today &amp; tomorrow</span></label>
+        <label class="chip"><input type="radio" name="when" value="today"><span>Today</span></label>
+        <label class="chip"><input type="radio" name="when" value="tomorrow"><span>Tomorrow</span></label>
+        <label class="chip"><input type="radio" name="when" value="weekend"><span>This weekend</span></label>
+        <label class="chip"><input type="radio" name="when" value="week"><span>Next 7 days</span></label>
+        <label class="chip"><input type="radio" name="when" value="month"><span>Next 30 days</span></label>
+        <label class="chip"><input type="radio" name="when" value="all"><span>Everything</span></label>
+      </div>
+    </fieldset>
+
+    <div class="filters-footer">
+      <p class="count" id="count" role="status" aria-live="polite"></p>
+      <div class="view-switch">
+        <div class="seg" role="group" aria-label="Choose a view">
+          <button type="button" class="btn btn-ghost is-active" data-view="list" aria-pressed="true">List</button>
+          <button type="button" class="btn btn-ghost" data-view="month" aria-pressed="false">Month</button>
+        </div>
+        <button type="button" class="btn btn-ghost" id="undo" disabled>Undo</button>
+        <button type="button" class="btn btn-ghost" id="reset">Show everything</button>
+      </div>
+    </div>
+  </form>
+
+  <div class="active-bar" id="active-bar" role="status" aria-live="polite"></div>
+
+  <section id="results" tabindex="-1" aria-label="Events">
+    <div id="list-view"></div>
+    <div id="month-view" hidden></div>
+  </section>
+
+  <div class="empty" id="empty" hidden>
+    <p id="empty-text">Nothing matches those filters.</p>
+    <div class="empty-actions">
+      <button type="button" class="btn btn-ghost" id="empty-undo">Undo the last change</button>
+      <button type="button" class="btn btn-primary" id="empty-reset">Show everything</button>
+    </div>
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p id="build-info"></p>
+    <p class="sources" id="source-list"></p>
+    <p>
+      Missing something? <a href="https://github.com/shinabarger/kid-events-in-ann-arbor/issues/new?template=add-event.yml" rel="noopener">Add an event</a>
+      or <a href="https://github.com/shinabarger/kid-events-in-ann-arbor" rel="noopener">look at the code</a>.
+      Always double check times against the organizer before you load the car.
+    </p>
+    <p class="credit">
+      Every listing here belongs to whoever published it, and every event links
+      back to their page. This is a signpost, not a copy: times and places are
+      facts, the write-ups are theirs, and nothing is reprinted in full. Sources
+      are checked once a day, one request at a time, and their robots.txt is
+      obeyed automatically.
+    </p>
+    <p class="credit">
+      Run one of these events and would rather not be listed?
+      <a href="https://github.com/shinabarger/kid-events-in-ann-arbor/issues/new?title=Please%20remove%20our%20listings&amp;body=Which%20site%20or%20venue%20should%20come%20off%2C%20and%20anything%20else%20I%20should%20know." rel="noopener">Say so here</a>
+      and you are off by the next morning. No explanation needed.
+    </p>
+  </div>
+</footer>
+
+<dialog id="subscribe" aria-labelledby="subscribe-title">
+  <div class="dialog-head">
+    <h2 id="subscribe-title">Sync to my calendar</h2>
+    <button type="button" class="icon-btn" data-close-dialog aria-label="Close">&times;</button>
+  </div>
+  <p class="dialog-note">
+    Pick as many as you like. Each one becomes a calendar in your app that
+    refreshes itself once a day. A 14 month old, for instance, wants Babies and
+    Toddlers both.
+  </p>
+
+  <fieldset class="feed-group">
+    <legend>Ages</legend>
+    <div class="feed-options" id="feed-ages"></div>
+  </fieldset>
+
+  <fieldset class="feed-group">
+    <legend>Or a whole slice</legend>
+    <div class="feed-options" id="feed-other"></div>
+  </fieldset>
+
+  <div id="feed-picked" role="status" aria-live="polite"></div>
+
+  <p class="dialog-hint">
+    On an iPhone or a Mac use the Apple button. Anywhere else Google works.
+    Adding two or three is normal, and your calendar app lets you colour them
+    separately so you can tell them apart.
+  </p>
+</dialog>
+
+
+<template id="event-card">
+  <article class="card">
+    <div class="card-time">
+      <span class="card-day"></span>
+      <span class="card-hour"></span>
+      <span class="card-until"></span>
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">
+        <button type="button" class="card-open" aria-expanded="false">
+          <span class="card-name"></span>
+          <svg class="card-chevron" viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5 6 6.5 11 1.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </h3>
+      <p class="card-where"></p>
+      <p class="card-desc"></p>
+      <ul class="badges"></ul>
+      <div class="card-more" hidden>
+        <dl class="detail-list"></dl>
+      </div>
+      <div class="card-actions">
+        <a class="btn btn-small btn-secondary card-google" target="_blank" rel="noopener">Add to Google Calendar</a>
+        <button type="button" class="btn btn-small btn-ghost card-apple">Add to Apple Calendar</button>
+        <button type="button" class="btn btn-small btn-ghost card-copy">Copy link</button>
+        <a class="btn btn-small btn-ghost card-source" target="_blank" rel="noopener">View on Website</a>
+      </div>
+    </div>
+  </article>
+</template>
+
+<script src="assets/nlq.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

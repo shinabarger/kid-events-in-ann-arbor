@@ -1,0 +1,73 @@
+# Series that publish their schedule in words rather than as a feed.
+#
+# Some of the best small-group programming in town lives on a page that was
+# designed rather than generated: a picture of a month with event names laid
+# out on it, no dates attached to the text, no feed, one link on the page.
+# Scraping that breaks the first time somebody nudges the layout, and even
+# working it cannot reliably tell you which day a label belongs to.
+#
+# Those pages nearly always state the rule in plain English somewhere, because
+# that is what a person needs to know. So we take the rule.
+#
+# rule:  "every wednesday" | "2nd saturday" | "1st & 3rd saturday" | "last friday"
+# time:  "09:00-11:00", or "09:00" if there is no end time
+# until: optional last date, for a series with a known end
+#
+# Anything not set on an entry falls back to the series. Every entry links
+# back to the page the schedule came from, because a rule can go stale and
+# the organizer's page is always right.
+#
+# checked: the day a human last read the source page and confirmed this. If
+# that date is old, treat the times as a hint and click through.
+
+series:
+  - key: mamas_network_repeat
+    name: The Mamas Network (repeating)
+    # Their events page is scraped daily and is the truth for whatever month
+    # they have published. These rules only project past the end of it, so
+    # the calendar is not empty in November when they have only posted
+    # September. defer_to means: drop any of these that fall inside the range
+    # the scraper already covered.
+    defer_to: mamas_network
+    url: https://themamasnetwork.org/events
+    checked: 2026-09-05
+    venue: Little Break Cowork
+    address: 3909 Research Park Dr Suite 300, Ann Arbor, MI 48108
+    city: Ann Arbor
+    lat: 42.2308
+    lon: -83.7135
+    setting: indoor
+    cost: free
+    registration: false
+    # A 501(c)(3) whose calendar is mostly adult support programming: single
+    # parent groups, a cancer and parenthood group, a sober curious group,
+    # moms nights. None of that belongs on a kids calendar and none of it is
+    # here. These three are the parent-and-child playgroups, which is the part
+    # a parent of a toddler is looking for.
+    events:
+      - title: DADaS & Littles
+        rule: 1st & 3rd saturday
+        time: "09:00-11:00"
+        ages_text: Babies and toddlers with a grown-up
+        categories: [Playgroup]
+        description: >-
+          Saturday morning playgroup for dads and their little ones. Drop in,
+          free, coffee going.
+
+      - title: Mamas & Littles
+        rule: 2nd saturday
+        time: "09:00-11:00"
+        ages_text: Babies and toddlers with a grown-up
+        categories: [Playgroup]
+        description: >-
+          Saturday morning playgroup hosted by a social worker. Bring the kids,
+          talk to other parents, no need to sign up.
+
+      - title: Expecting & New Mamas & Babies
+        rule: 4th saturday
+        time: "09:00-11:00"
+        ages_text: Newborns and babies, and anyone expecting
+        categories: [Playgroup]
+        description: >-
+          For anyone pregnant or in the first months with a new baby. Bring the
+          baby, or come before they arrive.

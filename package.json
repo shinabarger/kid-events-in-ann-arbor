@@ -1,0 +1,12 @@
+{
+  "name": "kid-events-in-ann-arbor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Front end tests for the Kid Events in Ann Arbor site",
+  "scripts": {
+    "test": "node --test tests/nlq.test.mjs tests/frontend.test.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^26.0.0"
+  }
+}

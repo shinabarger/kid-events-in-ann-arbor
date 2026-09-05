@@ -1,0 +1,21 @@
+{
+ "149497-21906524": {
+   "datetime_start":"20260910T100000","datetime_end":"20260910T140000","has_end_time":1,
+   "date_start":"2026-09-10","date_end":"2026-09-10","time_start":"10:00:00","time_end":"14:00:00",
+   "time_zone":"America/Detroit",
+   "event_title":"Nature Lab: Fossils Up Close","combined_title":"Nature Lab: Fossils Up Close",
+   "event_type":"Exhibition","description":"All ages 6 and up are invited into the museum's labs to use scientific tools and museum specimens.",
+   "permalink":"http://events.umich.edu/event/149497","building_name":"Biological Sciences Building","room":"Museum of Natural History",
+   "location_name":"U-M Museum of Natural History","cost":"Free","tags":["Family","Kids"],
+   "sponsors":["Museum of Natural History"],"image_url":"https://example.org/fossils.jpg"
+ },
+ "150339-21909612": {
+   "datetime_start":"20260910T190000","datetime_end":"20260910T210000","has_end_time":1,
+   "date_start":"2026-09-10","date_end":"2026-09-10","time_start":"19:00:00","time_end":"21:00:00",
+   "time_zone":"America/Detroit",
+   "event_title":"Graduate Wine Tasting Mixer","combined_title":"Graduate Wine Tasting Mixer",
+   "event_type":"Social","description":"Adults only social hour for graduate students. 21+ with ID.",
+   "permalink":"http://events.umich.edu/event/150339","building_name":"Rackham Building","room":"Assembly Hall",
+   "location_name":"Rackham","cost":"$15","tags":["Social"],"sponsors":["Rackham Graduate School"],"image_url":""
+ }
+}

@@ -1,0 +1,440 @@
+# Venue lookup. Anything matched here gets exact coordinates, a city, and a
+# drive time from downtown Ann Arbor (Main & Liberty). Everything else falls
+# back to the estimate in scraper/geo.py.
+#
+# match: list of lowercase substrings. First venue with a hit wins, so put the
+# more specific names above the general ones.
+#
+# drive_minutes: typical mid-day drive, not rush hour. Used for the
+# "within about 29 minutes" filter.
+
+origin:
+  name: Downtown Ann Arbor
+  lat: 42.2800
+  lon: -83.7480
+
+venues:
+  - name: Little Break Cowork
+    match:
+      - little break
+      - 3909 research park
+    city: Ann Arbor
+    address: 3909 Research Park Dr Suite 300, Ann Arbor, MI 48108
+    lat: 42.2308
+    lon: -83.7135
+    drive_minutes: 11
+    setting: indoor
+    # Route 6 runs down Ellsworth to the Research Park office blocks.
+    bus: true
+
+  # --- AADL branches -------------------------------------------------------
+  - name: AADL Downtown Library
+    match: ["downtown library", "aadl downtown"]
+    city: Ann Arbor
+    address: 343 S Fifth Ave, Ann Arbor, MI 48104
+    lat: 42.2792
+    lon: -83.7462
+    drive_minutes: 3
+    setting: indoor
+
+  - name: AADL Malletts Creek Branch
+    match: ["malletts creek"]
+    city: Ann Arbor
+    address: 3090 E Eisenhower Pkwy, Ann Arbor, MI 48108
+    lat: 42.2436
+    lon: -83.7156
+    drive_minutes: 9
+    setting: indoor
+
+  - name: AADL Pittsfield Branch
+    match: ["pittsfield branch"]
+    city: Ann Arbor
+    address: 2359 Oak Valley Dr, Ann Arbor, MI 48103
+    lat: 42.2451
+    lon: -83.7877
+    drive_minutes: 11
+    setting: indoor
+
+  - name: AADL Traverwood Branch
+    match: ["traverwood"]
+    city: Ann Arbor
+    address: 3333 Traverwood Dr, Ann Arbor, MI 48105
+    lat: 42.3095
+    lon: -83.7086
+    drive_minutes: 11
+    setting: indoor
+
+  - name: AADL Westgate Branch
+    match: ["westgate"]
+    city: Ann Arbor
+    address: 2503 Jackson Ave, Ann Arbor, MI 48103
+    lat: 42.2833
+    lon: -83.7842
+    drive_minutes: 8
+    setting: indoor
+
+  # --- Museums and nature --------------------------------------------------
+  - name: Ann Arbor Hands-On Museum
+    match: ["hands-on museum", "hands on museum", "220 e ann"]
+    city: Ann Arbor
+    address: 220 E Ann St, Ann Arbor, MI 48104
+    lat: 42.2825
+    lon: -83.7466
+    drive_minutes: 4
+    setting: indoor
+
+  - name: Leslie Science & Nature Center
+    match: ["leslie science", "leslie nature", "1831 traver"]
+    city: Ann Arbor
+    address: 1831 Traver Rd, Ann Arbor, MI 48105
+    lat: 42.3041
+    lon: -83.7203
+    drive_minutes: 8
+    setting: outdoor
+
+  - name: U-M Museum of Natural History
+    match: ["museum of natural history", "ummnh", "biological sciences building"]
+    city: Ann Arbor
+    address: 1105 N University Ave, Ann Arbor, MI 48109
+    lat: 42.2786
+    lon: -83.7345
+    drive_minutes: 6
+    setting: indoor
+
+  - name: U-M Museum of Art
+    match: ["museum of art", "umma"]
+    city: Ann Arbor
+    address: 525 S State St, Ann Arbor, MI 48109
+    lat: 42.2749
+    lon: -83.7386
+    drive_minutes: 6
+    setting: indoor
+
+  - name: Matthaei Botanical Gardens
+    match: ["matthaei", "botanical gardens"]
+    city: Ann Arbor
+    address: 1800 N Dixboro Rd, Ann Arbor, MI 48105
+    lat: 42.2977
+    lon: -83.6606
+    drive_minutes: 15
+    setting: outdoor
+
+  - name: Nichols Arboretum
+    match: ["nichols arboretum", "the arb"]
+    city: Ann Arbor
+    address: 1610 Washington Heights, Ann Arbor, MI 48104
+    lat: 42.2799
+    lon: -83.7231
+    drive_minutes: 8
+    setting: outdoor
+
+  - name: Yankee Air Museum
+    match: ["yankee air museum"]
+    city: Belleville
+    address: 47884 D St, Belleville, MI 48111
+    lat: 42.2379
+    lon: -83.5316
+    drive_minutes: 22
+    setting: indoor
+
+  # --- Ann Arbor parks and city venues ------------------------------------
+  - name: Gallup Park
+    match: ["gallup park"]
+    city: Ann Arbor
+    address: 3000 Fuller Rd, Ann Arbor, MI 48105
+    lat: 42.2799
+    lon: -83.6970
+    drive_minutes: 10
+    setting: outdoor
+
+  - name: Argo Park & Cascades
+    match: ["argo park", "argo cascades", "argo canoe"]
+    city: Ann Arbor
+    address: 1055 Longshore Dr, Ann Arbor, MI 48105
+    lat: 42.2932
+    lon: -83.7373
+    drive_minutes: 6
+    setting: outdoor
+
+  - name: Kerrytown / Ann Arbor Farmers Market
+    match: ["kerrytown", "farmers market", "ann arbor farmers"]
+    city: Ann Arbor
+    address: 315 Detroit St, Ann Arbor, MI 48104
+    lat: 42.2852
+    lon: -83.7442
+    drive_minutes: 4
+    setting: outdoor
+
+  - name: Veterans Memorial Park
+    match: ["veterans memorial park", "vets park", "veterans park"]
+    city: Ann Arbor
+    address: 2150 Jackson Ave, Ann Arbor, MI 48103
+    lat: 42.2853
+    lon: -83.7811
+    drive_minutes: 8
+    setting: outdoor
+
+  - name: Buhr Park
+    match: ["buhr park"]
+    city: Ann Arbor
+    address: 2751 Packard St, Ann Arbor, MI 48108
+    lat: 42.2529
+    lon: -83.7178
+    drive_minutes: 9
+    setting: outdoor
+
+  - name: Rutherford Pool
+    match: ["rutherford pool"]
+    city: Ann Arbor
+    address: 2800 Stone School Rd, Ann Arbor, MI 48108
+    lat: 42.2494
+    lon: -83.7127
+    drive_minutes: 10
+    setting: outdoor
+
+  - name: Fuller Park Pool
+    match: ["fuller pool", "fuller park"]
+    city: Ann Arbor
+    address: 1519 Fuller Rd, Ann Arbor, MI 48105
+    lat: 42.2884
+    lon: -83.7215
+    drive_minutes: 7
+    setting: outdoor
+
+  - name: Ann Arbor Art Center
+    match: ["art center", "a2ac"]
+    city: Ann Arbor
+    address: 117 W Liberty St, Ann Arbor, MI 48104
+    lat: 42.2799
+    lon: -83.7498
+    drive_minutes: 3
+    setting: indoor
+
+  - name: Michigan Theater
+    match: ["michigan theater", "state theatre", "state theater"]
+    city: Ann Arbor
+    address: 603 E Liberty St, Ann Arbor, MI 48104
+    lat: 42.2797
+    lon: -83.7409
+    drive_minutes: 4
+    setting: indoor
+
+  - name: Ann Arbor YMCA
+    match: ["ann arbor ymca", "a2 ymca"]
+    city: Ann Arbor
+    address: 400 W Washington St, Ann Arbor, MI 48103
+    lat: 42.2812
+    lon: -83.7534
+    drive_minutes: 4
+    setting: indoor
+
+  - name: Rec & Ed Balas Building
+    match: ["balas", "1515 s seventh", "rec & ed", "rec and ed"]
+    city: Ann Arbor
+    address: 1515 S Seventh St, Ann Arbor, MI 48103
+    lat: 42.2643
+    lon: -83.7638
+    drive_minutes: 7
+    setting: indoor
+
+  # --- Washtenaw County parks ---------------------------------------------
+  - name: Rolling Hills County Park
+    match: ["rolling hills"]
+    city: Ypsilanti
+    address: 7660 Stony Creek Rd, Ypsilanti, MI 48197
+    lat: 42.1737
+    lon: -83.6247
+    drive_minutes: 20
+    setting: outdoor
+
+  - name: Independence Lake County Park
+    match: ["independence lake"]
+    city: Whitmore Lake
+    address: 3200 Jennings Rd, Whitmore Lake, MI 48189
+    lat: 42.3846
+    lon: -83.8355
+    drive_minutes: 20
+    setting: outdoor
+
+  - name: County Farm Park
+    match: ["county farm park"]
+    city: Ann Arbor
+    address: 2230 Platt Rd, Ann Arbor, MI 48104
+    lat: 42.2646
+    lon: -83.7113
+    drive_minutes: 9
+    setting: outdoor
+
+  # --- Metroparks ----------------------------------------------------------
+  - name: Hudson Mills Metropark
+    match: ["hudson mills"]
+    city: Dexter
+    address: 8801 N Territorial Rd, Dexter, MI 48130
+    lat: 42.3922
+    lon: -83.9109
+    drive_minutes: 22
+    setting: outdoor
+
+  - name: Dexter-Huron Metropark
+    match: ["dexter-huron", "dexter huron"]
+    city: Dexter
+    address: 6535 Huron River Dr, Dexter, MI 48130
+    lat: 42.3339
+    lon: -83.8613
+    drive_minutes: 15
+    setting: outdoor
+
+  - name: Delhi Metropark
+    match: ["delhi metropark", "delhi park"]
+    city: Ann Arbor
+    address: 4901 E Delhi Rd, Ann Arbor, MI 48103
+    lat: 42.3234
+    lon: -83.8106
+    drive_minutes: 13
+    setting: outdoor
+
+  - name: Kensington Metropark
+    match: ["kensington"]
+    city: Milford
+    address: 4570 Huron River Pkwy, Milford, MI 48380
+    lat: 42.5253
+    lon: -83.6440
+    drive_minutes: 35
+    setting: outdoor
+
+  - name: Lower Huron Metropark
+    match: ["lower huron", "willow metropark", "oakwoods"]
+    city: Belleville
+    address: 17845 Savage Rd, Belleville, MI 48111
+    lat: 42.1898
+    lon: -83.4842
+    drive_minutes: 28
+    setting: outdoor
+
+  # --- Ypsilanti and the rest of the county -------------------------------
+  - name: Ypsilanti District Library (Whittaker)
+    match: ["ypsilanti district library", "whittaker road library", "ydl"]
+    city: Ypsilanti
+    address: 5577 Whittaker Rd, Ypsilanti, MI 48197
+    lat: 42.1919
+    lon: -83.6117
+    drive_minutes: 17
+    setting: indoor
+
+  - name: Ypsilanti District Library (Michigan Ave)
+    match: ["michigan ave branch", "michigan avenue branch"]
+    city: Ypsilanti
+    address: 229 W Michigan Ave, Ypsilanti, MI 48197
+    lat: 42.2412
+    lon: -83.6165
+    drive_minutes: 15
+    setting: indoor
+
+  - name: Riverside Park Ypsilanti
+    match: ["riverside park"]
+    city: Ypsilanti
+    address: 1 E Cross St, Ypsilanti, MI 48198
+    lat: 42.2454
+    lon: -83.6117
+    drive_minutes: 15
+    setting: outdoor
+
+  - name: Washtenaw Farm Council Fairgrounds
+    match: ["farm council", "fairgrounds", "saline fair"]
+    city: Ann Arbor
+    address: 5055 Ann Arbor Saline Rd, Ann Arbor, MI 48103
+    lat: 42.2019
+    lon: -83.7527
+    drive_minutes: 14
+    setting: outdoor
+
+  - name: Saline District Library
+    match: ["saline district library"]
+    city: Saline
+    address: 555 N Maple Rd, Saline, MI 48176
+    lat: 42.1815
+    lon: -83.7861
+    drive_minutes: 18
+    setting: indoor
+
+  - name: Chelsea District Library
+    match: ["chelsea district library"]
+    city: Chelsea
+    address: 221 S Main St, Chelsea, MI 48118
+    lat: 42.3151
+    lon: -84.0207
+    drive_minutes: 22
+    setting: indoor
+
+  - name: Dexter District Library
+    match: ["dexter district library"]
+    city: Dexter
+    address: 3255 Alpine St, Dexter, MI 48130
+    lat: 42.3387
+    lon: -83.8878
+    drive_minutes: 18
+    setting: indoor
+
+  - name: Milan Public Library
+    match: ["milan public library"]
+    city: Milan
+    address: 151 Wabash St, Milan, MI 48160
+    lat: 42.0851
+    lon: -83.6829
+    drive_minutes: 25
+    setting: indoor
+
+  - name: Eastern Michigan University
+    match: ["eastern michigan", "emu ", "convocation center"]
+    city: Ypsilanti
+    address: 900 Oakwood St, Ypsilanti, MI 48197
+    lat: 42.2478
+    lon: -83.6244
+    drive_minutes: 16
+    setting: indoor
+
+  # --- Indoor play and rainy day fallbacks --------------------------------
+  - name: Launch Trampoline Park
+    match: ["launch trampoline", "launch ann arbor"]
+    city: Ann Arbor
+    address: 3765 Plaza Dr, Ann Arbor, MI 48108
+    lat: 42.2277
+    lon: -83.6879
+    drive_minutes: 13
+    setting: indoor
+
+  - name: Ann Arbor Ice Cube
+    match: ["ice cube", "veterans memorial ice"]
+    city: Ann Arbor
+    address: 2121 Oak Valley Dr, Ann Arbor, MI 48103
+    lat: 42.2489
+    lon: -83.7877
+    drive_minutes: 11
+    setting: indoor
+
+# Cities that count as Washtenaw County for the county filter.
+washtenaw_cities:
+  - ann arbor
+  - ypsilanti
+  - saline
+  - dexter
+  - chelsea
+  - milan
+  - manchester
+  - whitmore lake
+  - pittsfield
+  - scio
+  - superior township
+  - salem
+  - northfield
+  - lima
+  - freedom
+  - bridgewater
+  - york
+  - augusta
+  - sharon
+  - lyndon
+  - webster
+  - sylvan
+  - ann arbor township
+  - ypsilanti township

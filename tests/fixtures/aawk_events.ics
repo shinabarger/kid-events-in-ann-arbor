@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wp-events-plugin.com//7.4.3//EN
+TZID:America/Detroit
+X-WR-TIMEZONE:America/Detroit
+BEGIN:VEVENT
+UID:95817@annarborwithkids.com
+DTSTART;TZID=America/Detroit;VALUE=DATE:20260904
+DTEND;TZID=America/Detroit;VALUE=DATE:20260905
+DTSTAMP:20260706T215053Z
+URL:https://annarborwithkids.com/events/kids-eat-free-2026-09-04/
+SUMMARY:Kids Eat Free
+DESCRIPTION:
+CATEGORIES:Babies,Elementary,Exclude,Food,Indoor
+ Activities,Preschoolers,Toddler
+END:VEVENT
+BEGIN:VEVENT
+UID:94384@annarborwithkids.com
+DTSTART;TZID=America/Detroit:20260904T100000
+DTEND;TZID=America/Detroit:20260904T210000
+DTSTAMP:20260515T215748Z
+URL:https://annarborwithkids.com/events/saline-fair-2026-09-04/
+SUMMARY:Saline Fair
+DESCRIPTION:\nThe Saline Fair returns the week before Labor Day.\n\n\n\nRe
+ gular admission to the fair is $10/person ages 11 and up. Track events ha
+ ve an additional $5 admission fee (ages 6 &amp\; up) on Friday\, Saturday
+  and Sunday evenings.
+CATEGORIES:Age Range,Animals,Arbor Annie's Highlights,Babies,Carnival
+ Rides,Community Fair,Elementary,High Schoolers,Middle
+ Schoolers,Parents,Preschoolers,Toddler
+LOCATION:Washtenaw Farm Council Fairgrounds\, 5055 Ann Arbor Saline Rd\, An
+ n Arbor\, Michigan\, 48103\, South\, United States
+GEO:42.212444;-83.79470700000002
+END:VEVENT
+BEGIN:VEVENT
+UID:75768@annarborwithkids.com
+DTSTART;TZID=America/Detroit:20260904T173000
+DTEND;TZID=America/Detroit:20260904T193000
+DTSTAMP:20260828T025449Z
+URL:https://annarborwithkids.com/events/silent-disco-dance-party/
+SUMMARY:Silent Disco Dance Party
+DESCRIPTION:\nPut on some headphones and start dancing at the silent disco!
+  Wireless headphones are provided and local musician Ki5 provides the mus
+ ic.\n\n\n\nThis event is for Teens and Adults.
+CATEGORIES:Arbor Annie's Highlights,Free,High Schoolers,Indoor
+ Activities,Middle Schoolers,Music/Concerts,Parents
+LOCATION:Downtown Branch of AADL\, 343 South Fifth Avenue\, Ann Arbor\, Mic
+ higan\, 48104\, Downtown\, United States
+GEO:42.278198;-83.745971
+END:VEVENT
+BEGIN:VEVENT
+UID:70011@annarborwithkids.com
+DTSTART;TZID=America/Detroit:20260912T110000
+DTEND;TZID=America/Detroit:20260912T140000
+DTSTAMP:20260828T025449Z
+URL:https://annarborwithkids.com/events/critter-house-open-hours/
+SUMMARY:Critter House Open Hours
+DESCRIPTION:Meet the resident critters. Registration Required for groups.
+CATEGORIES:Animals,Babies,Elementary,Nature,Outdoor,Preschoolers,Registrati
+ on Required,Toddler
+LOCATION:Leslie Science &amp\; Nature Center\, 1831 Traver Rd\, Ann Arbor\,
+  Michigan\, 48105\, United States
+GEO:42.3041;-83.7203
+END:VEVENT
+END:VCALENDAR

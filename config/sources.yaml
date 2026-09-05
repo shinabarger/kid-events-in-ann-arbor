@@ -1,0 +1,224 @@
+# Everything the daily run pulls from.
+#
+# AADL, Ann Arbor with Kids, and U-M have their own modules because they need
+# custom parsing. Everything below runs through scraper/sources/generic.py.
+#
+# strategy:
+#   jsonld  crawl the listing pages, read schema.org Event blocks on each detail page
+#   rss     read the RSS feed, then read schema.org off each linked detail page
+#   ical    parse an .ics feed directly
+#   trumba  a Trumba calendar. The city publishes the RSS link, but the same
+#           calendar as .ics carries real start and end times instead of a
+#           sentence of prose, so the adapter swaps the extension.
+#   canva   a Canva Sites page. Looks like a picture of a calendar, but the
+#           whole document ships as JSON in the HTML, positions and all, so a
+#           plain GET rebuilds the grid. No browser needed.
+#
+# enabled: false parks a source without deleting it. Flip it back on if the
+# site changes and the adapter starts working again.
+#
+# access: why we are allowed to read this one. Not decoration. Every source has
+#   to be one of these three, and anything that is not gets left out:
+#
+#   feed        the site publishes an RSS or iCal feed, which is an invitation
+#   public-api  a documented, unauthenticated API meant to be called
+#   crawl       ordinary pages, read at one request at a time, robots.txt obeyed
+#
+#   Anything needing a login, a private or undocumented internal API, or a
+#   header that pretends to be a browser does not go in this file. Facebook is
+#   the obvious example, and it is why config/manual_events.yaml exists instead.
+#
+# audience: mixed means the site is a general calendar, so every event from it
+#   has to clear scraper/kidfilter.py before it lands on the page. Leave it off
+#   only for a source that publishes nothing but children's programming.
+
+sites:
+  - key: destination_a2
+    audience: mixed
+    access: feed        # their published RSS
+    name: Destination Ann Arbor
+    strategy: rss
+    feeds:
+      - https://www.annarbor.org/event/rss/
+    detail_pattern: "annarbor\\.org/event/[^/]+/\\d+/"
+    max_details: 120
+
+  - key: a2observer
+    audience: mixed
+    access: public-api  # The Events Calendar REST API, documented and open
+    name: Ann Arbor Observer
+    # They run The Events Calendar, so the REST API gives us everything with no
+    # scraping at all. The hand written kids calendar is a separate module.
+    strategy: tribe
+    base: https://annarborobserver.com
+    days: 120
+    max_pages: 20
+
+  - key: discover_science
+    audience: mixed
+    access: crawl       # schema.org markup on their own event pages
+    name: Hands-On Museum & Leslie Science
+    strategy: jsonld
+    listings:
+      - https://discoverscienceandnature.org/calendars
+      - https://discoverscienceandnature.org/events/
+    detail_pattern: "discoverscienceandnature\\.org/(event|events|calendars)/[^/]+/?$"
+    max_details: 120
+
+  - key: metroparks
+    audience: mixed
+    access: crawl       # schema.org markup on their own event pages
+    name: Huron-Clinton Metroparks
+    strategy: jsonld
+    listings:
+      - https://www.metroparks.com/events/
+    detail_pattern: "metroparks\\.com/(event|events)/[^/]+/?$"
+    max_details: 150
+
+  - key: a2family
+    audience: mixed
+    access: crawl       # schema.org markup on their own event pages
+    name: Ann Arbor Family
+    strategy: jsonld
+    listings:
+      - https://annarborfamily.com/calendar/
+      - https://www.annarborfamily.com/events/
+    detail_pattern: "annarborfamily\\.com/(event|calendar)/"
+    max_details: 120
+
+  - key: ypsi_library
+    audience: mixed
+    access: crawl       # schema.org markup on their own event pages
+    name: Ypsilanti District Library
+    strategy: jsonld
+    listings:
+      - https://www.ypsilibrary.org/events/
+    detail_pattern: "ypsilibrary\\.org/event/"
+    max_details: 150
+
+  # Parks & Rec publish through Trumba. Roughly half of what is on here is
+  # volunteer work: invasive shrub cutting, litter cleanups, spreading
+  # woodchips under playgrounds. kidfilter.py sorts that from the storytimes.
+  - key: a2_parks_rec
+    audience: mixed
+    access: feed        # their published calendar feed
+    name: Ann Arbor Parks & Rec
+    strategy: trumba
+    feed: https://www.trumba.com/calendars/city-of-ann-arbor-events-parks-and-recreation.rss
+    enabled: true
+
+  - key: reced
+    audience: mixed
+    access: crawl       # schema.org markup on their own event pages
+    name: Ann Arbor Rec & Ed
+    strategy: jsonld
+    listings:
+      - https://reced.a2schools.org/events/
+      - https://reced.a2schools.org/
+    detail_pattern: "reced\\.a2schools\\.org/event"
+    max_details: 80
+    enabled: true
+
+  - key: washtenaw_parks
+    audience: mixed
+    access: crawl       # a county government page, public record
+    name: Washtenaw County Parks
+    strategy: jsonld
+    listings:
+      - https://www.washtenaw.org/calendar.aspx
+    detail_pattern: "washtenaw\\.org/Calendar\\.aspx\\?EID="
+    max_details: 100
+    enabled: true
+
+  - key: a2_summer_fest
+    audience: mixed
+    access: crawl       # schema.org markup on their own event pages
+    name: Ann Arbor Summer Festival
+    strategy: jsonld
+    listings:
+      - https://www.a2sf.org/events/
+    detail_pattern: "a2sf\\.org/events/[^/]+/?$"
+    max_details: 100
+    enabled: true
+
+  - key: chelsea_library
+    audience: mixed
+    access: crawl       # schema.org markup on their own event pages
+    name: Chelsea District Library
+    strategy: jsonld
+    listings:
+      - https://chelseadistrictlibrary.org/events/
+    detail_pattern: "chelseadistrictlibrary\\.org/event"
+    max_details: 80
+    enabled: true
+
+  - key: saline_library
+    audience: mixed
+    access: crawl       # schema.org markup on their own event pages
+    name: Saline District Library
+    strategy: jsonld
+    listings:
+      - https://salinelibrary.org/events/
+    detail_pattern: "salinelibrary\\.org/event"
+    max_details: 80
+    enabled: true
+
+  - key: dexter_library
+    audience: mixed
+    access: crawl       # schema.org markup on their own event pages
+    name: Dexter District Library
+    strategy: jsonld
+    listings:
+      - https://dexter.lib.mi.us/events/
+    detail_pattern: "dexter\\.lib\\.mi\\.us/event"
+    max_details: 80
+    enabled: true
+
+  # The city's own calendar. Overwhelmingly council and commission business,
+  # but Parks & Rec family programming lands here too and nowhere else. It only
+  # earns its place because kidfilter.py throws out the work sessions.
+  - key: a2gov_calendar
+    name: City of Ann Arbor
+    audience: mixed
+    access: crawl       # a public government calendar
+    strategy: jsonld
+    listings:
+      - https://www.a2gov.org/city-of-ann-arbor-calendar/
+    detail_pattern: "a2gov\\.org/.*(event|calendar)"
+    max_details: 60
+    enabled: true
+
+  # Their events page is a designed graphic: event names floating on a month
+  # grid with no dates attached to them. Canva ships the document as JSON in
+  # the page though, so the grid can be rebuilt exactly. Mostly adult support
+  # programming, so the gate does real work here.
+  - key: mamas_network
+    audience: mixed
+    access: crawl       # one GET a day of a page with no robots.txt
+    name: The Mamas Network
+    strategy: canva
+    listing: https://themamasnetwork.org/events
+    url: https://themamasnetwork.org/events
+    venue: Little Break Cowork
+    address: 3909 Research Park Dr Suite 300, Ann Arbor, MI 48108
+    city: Ann Arbor
+    enabled: true
+    # A cell in their grid fits a time, a name and a venue and nothing else,
+    # so the age never appears on the page. These come from the description of
+    # each group further down the same page.
+    ages:
+      - match: "littles|playgroup"
+        text: Babies and toddlers with a grown-up
+      - match: "babies|birth & baby"
+        text: Newborns and babies, and anyone expecting
+
+  # Deliberately not here, and why, so nobody re-adds them in six months:
+  #
+  # ecurrent.com          Current Magazine. Cannabis Corner, happy hour guides,
+  #                       bar listings. Its calendar also draws on the same
+  #                       regional pool as Ann Arbor Family, so it would add
+  #                       almost nothing unique and a great deal of nightlife.
+  # wcbn.org              Student radio. Jazz clubs, Ziggy's, midnight movies.
+  #                       One puppet show in a month of listings, and Dreamland
+  #                       Theater already reaches us another way.
+  # facebook.com          Needs a logged in session. See the note at the top.

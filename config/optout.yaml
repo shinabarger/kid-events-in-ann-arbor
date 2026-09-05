@@ -1,0 +1,16 @@
+# Organizers and sites that asked not to be listed here.
+#
+# If you run one of these events, or one of these sites, and you would rather
+# not appear on this calendar, you do not have to explain why. Open an issue or
+# email the address in the README and I will add you here. It takes effect on
+# the next daily run, usually within 24 hours.
+#
+# sources: a source key from config/sources.yaml, drops everything from that site
+# domains: drops any event whose link points at that domain
+# venues:  drops anything at that venue, matched on the whole name
+# titles:  regular expressions matched against the event title
+
+sources: []
+domains: []
+venues: []
+titles: []

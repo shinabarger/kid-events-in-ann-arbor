@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.26102//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:City of Ann Arbor Events|Parks and Recreation
+X-WR-TIMEZONE:America/New_York
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Ann Arbor Farmers Market Saturday Market Regular Hours
+LOCATION:Ann Arbor Farmers Market
+DTSTART;TZID=America/New_York:20260905T070000
+DTEND;TZID=America/New_York:20260905T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:City of Ann Arb
+ or Event
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=56292;TYPE=CustomAsset:Ann Arbor
+  Farmers Market
+X-TRUMBA-CUSTOMFIELD;NAME="Address";ID=56290;TYPE=RichLocation:315 Detro
+ it Street
+DTSTAMP:20251210T134211Z
+DESCRIPTION:Location: Ann Arbor Farmers Market<br>Address: 315 Detroit S
+ treet<br>
+CATEGORIES:Farmers Market
+UID:http://uid.trumba.com/event/194454859
+X-TRUMBA-LINK:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view
+ %3Devent%26eventid%3D194454859
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Litter Cleanup at Argo Cascades
+LOCATION:Argo Canoe Livery
+DTSTART;TZID=America/New_York:20260907T100000
+DTEND;TZID=America/New_York:20260907T110000
+URL:https://cityofannarbor.volunteerhub.com/vv2/event/4fcb4a3d-5e6c-44ea
+ -8246-051c69f545e8?showRegistration=true
+X-TRUMBA-CUSTOMFIELD;NAME="Address";ID=56290;TYPE=RichLocation:1055 Long
+ shore Drive
+DTSTAMP:20260903T095522Z
+DESCRIPTION:Location: Argo Canoe Livery<br>Address: 1055 Longshore Drive
+ <br>Join the&#160\;<strong><strong>Ann Arbor Parks Volunteer Program</st
+ rong></strong>&#160\;to help clean up at Argo Cascades. During this work
+ day\, volunteers will be using trash grabbers and reusable litter collec
+ tion bags.<br>All minors must have a waiver on file to participate and 
+ minors under 14 need to be accompanied by an adult
+CATEGORIES:Parks and Recreation
+UID:http://uid.trumba.com/event/207716096
+X-TRUMBA-LINK:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view
+ %3Devent%26eventid%3D207716096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Adult Outdoor Yoga
+DTSTART;TZID=America/New_York:20260908T173000
+DTEND;TZID=America/New_York:20260908T183000
+URL:https://secure.rec1.com/MI/city-of-ann-arbor/catalog?filter=c2VhcmNo
+ PTQ0NjAxMjI=
+DTSTAMP:20260817T133653Z
+DESCRIPTION:Adult Outdoor Yoga\, 5:30-6:30 p.m.\, Virginia Park. Join Zi
+ on Well Yoga Studio for a gentle\, approachable flow designed for new an
+ d returning yogis. Free\, registration required.
+CATEGORIES:Parks and Recreation
+UID:http://uid.trumba.com/event/206766417
+X-TRUMBA-LINK:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view
+ %3Devent%26eventid%3D206766417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Nature Play for Kids
+DTSTART;TZID=America/New_York:20260909T103000
+DTEND;TZID=America/New_York:20260909T113000
+URL:https://secure.rec1.com/MI/city-of-ann-arbor/catalog?filter=c2VhcmNo
+ PTQ0NTU1NzU=
+DTSTAMP:20260817T133131Z
+DESCRIPTION:Nature Play\, Wednesdays in September from 10:30-11:30 a.m. 
+ at Allmendinger Park. Join us for a self-guided exploration of nature th
+ rough play! We will supply natural materials and your child will supply 
+ the curiosity. For kids 0-5 and a caregiver. Free. Registration required
+ .
+CATEGORIES:Parks and Recreation
+UID:http://uid.trumba.com/event/206766392
+X-TRUMBA-LINK:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view
+ %3Devent%26eventid%3D206766392
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Outdoor Story Time for Kids
+DTSTART;TZID=America/New_York:20260915T103000
+DTEND;TZID=America/New_York:20260915T113000
+URL:https://secure.rec1.com/MI/city-of-ann-arbor/catalog?filter=c2VhcmNo
+ PTQ0NTU1NTM=
+DTSTAMP:20260817T133159Z
+DESCRIPTION:Celebrate the changing seasons with stories\, songs and free
+  play. Each week from April-October we will meet at a new park! Dress fo
+ r the weather. For children 2-5 years of age and an adult. Free. Registr
+ ation required.<br>9/15 Seed Dispersal at Ward Park.
+CATEGORIES:Parks and Recreation
+UID:http://uid.trumba.com/event/206766380
+X-TRUMBA-LINK:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view
+ %3Devent%26eventid%3D206766380
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A&#178\;ZERO Green Fair &#8211\; Kid&#39\;s Zone Volunteers
+DTSTART;TZID=America/New_York:20260918T163000
+DTEND;TZID=America/New_York:20260918T203000
+URL:https://cityofannarbor.volunteerhub.com/vv2/event/ccbd4e0e-e579-43ff
+ -955c-4072606bcf92
+DTSTAMP:20260903T100141Z
+DESCRIPTION:<strong><strong>Help create a fun\, engaging space for kids 
+ and families at the A2ZERO Green Fair!</strong></strong><br>Ann Arbor Pa
+ rks is looking for&#160\; a small team of volunteers to support the Kid&#
+ 8217\;s Zone. <strong>Volunteer Shift: 4:30&#8211\;8:30 p.m.</strong>
+CATEGORIES:Parks and Recreation
+UID:http://uid.trumba.com/event/207716122
+X-TRUMBA-LINK:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view
+ %3Devent%26eventid%3D207716122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playground Maintenance at Kilburn Park
+DTSTART;TZID=America/New_York:20260920T100000
+DTEND;TZID=America/New_York:20260920T120000
+URL:https://cityofannarbor.volunteerhub.com/vv2/event/61e2209e-d52e-45a2
+ -b300-48878613d9e6
+DTSTAMP:20260903T100447Z
+DESCRIPTION:Join the Ann Arbor Parks Volunteer Program for a volunteer w
+ orkday at Kilburn Park\, a neighborhood park with a well-loved playgroun
+ d. To keep the play area safe\, we&#8217\;ll be spreading a fresh layer o
+ f play-safe woodchips under and around the equipment using wheelbarrows\
+ , pitchforks\, and rakes.
+CATEGORIES:Parks and Recreation
+UID:http://uid.trumba.com/event/207716129
+X-TRUMBA-LINK:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view
+ %3Devent%26eventid%3D207716129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Family Trivia Night
+LOCATION:Ann Arbor Senior Center
+DTSTART;TZID=America/New_York:20261002T170000
+DTEND;TZID=America/New_York:20261002T183000
+URL:https://secure.rec1.com/MI/city-of-ann-arbor/catalog?filter=c2VhcmNo
+ PTQ0NDk0ODU=
+X-TRUMBA-CUSTOMFIELD;NAME="Address";ID=56290;TYPE=RichLocation:1320 Bald
+ win Ave.
+DTSTAMP:20260805T101852Z
+DESCRIPTION:Location: Ann Arbor Senior Center<br>Address: 1320 Baldwin A
+ ve.<br>Looking for a fun night of friendly competition? Gather your fami
+ ly and join us for Free Family Trivia at the Ann Arbor Senior Center. Qu
+ estions range in difficulty for kids\, teens\, and adults\, so everyone c
+ an participate. Participation is free\, but preregistration is required.
+CATEGORIES:Parks and Recreation
+IMAGE;VALUE=URI:https://www.trumba.com/i/DgB0nKOc7Uqfr%2AO1NHtLT1ic.jpg
+UID:http://uid.trumba.com/event/206401373
+X-TRUMBA-LINK:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view
+ %3Devent%26eventid%3D206401373
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trick or Treat on the River
+LOCATION:Gallup Park Canoe Livery
+DTSTART;TZID=America/New_York:20261011T113000
+DTEND;TZID=America/New_York:20261011T170000
+URL:https://cityofannarbor.volunteerhub.com/vv2/lp/TrickorTreat/
+X-TRUMBA-CUSTOMFIELD;NAME="Address";ID=56290;TYPE=RichLocation:3000 Full
+ er Road
+DTSTAMP:20260903T111627Z
+DESCRIPTION:Help create one of Ann Arbor Parks&#8217\; most unique fall t
+ raditions! On Sunday\, October 11\, families will paddle around Gallup Po
+ nd\, stopping at themed stations to collect treats from costumed voluntee
+ rs. <strong>Choose Your Shift</strong> Early Shift: 11:30 a.m.&#8211\;2:3
+ 0 p.m.
+CATEGORIES:Parks and Recreation
+UID:http://uid.trumba.com/event/207720259
+X-TRUMBA-LINK:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view
+ %3Devent%26eventid%3D207720259
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boo Bash
+LOCATION:Buhr Park
+DTSTART;TZID=America/New_York:20261018T120000
+DTEND;TZID=America/New_York:20261018T160000
+URL:http://www.a2gov.org/parkevents
+X-TRUMBA-CUSTOMFIELD;NAME="Address";ID=56290;TYPE=RichLocation:2751 Pack
+ ard Road
+DTSTAMP:20260901T115928Z
+DESCRIPTION:Location: Buhr Park<br>Address: 2751 Packard Road<br>Details
+  to be announced. Stay tuned.
+CATEGORIES:Parks and Recreation
+UID:http://uid.trumba.com/event/206769313
+X-TRUMBA-LINK:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view
+ %3Devent%26eventid%3D206769313
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+# Events with no feed anywhere. Facebook group posts, flyers, word of mouth.
+#
+# Only title and start are required. Times are Eastern, written as
+# YYYY-MM-DDTHH:MM:SS-04:00 (use -05:00 between November and March).
+#
+# setting: indoor | outdoor | both
+# cost:    free | paid
+#
+# Anything in here beats a scraped copy of the same event during dedupe, so
+# this is also the place to correct a listing another site got wrong.
+
+events: []
+
+# Example, delete or copy:
+#
+# events:
+#   - title: Fall storytime at the co-op
+#     start: "2026-10-11T10:00:00-04:00"
+#     end: "2026-10-11T11:00:00-04:00"
+#     venue: People's Food Co-op
+#     address: 216 N Fourth Ave, Ann Arbor, MI 48104
+#     city: Ann Arbor
+#     ages_text: Ages 2 to 5
+#     setting: indoor
+#     cost: free
+#     registration: false
+#     url: https://example.com/the-flyer
+#     description: Half an hour of stories, then snacks.
+#     source_name: Neighborhood flyer

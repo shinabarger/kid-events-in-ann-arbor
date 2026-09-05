@@ -1,0 +1,502 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kid-events-in-ann-arbor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kid Events in Ann Arbor: Outdoor
+X-WR-CALDESC:Outdoor events
+X-WR-TIMEZONE:America/Detroit
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:94494bada3f1c29b@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T140000Z
+DTEND:20260906T010000Z
+SUMMARY:Saline Fair
+LOCATION:Washtenaw Farm Council Fairgrounds\, 5055 Ann Arbor Saline Rd\, A
+ nn Arbor\, MI 48103
+GEO:42.212444;-83.794707
+DESCRIPTION:The Saline Fair returns the week before Labor Day. Regular adm
+ ission is $10 per person ages 11 and up. Most vendors on site are cash on
+ ly\, so bring plenty.\n\nWhere: 5055 Ann Arbor Saline Rd\, Ann Arbor\, MI
+  48103\nDrive: about 14 minutes from downtown Ann Arbor\nAges: Babies\, T
+ oddler\, Preschoolers\, Elementary\, Middle Schoolers\, High Schoolers\nC
+ ost: $10\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the we
+ ather\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.
+ com/events/saline-fair-2026-09-04/\nFound on: https://shinabarger.github.
+ io/kid-events-in-ann-arbor/?event=94494bada3f1c29b\n\nDouble check the ti
+ me with the organizer before you go.
+URL:https://annarborwithkids.com/events/saline-fair-2026-09-04/
+END:VEVENT
+BEGIN:VEVENT
+UID:b24f0973f7b0e5fd@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T150000Z
+DTEND:20260905T230000Z
+SUMMARY:Foodie Fridays
+LOCATION:County Farm Park\, 2230 Platt Rd\, Ann Arbor\, MI 48104
+GEO:42.2556912;-83.7016151
+DESCRIPTION:Local food trucks at County Farm Park's Platt entrance every F
+ riday from mid-May through September\, 11a until 7p or until they sell ou
+ t.\n\nWhere: 2230 Platt Rd\, Ann Arbor\, MI 48104\nAges: Preschoolers\, E
+ lementary\, Middle Schoolers\, High Schoolers\nCost: Not listed\nSignup: 
+ Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed by: 
+ Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/foodie-
+ fridays-2026-09-04/\nFound on: https://shinabarger.github.io/kid-events-i
+ n-ann-arbor/?event=b24f0973f7b0e5fd\n\nDouble check the time with the org
+ anizer before you go.
+URL:https://annarborwithkids.com/events/foodie-fridays-2026-09-04/
+END:VEVENT
+BEGIN:VEVENT
+UID:71835b6e15616e79@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T190000Z
+DTEND:20260905T220000Z
+SUMMARY:Dixboro Farmers Market
+LOCATION:Dixboro Farmers Market\, 315 Detroit St\, Ann Arbor\, MI 48104
+GEO:42.3136136;-83.6560761
+DESCRIPTION:Farmers market excursions are tons of fun for kids. Dixboro ru
+ ns Fridays 3-6p through October 23.\n\nWhere: 315 Detroit St\, Ann Arbor\
+ , MI 48104\nDrive: about 4 minutes from downtown Ann Arbor\nAges: Babies\
+ , Toddler\, Preschoolers\, Elementary\nCost: Free\nSignup: Drop in\, no s
+ ignup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with
+  Kids\nDetails: https://annarborwithkids.com/events/dixboro-farmers-marke
+ t-2-2026-09-04/\nFound on: https://shinabarger.github.io/kid-events-in-an
+ n-arbor/?event=71835b6e15616e79\n\nDouble check the time with the organiz
+ er before you go.
+URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-09-0
+ 4/
+END:VEVENT
+BEGIN:VEVENT
+UID:f97d1d181c979244@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T200000Z
+DTEND:20260906T020000Z
+SUMMARY:First Friday Ypsilanti
+LOCATION:Downtown Ypsilanti\, Ypsilanti\, MI
+GEO:42.2407765;-83.6128497
+DESCRIPTION:Every month from April through December\, Ypsilanti celebrates
+  with special activities and sales along Michigan Ave and in Depot Town. 
+ Bring the family.\n\nWhere: Downtown Ypsilanti\nDrive: about 23 minutes f
+ rom downtown Ann Arbor\nAges: Babies\, Toddler\, Preschoolers\, Elementar
+ y\, High Schoolers\nCost: Free\nSignup: Drop in\, no signup needed\nOutdo
+ ors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: htt
+ ps://annarborwithkids.com/events/first-friday-ypsilanti-3-2026-09-04/\nFo
+ und on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=f97d
+ 1d181c979244\n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/first-friday-ypsilanti-3-2026-09-0
+ 4/
+END:VEVENT
+BEGIN:VEVENT
+UID:a59a74b801f81af3@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T210000Z
+DTEND:20260905T230000Z
+SUMMARY:First Fridays: Natural Dyes
+LOCATION:Ypsilanti District Library - Michigan Ave Branch\, 5577 Whittaker
+  Rd\, Ypsilanti\, MI 48197
+GEO:42.240746;-83.61565
+DESCRIPTION:What do madder\, marigold\, and indigo have in common? They ar
+ e all plants and they all dye fabric. All supplies provided\, just bring 
+ your enthusiasm.\n\nWhere: 5577 Whittaker Rd\, Ypsilanti\, MI 48197\nDriv
+ e: about 17 minutes from downtown Ann Arbor\nAges: Preschoolers\, Element
+ ary\, Middle Schoolers\nCost: Free\nSignup: Drop in\, no signup needed\nO
+ utdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails:
+  https://annarborwithkids.com/events/grow-your-garden-series-pollinator-g
+ arden/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?
+ event=a59a74b801f81af3\n\nDouble check the time with the organizer before
+  you go.
+URL:https://annarborwithkids.com/events/grow-your-garden-series-pollinator
+ -garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:755fca6a8d549088@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260905T213000Z
+DTEND:20260906T000000Z
+SUMMARY:Live from Tolan Square
+LOCATION:Tolan Square\, Milan\, MI
+GEO:42.085007;-83.682964
+DESCRIPTION:Music in Milan on Friday nights from June through September\, 
+ plus the third Thursday of each month. Local and regional acts.\n\nWhere:
+  Tolan Square\, Milan\nDrive: about 29 minutes from downtown Ann Arbor\nA
+ ges: Toddler\, Preschoolers\, Elementary\, Middle Schoolers\nCost: Free\n
+ Signup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nLis
+ ted by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events
+ /live-from-tolan-square-2026-09-04/\nFound on: https://shinabarger.github
+ .io/kid-events-in-ann-arbor/?event=755fca6a8d549088\n\nDouble check the t
+ ime with the organizer before you go.
+URL:https://annarborwithkids.com/events/live-from-tolan-square-2026-09-04/
+END:VEVENT
+BEGIN:VEVENT
+UID:6918a6a87fe5eb9d@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T110000Z
+DTEND:20260906T190000Z
+SUMMARY:Ann Arbor Farmers Market
+LOCATION:Ann Arbor Farmers Market\, 315 Detroit St\, Ann Arbor\, MI 48104
+GEO:42.2839239;-83.7464318
+DESCRIPTION:Open Wednesdays and Saturdays 7a-3p from May through December.
+  Kerrytown\, with a craft table by the north shed most weeks.\n\nWhere: 3
+ 15 Detroit St\, Ann Arbor\, MI 48104\nAges: Babies\, Toddler\, Preschoole
+ rs\, Elementary\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors
+ \, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: https:
+ //annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-09-05/\nFou
+ nd on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=6918a
+ 6a87fe5eb9d\n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-09
+ -05/
+END:VEVENT
+BEGIN:VEVENT
+UID:96a3e74e74c22b0c@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T120000Z
+DTEND:20260906T170000Z
+SUMMARY:Chelsea Farmers Market
+LOCATION:Palmer Commons\, 315 Detroit St\, Ann Arbor\, MI 48104
+GEO:42.315448;-84.020088
+DESCRIPTION:The Chelsea market runs May through October\, 8a-1p on Saturda
+ ys at Palmer Commons.\n\nWhere: 315 Detroit St\, Ann Arbor\, MI 48104\, C
+ helsea\nDrive: about 4 minutes from downtown Ann Arbor\nAges: Toddler\, P
+ reschoolers\, Elementary\nCost: Free\nSignup: Drop in\, no signup needed\
+ nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetail
+ s: https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-09
+ -05/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?ev
+ ent=96a3e74e74c22b0c\n\nDouble check the time with the organizer before y
+ ou go.
+URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-09
+ -05/
+END:VEVENT
+BEGIN:VEVENT
+UID:26843a9348e4813e@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T120000Z
+DTEND:20260906T170000Z
+SUMMARY:Dexter Farmers Market
+LOCATION:Dexter Farmers Market\, 315 Detroit St\, Ann Arbor\, MI 48104
+GEO:42.3395891;-83.8892812
+DESCRIPTION:Saturdays 8a-1p and Tuesdays 11a-3p.\n\nWhere: 315 Detroit St\
+ , Ann Arbor\, MI 48104\, Dexter\nDrive: about 4 minutes from downtown Ann
+  Arbor\nAges: Babies\, Toddler\, Preschoolers\, Elementary\nCost: Free\nS
+ ignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nList
+ ed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/
+ dexter-farmers-market-2-2-2026-09-05/\nFound on: https://shinabarger.gith
+ ub.io/kid-events-in-ann-arbor/?event=26843a9348e4813e\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-09-
+ 05/
+END:VEVENT
+BEGIN:VEVENT
+UID:89b0af9ecae980de@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T120000Z
+DTEND:20260906T133000Z
+SUMMARY:Lillie parkrun
+LOCATION:Lillie Park\, Ann Arbor\, MI
+GEO:42.223922;-83.697273
+DESCRIPTION:A free\, family friendly weekly 5k. Walk\, jog\, run\, volunte
+ er\, or spectate. Meets at 8a from May through September.\n\nWhere: Lilli
+ e Park\, Ann Arbor\nDrive: about 16 minutes from downtown Ann Arbor\nAges
+ : Elementary\, Middle Schoolers\, High Schoolers\nCost: Free\nSignup: Dro
+ p in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann
+  Arbor with Kids\nDetails: https://annarborwithkids.com/events/lillie-par
+ krun-2026-09-05/\nFound on: https://shinabarger.github.io/kid-events-in-a
+ nn-arbor/?event=89b0af9ecae980de\n\nDouble check the time with the organi
+ zer before you go.
+URL:https://annarborwithkids.com/events/lillie-parkrun-2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+UID:a14f7df238daffaf@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T130000Z
+DTEND:20260906T170000Z
+SUMMARY:Ypsilanti Farmers Market
+LOCATION:Downtown Ypsilanti Farmers Market\, 315 Detroit St\, Ann Arbor\, 
+ MI 48104
+GEO:42.240193;-83.61497
+DESCRIPTION:Saturdays 9a-1p from May 16 through October 31 at the Farmers 
+ Market Place Hall.\n\nWhere: 315 Detroit St\, Ann Arbor\, MI 48104\, Ypsi
+ lanti\nDrive: about 4 minutes from downtown Ann Arbor\nAges: Babies\, Tod
+ dler\, Preschoolers\, Elementary\nCost: Free\nSignup: Drop in\, no signup
+  needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids
+ \nDetails: https://annarborwithkids.com/events/ypsilanti-farmers-market-2
+ 026-09-05/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arb
+ or/?event=a14f7df238daffaf\n\nDouble check the time with the organizer be
+ fore you go.
+URL:https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-09-0
+ 5/
+END:VEVENT
+BEGIN:VEVENT
+UID:fa7c4f734fc16e4c@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T140000Z
+DTEND:20260907T010000Z
+SUMMARY:Saline Fair
+LOCATION:Washtenaw Farm Council Fairgrounds\, 5055 Ann Arbor Saline Rd\, A
+ nn Arbor\, MI 48103
+GEO:42.212444;-83.794707
+DESCRIPTION:Heroes Day and Family Day. Military\, first responders\, and h
+ ealth care workers get in free. Rides open at 1p.\n\nWhere: 5055 Ann Arbo
+ r Saline Rd\, Ann Arbor\, MI 48103\nDrive: about 14 minutes from downtown
+  Ann Arbor\nAges: Babies\, Toddler\, Preschoolers\, Elementary\, High Sch
+ oolers\nCost: $10\nSignup: Drop in\, no signup needed\nOutdoors\, dress f
+ or the weather\nListed by: Ann Arbor with Kids\nDetails: https://annarbor
+ withkids.com/events/saline-fair-2026-09-05/\nFound on: https://shinabarge
+ r.github.io/kid-events-in-ann-arbor/?event=fa7c4f734fc16e4c\n\nDouble che
+ ck the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/saline-fair-2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+UID:fb9e1c932352503f@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T150000Z
+DTEND:20260906T160000Z
+SUMMARY:Grow Your Garden: Community Garden Plant Out
+LOCATION:Ypsilanti District Library - Michigan Ave Branch\, 5577 Whittaker
+  Rd\, Ypsilanti\, MI 48197
+GEO:42.240746;-83.61565
+DESCRIPTION:No matter your age or experience\, join YDL for the joy of gar
+ dening. Each month explores an aspect of gardening using the community ga
+ rden as a practice space.\n\nWhere: 5577 Whittaker Rd\, Ypsilanti\, MI 48
+ 197\nDrive: about 17 minutes from downtown Ann Arbor\nAges: All ages\nCos
+ t: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the wea
+ ther\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.c
+ om/events/grow-your-garden-community-garden-plant-out-2/\nFound on: https
+ ://shinabarger.github.io/kid-events-in-ann-arbor/?event=fb9e1c932352503f\
+ n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/grow-your-garden-community-garden-
+ plant-out-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:058c161aaaf1d1c3@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T160000Z
+DTEND:20260906T190000Z
+SUMMARY:Dexter Cider Mill 140th Season Celebration
+LOCATION:Dexter Cider Mill\, Dexter\, MI
+GEO:42.340652;-83.879435
+DESCRIPTION:The Dexter Cider Mill celebrates 140 seasons. Donuts\, cider\,
+  and the usual line out the door.\n\nWhere: Dexter Cider Mill\nDrive: abo
+ ut 24 minutes from downtown Ann Arbor\nAges: Toddler\, Preschoolers\, Ele
+ mentary\, Middle Schoolers\nCost: Not listed\nSignup: Drop in\, no signup
+  needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids
+ \nDetails: https://annarborwithkids.com/events/dexter-cider-mill-140th-se
+ ason-celebration/\nFound on: https://shinabarger.github.io/kid-events-in-
+ ann-arbor/?event=058c161aaaf1d1c3\n\nDouble check the time with the organ
+ izer before you go.
+URL:https://annarborwithkids.com/events/dexter-cider-mill-140th-season-cel
+ ebration/
+END:VEVENT
+BEGIN:VEVENT
+UID:1012a672b1114e15@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T170000Z
+DTEND:20260906T190000Z
+SUMMARY:International Vulture Awareness Day Celebration
+LOCATION:Leslie Science & Nature Center\, 1831 Traver Rd\, Ann Arbor\, MI 
+ 48105
+GEO:42.300787;-83.730284
+DESCRIPTION:Celebrate these incredible birds with an afternoon of hands-on
+  activities\, games\, and plenty of chances to learn more about the resid
+ ent raptors.\n\nWhere: 1831 Traver Rd\, Ann Arbor\, MI 48105\nAges: Toddl
+ er\, Preschoolers\, Elementary\, Middle Schoolers\nCost: Free\nSignup: Dr
+ op in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ha
+ nds-On Museum & Leslie Science\nDetails: https://annarborwithkids.com/eve
+ nts/international-vulture-awareness-day-celebration/\nFound on: https://s
+ hinabarger.github.io/kid-events-in-ann-arbor/?event=1012a672b1114e15\n\nD
+ ouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/international-vulture-awareness-da
+ y-celebration/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a7114f556eb0ff0@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260906T180000Z
+DTEND:20260907T020000Z
+SUMMARY:The Rumble of the Bumble
+LOCATION:Depot Town\, Ypsilanti\, MI
+GEO:42.2461462;-83.5982509
+DESCRIPTION:A day about bees and pollinators and why they matter\, with wr
+ estling. Yes\, wrestling.\n\nWhere: Depot Town\, Ypsilanti\nDrive: about 
+ 24 minutes from downtown Ann Arbor\nAges: Toddler\, Preschoolers\, Elemen
+ tary\, Middle Schoolers\nCost: Free\nSignup: Drop in\, no signup needed\n
+ Outdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails
+ : https://annarborwithkids.com/events/the-rumble-of-the-bumble/\nFound on
+ : https://shinabarger.github.io/kid-events-in-ann-arbor/?event=8a7114f556
+ eb0ff0\n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/the-rumble-of-the-bumble/
+END:VEVENT
+BEGIN:VEVENT
+UID:81be967e51fc73ad@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260907T140000Z
+DTEND:20260908T010000Z
+SUMMARY:Saline Fair
+LOCATION:Washtenaw Farm Council Fairgrounds\, 5055 Ann Arbor Saline Rd\, A
+ nn Arbor\, MI 48103
+GEO:42.212444;-83.794707
+DESCRIPTION:Agriculture Day. Taste of Agriculture 11:30-1:30p\, rides open
+  at 1p\, car and tractor show 2-5p.\n\nWhere: 5055 Ann Arbor Saline Rd\, 
+ Ann Arbor\, MI 48103\nDrive: about 14 minutes from downtown Ann Arbor\nAg
+ es: All ages\nCost: $10\nSignup: Drop in\, no signup needed\nOutdoors\, d
+ ress for the weather\nListed by: Ann Arbor with Kids\nDetails: https://an
+ narborwithkids.com/events/saline-fair-2026-09-06/\nFound on: https://shin
+ abarger.github.io/kid-events-in-ann-arbor/?event=81be967e51fc73ad\n\nDoub
+ le check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/saline-fair-2026-09-06/
+END:VEVENT
+BEGIN:VEVENT
+UID:66705d2c1ed82a69@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260907T140000Z
+DTEND:20260907T180000Z
+SUMMARY:Whitmore Lake Farmers Market
+LOCATION:Northfield Community Park\, 315 Detroit St\, Ann Arbor\, MI 48104
+GEO:42.4249745;-83.764423
+DESCRIPTION:Back for its fourth season at Northfield Community Park.\n\nWh
+ ere: 315 Detroit St\, Ann Arbor\, MI 48104\, Whitmore Lake\nDrive: about 
+ 4 minutes from downtown Ann Arbor\nAges: Toddler\, Preschoolers\, Element
+ ary\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for
+  the weather\nListed by: Ann Arbor with Kids\nDetails: https://annarborwi
+ thkids.com/events/whitmore-lake-farmers-market-2026-09-06/\nFound on: htt
+ ps://shinabarger.github.io/kid-events-in-ann-arbor/?event=66705d2c1ed82a6
+ 9\n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-
+ 09-06/
+END:VEVENT
+BEGIN:VEVENT
+UID:61fdbd2335543447@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260908T140000Z
+DTEND:20260908T220000Z
+SUMMARY:Labor Day at Rolling Hills Water Park
+LOCATION:Rolling Hills County Park\, 7660 Stony Creek Rd\, Ypsilanti\, MI 
+ 48197
+GEO:42.1737;-83.6247
+DESCRIPTION:Last day of the water park season. Slides\, lazy river\, and t
+ he toddler splash area. Check the county site before driving out.\n\nWher
+ e: 7660 Stony Creek Rd\, Ypsilanti\, MI 48197\nDrive: about 20 minutes fr
+ om downtown Ann Arbor\nAges: All ages\nCost: $10\nSignup: Drop in\, no si
+ gnup needed\nOutdoors\, dress for the weather\nListed by: Washtenaw Count
+ y Parks\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/
+ ?event=61fdbd2335543447\n\nDouble check the time with the organizer befor
+ e you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cbd30c59677653@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260909T190000Z
+DTEND:20260909T230000Z
+SUMMARY:Westside Farmers Market
+LOCATION:Zingerman's Roadhouse\, 315 Detroit St\, Ann Arbor\, MI 48104
+GEO:42.2852;-83.7442
+DESCRIPTION:Thursdays 3-7p through October.\n\nWhere: 315 Detroit St\, Ann
+  Arbor\, MI 48104\nAges: Toddler\, Preschoolers\, Elementary\nCost: Free\
+ nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nLi
+ sted by: Ann Arbor with Kids\nFound on: https://shinabarger.github.io/kid
+ -events-in-ann-arbor/?event=b5cbd30c59677653\n\nDouble check the time wit
+ h the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:3071ee2a70e32883@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260910T180000Z
+DTEND:20260910T220000Z
+SUMMARY:Pittsfield Township Farmers Market
+LOCATION:Pittsfield Charter Township Administration Building\, 315 Detroit
+  St\, Ann Arbor\, MI 48104
+GEO:42.2852;-83.7442
+DESCRIPTION:Thursdays 2-6p.\n\nWhere: 315 Detroit St\, Ann Arbor\, MI 4810
+ 4\nAges: Toddler\, Preschoolers\, Elementary\nCost: Free\nSignup: Drop in
+ \, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arb
+ or with Kids\nFound on: https://shinabarger.github.io/kid-events-in-ann-a
+ rbor/?event=3071ee2a70e32883\n\nDouble check the time with the organizer 
+ before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee74f624ff25c350@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260911T150000Z
+DTEND:20260911T200000Z
+SUMMARY:Monarch Migration Festival
+LOCATION:Leslie Science & Nature Center\, 1831 Traver Rd\, Ann Arbor\, MI 
+ 48105
+GEO:42.300787;-83.730284
+DESCRIPTION:Butterfly tagging\, live raptors\, crafts\, and a food truck. 
+ The tagging demo runs on the hour and fills up fast.\n\nWhere: 1831 Trave
+ r Rd\, Ann Arbor\, MI 48105\nAges: All ages\nCost: $12\nSignup: Drop in\,
+  no signup needed\nOutdoors\, dress for the weather\nListed by: Hands-On 
+ Museum & Leslie Science\nFound on: https://shinabarger.github.io/kid-even
+ ts-in-ann-arbor/?event=ee74f624ff25c350\n\nDouble check the time with the
+  organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:decbe38e78ce33f4@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260912T223000Z
+DTEND:20260913T000000Z
+SUMMARY:Family Campfire Night
+LOCATION:Hudson Mills Metropark\, 8801 N Territorial Rd\, Dexter\, MI 4813
+ 0
+GEO:42.3922;-83.9109
+DESCRIPTION:Marshmallows\, a short night hike\, and a naturalist who knows
+  every owl call in the park. $5 per vehicle entry.\n\nWhere: 8801 N Terri
+ torial Rd\, Dexter\, MI 48130\nDrive: about 22 minutes from downtown Ann 
+ Arbor\nAges: All ages\nCost: $5\nSignup: Registration required\, book bef
+ ore you go\nOutdoors\, dress for the weather\nListed by: Huron-Clinton Me
+ troparks\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor
+ /?event=decbe38e78ce33f4\n\nDouble check the time with the organizer befo
+ re you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:70ee6ef08db5152b@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260913T143000Z
+DTEND:20260913T153000Z
+SUMMARY:Outdoor Story Time
+LOCATION:Ward Park\, Ann Arbor\, MI
+DESCRIPTION:Stories\, play\, and crafts on a theme. This week: seed disper
+ sal. Dress for the weather and bring snacks. Weather permitting.\n\nWhere
+ : Ward Park\, Ann Arbor\nAges: ages 2-5\nCost: Free\nSignup: Registration
+  required\, book before you go\nOutdoors\, dress for the weather\nListed 
+ by: Ann Arbor Parks & Rec\nFound on: https://shinabarger.github.io/kid-ev
+ ents-in-ann-arbor/?event=70ee6ef08db5152b\n\nDouble check the time with t
+ he organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed3c969d79e0d71@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260913T210000Z
+DTEND:20260913T220000Z
+SUMMARY:Fall Soccer Skills\, Ages 4-6
+LOCATION:Rec & Ed Balas Building\, 1515 S Seventh St\, Ann Arbor\, MI 4810
+ 3
+GEO:42.2643;-83.7638
+DESCRIPTION:Six week session on Tuesdays. Registration required and it fil
+ ls the week the catalog drops.\n\nWhere: 1515 S Seventh St\, Ann Arbor\, 
+ MI 48103\nAges: Ages 4 to 6\nCost: $85\nSignup: Registration required\, b
+ ook before you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor
+  Rec & Ed\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbo
+ r/?event=2ed3c969d79e0d71\n\nDouble check the time with the organizer bef
+ ore you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:18775fc718cde8af@kid-events-in-ann-arbor
+DTSTAMP:20260905T135857Z
+DTSTART:20260914T160000Z
+DTEND:20260914T210000Z
+SUMMARY:Splash Pad Open Swim
+LOCATION:Rolling Hills County Park\, 7660 Stony Creek Rd\, Ypsilanti\, MI 
+ 48197
+GEO:42.1737;-83.6247
+DESCRIPTION:The water park stays open on warm September weekends. Check th
+ e county site before you drive out\, they close it when it gets cold.\n\n
+ Where: 7660 Stony Creek Rd\, Ypsilanti\, MI 48197\nDrive: about 20 minute
+ s from downtown Ann Arbor\nAges: All ages\nCost: $10\nSignup: Drop in\, n
+ o signup needed\nOutdoors\, dress for the weather\nListed by: Washtenaw C
+ ounty Parks\nFound on: https://shinabarger.github.io/kid-events-in-ann-ar
+ bor/?event=18775fc718cde8af\n\nDouble check the time with the organizer b
+ efore you go.
+END:VEVENT
+END:VCALENDAR
