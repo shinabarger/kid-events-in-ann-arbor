@@ -1,0 +1,16 @@
+name: A source stopped working
+description: The footer shows a source as "no data" for more than a couple of days.
+title: "[Source] "
+labels: ["scraper"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Which source
+      placeholder: Ann Arbor Observer
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: What you are seeing

@@ -1,0 +1,74 @@
+name: Add an event
+description: Something that is not on any of the sites I scrape. Facebook posts, flyers, word of mouth.
+title: "[Event] "
+labels: ["event"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in what you know. Title and date are the only ones I really need.
+        I copy these into `config/manual_events.yaml` and the next daily run picks it up.
+
+  - type: input
+    id: title
+    attributes:
+      label: Event name
+      placeholder: Fall storytime at the co-op
+    validations:
+      required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      placeholder: 2026-10-11
+    validations:
+      required: true
+
+  - type: input
+    id: time
+    attributes:
+      label: Time
+      placeholder: 10:00am to 11:00am
+
+  - type: input
+    id: venue
+    attributes:
+      label: Where
+      placeholder: People's Food Co-op, 216 N Fourth Ave
+
+  - type: input
+    id: ages
+    attributes:
+      label: Ages
+      placeholder: Ages 2 to 5, or "all ages"
+
+  - type: dropdown
+    id: setting
+    attributes:
+      label: Indoor or outdoor
+      options: ["Indoor", "Outdoor", "Both", "Not sure"]
+
+  - type: dropdown
+    id: cost
+    attributes:
+      label: Cost
+      options: ["Free", "Paid", "Not sure"]
+
+  - type: checkboxes
+    id: registration
+    attributes:
+      label: Signup
+      options:
+        - label: Registration or tickets required
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: Facebook event, flyer photo, organizer page
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else

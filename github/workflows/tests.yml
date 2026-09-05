@@ -1,0 +1,38 @@
+name: Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+env:
+  # The site is Eastern. Runners are UTC, which slides "today" after 8pm.
+  TZ: America/Detroit
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: pip install -r requirements.txt -r requirements-dev.txt
+      - run: npm install --no-audit --no-fund
+      - name: Python tests, including the WCAG AA audit
+        run: python -m pytest -q
+      - name: Front end tests
+        run: npm test
+      - name: Check the sample build still works
+        run: |
+          python scripts/build_sample.py
+          python - <<'PY'
+          import json
+          data = json.load(open("data/events.json"))
+          assert data["count"] > 0, "sample build produced nothing"
+          print(f"sample build ok: {data['count']} events")
+          PY

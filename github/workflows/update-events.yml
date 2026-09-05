@@ -1,0 +1,87 @@
+name: Update events
+
+on:
+  schedule:
+    # 5:30am Eastern, so the day's listings are ready before anybody looks.
+    # Cron is UTC, and GitHub does not do daylight saving, so this runs at
+    # 5:30 in the summer and 4:30 in the winter. Close enough.
+    - cron: "30 9 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "config/manual_events.yaml"
+      - "config/sources.yaml"
+      - "config/venues.yaml"
+      - "scraper/**"
+
+env:
+  # The site is Eastern. Runners are UTC, which slides "today" after 8pm.
+  TZ: America/Detroit
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-events
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Restore the fetch cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: scrape-cache-${{ github.run_id }}
+          restore-keys: scrape-cache-
+
+      - name: Scrape
+        env:
+          SCRAPE_DELAY: "0.6"
+          SCRAPE_CACHE_TTL: "21600"
+        run: python -m scraper.run
+
+      - name: Show what came back
+        run: |
+          python - <<'PY'
+          import json
+          data = json.load(open("data/events.json"))
+          print(f"{data['count']} events")
+          for source in data["sources"]:
+              flag = "ok  " if source["ok"] else "FAIL"
+              print(f"  {flag} {source['name']}: {source['count']}")
+          PY
+
+      - name: Fail if everything came back empty
+        run: |
+          python - <<'PY'
+          import json, sys
+          data = json.load(open("data/events.json"))
+          if data["count"] == 0:
+              sys.exit("No events at all. Something upstream broke.")
+          PY
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data feeds sitemap.xml
+          if git diff --staged --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Update events for $(date -u +%Y-%m-%d)"
+            git push
+          fi
