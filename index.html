@@ -234,6 +234,14 @@
     </div>
   </form>
 
+  <!-- Says out loud when the dates on this page cannot be trusted. Without
+       it, a stale snapshot or a broken daily job looks exactly like a working
+       calendar, which is how a wrong date reaches somebody's Saturday. -->
+  <div class="notice" id="staleness" role="status" hidden>
+    <svg viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M10 2.8 18.2 17H1.8L10 2.8Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M10 8v3.6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="10" cy="14.3" r="1" fill="currentColor"/></svg>
+    <p id="staleness-text"></p>
+  </div>
+
   <div class="active-bar" id="active-bar" role="status" aria-live="polite"></div>
 
   <section id="results" tabindex="-1" aria-label="Events">
