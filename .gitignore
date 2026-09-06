@@ -13,3 +13,4 @@ __pycache__/
 # site offline. The published site is the repo itself, so this does not
 # belong in it.
 preview.html
+README.md
