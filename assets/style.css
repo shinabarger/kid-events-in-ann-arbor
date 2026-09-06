@@ -12,6 +12,12 @@
 
   --brand-green: #1f7a4c;
   --brand-green-dark: #14563a;
+
+  /* The brand bar is dark in both themes. Deliberately not a semantic token:
+     --brand-green-dark flips light in dark mode so it works as text, which
+     turned the header pale green. */
+  --masthead-bg: #14563a;
+  --masthead-rule: #62b9d8;
   --brand-green-soft: #e6f3ec;
   --warn-bg: #fdf4e3;
   --warn-line: #a8710f;
@@ -47,6 +53,8 @@
   color-scheme: dark;
   --brand-green: #57c48c;
   --brand-green-dark: #7fd8a8;
+  --masthead-bg: #0e3527;
+  --masthead-rule: #2f7f66;
   --brand-green-soft: #15332a;
   --brand-blue: #62b9d8;
   --brand-blue-dark: #8fd0e6;
@@ -78,6 +86,8 @@
     color-scheme: dark;
     --brand-green: #57c48c;
     --brand-green-dark: #7fd8a8;
+    --masthead-bg: #0e3527;
+    --masthead-rule: #2f7f66;
     --brand-green-soft: #15332a;
     --brand-blue: #62b9d8;
     --brand-blue-dark: #8fd0e6;
@@ -166,49 +176,114 @@ a { color: var(--brand-blue-dark); }
 /* --- Masthead ---------------------------------------------------------- */
 
 .masthead {
-  background: linear-gradient(135deg, #14563a, #12506a);
+  /* A flat brand bar rather than a gradient. Solid colour reads as
+     deliberate; a gradient reads as decoration. */
+  background: var(--masthead-bg);
+  border-bottom: 3px solid var(--masthead-rule);
   color: #fff;
-  padding: 18px 0;
+  padding: 14px 0;
 }
 
 .masthead-inner {
   display: flex;
   flex-wrap: wrap;
-  gap: 14px;
+  gap: 14px 20px;
   align-items: center;
   justify-content: space-between;
 }
 
-.brand { display: flex; gap: 12px; align-items: center; }
-.brand-mark { width: 40px; height: 40px; flex: none; }
+/* --- Brand lockup ------------------------------------------------------- */
 
-.masthead h1 {
+.brand {
+  display: flex;
+  gap: 13px;
+  align-items: center;
+  color: inherit;
+  text-decoration: none;
+  border-radius: var(--radius-sm);
+  padding: 4px;
+  margin: -4px;
+}
+.brand:hover .brand-name { text-decoration: underline; text-underline-offset: 3px; }
+.brand:focus-visible { outline: 3px solid #fff; outline-offset: 2px; }
+
+.brand-mark {
+  width: 54px;
+  height: 54px;
+  flex: none;
+  /* Lifts the mark off a dark bar without needing a border. */
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, .3));
+}
+
+.brand-words { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+
+.masthead .brand-name {
   margin: 0;
   font-family: var(--font-display);
-  font-size: 1.55rem;
+  font-size: 1.45rem;
   font-weight: 700;
-  line-height: 1.1;
-  letter-spacing: -0.005em;
+  line-height: 1.05;
+  letter-spacing: .002em;
 }
 
 .tagline {
-  margin: 2px 0 0;
-  font-size: .88rem;
-  color: rgba(255, 255, 255, .88);
-  max-width: 46ch;
+  margin: 0;
+  font-size: .82rem;
+  line-height: 1.3;
+  color: rgba(255, 255, 255, .82);
 }
 
-.masthead-actions { display: flex; gap: 8px; }
+/* --- Header nav --------------------------------------------------------- */
+
+.masthead-nav {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.nav-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 0 13px;
+  border-radius: 999px;
+  color: rgba(255, 255, 255, .88);
+  font-weight: 600;
+  font-size: .92rem;
+  text-decoration: none;
+}
+.nav-link:hover { background: rgba(255, 255, 255, .14); color: #fff; }
+.nav-link:focus-visible { outline: 3px solid #fff; outline-offset: 2px; }
+.nav-link.is-current {
+  color: #fff;
+  background: rgba(255, 255, 255, .16);
+  box-shadow: inset 0 -2px 0 var(--brand-green-light, #7fd8a8);
+}
 
 .masthead .btn-primary { background: #fff; color: #0f4530; }
 .masthead .btn-primary:hover { background: #dff0e6; }
 
 .masthead .btn-ghost {
   color: #fff;
-  border-color: rgba(255, 255, 255, .7);
+  border-color: rgba(255, 255, 255, .55);
   background: rgba(255, 255, 255, .1);
 }
 .masthead .btn-ghost:hover { background: rgba(255, 255, 255, .22); }
+
+/* One toggle, two icons: whichever theme you would switch TO. */
+.theme-moon { display: none; }
+[data-theme="dark"] .theme-sun { display: none; }
+[data-theme="dark"] .theme-moon { display: inline-block; }
+
+@media (max-width: 620px) {
+  /* The label goes, the icon stays, and the accessible name comes from the
+     aria-label the script keeps current. */
+  .theme-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .brand-mark { width: 44px; height: 44px; }
+  .masthead .brand-name { font-size: 1.2rem; }
+  .tagline { display: none; }
+}
 
 /* --- Buttons ----------------------------------------------------------- */
 
@@ -754,7 +829,7 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
 
 @media (min-width: 640px) {
   .filters { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-  .masthead h1 { font-size: 1.7rem; }
+  .masthead .brand-name { font-size: 1.6rem; }
   .card { grid-template-columns: 96px 1fr; }
 }
 
@@ -1273,3 +1348,40 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
 }
 .notice svg { width: 19px; height: 19px; flex: none; margin-top: 1px; }
 .notice p { margin: 0; font-size: .88rem; line-height: 1.45; }
+
+/* --- Prose pages (About) ------------------------------------------------ */
+
+.prose {
+  max-width: 68ch;
+  margin: 0 auto;
+  padding: 2.5rem 0 3.5rem;
+}
+.prose h1 {
+  margin: 0 0 .6rem;
+  font-family: var(--font-display);
+  font-size: clamp(1.9rem, 6vw, 2.6rem);
+  line-height: 1.1;
+  color: var(--brand-green-dark);
+}
+.prose h2 {
+  margin: 2.2rem 0 .5rem;
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  color: var(--brand-green-dark);
+}
+.prose p { margin: 0 0 1rem; font-size: 1rem; line-height: 1.65; }
+.prose .lede {
+  font-size: 1.15rem;
+  line-height: 1.55;
+  color: var(--brand-blue-dark);
+  font-weight: 500;
+  margin-bottom: 1.4rem;
+}
+.prose ul { margin: 0 0 1rem; padding-left: 1.15rem; }
+.prose li { margin: .4rem 0; line-height: 1.6; }
+.prose a { color: var(--brand-blue-dark); }
+.prose-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 2rem; }
+
+[data-theme="dark"] .prose h1,
+[data-theme="dark"] .prose h2 { color: var(--text); }
+[data-theme="dark"] .prose .lede { color: var(--text-soft); }
