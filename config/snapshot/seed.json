@@ -1,9 +1,9 @@
 {
  "captured": "2026-09-04",
- "note": "Real listings observed on the sources on 2026-09-04. Day offsets, not fixed dates, so the snapshot always lands on today.",
+ "note": "Real dates, exactly as they were on the sources when this was captured. They are NOT shifted to look current: a calendar showing the wrong day is worse than one showing nothing, so this goes stale visibly instead.",
  "events": [
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "10:00-21:00",
    "title": "Saline Fair",
    "venue": "Washtenaw Farm Council Fairgrounds",
@@ -19,7 +19,7 @@
    "url": "https://annarborwithkids.com/events/saline-fair-2026-09-04/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "10:00-12:00",
    "title": "Toddler Time at Launch Trampoline",
    "venue": "Launch Trampoline",
@@ -33,7 +33,7 @@
    "url": "https://annarborwithkids.com/events/toddler-time-at-launch-trampoline-2026-09-04/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "10:30-11:30",
    "title": "Baby Playgroups",
    "venue": "Downtown Library: Kids Story Corner",
@@ -48,7 +48,7 @@
    "desc": "Babies up to 24 months and their grown-ups gather and play. Fifteen minutes of stories, rhymes and songs, then open playtime with the library's toys. No older siblings."
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "11:00-19:00",
    "title": "Foodie Fridays",
    "venue": "County Farm Park",
@@ -62,7 +62,7 @@
    "url": "https://annarborwithkids.com/events/foodie-fridays-2026-09-04/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "12:00-12:30",
    "title": "Play the Kerrytown Chime",
    "venue": "Kerrytown Market & Shops",
@@ -77,7 +77,7 @@
    "url": "https://annarborwithkids.com/events/play-the-kerrytown-chime-2026-09-04/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "13:00-14:00",
    "title": "Cardboard Monkey Puppets",
    "venue": "Pittsfield Branch of AADL",
@@ -92,7 +92,7 @@
    "url": "https://annarborwithkids.com/events/cardboard-monkey-puppets-2/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "13:00-14:00",
    "title": "Tech Take-Apart",
    "venue": "Downtown Branch of AADL",
@@ -107,7 +107,7 @@
    "url": "https://annarborwithkids.com/events/tech-take-apart/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "15:00-18:00",
    "title": "Dixboro Farmers Market",
    "venue": "Dixboro Farmers Market",
@@ -122,7 +122,7 @@
    "url": "https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-09-04/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "16:00-22:00",
    "title": "First Friday Ypsilanti",
    "venue": "Downtown Ypsilanti",
@@ -137,7 +137,7 @@
    "url": "https://annarborwithkids.com/events/first-friday-ypsilanti-3-2026-09-04/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "17:00-19:00",
    "title": "First Fridays: Natural Dyes",
    "venue": "Ypsilanti District Library - Michigan Ave Branch",
@@ -152,7 +152,7 @@
    "url": "https://annarborwithkids.com/events/grow-your-garden-series-pollinator-garden/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "17:00-18:30",
    "title": "Family Trivia Night",
    "venue": "Ann Arbor Senior Center",
@@ -168,7 +168,7 @@
    "url": "https://annarborwithkids.com/events/family-trivia-night/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "17:30-19:30",
    "title": "Silent Disco Dance Party",
    "venue": "Downtown Branch of AADL",
@@ -183,7 +183,7 @@
    "url": "https://annarborwithkids.com/events/silent-disco-dance-party/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "17:30-20:00",
    "title": "Live from Tolan Square",
    "venue": "Tolan Square",
@@ -198,7 +198,7 @@
    "url": "https://annarborwithkids.com/events/live-from-tolan-square-2026-09-04/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "18:00-19:30",
    "title": "Handmade Felt Food: Cherries",
    "venue": "Traverwood Branch of AADL",
@@ -213,7 +213,7 @@
    "url": "https://annarborwithkids.com/events/handmade-felt-food-cherries/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "t": "19:00",
    "title": "Anything Goes, Professional Youth Theatre of Michigan",
    "venue": "Riverside Arts Center",
@@ -230,7 +230,7 @@
    "url": "https://annarborwithkids.com/events/hadestown-teen-edition-2026-09-04/"
   },
   {
-   "d": 0,
+   "d": "2026-09-04",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -243,7 +243,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "07:00-15:00",
    "title": "Ann Arbor Farmers Market",
    "venue": "Ann Arbor Farmers Market",
@@ -258,7 +258,7 @@
    "url": "https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-09-05/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "08:00-13:00",
    "title": "Chelsea Farmers Market",
    "venue": "Palmer Commons",
@@ -273,7 +273,7 @@
    "url": "https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-09-05/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "08:00-09:30",
    "title": "Lillie parkrun",
    "venue": "Lillie Park",
@@ -288,7 +288,7 @@
    "url": "https://annarborwithkids.com/events/lillie-parkrun-2026-09-05/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "08:00-13:00",
    "title": "Dexter Farmers Market",
    "venue": "Dexter Farmers Market",
@@ -303,7 +303,7 @@
    "url": "https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-09-05/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "09:00-10:00",
    "title": "Toddler Time at Launch Trampoline",
    "venue": "Launch Trampoline",
@@ -317,7 +317,7 @@
    "url": "https://annarborwithkids.com/events/toddler-time-at-launch-trampoline-2-2026-09-05/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "09:00-13:00",
    "title": "Ypsilanti Farmers Market",
    "venue": "Downtown Ypsilanti Farmers Market",
@@ -332,7 +332,7 @@
    "url": "https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-09-05/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "10:00-21:00",
    "title": "Saline Fair",
    "venue": "Washtenaw Farm Council Fairgrounds",
@@ -348,7 +348,7 @@
    "url": "https://annarborwithkids.com/events/saline-fair-2026-09-05/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "10:30-11:00",
    "title": "Play the Kerrytown Chime",
    "venue": "Kerrytown Market & Shops",
@@ -363,7 +363,7 @@
    "url": "https://annarborwithkids.com/events/play-the-kerrytown-chime-2026-09-05/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "11:00-12:00",
    "title": "\"Talking\" Pop-Up Monsters",
    "venue": "Traverwood Branch of AADL",
@@ -378,7 +378,7 @@
    "url": "https://annarborwithkids.com/events/talking-pop-up-monsters/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "11:00-11:30",
    "title": "French Storytime",
    "venue": "Westgate Branch of AADL",
@@ -393,7 +393,7 @@
    "url": "https://annarborwithkids.com/events/french-storytime-2/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "11:00-12:00",
    "title": "Grow Your Garden: Community Garden Plant Out",
    "venue": "Ypsilanti District Library - Michigan Ave Branch",
@@ -408,7 +408,7 @@
    "url": "https://annarborwithkids.com/events/grow-your-garden-community-garden-plant-out-2/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "11:15-12:00",
    "title": "Read and Look: Greece! Rome! Monsters!",
    "venue": "Kelsey Museum of Archaeology",
@@ -423,7 +423,7 @@
    "url": "https://annarborwithkids.com/events/read-and-look-im-trying-to-love-garbage-2/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "12:00-15:00",
    "title": "Critter House Open Hours",
    "venue": "Leslie Science & Nature Center",
@@ -437,7 +437,7 @@
    "url": "https://annarborwithkids.com/events/critter-house-open-hours-2-2026-09-05/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "12:00-15:00",
    "title": "Dexter Cider Mill 140th Season Celebration",
    "venue": "Dexter Cider Mill",
@@ -451,7 +451,7 @@
    "url": "https://annarborwithkids.com/events/dexter-cider-mill-140th-season-celebration/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "13:00-15:00",
    "title": "International Vulture Awareness Day Celebration",
    "venue": "Leslie Science & Nature Center",
@@ -466,7 +466,7 @@
    "url": "https://annarborwithkids.com/events/international-vulture-awareness-day-celebration/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "14:00-15:00",
    "title": "Knitting Nancies",
    "venue": "Malletts Creek Branch of AADL",
@@ -481,7 +481,7 @@
    "url": "https://annarborwithkids.com/events/knitting-nancies-3/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "14:00-16:00",
    "title": "Crafternoon: Sew a Pouch",
    "venue": "SCRAP Creative Reuse",
@@ -498,7 +498,7 @@
    "url": "https://annarborwithkids.com/events/crafternoon-decoupage/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "14:00-22:00",
    "title": "The Rumble of the Bumble",
    "venue": "Depot Town",
@@ -513,7 +513,7 @@
    "url": "https://annarborwithkids.com/events/the-rumble-of-the-bumble/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "15:00-17:00",
    "title": "Fall Ball: Fairy Science",
    "venue": "Ypsilanti District Library - Michigan Ave Branch",
@@ -528,7 +528,7 @@
    "url": "https://annarborwithkids.com/events/fall-ball-fairy-science/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "16:00-17:30",
    "title": "Author Event: The Side Questers with J.J. Kochmanski",
    "venue": "Traverwood Branch of AADL",
@@ -543,7 +543,7 @@
    "url": "https://annarborwithkids.com/events/author-event-the-side-questers-with-j-j-kochmanski/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "t": "19:00",
    "title": "Anything Goes, Professional Youth Theatre of Michigan",
    "venue": "Riverside Arts Center",
@@ -560,7 +560,7 @@
    "url": "https://annarborwithkids.com/events/hadestown-teen-edition-2026-09-05/"
   },
   {
-   "d": 1,
+   "d": "2026-09-05",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -573,7 +573,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "t": "10:00-21:00",
    "title": "Saline Fair",
    "venue": "Washtenaw Farm Council Fairgrounds",
@@ -589,7 +589,7 @@
    "url": "https://annarborwithkids.com/events/saline-fair-2026-09-06/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "t": "10:00-14:00",
    "title": "Whitmore Lake Farmers Market",
    "venue": "Northfield Community Park",
@@ -604,7 +604,7 @@
    "url": "https://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-09-06/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "t": "11:00",
    "title": "Family-Friendly Film Series: Sing",
    "venue": "Michigan Theater",
@@ -619,7 +619,7 @@
    "url": "https://annarborwithkids.com/events/family-friendly-film-series-sing/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "t": "11:00-11:45",
    "title": "Dancing Babies with Momo Kajiwara",
    "venue": "Downtown Branch of AADL",
@@ -634,7 +634,7 @@
    "url": "https://annarborwithkids.com/events/dancing-babies-with-momo-kajiwara/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "t": "12:00-13:30",
    "title": "Women in Engineering",
    "venue": "Malletts Creek Branch of AADL",
@@ -649,7 +649,7 @@
    "url": "https://annarborwithkids.com/events/women-in-engineering/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "t": "12:00-15:00",
    "title": "Critter House Open Hours",
    "venue": "Leslie Science & Nature Center",
@@ -663,7 +663,7 @@
    "url": "https://annarborwithkids.com/events/critter-house-open-hours-2-2026-09-06/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "t": "12:30-14:00",
    "title": "Guided Acrylic Painting with Katie Hammond",
    "venue": "Downtown Branch of AADL",
@@ -678,7 +678,7 @@
    "url": "https://annarborwithkids.com/events/guided-acrylic-painting-with-katie-hammond/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "t": "13:00-14:30",
    "title": "Celebrating 10 Years of Westgate Branch",
    "venue": "Westgate Branch of AADL",
@@ -693,7 +693,7 @@
    "url": "https://annarborwithkids.com/events/celebrating-10-years-of-westgate-branch/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "t": "16:00-18:00",
    "title": "Puzzle and Board Game Swap",
    "venue": "Downtown Branch of AADL",
@@ -708,7 +708,7 @@
    "url": "https://annarborwithkids.com/events/puzzle-and-board-game-swap-2/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "t": "12:00",
    "title": "Anything Goes, Professional Youth Theatre of Michigan",
    "venue": "Riverside Arts Center",
@@ -725,7 +725,7 @@
    "url": "https://annarborwithkids.com/events/hadestown-teen-edition-2026-09-06/"
   },
   {
-   "d": 2,
+   "d": "2026-09-06",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -738,7 +738,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 3,
+   "d": "2026-09-07",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -751,7 +751,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 3,
+   "d": "2026-09-07",
    "t": "10:00-18:00",
    "title": "Labor Day at Rolling Hills Water Park",
    "venue": "Rolling Hills County Park",
@@ -764,7 +764,7 @@
    "desc": "Last day of the water park season. Slides, lazy river, and the toddler splash area. Check the county site before driving out."
   },
   {
-   "d": 4,
+   "d": "2026-09-08",
    "t": "10:30-11:30",
    "title": "Baby Playgroups",
    "venue": "Malletts Creek Branch of AADL",
@@ -778,7 +778,7 @@
    "desc": "Fifteen minutes of stories, rhymes, and songs led by AADL staff, then open playtime. Grown-ups stay with their kids. No older siblings."
   },
   {
-   "d": 4,
+   "d": "2026-09-08",
    "t": "10:30-11:00",
    "title": "Preschool Storytimes",
    "venue": "Pittsfield Branch of AADL",
@@ -792,7 +792,7 @@
    "desc": "Half an hour of stories and songs for kids ages 2 to 5 with a caregiver."
   },
   {
-   "d": 4,
+   "d": "2026-09-08",
    "t": "15:00-19:00",
    "title": "Westside Farmers Market",
    "venue": "Zingerman's Roadhouse",
@@ -804,7 +804,7 @@
    "desc": "Thursdays 3-7p through October."
   },
   {
-   "d": 4,
+   "d": "2026-09-08",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -817,7 +817,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 5,
+   "d": "2026-09-09",
    "t": "10:30-11:30",
    "title": "Little Play Date",
    "venue": "Westgate Branch of AADL",
@@ -832,7 +832,7 @@
    "desc": "Open play with the library's toys and soft blocks. Registration required, it fills fast."
   },
   {
-   "d": 5,
+   "d": "2026-09-09",
    "t": "10:30-11:00",
    "title": "Ms Rachel Storytime",
    "venue": "Recess Cafe",
@@ -844,7 +844,7 @@
    "desc": "A half hour of songs and stories at the cafe. Coffee for you while they wiggle."
   },
   {
-   "d": 5,
+   "d": "2026-09-09",
    "t": "14:00-18:00",
    "title": "Pittsfield Township Farmers Market",
    "venue": "Pittsfield Charter Township Administration Building",
@@ -856,7 +856,7 @@
    "desc": "Thursdays 2-6p."
   },
   {
-   "d": 5,
+   "d": "2026-09-09",
    "t": "17:30-19:30",
    "title": "Open Lab: 3D Printers and Laser Engraver",
    "venue": "Downtown Branch of AADL",
@@ -870,7 +870,7 @@
    "desc": "Drop in to the Secret Lab and use the 3D printers and laser engraver with staff on hand."
   },
   {
-   "d": 5,
+   "d": "2026-09-09",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -883,7 +883,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 6,
+   "d": "2026-09-10",
    "t": "10:00-14:00",
    "title": "Nature Lab: Fossils Up Close",
    "venue": "U-M Museum of Natural History",
@@ -895,7 +895,7 @@
    "desc": "Kids age 6 and up get into the museum's labs to handle real specimens with real tools. Drop in any time in the window."
   },
   {
-   "d": 6,
+   "d": "2026-09-10",
    "t": "11:00-16:00",
    "title": "Monarch Migration Festival",
    "venue": "Leslie Science & Nature Center",
@@ -910,7 +910,7 @@
    "desc": "Butterfly tagging, live raptors, crafts, and a food truck. The tagging demo runs on the hour and fills up fast."
   },
   {
-   "d": 6,
+   "d": "2026-09-10",
    "t": "13:00-14:00",
    "title": "Star Wars Paper Crafts",
    "venue": "Pittsfield Branch of AADL",
@@ -924,7 +924,7 @@
    "desc": "Make a Wookiee paper bag puppet and color, cut, and paste Star Wars character bookmarks."
   },
   {
-   "d": 6,
+   "d": "2026-09-10",
    "t": "13:00-14:00",
    "title": "Superhero Masks",
    "venue": "Malletts Creek Branch of AADL",
@@ -938,7 +938,7 @@
    "desc": "Make a superhero mask using markers, stickers, and foam shapes."
   },
   {
-   "d": 6,
+   "d": "2026-09-10",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -951,7 +951,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 7,
+   "d": "2026-09-11",
    "t": "10:00-11:00",
    "title": "Summer Storytime",
    "venue": "Literati Bookstore",
@@ -963,7 +963,7 @@
    "desc": "Literati staff read picture books and lead a kids activity. Main St, in front of the Pretzel Bell."
   },
   {
-   "d": 7,
+   "d": "2026-09-11",
    "t": "11:00",
    "title": "Tales from Detroit",
    "venue": "Ypsi Freighthouse",
@@ -977,7 +977,7 @@
    "desc": "Flying Cardboard Theater performs a puppet play celebrating the hidden wonders of Detroit, then leads a workshop where kids make and use a rod puppet."
   },
   {
-   "d": 7,
+   "d": "2026-09-11",
    "t": "18:30-20:00",
    "title": "Family Campfire Night",
    "venue": "Hudson Mills Metropark",
@@ -991,7 +991,7 @@
    "desc": "Marshmallows, a short night hike, and a naturalist who knows every owl call in the park. $5 per vehicle entry."
   },
   {
-   "d": 7,
+   "d": "2026-09-11",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -1004,7 +1004,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 8,
+   "d": "2026-09-12",
    "t": "10:30-11:30",
    "title": "Kinetic Sandbox!",
    "venue": "Traverwood Branch of AADL",
@@ -1018,7 +1018,7 @@
    "desc": "Play with easy-to-mold kinetic sand."
   },
   {
-   "d": 8,
+   "d": "2026-09-12",
    "t": "10:30-11:30",
    "title": "Outdoor Story Time",
    "venue": "Ward Park",
@@ -1031,7 +1031,7 @@
    "desc": "Stories, play, and crafts on a theme. This week: seed dispersal. Dress for the weather and bring snacks. Weather permitting."
   },
   {
-   "d": 8,
+   "d": "2026-09-12",
    "t": "17:00-18:00",
    "title": "Fall Soccer Skills, Ages 4-6",
    "venue": "Rec & Ed Balas Building",
@@ -1045,7 +1045,7 @@
    "desc": "Six week session on Tuesdays. Registration required and it fills the week the catalog drops."
   },
   {
-   "d": 8,
+   "d": "2026-09-12",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -1058,7 +1058,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 9,
+   "d": "2026-09-13",
    "t": "10:00-12:00",
    "title": "Fall Open House",
    "venue": "Faber Piano Institute",
@@ -1071,7 +1071,7 @@
    "desc": "Play music games, make crafts, and learn to play a tune on the keyboard."
   },
   {
-   "d": 9,
+   "d": "2026-09-13",
    "t": "15:00-16:30",
    "title": "Crochet for Kids",
    "venue": "Malletts Creek Branch of AADL",
@@ -1085,7 +1085,7 @@
    "desc": "Learn crochet basics."
   },
   {
-   "d": 9,
+   "d": "2026-09-13",
    "t": "15:00-16:00",
    "title": "Zip Line Rescue",
    "venue": "Westgate Branch of AADL",
@@ -1099,7 +1099,7 @@
    "desc": "Build and test a small cart to carry a figure down a zip line."
   },
   {
-   "d": 9,
+   "d": "2026-09-13",
    "t": "12:00-17:00",
    "title": "Splash Pad Open Swim",
    "venue": "Rolling Hills County Park",
@@ -1112,7 +1112,7 @@
    "desc": "The water park stays open on warm September weekends. Check the county site before you drive out, they close it when it gets cold."
   },
   {
-   "d": 9,
+   "d": "2026-09-13",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -1125,7 +1125,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 10,
+   "d": "2026-09-14",
    "t": "11:00-12:00",
    "title": "Rocket Science",
    "venue": "Downtown Branch of AADL",
@@ -1139,7 +1139,7 @@
    "desc": "Learn the basic properties of aerodynamics in rockets, led by NASA solar system ambassador Kailly Nocera."
   },
   {
-   "d": 10,
+   "d": "2026-09-14",
    "t": "16:00-17:30",
    "title": "Beginner Chess Club",
    "venue": "Malletts Creek Branch of AADL",
@@ -1153,7 +1153,7 @@
    "desc": "Learn the pieces, play a few games. No experience needed, boards provided."
   },
   {
-   "d": 10,
+   "d": "2026-09-14",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -1166,7 +1166,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 11,
+   "d": "2026-09-15",
    "t": "11:00-11:30",
    "title": "Little Story Party: Dino Party",
    "venue": "Ann Arbor Hands-On Museum",
@@ -1179,7 +1179,7 @@
    "desc": "Museum staff read a dinosaur story, then lead a short hands-on activity inspired by the book. $16 museum admission, babies under 2 free."
   },
   {
-   "d": 11,
+   "d": "2026-09-15",
    "t": "10:00-11:30",
    "title": "Rescue Reading",
    "venue": "Humane Society of Huron Valley",
@@ -1193,7 +1193,7 @@
    "desc": "Kids work on their reading skills by reading to adoptable animals. Also a group read-aloud and a dog meet-and-greet. No adults."
   },
   {
-   "d": 11,
+   "d": "2026-09-15",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
@@ -1206,7 +1206,7 @@
    "url": "https://annarborwithkids.com/kids-eat-free/"
   },
   {
-   "d": 13,
+   "d": "2026-09-17",
    "t": "17:30-20:30",
    "title": "Pets and Pajamas Movie Night",
    "venue": "Humane Society of Huron Valley",
@@ -1220,7 +1220,7 @@
    "desc": "Watch an animal-themed movie and hang out with adoptable pets. Cheese pizza dinner. Wear pajamas and bring a sleeping bag and pillow."
   },
   {
-   "d": 13,
+   "d": "2026-09-17",
    "allday": true,
    "title": "Kids Eat Free",
    "venue": "Various restaurants",
