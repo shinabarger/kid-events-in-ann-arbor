@@ -20,7 +20,8 @@ from zoneinfo import ZoneInfo
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from scraper import classify, courtesy, geo, icsbuild, kidfilter, seo  # noqa: E402
+from scraper import (classify, courtesy, geo, icsbuild, kidfilter,  # noqa: E402
+                     notevents, seo)
 from scraper.dedupe import dedupe  # noqa: E402
 from scraper.sources import canva, recurring  # noqa: E402
 from scraper.models import AGE_BANDS, AGE_BAND_LABELS, ZONE_LABELS, Event  # noqa: E402
@@ -59,14 +60,22 @@ def today() -> datetime:
     return datetime.now(EASTERN).replace(tzinfo=None)
 
 
-def stamp(day_offset: int, clock: str | None) -> str:
-    day = today() + timedelta(days=day_offset)
+def stamp(day: str, clock: str | None) -> str:
+    """The date the source actually said, not one shifted to look current.
+
+    This used to store day offsets and re-stamp them against whatever day the
+    build ran, so the sample always looked fresh. It also meant every date was
+    wrong by however long it had been since the snapshot: a Saturday cider
+    mill event showed up on Sunday, then Monday. On a calendar people plan
+    around, that is the worst possible failure, so the snapshot now carries
+    real dates and goes stale visibly instead.
+    """
     hour, minute = (0, 0)
     if clock:
         hour, minute = (int(p) for p in clock.split(":"))
-    day = day.replace(hour=hour, minute=minute, second=0, microsecond=0)
-    offset = "-04:00" if 3 <= day.month <= 11 else "-05:00"
-    return day.strftime("%Y-%m-%dT%H:%M:%S") + offset
+    when = datetime.fromisoformat(day).replace(hour=hour, minute=minute)
+    offset = "-04:00" if 3 <= when.month <= 11 else "-05:00"
+    return when.strftime("%Y-%m-%dT%H:%M:%S") + offset
 
 
 def to_event(row: dict) -> Event:
@@ -135,6 +144,7 @@ def main() -> int:
         events.append(event)
 
     events = defer_projections(events)
+    events, _ = notevents.apply(events)
     events, _ = kidfilter.filter_mixed(events, mixed_sources())
     events = dedupe(events)
     events = courtesy.apply(events)
@@ -144,6 +154,11 @@ def main() -> int:
     by_source = {}
     for event in events:
         by_source[event.source] = by_source.get(event.source, 0) + 1
+
+    display_names = {}
+    for event in events:
+        if event.source and event.source_name:
+            display_names.setdefault(event.source, event.source_name)
 
     payload = {
         "generated": today().isoformat(timespec="seconds"),
@@ -155,7 +170,8 @@ def main() -> int:
                       for k, v in AGE_BANDS.items()],
         "zones": [{"key": k, "label": v} for k, v in ZONE_LABELS.items()],
         "sources": [
-            {"key": key, "name": SOURCE_NAMES.get(key, key), "count": count,
+            {"key": key, "name": display_names.get(key) or SOURCE_NAMES.get(key, key),
+             "count": count,
              "ok": True, "error": "", "seconds": 0}
             for key, count in sorted(by_source.items(), key=lambda kv: -kv[1])
         ],
