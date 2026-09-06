@@ -1685,6 +1685,24 @@
     if (undoButton) undoButton.disabled = state.history.length === 0;
   }
 
+  /* The data changes every morning and the page does not, so a cached
+     events.json is a calendar quietly showing yesterday. GitHub Pages sends a
+     long max-age, and a browser will happily reuse it past that.
+
+     Two defences. cache: "no-cache" forces a conditional request, so the
+     server still answers 304 when nothing changed and it costs almost
+     nothing. The date parameter is for anything in between that ignores the
+     header, and it changes once a day, which is exactly how often the file
+     does. */
+  function loadJson(path) {
+    var stamp = new Date().toLocaleDateString("en-CA", { timeZone: TZ });
+    return fetch(path + "?d=" + stamp, { cache: "no-cache" })
+      .then(function (r) {
+        if (!r.ok) throw new Error(path + " came back " + r.status);
+        return r.json();
+      });
+  }
+
   /* ---------- is this data any good --------------------------------------- */
 
   // A day and a half. The job runs every morning, so one missed run is worth
@@ -2059,8 +2077,8 @@
     }
 
     Promise.all([
-      fetch("data/events.json").then(function (r) { return r.json(); }),
-      fetch("data/feeds.json").then(function (r) { return r.json(); })
+      loadJson("data/events.json"),
+      loadJson("data/feeds.json")
         .catch(function () { return { feeds: [] }; })
     ]).then(function (results) {
       boot(results[0], results[1]);

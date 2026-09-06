@@ -280,6 +280,8 @@ def build_payload(events: list, report: list) -> dict:
     rows = [e.to_dict() for e in events]
     return {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        # Always present, so the page never has to guess from a missing key.
+        "sample": False,
         "count": len(rows),
         "horizon_days": HORIZON_DAYS,
         "age_bands": [{"key": k, "label": AGE_BAND_LABELS[k], "range": list(v)}
