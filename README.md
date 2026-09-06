@@ -346,7 +346,7 @@ everything else still publishes.
 ## Notes
 
 Times come straight from the source. Always double check with the organizer
-before you load the car, especially for anything outdoors in Michigan.
+before you head out, especially for anything outdoors.
 
 MIT licensed. The event data belongs to whoever published it, this just points
 at it.
