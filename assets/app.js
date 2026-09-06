@@ -364,6 +364,21 @@
     }).toString();
   }
 
+  function outlookLink(event) {
+    // Outlook wants plain ISO with an offset rather than the compact iCal
+    // stamp Google uses, and the deeplink only opens the composer when
+    // rru=addevent is present.
+    return "https://outlook.live.com/calendar/0/deeplink/compose?" + new URLSearchParams({
+      path: "/calendar/action/compose",
+      rru: "addevent",
+      subject: event.title,
+      startdt: event.start,
+      enddt: endOrGuess(event),
+      location: calendarLocation(event),
+      body: blurb(event)
+    }).toString();
+  }
+
   function icsEscape(value) {
     return String(value || "").replace(/\\/g, "\\\\").replace(/;/g, "\\;")
       .replace(/,/g, "\\,").replace(/\r?\n/g, "\\n");
@@ -494,13 +509,7 @@
 
     fillBadges(node.querySelector(".badges"), event);
 
-    var google = node.querySelector(".card-google");
-    google.href = googleLink(event);
-    google.setAttribute("aria-label", "Add " + event.title + " to Google Calendar");
-
-    var apple = node.querySelector(".card-apple");
-    apple.setAttribute("aria-label", "Add " + event.title + " to Apple Calendar");
-    apple.addEventListener("click", function () { downloadIcs(event); });
+    buildCalendarMenu(node.querySelector(".cal-menu"), event);
 
     var copy = node.querySelector(".card-copy");
     copy.setAttribute("aria-label", "Copy a link to " + event.title);
@@ -509,13 +518,142 @@
     var source = node.querySelector(".card-source");
     if (event.url) {
       source.href = event.url;
-      source.setAttribute("aria-label", "View " + event.title + " on " + event.source_name);
+      source.setAttribute("aria-label",
+        "View " + event.title + " on " + event.source_name + ", opens in a new tab");
     } else {
       // No specific page to send anyone to, so do not send them to a listing.
       source.remove();
     }
 
     return node;
+  }
+
+  /* ---------- add to calendar ------------------------------------------- */
+
+  /* One button, three destinations. Built as a real menu rather than a row of
+     links: arrow keys move between the items, Escape closes and puts focus
+     back on the button, and the whole thing is announced as a menu instead of
+     three loose buttons that happen to sit next to each other. */
+
+  var CALENDARS = [
+    {
+      key: "google", label: "Google Calendar",
+      icon: '<svg viewBox="0 0 20 20" aria-hidden="true" focusable="false">' +
+        '<rect x="3" y="4" width="14" height="13" rx="1.6" fill="none" stroke="currentColor" stroke-width="1.6"/>' +
+        '<path d="M3 8h14M6.5 2.4v3.2m7-3.2v3.2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>' +
+        '<path d="m7.6 12.4 1.7 1.7 3.3-3.4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+      href: googleLink
+    },
+    {
+      key: "apple", label: "Apple Calendar",
+      icon: '<svg viewBox="0 0 20 20" aria-hidden="true" focusable="false">' +
+        '<path d="M13.3 10.6c0-1.7 1.4-2.5 1.5-2.6-.8-1.2-2-1.3-2.5-1.4-1-.1-2 .6-2.6.6-.5 0-1.4-.6-2.3-.6-1.2 0-2.3.7-2.9 1.8-1.2 2.1-.3 5.3.9 7 .6.9 1.3 1.8 2.2 1.800-.9 0 1.2-.6 2.3-.6 1 0 1.3.6 2.3.6.9 0 1.5-.9 2.1-1.7.7-1 .9-1.9.9-2-.1 0-1.8-.7-1.8-2.7Z" fill="currentColor"/>' +
+        '<path d="M11.7 5.2c.5-.6.8-1.4.7-2.2-.7 0-1.6.5-2.1 1.1-.4.5-.8 1.3-.7 2.1.8 0 1.6-.4 2.1-1Z" fill="currentColor"/></svg>',
+      download: true
+    },
+    {
+      key: "outlook", label: "Outlook Calendar",
+      icon: '<svg viewBox="0 0 20 20" aria-hidden="true" focusable="false">' +
+        '<rect x="2.5" y="5" width="9" height="10" rx="1.4" fill="none" stroke="currentColor" stroke-width="1.6"/>' +
+        '<ellipse cx="7" cy="10" rx="2" ry="2.4" fill="none" stroke="currentColor" stroke-width="1.5"/>' +
+        '<path d="M12.5 6.5h5v7h-5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>' +
+        '<path d="m12.7 7.6 4.6 2.7" fill="none" stroke="currentColor" stroke-width="1.4"/></svg>',
+      href: outlookLink
+    }
+  ];
+
+  function closeCalendarMenus(except) {
+    document.querySelectorAll(".cal-menu").forEach(function (menu) {
+      if (menu === except) return;
+      var panel = menu.querySelector(".cal-panel");
+      var button = menu.querySelector(".card-cal");
+      if (panel && !panel.hidden) {
+        panel.hidden = true;
+        button.setAttribute("aria-expanded", "false");
+      }
+    });
+  }
+
+  function buildCalendarMenu(menu, event) {
+    if (!menu) return;
+    var button = menu.querySelector(".card-cal");
+    var panel = menu.querySelector(".cal-panel");
+
+    button.setAttribute("aria-label", "Add " + event.title + " to a calendar");
+
+    var items = CALENDARS.map(function (calendar) {
+      var item;
+      if (calendar.download) {
+        item = document.createElement("button");
+        item.type = "button";
+        item.addEventListener("click", function () {
+          downloadIcs(event);
+          close(true);
+        });
+      } else {
+        item = document.createElement("a");
+        item.href = calendar.href(event);
+        item.target = "_blank";
+        item.rel = "noopener";
+        item.addEventListener("click", function () { close(false); });
+      }
+      item.className = "cal-item";
+      item.setAttribute("role", "menuitem");
+      item.tabIndex = -1;
+      item.innerHTML = calendar.icon + "<span></span>";
+      item.querySelector("span").textContent = calendar.label;
+      panel.appendChild(item);
+      return item;
+    });
+
+    panel.setAttribute("aria-label", "Add " + event.title + " to a calendar");
+
+    function open() {
+      closeCalendarMenus(menu);
+      panel.hidden = false;
+      button.setAttribute("aria-expanded", "true");
+      items[0].focus();
+    }
+
+    function close(refocus) {
+      panel.hidden = true;
+      button.setAttribute("aria-expanded", "false");
+      if (refocus) button.focus();
+    }
+
+    button.addEventListener("click", function (e) {
+      e.stopPropagation();
+      if (panel.hidden) open(); else close(true);
+    });
+
+    button.addEventListener("keydown", function (e) {
+      if (e.key === "ArrowDown" || e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        if (panel.hidden) open(); else items[0].focus();
+      }
+    });
+
+    panel.addEventListener("keydown", function (e) {
+      var here = items.indexOf(document.activeElement);
+      if (e.key === "Escape") {
+        e.preventDefault();
+        close(true);
+      } else if (e.key === "ArrowDown") {
+        e.preventDefault();
+        items[(here + 1) % items.length].focus();
+      } else if (e.key === "ArrowUp") {
+        e.preventDefault();
+        items[(here - 1 + items.length) % items.length].focus();
+      } else if (e.key === "Home") {
+        e.preventDefault();
+        items[0].focus();
+      } else if (e.key === "End") {
+        e.preventDefault();
+        items[items.length - 1].focus();
+      } else if (e.key === "Tab") {
+        close(false);
+      }
+    });
   }
 
   /* ---------- expand, collapse, share ----------------------------------- */
@@ -1214,14 +1352,18 @@
     var button = $("theme-toggle");
     var saved = null;
     try { saved = localStorage.getItem("a2kids-theme"); } catch (err) { saved = null; }
-    var prefersDark = typeof window.matchMedia === "function" &&
-      window.matchMedia("(prefers-color-scheme: dark)").matches;
-    var dark = saved ? saved === "dark" : prefersDark;
+
+    // Light unless you have asked for dark. Following the system setting meant
+    // anybody whose laptop is on dark got a dark kids calendar without ever
+    // choosing one, which is not the first impression this wants to make.
+    var dark = saved === "dark";
 
     function paint() {
       document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
       button.setAttribute("aria-pressed", dark ? "true" : "false");
       button.querySelector(".theme-label").textContent = dark ? "Light" : "Dark";
+      button.setAttribute("aria-label",
+        dark ? "Switch to the light theme" : "Switch to the dark theme");
     }
     paint();
 
@@ -1496,7 +1638,9 @@
     });
 
     document.addEventListener("click", function (e) {
-      if (!e.target.closest || !e.target.closest(".multi")) closeAllPanels();
+      if (!e.target.closest) return;
+      if (!e.target.closest(".multi")) closeAllPanels();
+      if (!e.target.closest(".cal-menu")) closeCalendarMenus();
     });
 
     el.list.innerHTML = '<p class="loading">Loading events...</p>';
