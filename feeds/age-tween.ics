@@ -9,556 +9,8 @@ X-WR-TIMEZONE:America/Detroit
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:410f11f271f2d96b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T110000Z
-DTEND:20260905T190000Z
-SUMMARY:Ann Arbor Farmers Market
-LOCATION:Ann Arbor Farmers Market\, Ann Arbor Farmers Market\, 315 Detroit
-  St\, Ann Arbor\, MI\, 48104\, Kerrytown\, United States
-GEO:42.2839239;-83.74643179999998
-DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
- bor Farmers Market is open on Wednesdays and Saturdays from 7a-3p from Ma
- y through December and on Saturdays from 8a-3p January through April.\n\n
- Where: Ann Arbor Farmers Market\, 315 Detroit St\, Ann Arbor\, MI\, 48104
- \, Kerrytown\, United States\nAges: Babies\, Elementary\, High Schoolers\
- , MiddleSchoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\,
-  no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor
-  with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
- s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
- -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-02-2026-09-05/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=410f11f271f2d96b\n\nDouble check th
- e time with the organizer before you go.
-URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
- -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
- 6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
- -2026-02-2026-09-05/
-CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
- eSchoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:c87dcc4ae0a95e40@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T120000Z
-DTEND:20260905T170000Z
-SUMMARY:Chelsea Farmers Market
-LOCATION:Palmer Commons\, Palmer Commons\, 311 S Main St\, Chelsea\, Michi
- gan\, 48118\, Chelsea\, United States
-GEO:42.315448;-84.020088
-DESCRIPTION:The Chelsea Farmers Market's 2025 season runs May-October. The
-  market is 10a-3p on Wednesdays at Chelsea State Bank lot and 8a-1p on Sa
- turdays at Palmer Commons.\n\nWhere: Palmer Commons\, 311 S Main St\, Che
- lsea\, Michigan\, 48118\, Chelsea\, United States\, Ann Arbor\nDrive: abo
- ut 4 minutes from downtown Ann Arbor\nAges: Elementary\, High Schoolers\,
-  MiddleSchoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\, 
- no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor 
- with Kids\nDetails: https://annarborwithkids.com/events/chelsea-farmers-m
- arket-2-2-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-
- 06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026
- -07-25-2026-08-01-2026-29-2026-09-05/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=c87dcc4ae0a95e40\n\nDouble check the
-  time with the organizer before you go.
-URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-05
- -02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-202
- 6-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01
- -2026-29-2026-09-05/
-CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
- choolers
-END:VEVENT
-BEGIN:VEVENT
-UID:283eabd3428eb43a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T120000Z
-DTEND:20260905T170000Z
-SUMMARY:Dexter Farmers Market
-LOCATION:Dexter Farmers Market\, Dexter Farmers Market\, 3233 Alpine St\, 
- Dexter\, Michigan\, 48130\, Dexter\, United States
-GEO:42.3395891;-83.88928120000003
-DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dexter
-  Farmers Market is held on Saturday from 8a-1p and Tuesdays from 11a-3p. 
- For 2026\, the city has said they are focusing their resources on the Sat
- urday market.\n\nWhere: Dexter Farmers Market\, 3233 Alpine St\, Dexter\,
-  Michigan\, 48130\, Dexter\, United States\, Ann Arbor\nDrive: about 4 mi
- nutes from downtown Ann Arbor\nAges: Babies\, Elementary\, HighSchoolers\
- , Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\
- , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
- r with Kids\nDetails: https://annarborwithkids.com/events/dexter-farmers-
- market-2-2-2026-09-05/\nFound on: https://shinabarger.github.io/kid-event
- s-in-ann-arbor/?event=283eabd3428eb43a\n\nDouble check the time with the 
- organizer before you go.
-URL:https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-09-
- 05/
-CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:01ee1dd61aa61520@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T120000Z
-DTEND:20260905T133000Z
-SUMMARY:Lillie parkrun
-LOCATION:Lillie Park\, Lillie Park\, 4365 Platt Road\, Ann Arbor\, MI\, 48
- 108\, United States
-GEO:42.22392199999999;-83.697273
-DESCRIPTION:Join Lillie parkrun every Saturday for a free\, fun\, and fami
- ly-friendly weekly 5k community event. Walk\, jog\, run\, volunteer\, or 
- spectate – it's up to you! The meet at 8a from May-September and 9a from 
- October-April.\n\nWhere: Lillie Park\, 4365 Platt Road\, Ann Arbor\, MI\,
-  48108\, United States\nDrive: about 16 minutes from downtown Ann Arbor\n
- Ages: Elementary\, High Schoolers\, MiddleSchoolers\nCost: Free\nSignup: 
- Registration required\, book before you go\nOutdoors\, dress for the weat
- her\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.co
- m/events/lillie-parkrun-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-
- 05-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2
- 026-07-18-2026-07-25-2026-08-01-2026-08-08-2026-0-29-2026-09-05/\nFound o
- n: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=01ee1dd61
- aa61520\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/lillie-parkrun-2026-05-02-2026-05-
- 09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026
- -06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-08-08-
- 2026-0-29-2026-09-05/
-CATEGORIES:Elementary\,Fitness/Health\,Free\,High Schoolers\,MiddleSchoole
- rs\,Outdoor
-END:VEVENT
-BEGIN:VEVENT
-UID:949be908c6424324@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T120000Z
-DTEND:20260905T160000Z
-SUMMARY:Saline Famers Market
-LOCATION:Downtown Saline\, Downtown Saline\, 10 North Ann Arbor St\, Salin
- e\, Michigan\, Saline\, United States
-GEO:42.1667082;-83.78133179999998
-DESCRIPTION:From May through October\, the Saline Farmers Market is held D
- owntown on Saturday mornings. From the beginning of November through the 
- last Saturday in May it is held inside at the Liberty School gym.\n\nWher
- e: Downtown Saline\, 10 North Ann Arbor St\, Saline\, Michigan\, Saline\,
-  United States\nDrive: about 24 minutes from downtown Ann Arbor\nAges: Ba
- bies\, Elementary\, HighSchoolers\, MiddleSchoolers\, Preschoolers\, Todd
- ler\nCost: Free\nSignup: Drop in\, no signup needed\nListed by: Ann Arbor
-  with Kids\nDetails: https://annarborwithkids.com/events/saline-famers-ma
- rket-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-20
- 26-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-2
- 5-2026-08-01-2026-08-08-29-2026-09-05/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=949be908c6424324\n\nDouble check th
- e time with the organizer before you go.
-URL:https://annarborwithkids.com/events/saline-famers-market-2026-05-02-20
- 26-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-2
- 0-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-
- 08-08-29-2026-09-05/
-CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:bf3a60b3c609294c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T130000Z
-DTEND:20260905T180000Z
-SUMMARY:White Lotus Farms Farmers Market
-LOCATION:White Lotus Farms\, White Lotus Farms\, 7217 West Liberty Rd\, An
- n Arbor\, MI\, 48103\, West Ann Arbor\, United States
-GEO:42.266436;-83.87158799999997
-DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
- -2p and Wednesdays from 9a-1p. The Wednesday market operates seasonally. 
- They added a pavilion over the farm cart to provide shelter from rain and
-  sun in 2022.\n\nWhere: White Lotus Farms\, 7217 West Liberty Rd\, Ann Ar
- bor\, MI\, 48103\, West Ann Arbor\, United States\nDrive: about 4 minutes
-  from downtown Ann Arbor\nAges: Babies\, Elementary\, HighSchoolers\, Mid
- dleSchoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\, no s
- ignup needed\nListed by: Ann Arbor with Kids\nDetails: https://annarborwi
- thkids.com/events/white-lotus-farms-famers-market-2-2026-05-02-2026-05-09
- -2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026-0
- 6-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-0-29-2026-09-05/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- bf3a60b3c609294c\n\nDouble check the time with the organizer before you g
- o.
-URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
- 2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
- -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-202
- 6-08-0-29-2026-09-05/
-CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:dddd325ae0b89ef2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T130000Z
-DTEND:20260905T170000Z
-SUMMARY:Ypsilanti Farmers Market
-LOCATION:Downtown Ypsilanti Farmers Market\, Downtown Ypsilanti Farmers Ma
- rket\, 16 South Washington\, Ypsilanti\, Michigan\, 48197\, Ypsilanti\, U
- nited States
-GEO:42.240193;-83.61497
-DESCRIPTION:The Ypsilanti Farmers Markets is now on Tuesdays & Saturdays w
- ith both markets held at the Farmers Market Place Hall Saturdays 9a-1p (M
- ay 16-October 31) Tuesdays 3-7p (June 2-August 25) Mini Markets at B-Cube
- d Bakery May 2 & 9\, July 4\, & November 7 Special Event Days are: May 16
- ...\n\nWhere: Downtown Ypsilanti Farmers Market\, 16 South Washington\, Y
- psilanti\, Michigan\, 48197\, Ypsilanti\, United States\, Ann Arbor\nDriv
- e: about 4 minutes from downtown Ann Arbor\nAges: Babies\, Elementary\, H
- ighSchoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSig
- nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
-  by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/yp
- silanti-farmers-market-2026-09-05/\nFound on: https://shinabarger.github.
- io/kid-events-in-ann-arbor/?event=dddd325ae0b89ef2\n\nDouble check the ti
- me with the organizer before you go.
-URL:https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-09-0
- 5/
-CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:94494bada3f1c29b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T140000Z
-DTEND:20260906T010000Z
-SUMMARY:Saline Fair
-LOCATION:Washtenaw Farm Council Fairgrounds\, Washtenaw Farm Council Fairg
- rounds\, 5055 Ann Arbor Saline Rd\, Ann Arbor\, Michigan\, 48103\, South\
- , United States
-GEO:42.212444;-83.79470700000002
-DESCRIPTION:The Saline Fair returns the week before Labor Day. Regular adm
- ission to the fair is $10/person ages 11 and up. Wednesday admission is $
- 5. Special Admission prices are listed below with some key events.\n\nWhe
- re: Washtenaw Farm Council Fairgrounds\, 5055 Ann Arbor Saline Rd\, Ann A
- rbor\, Michigan\, 48103\, South\, United States\nDrive: about 14 minutes 
- from downtown Ann Arbor\nAges: Babies\, Elementary\, High Schoolers\, Mid
- dleSchoolers\, Preschoolers\, Toddler\nCost: $10\nSignup: Drop in\, no si
- gnup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with 
- Kids\nDetails: https://annarborwithkids.com/events/saline-fair-2026-09-05
- /\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event
- =94494bada3f1c29b\n\nDouble check the time with the organizer before you 
- go.
-URL:https://annarborwithkids.com/events/saline-fair-2026-09-05/
-CATEGORIES:Age Range\,Animals\,Babies\,CarnivalRides\,Community Fair\,Elem
- entary
-END:VEVENT
-BEGIN:VEVENT
-UID:b53877cf0c621201@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T143000Z
-DTEND:20260905T150000Z
-SUMMARY:Play the Kerrytown Chime
-LOCATION:Kerrytown Market & Shops\, Kerrytown Market & Shops\, 407 N. Fift
- h Avenue\, Ann Arbor\, Michigan\, 48104\, Kerrytown\, United States
-GEO:42.2843336;-83.74610860000001
-DESCRIPTION:The Kerrytown Chime is open for the public to play 3 times a w
- eek: Saturdays at 10:30-11a Wednesdays at noon-12:30p Fridays at noon-12:
- 30p They Kerrytown Chime is a 17-bell\, bell tower. But\, don't worry it 
- is play by number making it easy and fun for kids (and adults too).\n\nWh
- ere: Kerrytown Market & Shops\, 407 N. Fifth Avenue\, Ann Arbor\, Michiga
- n\, 48104\, Kerrytown\, United States\nAges: Elementary\, High Schoolers\
- , MiddleSchoolers\nCost: Free\nSignup: Drop in\, no signup needed\nIndoor
- s\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/
- events/play-the-kerrytown-chime-2026-03-21-2026-03-28-2026-04-04-2026-04-
- 11-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026
- -05-30-2026-06-06-2026-06-13-2026-06-20-2026-06-29-2026-09-05/\nFound on:
-  https://shinabarger.github.io/kid-events-in-ann-arbor/?event=b53877cf0c6
- 21201\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/play-the-kerrytown-chime-2026-03-2
- 1-2026-03-28-2026-04-04-2026-04-11-2026-04-18-2026-04-25-2026-05-02-2026-
- 05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2
- 026-06-29-2026-09-05/
-CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
- olers\,Music/Concerts
-END:VEVENT
-BEGIN:VEVENT
-UID:363f6115a0573006@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T150000Z
-DTEND:20260905T160000Z
-SUMMARY:"Talking" Pop-Up Monsters
-LOCATION:Traverwood Branch of AADL\, Traverwood Branch of AADL\, 3333 Trav
- erwood Dr\, Ann Arbor\, Michigan\, 48105\, North Ann Arbor\, United State
- s
-GEO:42.307952;-83.71480500000001
-DESCRIPTION:Create fun paper monsters with moving mouths! This event is fo
- r Grade 3–5.\n\nWhere: Traverwood Branch of AADL\, 3333 Traverwood Dr\, A
- nn Arbor\, Michigan\, 48105\, North Ann Arbor\, United States\nAges: Elem
- entary\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nListed b
- y: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/talk
- ing-pop-up-monsters/\nFound on: https://shinabarger.github.io/kid-events-
- in-ann-arbor/?event=363f6115a0573006\n\nDouble check the time with the or
- ganizer before you go.
-URL:https://annarborwithkids.com/events/talking-pop-up-monsters/
-CATEGORIES:Crafts\,Elementary\,Free\,IndoorActivities
-END:VEVENT
-BEGIN:VEVENT
-UID:b3759d576c21f98f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T150000Z
-DTEND:20260905T160000Z
-SUMMARY:Grow Your Garden: Community Garden Plant Out
-LOCATION:Ypsilanti District Library - Michigan Ave Branch\, Ypsilanti Dist
- rict Library - Michigan Ave Branch\, 229 West Michigan Avenue\, Ypsilanti
- \, Michigan\, 48197\, Ypsilanti\, United States
-GEO:42.240746;-83.61565
-DESCRIPTION:No matter your age or experience\, join YDL for the joy of gar
- dening at this all-ages program. Each month\, they will explore an aspect
-  of gardening\, using the community garden as a practice space while lear
- ning more about the natural rhythms and seasons the garden reveals.\n\nWh
- ere: Ypsilanti District Library - Michigan Ave Branch\, 229 West Michigan
-  Avenue\, Ypsilanti\, Michigan\, 48197\, Ypsilanti\, United States\nDrive
- : about 17 minutes from downtown Ann Arbor\nAges: Elementary\, HighSchool
- ers\, Middle Schoolers\, Preschoolers\nCost: Free\nSignup: Drop in\, no s
- ignup needed\nIndoors\nListed by: Ann Arbor with Kids\nDetails: https://a
- nnarborwithkids.com/events/grow-your-garden-community-garden-plant-out-2/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- b3759d576c21f98f\n\nDouble check the time with the organizer before you g
- o.
-URL:https://annarborwithkids.com/events/grow-your-garden-community-garden-
- plant-out-2/
-CATEGORIES:Elementary\,Free\,Gardening\,HighSchoolers\,Indoor Activities\,
- Middle Schoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:59c416cf0f94692a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T151500Z
-DTEND:20260905T160000Z
-SUMMARY:Read and Look | Greece! Rome! Monsters!
-LOCATION:Kelsey Museum of Archaeology\, Kelsey Museum of Archaeology\, 434
-  South State St\, Ann Arbor\, Michigan\, 48109\, University of Michigan\,
-  United States
-GEO:42.276069;-83.740706
-DESCRIPTION:The Kelsey’s “Read and Look” program is a great first trip to 
- the museum—providing visitors with opportunities to explore past and pres
- ent cultures and connect with others. Meet the heroes\, gods\, rulers\, a
- nd monsters of Greek mythology at this Read and Look event!\n\nWhere: Kel
- sey Museum of Archaeology\, 434 South State St\, Ann Arbor\, Michigan\, 4
- 8109\, University of Michigan\, United States\nAges: Elementary\, Prescho
- olers\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nListed by
- : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/read-
- and-look-im-trying-to-love-garbage-2/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=59c416cf0f94692a\n\nDouble check the
-  time with the organizer before you go.
-URL:https://annarborwithkids.com/events/read-and-look-im-trying-to-love-ga
- rbage-2/
-CATEGORIES:Elementary\,Free\,History\,IndoorActivities\,Preschoolers\,Stor
- ytime
-END:VEVENT
-BEGIN:VEVENT
-UID:109701f3eacbc35c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T160000Z
-DTEND:20260905T190000Z
-SUMMARY:Critter House Open Hours
-LOCATION:Leslie Science & Nature Center\, Leslie Science & Nature Center\,
-  1831 Traver Rd\, Ann Arbor\, MI\, 48105\, North Ann Arbor\, United State
- s
-GEO:42.30078700000001;-83.73028399999998
-DESCRIPTION:Observe frogs\, turtles\, snakes\, and more as they hop\, craw
- l\, and slither in their homes! The LSNC Critter House is home to many sp
- ecies native to the region.\n\nWhere: Leslie Science & Nature Center\, 18
- 31 Traver Rd\, Ann Arbor\, MI\, 48105\, North Ann Arbor\, United States\n
- Ages: Elementary\, HighSchoolers\, Middle Schoolers\, Preschoolers\, Todd
- ler\nCost: Not listed\nSignup: Drop in\, no signup needed\nIndoors\nListe
- d by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/c
- ritter-house-open-hours-2-2026-06-06-2026-06-07-2026-06-13-2026-06-14-202
- 6-06-20-2026-06-21-2026-06-27-2026-06-28-2026-07-04-2026-07-05-2026-07-11
- -2026-07-12-2026-07-18-2026-07-19-2026-30-2026-09-05/\nFound on: https://
- shinabarger.github.io/kid-events-in-ann-arbor/?event=109701f3eacbc35c\n\n
- Double check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/critter-house-open-hours-2-2026-06
- -06-2026-06-07-2026-06-13-2026-06-14-2026-06-20-2026-06-21-2026-06-27-202
- 6-06-28-2026-07-04-2026-07-05-2026-07-11-2026-07-12-2026-07-18-2026-07-19
- -2026-30-2026-09-05/
-CATEGORIES:Animals\,Elementary\,HighSchoolers\,Indoor Activities\,Middle S
- choolers\,Preschoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:dc7f912563121aaf@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T160000Z
-DTEND:20260905T190000Z
-SUMMARY:Dexter Cider Mill 140th Season Celebration
-LOCATION:Dexter Cider Mill\, Dexter Cider Mill\, 3684 Central St\, Dexter\
- , Michigan\, 48130\, United States
-GEO:42.340652;-83.879435
-DESCRIPTION:Dexter Cider Mill will be celebrating 140 seasons on Saturday\
- , September 5.\n\nWhere: Dexter Cider Mill\, 3684 Central St\, Dexter\, M
- ichigan\, 48130\, United States\nDrive: about 24 minutes from downtown An
- n Arbor\nAges: Elementary\, HighSchoolers\, Middle Schoolers\, Preschoole
- rs\, Toddler\nCost: Not listed\nSignup: Drop in\, no signup needed\nOutdo
- ors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: htt
- ps://annarborwithkids.com/events/dexter-cider-mill-140th-season-celebrati
- on/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?eve
- nt=dc7f912563121aaf\n\nDouble check the time with the organizer before yo
- u go.
-URL:https://annarborwithkids.com/events/dexter-cider-mill-140th-season-cel
- ebration/
-CATEGORIES:Elementary\,Fall Fun\,Food\,HighSchoolers\,Middle Schoolers\,Ou
- tdoor
-END:VEVENT
-BEGIN:VEVENT
-UID:0627899dfc8cccf2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T170000Z
-DTEND:20260905T190000Z
-SUMMARY:International Vulture Awareness Day Celebration
-LOCATION:Leslie Science & Nature Center\, Leslie Science & Nature Center\,
-  1831 Traver Rd\, Ann Arbor\, MI\, 48105\, North Ann Arbor\, United State
- s
-GEO:42.30078700000001;-83.73028399999998
-DESCRIPTION:Vulture Day is coming to Leslie Science & Nature Center! Celeb
- rate these incredible birds with an afternoon full of hands-on activities
- \, games\, and plenty of opportunities to learn more about vultures and t
- he important role they play in our ecosystems.\n\nWhere: Leslie Science &
-  Nature Center\, 1831 Traver Rd\, Ann Arbor\, MI\, 48105\, North Ann Arbo
- r\, United States\nAges: Elementary\, HighSchoolers\, Middle Schoolers\, 
- Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\, no signup needed\nO
- utdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails:
-  https://annarborwithkids.com/events/international-vulture-awareness-day-
- celebration/\nFound on: https://shinabarger.github.io/kid-events-in-ann-a
- rbor/?event=0627899dfc8cccf2\n\nDouble check the time with the organizer 
- before you go.
-URL:https://annarborwithkids.com/events/international-vulture-awareness-da
- y-celebration/
-CATEGORIES:Animals\,Elementary\,Free\,HighSchoolers\,Middle Schoolers\,Out
- door
-END:VEVENT
-BEGIN:VEVENT
-UID:79ae6d802d655fe8@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T180000Z
-DTEND:20260905T180000Z
-SUMMARY:Anything Goes - PYTMI
-LOCATION:Riverside Arts Center\, Riverside Arts Center\, 76 North Huron St
- reet\, Ypsilanti\, MI\, 48197\, United States
-GEO:42.242199;-83.61271729999999
-DESCRIPTION:Anything Goes sets sail with Professional Youth Theatre of Mic
- higan’s talented young performers in this high-energy classic musical com
- edy! Aboard the S.S.\n\nWhere: Riverside Arts Center\, 76 North Huron Str
- eet\, Ypsilanti\, MI\, 48197\, United States\nDrive: about 22 minutes fro
- m downtown Ann Arbor\nAges: Elementary\, HighSchoolers\, Middle Schoolers
- \nCost: Not listed\nSignup: Registration required\, book before you go\nI
- ndoors\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids
- .com/events/hadestown-teen-edition-2026-09-05/\nFound on: https://shinaba
- rger.github.io/kid-events-in-ann-arbor/?event=79ae6d802d655fe8\n\nDouble 
- check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/hadestown-teen-edition-2026-09-05/
-CATEGORIES:Advance Registration\,Elementary\,HighSchoolers\,Indoor Activit
- ies\,Middle Schoolers\,RegistrationRecommended/Appreciated
-END:VEVENT
-BEGIN:VEVENT
-UID:87775d8cfa417273@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T180000Z
-DTEND:20260905T200000Z
-SUMMARY:Crafternoon: Sew a Pouch/ Bag
-LOCATION:SCRAP Creative Reuse\, SCRAP Creative Reuse\, 4567 Washtenaw Aven
- ue\, Ann Arbor\, Michigan\, 48108\, East\, United States
-GEO:42.252249;-83.669839
-DESCRIPTION:Join SCRAP for Crafternoon\, a self-guided\, themed crafting s
- ession using reuse materials. The weekly themes vary\, offering inspirati
- on like seasonal decor\, toys for pets\, paper crafts\, and unusual mater
- ial challenges. All materials are provided.\n\nWhere: SCRAP Creative Reus
- e\, 4567 Washtenaw Avenue\, Ann Arbor\, Michigan\, 48108\, East\, United 
- States\nDrive: about 15 minutes from downtown Ann Arbor\nAges: Elementary
- \, High Schoolers\, Middle Schoolers\nCost: $8\nSignup: Registration requ
- ired\, book before you go\nIndoors\nListed by: Ann Arbor with Kids\nDetai
- ls: https://annarborwithkids.com/events/crafternoon-decoupage/\nFound on:
-  https://shinabarger.github.io/kid-events-in-ann-arbor/?event=87775d8cfa4
- 17273\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/crafternoon-decoupage/
-CATEGORIES:Advance Registration\,Art\,Crafts\,Elementary\,Fiber Arts\,High
-  Schoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:78f28ee08a6fb5fe@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T180000Z
-DTEND:20260905T190000Z
-SUMMARY:Knitting Nancies
-LOCATION:Malletts Creek Branch of AADL\, Malletts Creek Branch of AADL\, 3
- 090 E Eisenhower Parkway\, Ann Arbor\, Michigan\, 48108\, South\, United 
- States
-GEO:42.2436533;-83.71799220000003
-DESCRIPTION:Make a simple handheld circular loom with a technique that's o
- ver 400 years old. Build a knitting nancy out of a craft roll\, then pick
-  your colors and start knitting! This event is for Grade K–5.\n\nWhere: M
- alletts Creek Branch of AADL\, 3090 E Eisenhower Parkway\, Ann Arbor\, Mi
- chigan\, 48108\, South\, United States\nAges: Elementary\nCost: Free\nSig
- nup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor with Kids\
- nDetails: https://annarborwithkids.com/events/knitting-nancies-3/\nFound 
- on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=78f28ee0
- 8a6fb5fe\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/knitting-nancies-3/
-CATEGORIES:Crafts\,Elementary\,FiberArts\,Free\,Indoor Activities
-END:VEVENT
-BEGIN:VEVENT
-UID:ff12a42666611678@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T180000Z
-DTEND:20260906T020000Z
-SUMMARY:The Rumble of the Bumble
-LOCATION:Depot Town\, Depot Town\, Cross Street\, Ypsilanti\, Michigan\, 4
- 8198\, Ypsilanti\, United States
-GEO:42.2461462;-83.59825089999998
-DESCRIPTION:This is an event designed for Kids but geared towards making a
- dults happy also! The Bi-ennieal Rumble of the Bumble is here again. The 
- largest Bumblebee on planet Earth has come back to Ypsilanti to ward off 
- those pesky pesticide chemical cousins once again!\n\nWhere: Depot Town\,
-  Cross Street\, Ypsilanti\, Michigan\, 48198\, Ypsilanti\, United States\
- nDrive: about 24 minutes from downtown Ann Arbor\nAges: Elementary\, High
- Schoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup
- : Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed by
- : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/the-r
- umble-of-the-bumble/\nFound on: https://shinabarger.github.io/kid-events-
- in-ann-arbor/?event=ff12a42666611678\n\nDouble check the time with the or
- ganizer before you go.
-URL:https://annarborwithkids.com/events/the-rumble-of-the-bumble/
-CATEGORIES:Animals\,Craft/Vendor\,Elementary\,Environmental\,Free\,HighSch
- oolers
-END:VEVENT
-BEGIN:VEVENT
-UID:9bf50f5871e13afd@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T190000Z
-DTEND:20260905T210000Z
-SUMMARY:Fall Ball: Fairy Science
-LOCATION:Ypsilanti District Library - Michigan Ave Branch\, Ypsilanti Dist
- rict Library - Michigan Ave Branch\, 229 West Michigan Avenue\, Ypsilanti
- \, Michigan\, 48197\, Ypsilanti\, United States
-GEO:42.240746;-83.61565
-DESCRIPTION:Join YDL for an afternoon of fairy science to kickoff their Do
- wntown STEM series of programs\, sponsored by Ann Arbor SPARK East Innova
- tion Center.\n\nWhere: Ypsilanti District Library - Michigan Ave Branch\,
-  229 West Michigan Avenue\, Ypsilanti\, Michigan\, 48197\, Ypsilanti\, Un
- ited States\nDrive: about 17 minutes from downtown Ann Arbor\nAges: Eleme
- ntary\, HighSchoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: 
- Not listed\nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann A
- rbor with Kids\nDetails: https://annarborwithkids.com/events/fall-ball-fa
- iry-science/\nFound on: https://shinabarger.github.io/kid-events-in-ann-a
- rbor/?event=9bf50f5871e13afd\n\nDouble check the time with the organizer 
- before you go.
-URL:https://annarborwithkids.com/events/fall-ball-fairy-science/
-CATEGORIES:Crafts\,Elementary\,Fairy\,HighSchoolers\,Indoor Activities\,Mi
- ddle Schoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:79ae6d802d655fe8@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
-DTSTART:20260905T230000Z
-DTEND:20260905T230000Z
-SUMMARY:Anything Goes - PYTMI
-LOCATION:Riverside Arts Center\, Riverside Arts Center\, 76 North Huron St
- reet\, Ypsilanti\, MI\, 48197\, United States
-GEO:42.242199;-83.61271729999999
-DESCRIPTION:Anything Goes sets sail with Professional Youth Theatre of Mic
- higan’s talented young performers in this high-energy classic musical com
- edy! Aboard the S.S.\n\nWhere: Riverside Arts Center\, 76 North Huron Str
- eet\, Ypsilanti\, MI\, 48197\, United States\nDrive: about 22 minutes fro
- m downtown Ann Arbor\nAges: Elementary\, HighSchoolers\, Middle Schoolers
- \nCost: Not listed\nSignup: Registration required\, book before you go\nI
- ndoors\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids
- .com/events/hadestown-teen-edition-2026-09-05/\nFound on: https://shinaba
- rger.github.io/kid-events-in-ann-arbor/?event=79ae6d802d655fe8\n\nDouble 
- check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/hadestown-teen-edition-2026-09-05/
-CATEGORIES:Advance Registration\,Elementary\,HighSchoolers\,Indoor Activit
- ies\,Middle Schoolers\,RegistrationRecommended/Appreciated
-END:VEVENT
-BEGIN:VEVENT
 UID:3357311378151761@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260906T040000Z
 DTEND:20260906T040000Z
 SUMMARY:The Michigan Theater Community Film Club - Back to School Septembe
@@ -581,7 +33,7 @@ CATEGORIES:Babies\,Elementary\,Food\,IndoorActivities\,Preschoolers\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:fa7c4f734fc16e4c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260906T140000Z
 DTEND:20260907T010000Z
 SUMMARY:Saline Fair
@@ -607,7 +59,7 @@ CATEGORIES:Age Range\,Animals\,Babies\,CarnivalRides\,Community Fair\,Elem
 END:VEVENT
 BEGIN:VEVENT
 UID:3849e22abe3c5929@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260906T140000Z
 DTEND:20260906T180000Z
 SUMMARY:Whitmore Lake Farmers Market
@@ -637,7 +89,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:c8d3b21bafdf2095@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260906T150000Z
 DTEND:20260906T150000Z
 SUMMARY:Family-Friendly Film Series - Sing
@@ -661,7 +113,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,IndoorActivities\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:e76ac5df7e7ae17d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260906T160000Z
 DTEND:20260906T160000Z
 SUMMARY:Anything Goes - PYTMI
@@ -684,7 +136,7 @@ CATEGORIES:Advance Registration\,Elementary\,HighSchoolers\,Indoor Activit
 END:VEVENT
 BEGIN:VEVENT
 UID:9d8608a58eb756c3@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260906T160000Z
 DTEND:20260906T190000Z
 SUMMARY:Critter House Open Hours
@@ -713,7 +165,7 @@ CATEGORIES:Animals\,Elementary\,HighSchoolers\,Indoor Activities\,Middle S
 END:VEVENT
 BEGIN:VEVENT
 UID:8b0574b988dbb40c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260906T160000Z
 DTEND:20260906T173000Z
 SUMMARY:Women in Engineering
@@ -733,7 +185,7 @@ CATEGORIES:Public Event\,Elementary\,Environmental\,Free\,HighSchoolers\,I
 END:VEVENT
 BEGIN:VEVENT
 UID:bb5e1e0a0c84056c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260906T180000Z
 DTEND:20260906T200000Z
 SUMMARY:CANCELED: Collage Making
@@ -754,7 +206,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:5217b0690a7425a5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260906T200000Z
 DTEND:20260906T220000Z
 SUMMARY:Puzzle and Board Game Swap
@@ -776,7 +228,7 @@ CATEGORIES:Public Event\,Elementary\,Free\,Games\,HighSchoolers\,Indoor Ac
 END:VEVENT
 BEGIN:VEVENT
 UID:81be967e51fc73ad@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260907T170000Z
 DTEND:20260907T230000Z
 SUMMARY:Saline Fair
@@ -800,8 +252,28 @@ CATEGORIES:Age Range\,Babies\,CarnivalRides\,Community Fair\,Elementary\,H
  igh Schoolers
 END:VEVENT
 BEGIN:VEVENT
+UID:549072772c011e8d@kid-events-in-ann-arbor
+DTSTAMP:20260906T131452Z
+DTSTART:20260908T040000Z
+DTEND:20260908T040000Z
+SUMMARY:Martin Sorge: Great Bakes
+LOCATION:Literati Bookstore\, 124 E Washington St\, Ann Arbor\, MI\, 48104
+GEO:42.280271;-83.747473
+DESCRIPTION:Literati is thrilled to welcome Martin Sorge to celebrate the 
+ release of Great Bakes . About the Book: Martin Sorge\, winner of The Gre
+ at American...\n\nWhere: 124 E Washington St\, Ann Arbor\, MI\, 48104\nAg
+ es: Babies\, Elementary\, Preschoolers\, Toddler\nCost: Free\nSignup: Dro
+ p in\, no signup needed\nIndoors\nListed by: Destination Ann Arbor\nDetai
+ ls: https://www.annarbor.org/event/martin-sorge%3a-great-bakes/25354/\nFo
+ und on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=5490
+ 72772c011e8d\n\nDouble check the time with the organizer before you go.
+URL:https://www.annarbor.org/event/martin-sorge%3a-great-bakes/25354/
+CATEGORIES:Babies\,Elementary\,Food\,IndoorActivities\,Preschoolers\,Toddl
+ er
+END:VEVENT
+BEGIN:VEVENT
 UID:cafcb79d727e4db7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260909T110000Z
 DTEND:20260909T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -830,7 +302,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:1b5b560a20e09c98@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260909T130000Z
 DTEND:20260909T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -859,7 +331,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f88932bca65da2d7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260909T140000Z
 DTEND:20260909T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -888,7 +360,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:49e25bf826c29077@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260909T160000Z
 DTEND:20260909T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -917,7 +389,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:7c9f5782d1c11510@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260909T210000Z
 DTEND:20260909T223000Z
 SUMMARY:Wonder Walk: Sun-Kissed September
@@ -943,7 +415,7 @@ CATEGORIES:Elementary\,Free\,HighSchoolers\,Hikes/Walks\,MiddleSchoolers\,
 END:VEVENT
 BEGIN:VEVENT
 UID:76f77819b8bfa04c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260909T213000Z
 DTEND:20260909T221500Z
 SUMMARY:Reading Readiness Book Club
@@ -969,7 +441,7 @@ CATEGORIES:Book Club/ReadingEvent\,Elementary\,Free\,Indoor Activities\,Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:87314e94d1d8ca00@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260909T223000Z
 DTEND:20260909T233000Z
 SUMMARY:Chess Club for Kids and Teens
@@ -993,7 +465,7 @@ CATEGORIES:Advance Registration\,Elementary\,Free\,Games\,High Schoolers\,
 END:VEVENT
 BEGIN:VEVENT
 UID:873604c7b3209526@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:Practical Magic - Union Rec Movie in the Shed
@@ -1015,7 +487,7 @@ CATEGORIES:Food\,Halloween\,High Schoolers\,MiddleSchoolers\,Movies
 END:VEVENT
 BEGIN:VEVENT
 UID:3071ee2a70e32883@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260910T180000Z
 DTEND:20260910T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -1041,7 +513,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:423fdd80c729f885@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260910T190000Z
 DTEND:20260910T230000Z
 SUMMARY:Westside Farmers Market
@@ -1068,7 +540,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:5048bf28fcbce413@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260910T213000Z
 DTEND:20260910T233000Z
 SUMMARY:Read to Louie the Library Dog
@@ -1093,7 +565,7 @@ CATEGORIES:Advance Registration\,Animals\,BookClub/Reading Event\,Elementa
 END:VEVENT
 BEGIN:VEVENT
 UID:c0880773c087b501@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T150000Z
 DTEND:20260911T230000Z
 SUMMARY:Foodie Fridays
@@ -1121,7 +593,7 @@ CATEGORIES:Elementary\,Food\,High Schoolers\,MiddleSchoolers\,Outdoor\,Pre
 END:VEVENT
 BEGIN:VEVENT
 UID:7d521e93f4a4d5c2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T150000Z
 DTEND:20260911T153000Z
 SUMMARY:Kinder Concert!
@@ -1142,7 +614,7 @@ CATEGORIES:Elementary\,Free\,IndoorActivities\,Music/Concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:8247be0017087b1b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T160000Z
 DTEND:20260911T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -1171,7 +643,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:5392d86655a3588a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T190000Z
 DTEND:20260911T200000Z
 SUMMARY:Chow Time at the Farm
@@ -1196,7 +668,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:c14922bad733dc70@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T190000Z
 DTEND:20260911T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -1224,7 +696,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:5bfccdae9ccb7084@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T213000Z
 DTEND:20260912T000000Z
 SUMMARY:Live from Tolan Square
@@ -1248,7 +720,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,MiddleSchoolers\,Music/Concer
 END:VEVENT
 BEGIN:VEVENT
 UID:2b8d800e0945e964@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T213000Z
 DTEND:20260911T233000Z
 SUMMARY:Screen Printing Lab
@@ -1271,7 +743,7 @@ CATEGORIES:Art\,Crafts\,Free\,High Schoolers\,IndoorActivities\,Middle Sch
 END:VEVENT
 BEGIN:VEVENT
 UID:be8b7f16d7bf5ffe@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T220000Z
 DTEND:20260911T230000Z
 SUMMARY:Asian Chip Taste Test
@@ -1293,7 +765,7 @@ CATEGORIES:Public Event\,BIPOC\,CulturalCelebration\,Elementary\,Food\,Fre
 END:VEVENT
 BEGIN:VEVENT
 UID:d4e8282fcef23533@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T220000Z
 DTEND:20260912T000000Z
 SUMMARY:Minecraft Club
@@ -1317,7 +789,7 @@ CATEGORIES:Advance Registration\,Elementary\,IndoorActivities\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:028a2ad70765b571@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T220000Z
 DTEND:20260912T010000Z
 SUMMARY:Party in the Park
@@ -1340,7 +812,7 @@ CATEGORIES:Free\,High Schoolers\,MiddleSchoolers\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:f0f18389b5c25d29@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T220000Z
 DTEND:20260912T000000Z
 SUMMARY:Spider-Man Kid Rave
@@ -1364,7 +836,7 @@ CATEGORIES:Advance Registration\,Dance\,Elementary\,Food\,Indoor Activitie
 END:VEVENT
 BEGIN:VEVENT
 UID:d141c83f2a4f8f45@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260911T223000Z
 DTEND:20260911T233000Z
 SUMMARY:Friday Night AI | How to Build a Robot from Scratch
@@ -1387,7 +859,7 @@ CATEGORIES:Free\,High Schoolers\,IndoorActivities\,Middle Schoolers\,STEM\
 END:VEVENT
 BEGIN:VEVENT
 UID:5558d0b6c564cc0b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T010000Z
 DTEND:20260912T035500Z
 SUMMARY:Disc Golf Glow Night
@@ -1413,7 +885,7 @@ CATEGORIES:Advance Registration\,HighSchoolers\,Middle Schoolers\,Outdoor\
 END:VEVENT
 BEGIN:VEVENT
 UID:65ecba639830d510@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T110000Z
 DTEND:20260912T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -1442,7 +914,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:bb9e7820ea6adf50@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T120000Z
 DTEND:20260912T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -1471,7 +943,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:9dd40baefad039bd@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T120000Z
 DTEND:20260912T170000Z
 SUMMARY:Dexter Farmers Market
@@ -1496,7 +968,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:924fe0f19fd362e7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T120000Z
 DTEND:20260912T133000Z
 SUMMARY:Lillie parkrun
@@ -1525,7 +997,7 @@ CATEGORIES:Elementary\,Fitness/Health\,Free\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:5c192b737e51af6b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T120000Z
 DTEND:20260912T160000Z
 SUMMARY:Saline Famers Market
@@ -1553,7 +1025,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:b26c3ba4ac762e03@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T130000Z
 DTEND:20260912T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -1582,7 +1054,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:08ee9aa2b0722718@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T130000Z
 DTEND:20260912T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -1609,7 +1081,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:e4f5201fe1564974@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T140000Z
 DTEND:20260912T160000Z
 SUMMARY:Birds in Your Binoculars
@@ -1635,7 +1107,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:2f014057590b88cc@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T140000Z
 DTEND:20260912T184500Z
 SUMMARY:Doggy Dip
@@ -1661,7 +1133,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:e0dd74bcc963442b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T143000Z
 DTEND:20260912T150000Z
 SUMMARY:Play the Kerrytown Chime
@@ -1690,7 +1162,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:c76f4b87acf4e779@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T150000Z
 DTEND:20260912T160000Z
 SUMMARY:Peter Pan Meet and Greet
@@ -1714,7 +1186,7 @@ CATEGORIES:Elementary\,Free\,Indoor Activities\,PopCulture\,Preschoolers\,
 END:VEVENT
 BEGIN:VEVENT
 UID:d87d63274b1bdf70@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T153000Z
 DTEND:20260912T170000Z
 SUMMARY:Science Show with Tommy Technetium
@@ -1739,7 +1211,7 @@ CATEGORIES:Advance Registration\,Elementary\,Food\,Indoor Activities\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:7573f3dc013dd5ce@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:Critter House Open Hours
@@ -1768,7 +1240,7 @@ CATEGORIES:Animals\,Elementary\,HighSchoolers\,Indoor Activities\,Middle S
 END:VEVENT
 BEGIN:VEVENT
 UID:8b94d17ba74528cb@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T160000Z
 DTEND:20260912T193000Z
 SUMMARY:Washtenaw County Sheriff's Fall Community Resource Festival
@@ -1794,7 +1266,7 @@ CATEGORIES:CommunityResources\,Elementary\,Free\,High Schoolers\,MiddleSch
 END:VEVENT
 BEGIN:VEVENT
 UID:f14bca7886654a8a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T170000Z
 DTEND:20260912T181500Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -1818,7 +1290,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:ecbf973ec2604494@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T170000Z
 DTEND:20260912T180000Z
 SUMMARY:Meet Your Parks | The Anishnaabek and Niibi: The Importance of Wat
@@ -1845,7 +1317,7 @@ CATEGORIES:BIPOC\,Elementary\,Free\,HighSchoolers\,History\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:aed6ab53cf51b58d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T170000Z
 DTEND:20260912T180000Z
 SUMMARY:Star Wars Paper Crafts
@@ -1865,7 +1337,7 @@ CATEGORIES:Crafts\,Elementary\,Free\,IndoorActivities\,Pop Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:a66abf278ae978ab@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T180000Z
 DTEND:20260912T200000Z
 SUMMARY:Crafternoon: Cat and Dog Toys
@@ -1889,7 +1361,7 @@ CATEGORIES:Advance Registration\,Art\,Crafts\,Elementary\,High Schoolers\,
 END:VEVENT
 BEGIN:VEVENT
 UID:3368b096907cd00a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T180000Z
 DTEND:20260912T190000Z
 SUMMARY:Life Cycles - When I Was a Baby
@@ -1913,7 +1385,7 @@ CATEGORIES:Animals\,Elementary\,Free\,IndoorActivities
 END:VEVENT
 BEGIN:VEVENT
 UID:2a42d4e4ed865b02@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T190000Z
 DTEND:20260912T203000Z
 SUMMARY:STEM & Stories: The Wind Turbine Tech Challenge
@@ -1939,7 +1411,7 @@ CATEGORIES:BIPOC\,Book Club/ReadingEvent\,Crafts\,Elementary\,Free\,High S
 END:VEVENT
 BEGIN:VEVENT
 UID:4301e1ab018a37d0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260912T220000Z
 DTEND:20260913T003000Z
 SUMMARY:Kids Night Out LEGO® Robotics Rampage
@@ -1962,7 +1434,7 @@ CATEGORIES:Advance Registration\,Elementary\,Food\,Indoor Activities\,LEGO
 END:VEVENT
 BEGIN:VEVENT
 UID:bbcac9726ec95bd0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T130000Z
 DTEND:20260913T143000Z
 SUMMARY:All-Girls Skate Instruction
@@ -1987,7 +1459,7 @@ CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:59e4cb3a90a69d17@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T140000Z
 DTEND:20260913T180000Z
 SUMMARY:Whitmore Lake Farmers Market
@@ -2017,7 +1489,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:7d38fb464faa6f01@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T150000Z
 DTEND:20260913T161500Z
 SUMMARY:STEAM Discovery Lab
@@ -2039,7 +1511,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:edc5cf9f7df77978@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T160000Z
 DTEND:20260913T190000Z
 SUMMARY:Critter House Open Hours
@@ -2068,7 +1540,7 @@ CATEGORIES:Animals\,Elementary\,HighSchoolers\,Indoor Activities\,Middle S
 END:VEVENT
 BEGIN:VEVENT
 UID:8f0e47f9cc078b50@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T160000Z
 DTEND:20260913T190000Z
 SUMMARY:Minecraft Day | Voxel Mob Invasion! Crafts
@@ -2090,7 +1562,7 @@ CATEGORIES:Crafts\,Public Event\,Elementary\,Free\,HighSchoolers\,Indoor A
 END:VEVENT
 BEGIN:VEVENT
 UID:b7cb9165203f4eae@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T163000Z
 DTEND:20260913T183000Z
 SUMMARY:Minecraft Day | Voxel Mob Invasion! Screening: A Minecraft Movie
@@ -2111,7 +1583,7 @@ CATEGORIES:Film & Video Events
 END:VEVENT
 BEGIN:VEVENT
 UID:cb036affa6ba7a08@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T170000Z
 DTEND:20260913T190000Z
 SUMMARY:Chesstastic
@@ -2127,11 +1599,11 @@ DESCRIPTION:Chess players of all ages are invited to drop-in to play a fri
  b.io/kid-events-in-ann-arbor/?event=cb036affa6ba7a08\n\nDouble check the 
  time with the organizer before you go.
 URL:https://aadl.org/node/665646
-CATEGORIES:Public Event\,Chess\,Elementary\,Free\,Games\,High Schoolers
+CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:ba83aedeff3e8ab2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T170000Z
 DTEND:20260913T200000Z
 SUMMARY:Monarch Migration Festival
@@ -2156,7 +1628,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:0735808771c2516b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T170000Z
 DTEND:20260913T183000Z
 SUMMARY:Wonder Walk: Fall Scrapbook
@@ -2179,7 +1651,7 @@ CATEGORIES:Crafts\,Elementary\,Fall Fun\,Free\,HighSchoolers\,Hikes/Walks
 END:VEVENT
 BEGIN:VEVENT
 UID:0be60c25e9db8f33@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T184500Z
 DTEND:20260913T200000Z
 SUMMARY:STEAM Challenge Lab
@@ -2202,7 +1674,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:115e8d28661980e2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260913T204500Z
 DTEND:20260913T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -2226,7 +1698,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:451404b046276bfb@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260914T204500Z
 DTEND:20260914T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -2250,7 +1722,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:14b9ebf98dfab303@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260914T213000Z
 DTEND:20260914T223000Z
 SUMMARY:Author Event | Acting Out: Theater\, Labor\, and Identity
@@ -2275,7 +1747,7 @@ CATEGORIES:Author Event\,BIPOC\,DramaClass\,Education\,Free\,High Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:0070b077e2b10008@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260914T223000Z
 DTEND:20260914T234500Z
 SUMMARY:Emerging Writers Workshop | Joining the Writing Community
@@ -2299,7 +1771,7 @@ CATEGORIES:Free\,High Schoolers\,IndoorActivities\,Middle Schoolers\,Writi
 END:VEVENT
 BEGIN:VEVENT
 UID:339a5e6a8a081566@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260914T223000Z
 DTEND:20260914T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -2322,7 +1794,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:510efbb274dd274a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260915T193000Z
 DTEND:20260915T203000Z
 SUMMARY:Hang Out & Homework
@@ -2346,7 +1818,7 @@ CATEGORIES:Education\,Elementary\,Free\,High Schoolers\,IndoorActivities\,
 END:VEVENT
 BEGIN:VEVENT
 UID:df94ec82a6e68fb1@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260915T204500Z
 DTEND:20260915T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -2370,7 +1842,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:d25bd7dff0095c58@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260915T204500Z
 DTEND:20260915T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -2392,7 +1864,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:dc217bd4120b6987@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260915T210000Z
 DTEND:20260915T233000Z
 SUMMARY:Walk Cycle to the Polls: Animation Workshop
@@ -2417,7 +1889,7 @@ CATEGORIES:Art\,Community Resources\,Free\,HighSchoolers\,History\,Indoor
 END:VEVENT
 BEGIN:VEVENT
 UID:c0199f52a022d1c4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260916T110000Z
 DTEND:20260916T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -2446,7 +1918,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:b3c94e34870e88d8@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260916T130000Z
 DTEND:20260916T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -2475,7 +1947,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:6d1358746f9c7dba@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260916T140000Z
 DTEND:20260916T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -2504,7 +1976,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:828ee846769d360a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260916T150000Z
 DTEND:20260916T180000Z
 SUMMARY:AADL at the Farmers Market
@@ -2525,7 +1997,7 @@ CATEGORIES:Public Event\,Elementary\,FarmersMarket\,Free\,Games\,High Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:861a3102b4cdfc19@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260916T160000Z
 DTEND:20260916T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -2554,7 +2026,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:5356def4134c4859@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260916T204500Z
 DTEND:20260916T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -2578,7 +2050,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:ddf1c48f2e2d11fc@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260916T204500Z
 DTEND:20260916T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -2601,7 +2073,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:e53e7477aa7f867d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260916T210000Z
 DTEND:20260917T000000Z
 SUMMARY:Ann Arbor Farmers Market Food Truck Rally!
@@ -2622,7 +2094,7 @@ CATEGORIES:Farmers Market
 END:VEVENT
 BEGIN:VEVENT
 UID:231d148c28c589fa@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260916T210000Z
 DTEND:20260917T000000Z
 SUMMARY:Third Wednesday Food Truck Rally
@@ -2647,7 +2119,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,HighSchoolers\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:869f479b4a937e64@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260916T223000Z
 DTEND:20260916T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -2672,7 +2144,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:2b96286fd61401fa@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260917T000000Z
 DTEND:20260917T020000Z
 SUMMARY:Gremlins - Union Rec Movie in the Shed
@@ -2695,9 +2167,9 @@ CATEGORIES:Elementary\,Food\,Halloween\,HighSchoolers\,Middle Schoolers\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:04d3b6879201c756@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260917T140000Z
-DTEND:20260917T150000Z
+DTEND:20260917T180000Z
 SUMMARY:Fun on the Farm
 LOCATION:Kensington Metropark\, Kensington Metropark\, 4570 Huron River Pa
  rkway\, Milford\, Michigan\, 48381\, Beyond Washtenaw\, United States
@@ -2721,7 +2193,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,Nature\,Pres
 END:VEVENT
 BEGIN:VEVENT
 UID:146e249a8c7a65dc@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260917T180000Z
 DTEND:20260917T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -2747,7 +2219,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f88e4197b80c8209@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260917T190000Z
 DTEND:20260917T230000Z
 SUMMARY:Westside Farmers Market
@@ -2774,7 +2246,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4b759698c6174bac@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260917T200000Z
 DTEND:20260917T230000Z
 SUMMARY:A2Zero Clothing Swap
@@ -2797,7 +2269,7 @@ CATEGORIES:Advance Registration\,Environmental\,Free\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:6760691c56d79718@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260917T204500Z
 DTEND:20260917T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -2821,7 +2293,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:8ea762fff97a3679@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260917T213000Z
 DTEND:20260918T000000Z
 SUMMARY:Live from Tolan Square
@@ -2845,7 +2317,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,MiddleSchoolers\,Music/Concer
 END:VEVENT
 BEGIN:VEVENT
 UID:3e49f9a88b972455@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260917T215000Z
 DTEND:20260917T233000Z
 SUMMARY:Read to Bambi the Library Dog
@@ -2870,7 +2342,7 @@ CATEGORIES:Advance Registration\,Animals\,BookClub/Reading Event\,Elementa
 END:VEVENT
 BEGIN:VEVENT
 UID:afb93445822141f9@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260917T220000Z
 DTEND:20260918T000000Z
 SUMMARY:Friends of YDL Book Sale - Members-Only Preview
@@ -2896,7 +2368,7 @@ CATEGORIES:Book Club/ReadingEvent\,Elementary\,Free\,Indoor Activities\,Sh
 END:VEVENT
 BEGIN:VEVENT
 UID:2b7a869ed430490a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260918T150000Z
 DTEND:20260918T230000Z
 SUMMARY:Foodie Fridays
@@ -2924,7 +2396,7 @@ CATEGORIES:Elementary\,Food\,High Schoolers\,MiddleSchoolers\,Outdoor\,Pre
 END:VEVENT
 BEGIN:VEVENT
 UID:c7f81a2d8c9b25c4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260918T150000Z
 DTEND:20260918T210000Z
 SUMMARY:Friends of YDL Book Sale
@@ -2949,7 +2421,7 @@ CATEGORIES:Book Club/ReadingEvent\,Elementary\,Free\,Indoor Activities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:9197e971fc1a4731@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260918T160000Z
 DTEND:20260918T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -2978,7 +2450,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:98ec413ef66c2813@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260918T190000Z
 DTEND:20260918T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -3006,7 +2478,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:dfbede8f32d5a06c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260918T210000Z
 DTEND:20260919T030000Z
 SUMMARY:Saline Oktoberfest
@@ -3030,7 +2502,7 @@ CATEGORIES:Cultural Celebration\,Elementary\,FallFun\,Free\,High Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a47d4d065da5fb21@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260918T213000Z
 DTEND:20260918T223000Z
 SUMMARY:Ann Arbor Skyline Homecoming Parade
@@ -3054,7 +2526,7 @@ CATEGORIES:Elementary\,Food\,Free\,HighSchoolers\,Homecoming\,MiddleSchool
 END:VEVENT
 BEGIN:VEVENT
 UID:3868cd90c78db10e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260918T213000Z
 DTEND:20260919T000000Z
 SUMMARY:Live from Tolan Square
@@ -3078,7 +2550,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,MiddleSchoolers\,Music/Concer
 END:VEVENT
 BEGIN:VEVENT
 UID:5b2291887b875085@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260918T220000Z
 DTEND:20260919T000000Z
 SUMMARY:Minecraft Club
@@ -3103,7 +2575,7 @@ CATEGORIES:Advance Registration\,Elementary\,IndoorActivities\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:7e45d24d85f83ece@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260918T220000Z
 DTEND:20260918T223000Z
 SUMMARY:Rumi Storytime
@@ -3126,7 +2598,7 @@ CATEGORIES:Advance Registration\,Dance\,Elementary\,Indoor Activities\,Mus
 END:VEVENT
 BEGIN:VEVENT
 UID:9f1d3412dcedbb41@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T110000Z
 DTEND:20260919T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3155,7 +2627,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:bb2f6a6ee3945243@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T120000Z
 DTEND:20260919T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -3184,7 +2656,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:e24cba24ab548af5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T120000Z
 DTEND:20260919T170000Z
 SUMMARY:Dexter Farmers Market
@@ -3209,7 +2681,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f1fbf7b7f0594e34@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T120000Z
 DTEND:20260919T133000Z
 SUMMARY:Lillie parkrun
@@ -3238,7 +2710,7 @@ CATEGORIES:Elementary\,Fitness/Health\,Free\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:aa279db59415473f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T120000Z
 DTEND:20260919T160000Z
 SUMMARY:Saline Famers Market
@@ -3266,7 +2738,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a425d8c76525af42@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T130000Z
 DTEND:20260919T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -3295,7 +2767,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:d6e8a0af903e712f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T130000Z
 DTEND:20260919T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -3322,7 +2794,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:dde0d6b6cbfd7619@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T140000Z
 DTEND:20260919T170000Z
 SUMMARY:Girls in Aviation Day
@@ -3347,7 +2819,7 @@ CATEGORIES:Advance Registration\,Elementary\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:07a41136440943fe@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T143000Z
 DTEND:20260919T160000Z
 SUMMARY:Circuit Lab
@@ -3373,7 +2845,7 @@ CATEGORIES:Advance Registration\,Crafts\,Elementary\,Free\,High Schoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:47f2a4ce7aa8fdda@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T143000Z
 DTEND:20260919T150000Z
 SUMMARY:Play the Kerrytown Chime
@@ -3402,7 +2874,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:ca3b7b0d243f9603@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T150000Z
 DTEND:20260920T000000Z
 SUMMARY:Ann Arbor Russian Festival
@@ -3426,7 +2898,7 @@ CATEGORIES:Cultural Celebration\,Food\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:570597cdbaf7eab7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T150000Z
 DTEND:20260919T190000Z
 SUMMARY:Friends of YDL Book Sale
@@ -3451,7 +2923,7 @@ CATEGORIES:Book Club/ReadingEvent\,Elementary\,Free\,Indoor Activities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9ce8ffa08ff707@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T170000Z
 DTEND:20260919T181500Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -3475,7 +2947,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:a5bf4f9c28ddc176@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T170000Z
 DTEND:20260919T200000Z
 SUMMARY:Splatoon 3: Hyper-Local Splatfest
@@ -3498,7 +2970,7 @@ CATEGORIES:Free\,High Schoolers\,IndoorActivities\,Middle Schoolers\,Pop C
 END:VEVENT
 BEGIN:VEVENT
 UID:96ac87b9f75256f6@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T190000Z
 DTEND:20260919T203000Z
 SUMMARY:Crochet for Kids
@@ -3520,7 +2992,7 @@ CATEGORIES:Crafts\,Elementary\,FiberArts\,Free\,Indoor Activities\,Middle
 END:VEVENT
 BEGIN:VEVENT
 UID:0955c122a4a33e0d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T190000Z
 DTEND:20260919T200000Z
 SUMMARY:Zip Line Rescue
@@ -3541,7 +3013,7 @@ CATEGORIES:Public Event\,Elementary\,Free\,Indoor Activities\,STEM
 END:VEVENT
 BEGIN:VEVENT
 UID:e9ba5aba5e533401@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260919T193000Z
 DTEND:20260919T210000Z
 SUMMARY:Downtown Repair Clinic
@@ -3567,7 +3039,7 @@ CATEGORIES:CommunityResources\,Crafts\,Elementary\,Environmental\,Free\,Hi
 END:VEVENT
 BEGIN:VEVENT
 UID:6d4b06e79bc63371@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T040000Z
 DTEND:20260920T040000Z
 SUMMARY:Fall Car Show
@@ -3592,7 +3064,7 @@ CATEGORIES:Car Show\,Elementary\,Fall Fun\,HighSchoolers\,Middle Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:903f5d9610e89ee6@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T140000Z
 DTEND:20260920T180000Z
 SUMMARY:Whitmore Lake Farmers Market
@@ -3622,7 +3094,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:6e96247ee93608e4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T150000Z
 DTEND:20260920T160000Z
 SUMMARY:Rocket Science
@@ -3643,7 +3115,7 @@ CATEGORIES:Crafts\,Elementary\,Free\,IndoorActivities\,STEM
 END:VEVENT
 BEGIN:VEVENT
 UID:72411533dd13e970@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T150000Z
 DTEND:20260920T161500Z
 SUMMARY:STEAM Discovery Lab
@@ -3666,7 +3138,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:f2d2db1548b01088@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T160000Z
 DTEND:20260920T190000Z
 SUMMARY:Critter House Open Hours
@@ -3695,7 +3167,7 @@ CATEGORIES:Animals\,Elementary\,HighSchoolers\,Indoor Activities\,Middle S
 END:VEVENT
 BEGIN:VEVENT
 UID:b1b0155dc25a3457@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T160000Z
 DTEND:20260920T190000Z
 SUMMARY:Ypsilanti Fall River Day
@@ -3719,7 +3191,7 @@ CATEGORIES:Age Range\,Animals\,Babies\,Elementary\,Food\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:f81135be506847ac@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T170000Z
 DTEND:20260920T230000Z
 SUMMARY:Ann Arbor Russian Festival
@@ -3743,7 +3215,7 @@ CATEGORIES:Cultural Celebration\,Food\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:6c7ddaba46051fec@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T170000Z
 DTEND:20260920T190000Z
 SUMMARY:Friends of YDL Book Sale
@@ -3768,7 +3240,7 @@ CATEGORIES:Book Club/ReadingEvent\,Elementary\,Free\,Indoor Activities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:b7266c78a5e64997@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T170000Z
 DTEND:20260920T200000Z
 SUMMARY:PokéBattle Sunday
@@ -3789,7 +3261,7 @@ CATEGORIES:Public Event\,Elementary\,Free\,Games\,HighSchoolers\,Indoor Ac
 END:VEVENT
 BEGIN:VEVENT
 UID:cda9eb9572f5b999@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T184500Z
 DTEND:20260920T200000Z
 SUMMARY:STEAM Challenge Lab
@@ -3814,7 +3286,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:52a1c38b8c62475b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T190000Z
 DTEND:20260920T210000Z
 SUMMARY:Fairy Doors
@@ -3838,7 +3310,7 @@ CATEGORIES:Advance Registration\,Art\,Crafts\,Elementary\,Fairy\,High Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:bc01b28a4f7a8d1f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T200000Z
 DTEND:20260920T220000Z
 SUMMARY:The Great Library Brawl with Pure Pro Wrestling
@@ -3861,7 +3333,7 @@ CATEGORIES:Performers\,Elementary\,Food\,Free\,HighSchoolers\,Indoor Activ
 END:VEVENT
 BEGIN:VEVENT
 UID:cbb1c92f0b3a48d3@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260920T204500Z
 DTEND:20260920T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -3885,7 +3357,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:02e38e5efdc26095@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260921T204500Z
 DTEND:20260921T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -3909,7 +3381,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:80885753db836d88@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260921T220000Z
 DTEND:20260921T233000Z
 SUMMARY:Food Science
@@ -3934,7 +3406,7 @@ CATEGORIES:Elementary\,Food\,Free\,IndoorActivities\,Middle Schoolers\,STE
 END:VEVENT
 BEGIN:VEVENT
 UID:a90bc3fad9b76d01@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260921T223000Z
 DTEND:20260921T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -3959,7 +3431,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a88730e338caff@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260922T193000Z
 DTEND:20260922T203000Z
 SUMMARY:Hang Out & Homework
@@ -3984,7 +3456,7 @@ CATEGORIES:Education\,Elementary\,Free\,High Schoolers\,IndoorActivities\,
 END:VEVENT
 BEGIN:VEVENT
 UID:4286ec8597d7e1e4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260922T204500Z
 DTEND:20260922T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -4008,7 +3480,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:355a8034b16a19f2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260922T204500Z
 DTEND:20260922T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -4031,7 +3503,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:e159026716b82924@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260922T223000Z
 DTEND:20260922T233000Z
 SUMMARY:Intermediate Bookbinding: Designing Your Own Book Projects
@@ -4055,7 +3527,7 @@ CATEGORIES:Art\,Crafts\,Education\,Free\,HighSchoolers\,Indoor Activities
 END:VEVENT
 BEGIN:VEVENT
 UID:58766b541143db21@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260922T230000Z
 DTEND:20260922T230000Z
 SUMMARY:World Ballet Company: Swan Lake
@@ -4077,7 +3549,7 @@ CATEGORIES:Advance Registration\,Elementary\,HighSchoolers\,Indoor Activit
 END:VEVENT
 BEGIN:VEVENT
 UID:662e60adb52b579c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T110000Z
 DTEND:20260923T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -4106,7 +3578,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:29af491680967ff1@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T130000Z
 DTEND:20260924T000000Z
 SUMMARY:JLC Huge Book Sale - Premium Access Day/Teachers Night
@@ -4131,7 +3603,7 @@ CATEGORIES:Babies\,Display Image\,Elementary\,HighSchoolers\,Middle School
 END:VEVENT
 BEGIN:VEVENT
 UID:56664774c86325d7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T130000Z
 DTEND:20260923T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -4160,7 +3632,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a4cd2e8c7f88a1b1@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T140000Z
 DTEND:20260923T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -4189,7 +3661,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:1ec8499148d0dbc7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T160000Z
 DTEND:20260923T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -4218,7 +3690,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:34f4d3d55704a6bd@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T190000Z
 DTEND:20260923T210000Z
 SUMMARY:My Turn: Sensory Friendly Hours
@@ -4241,7 +3713,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,IndoorActivities\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:8f48b2f5a05c8564@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T200000Z
 DTEND:20260923T220000Z
 SUMMARY:Mending Clinic
@@ -4266,7 +3738,7 @@ CATEGORIES:Advance Registration\,Crafts\,Elementary\,Fiber Arts\,Frugal\,H
 END:VEVENT
 BEGIN:VEVENT
 UID:90979b0038bdc3ed@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T204500Z
 DTEND:20260923T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -4290,7 +3762,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:d86422859ff4c6bf@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T204500Z
 DTEND:20260923T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -4313,7 +3785,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:45cadce331e97f6f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T210000Z
 DTEND:20260923T230000Z
 SUMMARY:Riso Lab
@@ -4334,7 +3806,7 @@ CATEGORIES:Public Event\,Crafts\,Elementary\,Free\,HighSchoolers\,Indoor A
 END:VEVENT
 BEGIN:VEVENT
 UID:913f1320d48f7616@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T220000Z
 DTEND:20260923T230000Z
 SUMMARY:Author Event | Nicole E. Trujillo-Pagán: Detroit Never Left
@@ -4359,7 +3831,7 @@ CATEGORIES:Author Event\,BIPOC\,Free\,HighSchoolers\,History\,Indoor Activ
 END:VEVENT
 BEGIN:VEVENT
 UID:36bfcc98dd722c8b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T220000Z
 DTEND:20260923T233000Z
 SUMMARY:Embracing Your Crown: Braiding Basics Pt. 2
@@ -4386,7 +3858,7 @@ CATEGORIES:BIPOC\,Caregivers\,Elementary\,Free\,HighSchoolers\,Indoor Acti
 END:VEVENT
 BEGIN:VEVENT
 UID:5c027c2d2de26607@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260923T223000Z
 DTEND:20260923T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -4411,7 +3883,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd656f8a46a2b6a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260924T130000Z
 DTEND:20260925T000000Z
 SUMMARY:JLC Huge Book Sale
@@ -4436,7 +3908,7 @@ CATEGORIES:Babies\,Display Image\,Elementary\,HighSchoolers\,Middle School
 END:VEVENT
 BEGIN:VEVENT
 UID:c04dcbde5246cfaf@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260924T180000Z
 DTEND:20260924T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -4462,7 +3934,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:7b07f821b59c30ad@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260924T190000Z
 DTEND:20260924T230000Z
 SUMMARY:Westside Farmers Market
@@ -4489,7 +3961,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:002739ab4f090684@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260924T203000Z
 DTEND:20260924T213000Z
 SUMMARY:Drop-In Makerspace
@@ -4512,7 +3984,7 @@ CATEGORIES:Crafts\,Elementary\,Free\,IndoorActivities\,Middle Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:ff6718684542c120@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260924T204500Z
 DTEND:20260924T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -4536,7 +4008,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:68057da15fc384a8@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260924T213000Z
 DTEND:20260924T233000Z
 SUMMARY:Open Lab: Soldering\, Electronics\, Circuits
@@ -4561,7 +4033,7 @@ CATEGORIES:Free\,High Schoolers\,IndoorActivities\,Middle Schoolers\,STEM\
 END:VEVENT
 BEGIN:VEVENT
 UID:070d7f578667f939@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260925T130000Z
 DTEND:20260926T000000Z
 SUMMARY:JLC Huge Book Sale
@@ -4586,7 +4058,7 @@ CATEGORIES:Babies\,Display Image\,Elementary\,HighSchoolers\,Middle School
 END:VEVENT
 BEGIN:VEVENT
 UID:91b44cc60829f170@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260925T150000Z
 DTEND:20260925T230000Z
 SUMMARY:Foodie Fridays
@@ -4614,7 +4086,7 @@ CATEGORIES:Elementary\,Food\,High Schoolers\,MiddleSchoolers\,Outdoor\,Pre
 END:VEVENT
 BEGIN:VEVENT
 UID:63858f53f7340090@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260925T160000Z
 DTEND:20260925T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -4643,7 +4115,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:6a8e1b68af6c68d1@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260925T190000Z
 DTEND:20260925T200000Z
 SUMMARY:Chow Time at the Farm
@@ -4667,8 +4139,36 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
  le Schoolers\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
+UID:40ba8c977e47b190@kid-events-in-ann-arbor
+DTSTAMP:20260906T131452Z
+DTSTART:20260925T190000Z
+DTEND:20260925T220000Z
+SUMMARY:Dixboro Farmers Market
+LOCATION:Dixboro Farmers Market\, Dixboro Farmers Market\, 5221 Church Rd\
+ , Ann Arbor\, Michigan\, 48105\, Dixboro\, United States
+GEO:42.3136136;-83.6560761
+DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dixbor
+ o Farmers Market is open on Fridays from 3-6p beginning Friday\, May 22 a
+ nd running through October 23.\n\nWhere: Dixboro Farmers Market\, 5221 Ch
+ urch Rd\, Ann Arbor\, Michigan\, 48105\, Dixboro\, United States\nDrive: 
+ about 4 minutes from downtown Ann Arbor\nAges: Babies\, Elementary\, High
+ Schoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup
+ : Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed by
+ : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/dixbo
+ ro-farmers-market-2-2026-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-1
+ 9-2026-06-26-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-
+ 08-07-2026-08-14-2026-08-21-2026-08-18-2026-09-25/\nFound on: https://shi
+ nabarger.github.io/kid-events-in-ann-arbor/?event=40ba8c977e47b190\n\nDou
+ ble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-05-2
+ 2-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026-
+ 07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2
+ 026-08-18-2026-09-25/
+CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
+END:VEVENT
+BEGIN:VEVENT
 UID:307fcaef0bc0297f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260925T200000Z
 DTEND:20260925T230000Z
 SUMMARY:Milan Homecoming Parade & Food Trucks
@@ -4693,7 +4193,7 @@ CATEGORIES:Elementary\,Food\,Free\,HighSchoolers\,Homecoming\,MiddleSchool
 END:VEVENT
 BEGIN:VEVENT
 UID:2c82e6b3f88cef1b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260925T213000Z
 DTEND:20260925T233000Z
 SUMMARY:Dolly Day
@@ -4715,7 +4215,7 @@ CATEGORIES:Crafts\,Elementary\,Free\,HighSchoolers\,Indoor Activities\,Mid
 END:VEVENT
 BEGIN:VEVENT
 UID:0180015738a25389@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260925T220000Z
 DTEND:20260926T000000Z
 SUMMARY:Minecraft Club
@@ -4740,7 +4240,7 @@ CATEGORIES:Advance Registration\,Elementary\,IndoorActivities\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:4c54ec077ef6524b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260925T223000Z
 DTEND:20260925T230000Z
 SUMMARY:Elsa Storytime
@@ -4763,7 +4263,7 @@ CATEGORIES:Advance Registration\,Dance\,Elementary\,Food\,Indoor Activitie
 END:VEVENT
 BEGIN:VEVENT
 UID:0b85d2abfd204c3a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260925T223000Z
 DTEND:20260926T003000Z
 SUMMARY:Fireside Fun – A Good Old-fashioned Campfire Circle
@@ -4790,7 +4290,7 @@ CATEGORIES:Animals\,Elementary\,Food\,Free\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:3e007b4c42922b5c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T110000Z
 DTEND:20260926T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -4819,7 +4319,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:1da2dd97794bdd0f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T120000Z
 DTEND:20260926T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -4848,7 +4348,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:2ce9cbb1db0ed21c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T120000Z
 DTEND:20260926T170000Z
 SUMMARY:Dexter Farmers Market
@@ -4873,7 +4373,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a77a42ee1305793e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T120000Z
 DTEND:20260926T133000Z
 SUMMARY:Lillie parkrun
@@ -4902,7 +4402,7 @@ CATEGORIES:Elementary\,Fitness/Health\,Free\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:abf77058fec50ec4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T120000Z
 DTEND:20260926T160000Z
 SUMMARY:Saline Famers Market
@@ -4930,7 +4430,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:81b2d916c7410385@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T130000Z
 DTEND:20260926T160000Z
 SUMMARY:Golden Harvest Half Marathon & 5K/10K
@@ -4955,7 +4455,7 @@ CATEGORIES:Advance Registration\,Elementary\,FallFun\,Food\,High Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f335aa5c5a36a68f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T130000Z
 DTEND:20260927T000000Z
 SUMMARY:JLC Huge Book Sale
@@ -4980,7 +4480,7 @@ CATEGORIES:Babies\,Display Image\,Elementary\,HighSchoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:3838c5ca4ab8fbff@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T130000Z
 DTEND:20260926T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -5009,7 +4509,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f42caa490252cbc8@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T130000Z
 DTEND:20260926T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -5036,7 +4536,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:37d09a2d61c2b44f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T140000Z
 DTEND:20260926T180000Z
 SUMMARY:Nickelodeon Worldwide Day of Play
@@ -5060,7 +4560,7 @@ CATEGORIES:Elementary\,High Schoolers\,IndoorActivities\,Middle Schoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:d15545deaf8a6995@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T141500Z
 DTEND:20260926T160000Z
 SUMMARY:Dungeons & Dragons Drop in for Teens
@@ -5085,7 +4585,7 @@ CATEGORIES:Free\,Games\,High Schoolers\,IndoorActivities\,Middle Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:96f80a0d4aa10be7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T143000Z
 DTEND:20260926T150000Z
 SUMMARY:Play the Kerrytown Chime
@@ -5114,7 +4614,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:6323bebd965219cc@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T150000Z
 DTEND:20260926T160000Z
 SUMMARY:Drop-In Fall Crafts
@@ -5140,7 +4640,7 @@ CATEGORIES:Crafts\,Elementary\,Fall Fun\,Free\,IndoorActivities\,Middle Sc
 END:VEVENT
 BEGIN:VEVENT
 UID:7326f5188539f5ed@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T150000Z
 DTEND:20260926T170000Z
 SUMMARY:Tailgate with Ypsi Meals on Wheels and EMU
@@ -5165,7 +4665,7 @@ CATEGORIES:Advance Registration\,CharitableEvent\,Elementary\,Food\,High S
 END:VEVENT
 BEGIN:VEVENT
 UID:487cd2d671b27218@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T160000Z
 DTEND:20260926T190000Z
 SUMMARY:Critter House Open Hours
@@ -5194,7 +4694,7 @@ CATEGORIES:Animals\,Elementary\,HighSchoolers\,Indoor Activities\,Middle S
 END:VEVENT
 BEGIN:VEVENT
 UID:d9c36545ca23117e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T160000Z
 DTEND:20260926T170000Z
 SUMMARY:Garden Adventures with VegMichigan!
@@ -5216,7 +4716,7 @@ CATEGORIES:Public Event\,Elementary\,Environmental\,Food\,Free\,Indoor Act
 END:VEVENT
 BEGIN:VEVENT
 UID:ce7642d5541acf43@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T170000Z
 DTEND:20260926T181500Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -5240,7 +4740,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:940bb8957c6b90c3@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T170000Z
 DTEND:20260926T190000Z
 SUMMARY:Seed Swap
@@ -5262,7 +4762,7 @@ CATEGORIES:Public Event\,Elementary\,Free\,Gardening\,HighSchoolers\,Indoo
 END:VEVENT
 BEGIN:VEVENT
 UID:66076e244c61e8f2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T180000Z
 DTEND:20260926T200000Z
 SUMMARY:Crafternoon: Braided Lanyards and Bag Charms
@@ -5286,7 +4786,7 @@ CATEGORIES:Advance Registration\,Art\,Crafts\,Elementary\,High Schoolers\,
 END:VEVENT
 BEGIN:VEVENT
 UID:2761a4cce961b852@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260926T190000Z
 DTEND:20260926T210000Z
 SUMMARY:Ojibway – Anishinaabe Two-Spirit Identity
@@ -5311,7 +4811,7 @@ CATEGORIES:BIPOC\,Cultural Celebration\,Free\,HighSchoolers\,Indoor Activi
 END:VEVENT
 BEGIN:VEVENT
 UID:ce3abc075bf78946@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T130000Z
 DTEND:20260927T143000Z
 SUMMARY:All-Girls Skate Instruction
@@ -5336,7 +4836,7 @@ CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:ac595a570ce235e5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T140000Z
 DTEND:20260927T180000Z
 SUMMARY:Whitmore Lake Farmers Market
@@ -5366,7 +4866,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:1e5fa3f9ccc7267c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T150000Z
 DTEND:20260927T161500Z
 SUMMARY:STEAM Discovery Lab
@@ -5389,7 +4889,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:767f2b20d0a37006@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T160000Z
 DTEND:20260927T190000Z
 SUMMARY:Critter House Open Hours
@@ -5418,7 +4918,7 @@ CATEGORIES:Animals\,Elementary\,HighSchoolers\,Indoor Activities\,Middle S
 END:VEVENT
 BEGIN:VEVENT
 UID:8e2624704abf4948@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T160000Z
 DTEND:20260927T190000Z
 SUMMARY:Critters Up Close
@@ -5440,7 +4940,7 @@ CATEGORIES:Animals\,Elementary\,Preschoolers\,STEM\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:ca9fbfbf6e17e91e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T170000Z
 DTEND:20260927T180000Z
 SUMMARY:Bugs Up Close
@@ -5461,7 +4961,7 @@ CATEGORIES:Public Event\,Animals\,Elementary\,Free\,IndoorActivities
 END:VEVENT
 BEGIN:VEVENT
 UID:2792794d8d7cb2bb@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T170000Z
 DTEND:20260927T200000Z
 SUMMARY:Climate Week: Harvest Fest
@@ -5485,7 +4985,7 @@ CATEGORIES:CommunityResources\,Crafts\,Elementary\,Environmental\,Fall Fun
 END:VEVENT
 BEGIN:VEVENT
 UID:67c6ce27045a547d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T170000Z
 DTEND:20260927T180000Z
 SUMMARY:Over the Garden Wall Inspired Decoration
@@ -5505,7 +5005,7 @@ CATEGORIES:Crafts\,Elementary\,FallFun\,Free\,Gardening\,Halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:6891745fa21b8b2f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T181500Z
 DTEND:20260927T191500Z
 SUMMARY:Bugs Up Close
@@ -5527,7 +5027,7 @@ CATEGORIES:Animals\,Elementary\,Free\,IndoorActivities
 END:VEVENT
 BEGIN:VEVENT
 UID:ba3c73525888124a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T183000Z
 DTEND:20260927T200000Z
 SUMMARY:RunTough 2026
@@ -5552,7 +5052,7 @@ CATEGORIES:Advance Registration\,CharitableEvent\,Elementary\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:9117334902ea5087@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T184500Z
 DTEND:20260927T200000Z
 SUMMARY:STEAM Challenge Lab
@@ -5577,7 +5077,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:815ed8822a362e79@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260927T204500Z
 DTEND:20260927T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -5601,7 +5101,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:e2d2cb9549a399eb@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260928T170000Z
 DTEND:20260928T180000Z
 SUMMARY:Balloon-Powered Cars
@@ -5622,7 +5122,7 @@ CATEGORIES:Crafts\,Elementary\,Free\,IndoorActivities\,STEM
 END:VEVENT
 BEGIN:VEVENT
 UID:1d0ac33f26840b84@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260928T204500Z
 DTEND:20260928T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -5646,7 +5146,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:5253aca0648ad961@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260928T213000Z
 DTEND:20260928T233000Z
 SUMMARY:Korea Week | The Beauty of Hanbok: Discovering Korean Culture Thro
@@ -5673,7 +5173,7 @@ CATEGORIES:BIPOC\,CulturalCelebration\,Elementary\,Free\,High Schoolers\,H
 END:VEVENT
 BEGIN:VEVENT
 UID:8cd8b40b89b89236@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260928T223000Z
 DTEND:20260928T234500Z
 SUMMARY:Emerging Writers | Monthly Meet-Up
@@ -5696,7 +5196,7 @@ CATEGORIES:Free\,High Schoolers\,IndoorActivities\,Middle Schoolers\,Writi
 END:VEVENT
 BEGIN:VEVENT
 UID:ea0582d82ad26fab@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260928T223000Z
 DTEND:20260928T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -5721,7 +5221,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:ce559e50ab67b508@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260929T193000Z
 DTEND:20260929T203000Z
 SUMMARY:Hang Out & Homework
@@ -5747,7 +5247,7 @@ CATEGORIES:Education\,Elementary\,Free\,High Schoolers\,IndoorActivities\,
 END:VEVENT
 BEGIN:VEVENT
 UID:4a04f76b7f0e7b51@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260929T204500Z
 DTEND:20260929T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -5771,7 +5271,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:3bd442746c7f9fa4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260929T204500Z
 DTEND:20260929T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -5794,7 +5294,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:89ffc2689643e4fe@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260930T110000Z
 DTEND:20260930T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -5823,7 +5323,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:6c4e3c992975f50d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260930T130000Z
 DTEND:20260930T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -5852,7 +5352,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:01d190b55810fe10@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260930T140000Z
 DTEND:20260930T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -5881,7 +5381,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:0840734e92e7d660@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260930T160000Z
 DTEND:20260930T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -5910,7 +5410,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:b41d45dabe328db7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260930T204500Z
 DTEND:20260930T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -5934,7 +5434,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:6b898cbfce5765f0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260930T204500Z
 DTEND:20260930T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -5957,7 +5457,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:03b4db24097ca4d5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260930T210000Z
 DTEND:20260930T223000Z
 SUMMARY:Climate Week Wonder Walk: Strategies for Resilience
@@ -5984,7 +5484,7 @@ CATEGORIES:Elementary\,Environmental\,Free\,HighSchoolers\,Hikes/Walks\,Mi
 END:VEVENT
 BEGIN:VEVENT
 UID:0154c90cbc01ba97@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20260930T223000Z
 DTEND:20260930T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -6009,7 +5509,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:90e480bf4ce7770c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261001T180000Z
 DTEND:20261001T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -6035,7 +5535,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a110ced8c9a3b4be@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261001T204500Z
 DTEND:20261001T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -6059,7 +5559,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:9baf5ee4c508cc23@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261001T220000Z
 DTEND:20261001T230000Z
 SUMMARY:Korea Week | Learn About Hangul\, the Korean Alphabet
@@ -6079,7 +5579,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:79a6039c6dfcdefa@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261002T160000Z
 DTEND:20261002T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -6108,7 +5608,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:f65a01635b5d8d5b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261002T190000Z
 DTEND:20261002T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -6136,7 +5636,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:45d420f052148503@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261002T200000Z
 DTEND:20261003T020000Z
 SUMMARY:First Friday Ypsilanti
@@ -6162,7 +5662,7 @@ CATEGORIES:Babies\,Elementary\,Free\,HighSchoolers\,MiddleSchoolers\,Music
 END:VEVENT
 BEGIN:VEVENT
 UID:0f9bfb2314943971@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261002T220000Z
 DTEND:20261002T230000Z
 SUMMARY:Ghost in a Jar
@@ -6183,7 +5683,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:22eda37065aa7b5d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261002T220000Z
 DTEND:20261002T233000Z
 SUMMARY:Korea Week | Traditional Korean Drumming with Sinaboro
@@ -6204,7 +5704,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:58529642a651d76c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261002T220000Z
 DTEND:20261003T000000Z
 SUMMARY:Minecraft Club
@@ -6229,7 +5729,7 @@ CATEGORIES:Advance Registration\,Elementary\,IndoorActivities\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:f7f946d60eb3600e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261003T110000Z
 DTEND:20261003T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -6257,8 +5757,37 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
  eSchoolers
 END:VEVENT
 BEGIN:VEVENT
+UID:1f667aa8a31404ef@kid-events-in-ann-arbor
+DTSTAMP:20260906T131452Z
+DTSTART:20261003T120000Z
+DTEND:20261003T170000Z
+SUMMARY:Chelsea Farmers Market
+LOCATION:Palmer Commons\, Palmer Commons\, 311 S Main St\, Chelsea\, Michi
+ gan\, 48118\, Chelsea\, United States
+GEO:42.315448;-84.020088
+DESCRIPTION:The Chelsea Farmers Market's 2025 season runs May-October. The
+  market is 10a-3p on Wednesdays at Chelsea State Bank lot and 8a-1p on Sa
+ turdays at Palmer Commons.\n\nWhere: Palmer Commons\, 311 S Main St\, Che
+ lsea\, Michigan\, 48118\, Chelsea\, United States\, Ann Arbor\nDrive: abo
+ ut 4 minutes from downtown Ann Arbor\nAges: Elementary\, High Schoolers\,
+  MiddleSchoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\, 
+ no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor 
+ with Kids\nDetails: https://annarborwithkids.com/events/chelsea-farmers-m
+ arket-2-2-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-
+ 06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026
+ -07-25-2026-08-01-2026-26-2026-10-03/\nFound on: https://shinabarger.gith
+ ub.io/kid-events-in-ann-arbor/?event=1f667aa8a31404ef\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-05
+ -02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-202
+ 6-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01
+ -2026-26-2026-10-03/
+CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
+ choolers
+END:VEVENT
+BEGIN:VEVENT
 UID:3d290d8197901999@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261003T120000Z
 DTEND:20261003T170000Z
 SUMMARY:Dexter Farmers Market
@@ -6283,7 +5812,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:7ce644ae956a118a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261003T120000Z
 DTEND:20261003T160000Z
 SUMMARY:Saline Famers Market
@@ -6311,7 +5840,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a9350fcbc987f3af@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261003T130000Z
 DTEND:20261003T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -6340,7 +5869,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:55721af3488716be@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261003T130000Z
 DTEND:20261003T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -6367,7 +5896,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4acc8ba0b54eb0bd@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261003T143000Z
 DTEND:20261003T150000Z
 SUMMARY:Play the Kerrytown Chime
@@ -6396,7 +5925,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:7426201f32a4954e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261003T150000Z
 DTEND:20261003T150000Z
 SUMMARY:Ann Arbor Marathon Kids Races & Packet Pickup
@@ -6421,7 +5950,7 @@ CATEGORIES:Advance Registration\,Elementary\,Fitness/Health\,Preschoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:ed21b30316403c2e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261003T170000Z
 DTEND:20261003T181500Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -6445,7 +5974,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:34a724e5b35d706b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261004T120000Z
 DTEND:20261004T180000Z
 SUMMARY:Ann Arbor Marathon
@@ -6469,7 +5998,7 @@ CATEGORIES:Advance Registration\,Elementary\,Fitness/Health\,High Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:3a4e853cd0d22949@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261004T150000Z
 DTEND:20261004T161500Z
 SUMMARY:STEAM Discovery Lab
@@ -6492,7 +6021,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:a678ab868f4242fc@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261004T160000Z
 DTEND:20261004T210000Z
 SUMMARY:Climate Week: Refugia Festival
@@ -6516,7 +6045,7 @@ CATEGORIES:CommunityResources\,Elementary\,Environmental\,High Schoolers\,
 END:VEVENT
 BEGIN:VEVENT
 UID:2f40ebb7021996d8@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261004T184500Z
 DTEND:20261004T200000Z
 SUMMARY:STEAM Challenge Lab
@@ -6541,7 +6070,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:a72ef5426df52cf1@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261004T200000Z
 DTEND:20261004T220000Z
 SUMMARY:Fall Fest
@@ -6564,7 +6093,7 @@ CATEGORIES:CharitableEvent\,Elementary\,Fitness/Health\,Food\,Free\,Outdoo
 END:VEVENT
 BEGIN:VEVENT
 UID:6909590460b6fcbc@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261004T204500Z
 DTEND:20261004T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -6588,7 +6117,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:da297121e8cea58f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261005T204500Z
 DTEND:20261005T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -6612,7 +6141,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:df19723a16bbab85@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261005T223000Z
 DTEND:20261005T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -6637,7 +6166,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:d5699db95eb5077c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261006T193000Z
 DTEND:20261006T203000Z
 SUMMARY:Hang Out & Homework
@@ -6663,7 +6192,7 @@ CATEGORIES:Education\,Elementary\,Free\,High Schoolers\,IndoorActivities\,
 END:VEVENT
 BEGIN:VEVENT
 UID:4f729723e1b0e627@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261006T204500Z
 DTEND:20261006T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -6687,7 +6216,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:52b4b208e2de7e17@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261006T204500Z
 DTEND:20261006T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -6711,7 +6240,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:a1a8be74bb0c11cc@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261007T110000Z
 DTEND:20261007T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -6740,7 +6269,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:82418614184c6ecd@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261007T130000Z
 DTEND:20261007T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -6769,7 +6298,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:45bda4ea073a9a68@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261007T140000Z
 DTEND:20261007T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -6798,7 +6327,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:ea2433361ea40c12@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261007T160000Z
 DTEND:20261007T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -6827,7 +6356,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:8da3dfdf13be44b5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261007T204500Z
 DTEND:20261007T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -6851,7 +6380,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:4ef39fedd60bba22@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261007T204500Z
 DTEND:20261007T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -6876,7 +6405,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:2523952c5e7e581b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261007T210000Z
 DTEND:20261007T223000Z
 SUMMARY:Wonder Walk: Bird Migration Behavior and Climate Change
@@ -6901,7 +6430,7 @@ CATEGORIES:Animals\,Elementary\,Environmental\,FallFun\,Free\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:70cc5bca135cd3d4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261007T220000Z
 DTEND:20261007T233000Z
 SUMMARY:Folk Song Jam Along
@@ -6922,7 +6451,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:b64af05e1eac407d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261007T223000Z
 DTEND:20261007T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -6949,7 +6478,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2cdbff1db9073f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261008T140000Z
 DTEND:20261008T150000Z
 SUMMARY:Fun on the Farm
@@ -6966,17 +6495,17 @@ DESCRIPTION:Fun on the Farm is an outdoor children’s series that focuses o
  ok before you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor 
  with Kids\nDetails: https://annarborwithkids.com/events/fun-on-the-farm-2
  026-07-09-2026-07-23-2026-08-06-2026-08-20-2026-09-03-2026-09-17-2026-10-
- 01/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?eve
- nt=2e2cdbff1db9073f\n\nDouble check the time with the organizer before yo
- u go.
+ 01-2/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?e
+ vent=2e2cdbff1db9073f\n\nDouble check the time with the organizer before 
+ you go.
 URL:https://annarborwithkids.com/events/fun-on-the-farm-2026-07-09-2026-07
- -23-2026-08-06-2026-08-20-2026-09-03-2026-09-17-2026-10-01/
+ -23-2026-08-06-2026-08-20-2026-09-03-2026-09-17-2026-10-01-2/
 CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,Nature\,Pres
  choolers
 END:VEVENT
 BEGIN:VEVENT
 UID:3612bd600be42551@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261008T180000Z
 DTEND:20261008T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -7002,7 +6531,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f0c65fe141f63d53@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261008T204500Z
 DTEND:20261008T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -7026,7 +6555,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:e12f06a06189a2ad@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261008T220000Z
 DTEND:20261008T230000Z
 SUMMARY:Decorative Rustic Brooms
@@ -7047,7 +6576,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:42963e7ccd078903@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261008T220000Z
 DTEND:20261009T000000Z
 SUMMARY:Ypsilanti Zine Club
@@ -7073,7 +6602,7 @@ CATEGORIES:Advance Registration\,Crafts\,Free\,HighSchoolers\,Indoor Activ
 END:VEVENT
 BEGIN:VEVENT
 UID:085d49181844cef9@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261009T160000Z
 DTEND:20261009T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -7102,7 +6631,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:5e24e4a551bc9f39@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261009T170000Z
 DTEND:20261009T180000Z
 SUMMARY:Hands-On with Tools for Kids
@@ -7123,7 +6652,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:445189ebdc3b78d1@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261009T170000Z
 DTEND:20261009T180000Z
 SUMMARY:Sock Puppets!
@@ -7144,7 +6673,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:547fca1e11ab0510@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261009T190000Z
 DTEND:20261009T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -7172,7 +6701,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:84d77e13e486ec2e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261009T220000Z
 DTEND:20261010T000000Z
 SUMMARY:Minecraft Club
@@ -7198,7 +6727,7 @@ CATEGORIES:Advance Registration\,Elementary\,IndoorActivities\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:15697c8e2782b0a2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T110000Z
 DTEND:20261010T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -7227,7 +6756,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:2948a696e874312c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T120000Z
 DTEND:20261010T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -7256,7 +6785,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:03356e0cbc9a9a90@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T120000Z
 DTEND:20261010T170000Z
 SUMMARY:Dexter Farmers Market
@@ -7281,7 +6810,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:6a35259e2351b7d0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T120000Z
 DTEND:20261010T160000Z
 SUMMARY:Saline Famers Market
@@ -7309,7 +6838,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:57bcaa9a6f8b10bf@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T130000Z
 DTEND:20261010T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -7338,7 +6867,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:61d3e6daf2bf571b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T130000Z
 DTEND:20261010T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -7365,7 +6894,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:911be563c6650b7a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T140000Z
 DTEND:20261010T160000Z
 SUMMARY:Birds in Your Binoculars
@@ -7391,7 +6920,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:71a36173160fdd84@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T140000Z
 DTEND:20261010T150000Z
 SUMMARY:Meet Your Parks: Migrating Waterfowl at Gallup Park
@@ -7412,7 +6941,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:4acb3f83c2c2c8bd@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T141500Z
 DTEND:20261010T160000Z
 SUMMARY:Dungeons & Dragons Drop in for Teens
@@ -7438,7 +6967,7 @@ CATEGORIES:Free\,Games\,High Schoolers\,IndoorActivities\,Middle Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:009691515f12401c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T143000Z
 DTEND:20261010T150000Z
 SUMMARY:Play the Kerrytown Chime
@@ -7467,7 +6996,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:f8e559c27219cd48@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T163000Z
 DTEND:20261010T193000Z
 SUMMARY:SynthFest | Music Tools Free Play
@@ -7488,7 +7017,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:2358cd3f48cd32fd@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T163000Z
 DTEND:20261010T193000Z
 SUMMARY:SynthFest | Performances
@@ -7509,7 +7038,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:cd9a08f2ea1d611f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T170000Z
 DTEND:20261010T180000Z
 SUMMARY:Games of Yesteryear
@@ -7530,7 +7059,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:0d3805cd2e2792e0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T170000Z
 DTEND:20261010T181500Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -7554,7 +7083,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:d1ee02cc5dee09f1@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T170000Z
 DTEND:20261010T180000Z
 SUMMARY:Rocket Ship Blast Off
@@ -7574,7 +7103,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:afb46a684c48bf84@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T190000Z
 DTEND:20261010T200000Z
 SUMMARY:Tie Dye with Dawn Henry
@@ -7592,7 +7121,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:b0db414a248e419e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261010T220000Z
 DTEND:20261011T003000Z
 SUMMARY:Kids Night Out: Stop Motion Mini Movie Makers
@@ -7617,7 +7146,7 @@ CATEGORIES:Advance Registration\,Elementary\,Food\,Indoor Activities\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:b8da1c40fc523bce@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261011T130000Z
 DTEND:20261011T143000Z
 SUMMARY:All-Girls Skate Instruction
@@ -7642,7 +7171,7 @@ CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:f76d13c7aed7df3e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261011T150000Z
 DTEND:20261011T161500Z
 SUMMARY:STEAM Discovery Lab
@@ -7665,7 +7194,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:aabb4b0d7d74f389@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261011T170000Z
 DTEND:20261011T190000Z
 SUMMARY:Chesstastic
@@ -7685,7 +7214,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:6e5aa016d73610d3@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261011T180000Z
 DTEND:20261011T193000Z
 SUMMARY:All About Multicolored Corn and Traditional Native Preparation Met
@@ -7707,7 +7236,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:6283b4e6a0fb7e93@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261011T184500Z
 DTEND:20261011T200000Z
 SUMMARY:STEAM Challenge Lab
@@ -7732,7 +7261,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:9a384335ccbf15f2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261011T190000Z
 DTEND:20261011T200000Z
 SUMMARY:LEGO Connection
@@ -7753,7 +7282,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:c45cbd3c6d5c03c6@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261011T204500Z
 DTEND:20261011T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -7777,7 +7306,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:8d2771cfbbadb2a2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261012T204500Z
 DTEND:20261012T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -7801,7 +7330,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:5e0f0b6c15efa65c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261012T223000Z
 DTEND:20261012T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -7828,7 +7357,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:2a0ba0a26a264e1d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261013T193000Z
 DTEND:20261013T203000Z
 SUMMARY:Hang Out & Homework
@@ -7854,7 +7383,7 @@ CATEGORIES:Education\,Elementary\,Free\,High Schoolers\,IndoorActivities\,
 END:VEVENT
 BEGIN:VEVENT
 UID:2647768c69ca6366@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261013T204500Z
 DTEND:20261013T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -7878,7 +7407,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:3ef96099af0a4f85@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261013T204500Z
 DTEND:20261013T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -7903,7 +7432,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:f14929c6cbada81c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261014T110000Z
 DTEND:20261014T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -7932,7 +7461,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:056af894f47807a3@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261014T130000Z
 DTEND:20261014T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -7961,7 +7490,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:571aa8d3085c2470@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261014T140000Z
 DTEND:20261014T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -7990,7 +7519,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:f98f813567fdf8b5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261014T160000Z
 DTEND:20261014T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -8019,7 +7548,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:b9fb4d2b7153cc0b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261014T204500Z
 DTEND:20261014T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -8043,7 +7572,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:5726cfadd915ff51@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261014T204500Z
 DTEND:20261014T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -8068,7 +7597,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:4594a1788ada0102@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261014T220000Z
 DTEND:20261014T230000Z
 SUMMARY:Friendship Bracelets
@@ -8089,7 +7618,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:ad5b900a170cc6cc@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261014T223000Z
 DTEND:20261014T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -8116,7 +7645,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:9927514db378cdfb@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261015T200000Z
 DTEND:20261015T230000Z
 SUMMARY:A2Zero Clothing Swap
@@ -8139,7 +7668,7 @@ CATEGORIES:Advance Registration\,Environmental\,Free\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:1586eb95c854d85b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261015T204500Z
 DTEND:20261015T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -8163,7 +7692,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:512f7bb0ffb0bd8e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261016T160000Z
 DTEND:20261016T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -8192,7 +7721,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:7a76ac117061f8e2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261016T190000Z
 DTEND:20261016T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -8220,7 +7749,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:6aae1c54333de1c5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261016T220000Z
 DTEND:20261017T010000Z
 SUMMARY:Michigan Marching Band Open Stadium Practice
@@ -8244,7 +7773,7 @@ CATEGORIES:Concert\,Elementary\,Free\,HighSchoolers\,Homecoming\,MiddleSch
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7e52ae419e0ee4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261016T220000Z
 DTEND:20261017T000000Z
 SUMMARY:Minecraft Club
@@ -8270,7 +7799,7 @@ CATEGORIES:Advance Registration\,Elementary\,IndoorActivities\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:ce0af5f3fab53e3a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261016T220000Z
 DTEND:20261016T230000Z
 SUMMARY:Super Guitar Bros.
@@ -8290,7 +7819,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:d26ca7e790df4ba0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T110000Z
 DTEND:20261017T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -8319,7 +7848,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:fc190ba2f3b634c5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T120000Z
 DTEND:20261017T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -8348,7 +7877,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:ebbb00eaba0b2139@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T120000Z
 DTEND:20261017T170000Z
 SUMMARY:Dexter Farmers Market
@@ -8373,7 +7902,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:16feb395c35735b4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T120000Z
 DTEND:20261017T160000Z
 SUMMARY:Saline Famers Market
@@ -8401,7 +7930,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:bedffd6e59f5af62@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T130000Z
 DTEND:20261017T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -8430,7 +7959,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:68791fb15d69ad2e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T130000Z
 DTEND:20261017T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -8457,7 +7986,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:541518bfc4669009@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T143000Z
 DTEND:20261017T150000Z
 SUMMARY:Play the Kerrytown Chime
@@ -8486,7 +8015,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:7a51da222d18338b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T170000Z
 DTEND:20261017T183000Z
 SUMMARY:Build a Paper Rollercoaster
@@ -8506,7 +8035,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:51c210a967db745b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T170000Z
 DTEND:20261017T180000Z
 SUMMARY:Comics Workshop with Ruth McNally Barshaw
@@ -8526,7 +8055,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:e4d36c6c43a8f6dd@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T170000Z
 DTEND:20261017T181500Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -8550,7 +8079,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:74aa4d1977986295@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261017T180000Z
 DTEND:20261017T180000Z
 SUMMARY:The Importance of Being Earnest\, Dramatic Reading
@@ -8575,7 +8104,7 @@ CATEGORIES:Food\,High Schoolers\,IndoorActivities\,Middle Schoolers\,Theat
 END:VEVENT
 BEGIN:VEVENT
 UID:1e53525e7864e143@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261018T150000Z
 DTEND:20261018T161500Z
 SUMMARY:STEAM Discovery Lab
@@ -8598,7 +8127,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:63ea52d6df9bf32a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261018T180000Z
 DTEND:20261018T190000Z
 SUMMARY:Pony Bead Jack-o'-Lantern
@@ -8619,7 +8148,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:003fb01fbf8b310e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261018T184500Z
 DTEND:20261018T200000Z
 SUMMARY:STEAM Challenge Lab
@@ -8644,7 +8173,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:ff64d233791c2286@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261018T204500Z
 DTEND:20261018T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -8668,7 +8197,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:c8bd9d3c62e7e6c2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261019T204500Z
 DTEND:20261019T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -8692,7 +8221,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:1b94c26ab6ba35e3@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261019T210000Z
 DTEND:20261019T230000Z
 SUMMARY:Riso Lab
@@ -8712,7 +8241,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:1dbb2203c2b88aa7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261019T223000Z
 DTEND:20261019T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -8739,7 +8268,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:1990e8034ddf54f9@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261020T193000Z
 DTEND:20261020T203000Z
 SUMMARY:Hang Out & Homework
@@ -8765,7 +8294,7 @@ CATEGORIES:Education\,Elementary\,Free\,High Schoolers\,IndoorActivities\,
 END:VEVENT
 BEGIN:VEVENT
 UID:56803a487256ac79@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261020T204500Z
 DTEND:20261020T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -8789,7 +8318,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:ba0583b0871058a0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261020T204500Z
 DTEND:20261020T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -8814,7 +8343,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:4f7e9aba35eababb@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261021T110000Z
 DTEND:20261021T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -8843,7 +8372,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:b8c65f7e77573bd7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261021T130000Z
 DTEND:20261021T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -8872,7 +8401,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:08cfff6e27d3121f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261021T140000Z
 DTEND:20261021T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -8901,7 +8430,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:b913ded6caf8e714@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261021T160000Z
 DTEND:20261021T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -8930,7 +8459,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:21f5beec0d419df4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261021T204500Z
 DTEND:20261021T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -8954,7 +8483,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:45cf60b7cc38a072@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261021T204500Z
 DTEND:20261021T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -8979,7 +8508,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:d7b17c595321a78f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261021T210000Z
 DTEND:20261022T000000Z
 SUMMARY:Ann Arbor Farmers Market Food Truck Rally!
@@ -9000,7 +8529,7 @@ CATEGORIES:Farmers Market
 END:VEVENT
 BEGIN:VEVENT
 UID:497ca6624f3dfdee@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261021T210000Z
 DTEND:20261022T000000Z
 SUMMARY:Third Wednesday Food Truck Rally
@@ -9025,7 +8554,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,HighSchoolers\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:81921ebfc62ca8a5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261021T223000Z
 DTEND:20261021T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -9052,7 +8581,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:61b796434d7543a2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261021T223000Z
 DTEND:20261022T003000Z
 SUMMARY:Trunk-or-Treat
@@ -9075,7 +8604,7 @@ CATEGORIES:Babies\,Elementary\,Free\,Halloween\,MiddleSchoolers\,Preschool
 END:VEVENT
 BEGIN:VEVENT
 UID:a0ba5f6236f1199d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261022T204500Z
 DTEND:20261022T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -9099,7 +8628,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:65dda0ea09a16a7d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261022T220000Z
 DTEND:20261022T230000Z
 SUMMARY:Hub Presents: Systems of Similitude
@@ -9118,7 +8647,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:4fd0ef006ceb0312@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261023T160000Z
 DTEND:20261023T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -9147,7 +8676,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:80f84738bf0ec021@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261023T190000Z
 DTEND:20261023T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -9175,7 +8704,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:3ab0eefe2f387e87@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261023T220000Z
 DTEND:20261024T000000Z
 SUMMARY:Minecraft Club
@@ -9201,7 +8730,7 @@ CATEGORIES:Advance Registration\,Elementary\,IndoorActivities\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:099b0e802b04a9e1@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T110000Z
 DTEND:20261024T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -9230,7 +8759,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfc89a3320231b5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T120000Z
 DTEND:20261024T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -9259,7 +8788,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:c9782bb1d4fba175@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T120000Z
 DTEND:20261024T170000Z
 SUMMARY:Dexter Farmers Market
@@ -9284,7 +8813,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4207f3d4b512e357@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T120000Z
 DTEND:20261024T160000Z
 SUMMARY:Saline Famers Market
@@ -9312,7 +8841,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:399562db0cce2079@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T130000Z
 DTEND:20261024T180000Z
 SUMMARY:Michigan Monster Dash
@@ -9336,7 +8865,7 @@ CATEGORIES:Advance Registration\,Elementary\,Halloween\,High Schoolers\,Mi
 END:VEVENT
 BEGIN:VEVENT
 UID:0d9c229eee1f1496@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T130000Z
 DTEND:20261024T160000Z
 SUMMARY:Spooky Sprint
@@ -9362,7 +8891,7 @@ CATEGORIES:Advance Registration\,Elementary\,Food\,Halloween\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:4ec7a14d3add89ae@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T130000Z
 DTEND:20261024T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -9391,7 +8920,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:c6fc596448d8ca22@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T130000Z
 DTEND:20261024T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -9418,7 +8947,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:45f8d1e06a2d7c7e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
 SUMMARY:Trunk or Treat
@@ -9442,7 +8971,7 @@ CATEGORIES:Babies\,CharitableEvent\,Elementary\,Food\,Free\,Halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:5fb75b9f43ce5e34@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T141500Z
 DTEND:20261024T160000Z
 SUMMARY:Dungeons & Dragons Drop in for Teens
@@ -9468,7 +8997,7 @@ CATEGORIES:Free\,Games\,High Schoolers\,IndoorActivities\,Middle Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:40e32d5543e1d13f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T143000Z
 DTEND:20261024T150000Z
 SUMMARY:Play the Kerrytown Chime
@@ -9497,7 +9026,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:c950aac9263542a1@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T160000Z
 DTEND:20261024T170000Z
 SUMMARY:Reading-List Card Decks
@@ -9518,7 +9047,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:0ef4e38efe533bd0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T170000Z
 DTEND:20261024T181500Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -9542,7 +9071,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:60b9121179f9b928@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T170000Z
 DTEND:20261024T200000Z
 SUMMARY:Super Smash Bros. Ultimate Tournament
@@ -9563,7 +9092,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:532a1f653794626c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T190000Z
 DTEND:20261024T200000Z
 SUMMARY:Pop Pop Boats
@@ -9583,7 +9112,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:59a04d4abf11d672@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261024T190000Z
 DTEND:20261024T200000Z
 SUMMARY:Popsicle Stick Monsters
@@ -9604,7 +9133,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:e13c4f6f78b7a81f@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T130000Z
 DTEND:20261025T143000Z
 SUMMARY:All-Girls Skate Instruction
@@ -9629,7 +9158,7 @@ CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:1121ad17187df6da@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T140000Z
 DTEND:20261025T180000Z
 SUMMARY:Prescribed Fire Festival
@@ -9652,7 +9181,7 @@ CATEGORIES:CommunityResources\,Elementary\,Environmental\,Free\,High Schoo
 END:VEVENT
 BEGIN:VEVENT
 UID:4793376a3f171fb0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T150000Z
 DTEND:20261025T161500Z
 SUMMARY:STEAM Discovery Lab
@@ -9676,7 +9205,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:9bfe64e3006113b0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T153000Z
 DTEND:20261025T190000Z
 SUMMARY:AADL Costume Contest
@@ -9700,7 +9229,7 @@ CATEGORIES:Babies\,Elementary\,Free\,Halloween\,HighSchoolers\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:38f70bd319663f90@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T153000Z
 DTEND:20261025T190000Z
 SUMMARY:Halloween Costume Contest
@@ -9721,7 +9250,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:175e3a866b13deae@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T153000Z
 DTEND:20261025T190000Z
 SUMMARY:Halloween Downtown Trick or Treat
@@ -9745,7 +9274,7 @@ CATEGORIES:Babies\,DisplayImage\,Elementary\,Free\,Halloween\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:1f3a74174a3894a4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T163000Z
 DTEND:20261025T193000Z
 SUMMARY:Not-So-Scary Haunted House
@@ -9768,7 +9297,7 @@ CATEGORIES:Elementary\,Free\,Halloween\,HighSchoolers\,Indoor Activities\,
 END:VEVENT
 BEGIN:VEVENT
 UID:d870691edff9ebc1@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T163000Z
 DTEND:20261025T193000Z
 SUMMARY:Pumpkin Carving Demo
@@ -9788,7 +9317,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:0a791d285b134904@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T170000Z
 DTEND:20261025T200000Z
 SUMMARY:All-Ages Mario Kart Tournament
@@ -9808,7 +9337,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:9148524d7840c0bf@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T170000Z
 DTEND:20261025T190000Z
 SUMMARY:Oops! All Felt
@@ -9829,7 +9358,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:4e8dcff087bcc4be@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T180000Z
 DTEND:20261025T180000Z
 SUMMARY:Family-Friendly Film Series - Hotel Transylvania
@@ -9854,7 +9383,7 @@ CATEGORIES:Advance Registration\,Dia de LosMuertos\,Elementary\,Free\,Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:0005a405c3fa9b3d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T184500Z
 DTEND:20261025T200000Z
 SUMMARY:STEAM Challenge Lab
@@ -9879,7 +9408,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:8ed05f83b672e645@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T204500Z
 DTEND:20261025T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -9903,7 +9432,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:4db8edeb08ca4225@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261025T220000Z
 DTEND:20261025T220000Z
 SUMMARY:Nosferatu
@@ -9926,7 +9455,7 @@ CATEGORIES:Advance Registration\,Elementary\,Free\,Halloween\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:3a8b6a3e04aa3a9d@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261026T204500Z
 DTEND:20261026T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -9950,7 +9479,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:e622476c52948ab9@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261026T213000Z
 DTEND:20261026T230000Z
 SUMMARY:Spooky Mini Paintings
@@ -9971,7 +9500,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:dcf5beba076e6526@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261026T223000Z
 DTEND:20261026T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -9998,7 +9527,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:b7b172a77dc39aa0@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261027T193000Z
 DTEND:20261027T203000Z
 SUMMARY:Hang Out & Homework
@@ -10024,7 +9553,7 @@ CATEGORIES:Education\,Elementary\,Free\,High Schoolers\,IndoorActivities\,
 END:VEVENT
 BEGIN:VEVENT
 UID:73b37aab3474f618@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261027T204500Z
 DTEND:20261027T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -10048,7 +9577,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:bd78ee7c490e77da@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261027T204500Z
 DTEND:20261027T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -10074,7 +9603,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:fff6bba82b83e61b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261027T220000Z
 DTEND:20261027T231500Z
 SUMMARY:Film Screening | The Extraordinary Caterpillar
@@ -10095,7 +9624,7 @@ CATEGORIES:Film & Video Events
 END:VEVENT
 BEGIN:VEVENT
 UID:cb1b856a32804c1e@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261028T110000Z
 DTEND:20261028T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -10124,7 +9653,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:221dd651742b27b5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261028T130000Z
 DTEND:20261028T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -10153,7 +9682,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:edd5ec8dd5046471@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261028T140000Z
 DTEND:20261028T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -10182,7 +9711,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:19036c7f785189cc@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261028T160000Z
 DTEND:20261028T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -10211,7 +9740,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:04e4850fcf73e8f7@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261028T204500Z
 DTEND:20261028T220000Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -10235,7 +9764,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:464fc26ec6f8beac@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261028T204500Z
 DTEND:20261028T220000Z
 SUMMARY:STEAM Discovery Lab
@@ -10261,7 +9790,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:b14da44c7deb2176@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261028T223000Z
 DTEND:20261028T234500Z
 SUMMARY:STEAM Challenge Lab
@@ -10288,7 +9817,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:f4d61f3b76338edd@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261029T204500Z
 DTEND:20261029T220000Z
 SUMMARY:LEGO Robotics Discovery Lab
@@ -10312,7 +9841,7 @@ CATEGORIES:Advance Registration\,Computer\,Elementary\,IndoorActivities\,L
 END:VEVENT
 BEGIN:VEVENT
 UID:448f0557d8006199@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261030T160000Z
 DTEND:20261030T163000Z
 SUMMARY:Play the Kerrytown Chime
@@ -10341,7 +9870,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:94d8363b09a2c1c9@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261030T180000Z
 DTEND:20261030T190000Z
 SUMMARY:Glitter Pictures
@@ -10362,7 +9891,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:3352f6ca76810276@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261030T180000Z
 DTEND:20261030T193000Z
 SUMMARY:Make a Wire Sculpture Inspired by Louise Bourgeois’s “Spider"
@@ -10382,7 +9911,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:320ee50495ea67b3@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261030T220000Z
 DTEND:20261031T000000Z
 SUMMARY:Minecraft Club
@@ -10408,7 +9937,7 @@ CATEGORIES:Advance Registration\,Elementary\,IndoorActivities\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:09c2fe0eba945202@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261030T223000Z
 DTEND:20261030T230000Z
 SUMMARY:Reflejos Latinos Dance Performance
@@ -10429,7 +9958,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:59f4127bcd6fb32b@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T110000Z
 DTEND:20261031T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -10458,7 +9987,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:789df771b9fdd081@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T120000Z
 DTEND:20261031T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -10487,7 +10016,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:ce1c9c5937f30507@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T120000Z
 DTEND:20261031T170000Z
 SUMMARY:Dexter Farmers Market
@@ -10512,7 +10041,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:47e567e43736ce45@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T120000Z
 DTEND:20261031T160000Z
 SUMMARY:Saline Famers Market
@@ -10540,7 +10069,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:3d53e1932043e2be@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T121500Z
 DTEND:20261031T144500Z
 SUMMARY:Run Scream Run
@@ -10565,7 +10094,7 @@ CATEGORIES:CharitableEvent\,Elementary\,Fitness/Health\,Halloween\,High Sc
 END:VEVENT
 BEGIN:VEVENT
 UID:031417cbc90a3d69@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T130000Z
 DTEND:20261031T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -10594,7 +10123,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4da9fdea982952a5@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T130000Z
 DTEND:20261031T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -10621,7 +10150,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:bd33a7f1dc2c147a@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T143000Z
 DTEND:20261031T150000Z
 SUMMARY:Play the Kerrytown Chime
@@ -10650,7 +10179,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,Indoor Activities\,MiddleScho
 END:VEVENT
 BEGIN:VEVENT
 UID:12aa934afeab1de6@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T150000Z
 DTEND:20261031T160000Z
 SUMMARY:Animal Paper Craft: Owls
@@ -10671,7 +10200,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:d8a657962fc1960c@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T150000Z
 DTEND:20261031T160000Z
 SUMMARY:Handmade Felt Ghost Garlands
@@ -10692,7 +10221,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:e86b71ec89a628c4@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261031T170000Z
 DTEND:20261031T181500Z
 SUMMARY:LEGO Robotics Challenge Lab
@@ -10718,7 +10247,7 @@ CATEGORIES:Advance Registration\,Classes\,Elementary\,IndoorActivities\,LE
 END:VEVENT
 BEGIN:VEVENT
 UID:d9e78e014aef01f2@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261114T150000Z
 DTEND:20261114T210000Z
 SUMMARY:Printmaking Festival | Vendor Fair
@@ -10738,7 +10267,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:3a02545928b07e51@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Printmaking Festival | Hands-On Printing
@@ -10759,7 +10288,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:32faae74136c7cbf@kid-events-in-ann-arbor
-DTSTAMP:20260906T042258Z
+DTSTAMP:20260906T131452Z
 DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Printmaking Festival | Printing Demos
