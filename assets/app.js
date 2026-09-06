@@ -1161,6 +1161,7 @@
     el.list.hidden = !isList;
     el.month.hidden = isList;
     if (el.whenRow) el.whenRow.hidden = !isList;
+    renderStaleness();
     renderCalendarNav();
     renderActive();
 
@@ -1655,6 +1656,46 @@
     render();
     var undoButton = $("undo");
     if (undoButton) undoButton.disabled = state.history.length === 0;
+  }
+
+  /* ---------- is this data any good --------------------------------------- */
+
+  // A day and a half. The job runs every morning, so one missed run is worth
+  // saying something about and a blip at 5:31am is not.
+  var STALE_HOURS = 36;
+
+  function stalenessNote(meta, now) {
+    if (!meta) return "";
+
+    if (meta.sample) {
+      var when = meta.snapshot_date
+        ? new Date(meta.snapshot_date + "T12:00:00").toLocaleDateString("en-US",
+            { month: "long", day: "numeric", year: "numeric" })
+        : "an earlier date";
+      return "These are sample listings captured on " + when +
+        ", not live data, so most of them have already happened. " +
+        "Run the Update events job to replace them.";
+    }
+
+    var built = parseDate(meta.generated);
+    if (!built) return "";
+    var hours = (now - built) / 36e5;
+    if (hours < STALE_HOURS) return "";
+
+    var days = Math.floor(hours / 24);
+    return "The daily update last ran " +
+      (days >= 1 ? days + (days === 1 ? " day" : " days") + " ago"
+                 : Math.floor(hours) + " hours ago") +
+      ", so some of this may be out of date. Check the event's own page before " +
+      "you head out.";
+  }
+
+  function renderStaleness() {
+    var box = $("staleness");
+    if (!box) return;
+    var note = stalenessNote(state.meta, new Date());
+    box.hidden = !note;
+    if (note) $("staleness-text").textContent = note;
   }
 
   /* ---------- theme ------------------------------------------------------ */
