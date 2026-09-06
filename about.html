@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>About Kid Events in Ann Arbor</title>
+<meta name="description" content="Why this calendar exists, where the listings come from, and how to get an event added or removed.">
+
+<link rel="canonical" href="https://shinabarger.github.io/kid-events-in-ann-arbor/about.html">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#14563a">
+
+<meta property="og:site_name" content="Kid Events in Ann Arbor">
+<meta property="og:title" content="About Kid Events in Ann Arbor">
+<meta property="og:description" content="Why this calendar exists, where the listings come from, and how to get an event added or removed.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://shinabarger.github.io/kid-events-in-ann-arbor/about.html">
+<meta property="og:image" content="https://shinabarger.github.io/kid-events-in-ann-arbor/assets/og-cover.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Kid Events in Ann Arbor. Storytimes, playgroups and festivals, all on one page you can filter.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://shinabarger.github.io/kid-events-in-ann-arbor/assets/og-cover.png">
+
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/favicon-16.png" sizes="16x16" type="image/png">
+<link rel="alternate icon" href="assets/favicon.ico" sizes="48x48">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700&family=Karla:ital,wght@0,400;0,500;0,700;1,400&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<script>
+  /* Applied before the first paint so a dark reader gets no white flash.
+     Same key the calendar page uses, so the choice follows you between them. */
+  try {
+    if (localStorage.getItem("a2kids-theme") === "dark") {
+      document.documentElement.setAttribute("data-theme", "dark");
+    }
+  } catch (err) { /* private mode, carry on in light */ }
+</script>
+</head>
+<body>
+<a class="skip" href="#about">Skip to the page</a>
+
+<header class="masthead">
+  <div class="wrap masthead-inner">
+
+    <a class="brand" href="./" aria-label="Kid Events in Ann Arbor, back to the calendar">
+      <svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true" focusable="false">
+        <path d="M20 3 L33 15 v20 a2 2 0 0 1-2 2 H9 a2 2 0 0 1-2-2 V15 Z" fill="#62b9d8"/>
+        <path d="M20 10c4 4 6 7 6 10a6 6 0 0 1-12 0c0-3 2-6 6-10Z" fill="#7fd8a8"/>
+        <circle cx="20" cy="30" r="2.4" fill="#ffffff"/>
+      </svg>
+      <span class="brand-words">
+        <span class="brand-name">Kid Events in Ann Arbor</span>
+        <span class="tagline">Storytimes, playgroups and festivals, updated every morning</span>
+      </span>
+    </a>
+
+    <nav class="masthead-nav" aria-label="Main">
+      <a class="nav-link" href="./">Calendar</a>
+      <a class="nav-link is-current" href="about.html" aria-current="page">About</a>
+      <a class="btn btn-primary" href="./">
+        <svg viewBox="0 0 20 20" aria-hidden="true" focusable="false" class="icon"><path d="M4 3h12a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Zm-1 5h14M7 1v4m6-4v4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        See what is on
+      </a>
+      <button type="button" class="btn btn-ghost btn-icon-only" id="theme-toggle" aria-pressed="false">
+        <svg class="icon theme-sun" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><circle cx="10" cy="10" r="4" fill="currentColor"/><path d="M10 1.5v2.2M10 16.3v2.2M18.5 10h-2.2M3.7 10H1.5m14.1-6.1-1.6 1.6M5.8 14.2l-1.6 1.6m11.4 0-1.6-1.6M5.8 5.8 4.2 4.2" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+        <svg class="icon theme-moon" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M16.5 12.4A7 7 0 0 1 7.6 3.5a7 7 0 1 0 8.9 8.9Z" fill="currentColor"/></svg>
+        <span class="theme-label">Dark</span>
+      </button>
+    </nav>
+
+  </div>
+</header>
+
+<main class="wrap">
+  <article class="prose" id="about" tabindex="-1">
+
+    <h1>About</h1>
+
+    <p class="lede">
+      This site was made by a very sleep deprived parent of a toddler, looking
+      for fun and engaging things to get the two of them out of the house.
+    </p>
+
+    <p>
+      The problem it solves is small and extremely specific. It is 9am on a
+      Saturday, everybody has been awake since 5:40, and finding one thing to
+      do meant checking the library, then Ann Arbor with Kids, then the
+      Observer, then a couple of Facebook groups. Every one of them had
+      something the others were missing. So this checks all of them, once a
+      morning, and puts what it finds on one page you can actually filter.
+    </p>
+
+    <h2>What it does</h2>
+
+    <ul>
+      <li>Reads a dozen local calendars every morning and drops the duplicates.</li>
+      <li>Normalizes the age wording, so "Babies Up To 24 Months" and "Grade K-5"
+        both become something you can filter on.</li>
+      <li>Works out how far each venue is from downtown, and whether you could
+        plausibly get there on the bus.</li>
+      <li>Tags everything indoor or outdoor, free or paid, drop in or
+        registration required.</li>
+      <li>Publishes calendar feeds you can subscribe to from Google, Apple or
+        Outlook, so the whole thing lands in the calendar you already use.</li>
+    </ul>
+
+    <h2>Where the listings come from</h2>
+
+    <p>
+      Ann Arbor District Library, Ann Arbor with Kids, both of the Observer's
+      calendars, city Parks &amp; Rec, the city calendar, The Mamas Network,
+      the Hands-On Museum and Leslie Science Center, the Metroparks, Rec &amp;
+      Ed, Destination Ann Arbor, and the Ypsilanti, Chelsea, Saline and Dexter
+      district libraries. The footer on the calendar page lists every one of
+      them with how many events it found this morning, so a source that has
+      quietly broken is visible rather than silent.
+    </p>
+
+    <p>
+      Every event links back to whoever published it. This is a signpost, not
+      a copy: the times and places are facts, the write-ups belong to the
+      organizers, and nothing is reprinted in full. Facebook is deliberately
+      not included, because reading it needs a logged-in session.
+    </p>
+
+    <h2>If something is wrong</h2>
+
+    <p>
+      Times come straight from the source and sources make mistakes, so always
+      double check with the organizer before you head out, especially for
+      anything outdoors in Michigan.
+    </p>
+
+    <p>
+      Missing an event, or spotted a wrong time?
+      <a href="https://github.com/shinabarger/kid-events-in-ann-arbor/issues/new?template=add-event.yml" rel="noopener">Open an issue</a>
+      and it goes in on the next morning's run.
+    </p>
+
+    <p>
+      Run one of these events and would rather not be listed?
+      <a href="https://github.com/shinabarger/kid-events-in-ann-arbor/issues/new?title=Please%20remove%20our%20listings&amp;body=Which%20site%20or%20venue%20should%20come%20off%2C%20and%20anything%20else%20I%20should%20know." rel="noopener">Say so here</a>
+      and you are off by the next morning. No explanation needed.
+    </p>
+
+    <p class="prose-actions">
+      <a class="btn btn-primary" href="./">See what is on today</a>
+      <a class="btn btn-ghost" href="https://github.com/shinabarger/kid-events-in-ann-arbor" rel="noopener">Look at the code</a>
+    </p>
+
+  </article>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p class="credit">
+      Every listing here belongs to whoever published it, and every event links
+      back to their page. Sources are checked once a day, one request at a
+      time, and their robots.txt is obeyed automatically.
+    </p>
+  </div>
+</footer>
+
+<script>
+  (function () {
+    var button = document.getElementById("theme-toggle");
+    var root = document.documentElement;
+    function paint() {
+      var dark = root.getAttribute("data-theme") === "dark";
+      button.setAttribute("aria-pressed", dark ? "true" : "false");
+      button.querySelector(".theme-label").textContent = dark ? "Light" : "Dark";
+      button.setAttribute("aria-label",
+        dark ? "Switch to the light theme" : "Switch to the dark theme");
+    }
+    paint();
+    button.addEventListener("click", function () {
+      var dark = root.getAttribute("data-theme") !== "dark";
+      root.setAttribute("data-theme", dark ? "dark" : "light");
+      try { localStorage.setItem("a2kids-theme", dark ? "dark" : "light"); } catch (err) { /* private mode */ }
+      paint();
+    });
+  })();
+</script>
+</body>
+</html>

@@ -91,26 +91,34 @@
 
 <header class="masthead">
   <div class="wrap masthead-inner">
-    <div class="brand">
+
+    <!-- The whole lockup is one link home, which is what people reach for. -->
+    <a class="brand" href="./" aria-label="Kid Events in Ann Arbor, back to the calendar">
       <svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true" focusable="false">
         <path d="M20 3 L33 15 v20 a2 2 0 0 1-2 2 H9 a2 2 0 0 1-2-2 V15 Z" fill="#62b9d8"/>
         <path d="M20 10c4 4 6 7 6 10a6 6 0 0 1-12 0c0-3 2-6 6-10Z" fill="#7fd8a8"/>
         <circle cx="20" cy="30" r="2.4" fill="#ffffff"/>
       </svg>
-      <div>
-        <h1>Kid Events in Ann Arbor</h1>
-        <p class="tagline">Storytimes, playgroups, festivals, and everything else worth leaving the house for.</p>
-      </div>
-    </div>
-    <div class="masthead-actions">
+      <span class="brand-words">
+        <h1 class="brand-name">Kid Events in Ann Arbor</h1>
+        <span class="tagline">Storytimes, playgroups and festivals, updated every morning</span>
+      </span>
+    </a>
+
+    <nav class="masthead-nav" aria-label="Main">
+      <a class="nav-link is-current" href="./" aria-current="page">Calendar</a>
+      <a class="nav-link" href="about.html">About</a>
       <button type="button" class="btn btn-primary" id="subscribe-open">
         <svg viewBox="0 0 20 20" aria-hidden="true" focusable="false" class="icon"><path d="M4 3h12a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Zm-1 5h14M7 1v4m6-4v4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
         Sync to my calendar
       </button>
-      <button type="button" class="btn btn-ghost" id="theme-toggle" aria-pressed="false">
+      <button type="button" class="btn btn-ghost btn-icon-only" id="theme-toggle" aria-pressed="false">
+        <svg class="icon theme-sun" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><circle cx="10" cy="10" r="4" fill="currentColor"/><path d="M10 1.5v2.2M10 16.3v2.2M18.5 10h-2.2M3.7 10H1.5m14.1-6.1-1.6 1.6M5.8 14.2l-1.6 1.6m11.4 0-1.6-1.6M5.8 5.8 4.2 4.2" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+        <svg class="icon theme-moon" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M16.5 12.4A7 7 0 0 1 7.6 3.5a7 7 0 1 0 8.9 8.9Z" fill="currentColor"/></svg>
         <span class="theme-label">Dark</span>
       </button>
-    </div>
+    </nav>
+
   </div>
 </header>
 
@@ -278,6 +286,7 @@
     <p id="build-info"></p>
     <p class="sources" id="source-list"></p>
     <p>
+      <a href="about.html">About this site</a>.
       Missing something? <a href="https://github.com/shinabarger/kid-events-in-ann-arbor/issues/new?template=add-event.yml" rel="noopener">Add an event</a>
       or <a href="https://github.com/shinabarger/kid-events-in-ann-arbor" rel="noopener">look at the code</a>.
       Always double check times against the organizer before you head out.
