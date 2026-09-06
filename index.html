@@ -206,7 +206,7 @@
       </div>
     </div>
 
-    <fieldset class="field field-when">
+    <fieldset class="field field-when" id="when-row">
       <legend class="field-label">When</legend>
       <div class="chips">
         <label class="chip"><input type="radio" name="when" value="next2" checked><span>Today &amp; tomorrow</span></label>
@@ -224,6 +224,8 @@
       <div class="view-switch">
         <div class="seg" role="group" aria-label="Choose a view">
           <button type="button" class="btn btn-ghost is-active" data-view="list" aria-pressed="true">List</button>
+          <button type="button" class="btn btn-ghost" data-view="day" aria-pressed="false">Day</button>
+          <button type="button" class="btn btn-ghost" data-view="week" aria-pressed="false">Week</button>
           <button type="button" class="btn btn-ghost" data-view="month" aria-pressed="false">Month</button>
         </div>
         <button type="button" class="btn btn-ghost" id="undo" disabled>Undo</button>
@@ -235,6 +237,20 @@
   <div class="active-bar" id="active-bar" role="status" aria-live="polite"></div>
 
   <section id="results" tabindex="-1" aria-label="Events">
+    <!-- Only the calendar views use this. In list view the When chips above
+         decide the dates, and two controls for one job is how people end up
+         staring at an empty page wondering which one lied to them. -->
+    <div class="cal-nav" id="cal-nav" hidden>
+      <button type="button" class="icon-btn" id="cal-prev" aria-label="Previous">
+        <svg viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M12.5 4 6.5 10l6 6" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <h2 class="cal-heading" id="cal-heading" tabindex="-1" role="status" aria-live="polite"></h2>
+      <button type="button" class="icon-btn" id="cal-next" aria-label="Next">
+        <svg viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="m7.5 4 6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <button type="button" class="btn btn-small btn-ghost" id="cal-today">Today</button>
+    </div>
+
     <div id="list-view"></div>
     <div id="month-view" hidden></div>
   </section>
@@ -256,7 +272,7 @@
     <p>
       Missing something? <a href="https://github.com/shinabarger/kid-events-in-ann-arbor/issues/new?template=add-event.yml" rel="noopener">Add an event</a>
       or <a href="https://github.com/shinabarger/kid-events-in-ann-arbor" rel="noopener">look at the code</a>.
-      Always double check times against the organizer before you load the car.
+      Always double check times against the organizer before you head out.
     </p>
     <p class="credit">
       Every listing here belongs to whoever published it, and every event links
