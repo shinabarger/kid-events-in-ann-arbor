@@ -13,6 +13,9 @@
   --brand-green: #1f7a4c;
   --brand-green-dark: #14563a;
   --brand-green-soft: #e6f3ec;
+  --warn-bg: #fdf4e3;
+  --warn-line: #a8710f;
+  --warn-text: #5c3d02;
   --brand-blue: #1b6c8c;
   --brand-blue-dark: #12506a;
   --brand-blue-soft: #e2f0f5;
@@ -52,6 +55,9 @@
   --bg: #0d1512;
   --surface: #16211d;
   --surface-2: #1c2926;
+  --warn-bg: #2e2415;
+  --warn-line: #d9a441;
+  --warn-text: #f2ddb4;
   --text: #e8f1ec;
   --text-soft: #a3b7ae;
   --line: #33443d;
@@ -1249,3 +1255,21 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
   .day-slot { grid-template-columns: 3.2rem 1fr; gap: 8px; }
   .cal-row-time { min-width: 3rem; }
 }
+
+
+/* --- Staleness notice --------------------------------------------------- */
+
+.notice {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 0 0 14px;
+  padding: 12px 14px;
+  border: 1px solid var(--warn-line);
+  border-left: 4px solid var(--warn-line);
+  border-radius: var(--radius-sm);
+  background: var(--warn-bg);
+  color: var(--warn-text);
+}
+.notice svg { width: 19px; height: 19px; flex: none; margin-top: 1px; }
+.notice p { margin: 0; font-size: .88rem; line-height: 1.45; }
