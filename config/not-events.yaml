@@ -1,0 +1,42 @@
+# Things that turn up on event calendars without being events.
+#
+# The one that started this is "Kids Eat Free". Ann Arbor with Kids publishes
+# it as an all-day listing that repeats every day, so it took 13 of the 103
+# rows on the calendar. It is a running list of restaurants running a
+# promotion: no time, no place, nothing to turn up to. An advert with a date
+# on it.
+#
+# This is not the same question as config/optout.yaml, which is for organizers
+# who asked to be left out, and not the same as scraper/kidfilter.py, which
+# asks whether a general calendar's event is for children. This one asks
+# whether the thing is an event at all, and it asks it of every source.
+#
+# titles:          a regular expression matched against the event title
+# venues:          matched against the venue
+# title_and_venue: both have to match, for a title that is only a problem in
+#                  a particular kind of place
+
+titles:
+  # Restaurant promotions. Marketing for the restaurant, not programming for
+  # a child, and they run every day forever.
+  - "\\bkids?\\s+eats?\\s+(free|cheap)\\b"
+  - "\\bkids?\\s+eats?\\s+for\\s+\\$?\\d"
+  - "\\bfree\\s+kids?\\s+meals?\\b"
+  - "\\bkids?\\s+meal\\s+deal\\b"
+
+  # Calls for submissions and applications. A deadline is not an outing.
+  - "\\bcall\\s+for\\s+(art|artists|entries|submissions|vendors|volunteers)\\b"
+  - "\\b(applications?|registration|submissions?)\\s+(opens?|closes?|due|deadline)\\b"
+  - "\\bdeadline\\s+to\\s+"
+  - "\\bnominations?\\s+(open|due)\\b"
+
+  # Standing "we are open" listings. Useful to know, not something you plan
+  # your Saturday around, and they repeat daily forever.
+  - "\\bnow\\s+(open|enrolling|hiring)\\b"
+  - "\\bopen\\s+enrollment\\b"
+  - "\\btickets?\\s+on\\s+sale\\b"
+  - "\\bsave\\s+the\\s+date\\b"
+
+venues: []
+
+title_and_venue: []
