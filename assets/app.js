@@ -100,6 +100,7 @@
     byId: {},
     meta: null,
     view: "list",
+    focus: "",
     feeds: [],
     when: DEFAULT_WHEN,
     q: "",
@@ -263,7 +264,16 @@
     var key = dayKey(event.start);
     var range = whenRange(state.when);
     if (key < range[0] || key > range[1]) return false;
+    return matchesExceptDate(event);
+  }
 
+  /* Everything except the date window.
+
+     In list view the When chips decide which days you see. In the calendar
+     views that job belongs to the calendar itself, because "show me next
+     Tuesday" is what a calendar is for, and having both would mean two
+     controls quietly fighting over the same thing. */
+  function matchesExceptDate(event) {
     if (state.timeOfDay) {
       // An all day listing is not morning or afternoon, so it drops out here.
       if (event.all_day) return false;
@@ -291,6 +301,83 @@
   }
 
   function visible() { return state.events.filter(matches); }
+
+  /* What the calendar views draw from: every filter except the date window,
+     which the calendar's own navigation supplies. */
+  function calendarPool() { return state.events.filter(matchesExceptDate); }
+
+  function inRange(events, from, to) {
+    return events.filter(function (e) {
+      var key = dayKey(e.start);
+      return key >= from && key <= to;
+    });
+  }
+
+  function groupByDay(events) {
+    var byDay = {};
+    events.forEach(function (e) {
+      var key = dayKey(e.start);
+      (byDay[key] = byDay[key] || []).push(e);
+    });
+    return byDay;
+  }
+
+  /* Sunday of the week containing `key`, because the month grid already runs
+     Sunday first and two different week starts on one page is confusing. */
+  function weekStart(key) {
+    var d = fromKey(key);
+    return addDays(key, -d.getDay());
+  }
+
+  function monthStart(key) { return key.slice(0, 8) + "01"; }
+
+  function monthEnd(key) {
+    var d = fromKey(key);
+    var last = new Date(d.getFullYear(), d.getMonth() + 1, 0);
+    return key.slice(0, 8) + String(last.getDate()).padStart(2, "0");
+  }
+
+  /* The window the current calendar view is showing. */
+  function focusRange() {
+    var key = state.focus || todayKey();
+    if (state.view === "day") return [key, key];
+    if (state.view === "week") {
+      var start = weekStart(key);
+      return [start, addDays(start, 6)];
+    }
+    return [monthStart(key), monthEnd(key)];
+  }
+
+  function stepFocus(direction) {
+    var key = state.focus || todayKey();
+    if (state.view === "day") {
+      state.focus = addDays(key, direction);
+    } else if (state.view === "week") {
+      state.focus = addDays(key, 7 * direction);
+    } else {
+      var d = fromKey(key);
+      var moved = new Date(d.getFullYear(), d.getMonth() + direction, 1);
+      state.focus = moved.getFullYear() + "-" +
+        String(moved.getMonth() + 1).padStart(2, "0") + "-01";
+    }
+    render();
+  }
+
+  function rangeHeading() {
+    var range = focusRange();
+    if (state.view === "day") return fmtDayLong(range[0]);
+    if (state.view === "month") {
+      return fromKey(range[0]).toLocaleDateString("en-US",
+        { month: "long", year: "numeric" });
+    }
+    var from = fromKey(range[0]);
+    var to = fromKey(range[1]);
+    var opts = { month: "short", day: "numeric" };
+    var left = from.toLocaleDateString("en-US", opts);
+    var right = to.toLocaleDateString("en-US",
+      from.getMonth() === to.getMonth() ? { day: "numeric" } : opts);
+    return left + " to " + right + ", " + to.getFullYear();
+  }
 
   /* ---------- calendar links -------------------------------------------- */
 
@@ -772,33 +859,217 @@
     el.list.replaceChildren(frag);
   }
 
-  function renderMonth(events) {
-    var byDay = {};
-    events.forEach(function (e) {
-      var key = dayKey(e.start);
-      (byDay[key] = byDay[key] || []).push(e);
+  /* ---------- day and week --------------------------------------------- */
+
+  /* A compact row for the calendar views. The full card, with its buttons and
+     its detail list, stays in list view: on a week grid there is no room for
+     four buttons, and putting them there would make every column unreadable.
+     Clicking a row jumps to that event's card. */
+  function calendarRow(event, options) {
+    var row = document.createElement("button");
+    row.type = "button";
+    row.className = "cal-row";
+    if (event.all_day) row.classList.add("is-allday");
+
+    var label = event.all_day ? "All day" : fmtTime(event.start);
+    if (options && options.hideExactHour && !event.all_day &&
+        /^\d{1,2}(am|pm)$/.test(label)) {
+      // The hour rail beside it already says 9am. Repeating it in the row is
+      // noise; a 9:30 start still earns its place.
+      label = "";
+    }
+    if (label) {
+      var time = document.createElement("span");
+      time.className = "cal-row-time";
+      time.textContent = label;
+      row.appendChild(time);
+    }
+
+    var body = document.createElement("span");
+    body.className = "cal-row-body";
+
+    var title = document.createElement("span");
+    title.className = "cal-row-title";
+    title.textContent = event.title;
+    body.appendChild(title);
+
+    if (event.venue) {
+      var venue = document.createElement("span");
+      venue.className = "cal-row-venue";
+      venue.textContent = event.venue;
+      body.appendChild(venue);
+    }
+    row.appendChild(body);
+
+    var when = event.all_day ? "all day" : fmtTime(event.start);
+    row.setAttribute("aria-label",
+      event.title + ", " + when + (event.venue ? ", " + event.venue : "") +
+      ". Open the full listing.");
+    row.addEventListener("click", function () { jumpToEvent(event); });
+    return row;
+  }
+
+  function jumpToEvent(event) {
+    // Widen the date window so the card is definitely in the list, then open
+    // it. Landing on an empty list would be the worst possible answer here.
+    var key = dayKey(event.start);
+    var range = whenRange(state.when);
+    if (key < range[0] || key > range[1]) {
+      state.when = "date";
+      state.date = key;
+      syncCheckboxes();
+    }
+    setView("list");
+    var card = document.getElementById("e-" + event.id);
+    if (!card) return;
+    toggleCard(card, event, true);
+    card.scrollIntoView({ behavior: "smooth", block: "center" });
+    var opener = card.querySelector(".card-open");
+    if (opener) opener.focus();
+  }
+
+  function emptyDayNote(text) {
+    var note = document.createElement("p");
+    note.className = "cal-empty";
+    note.textContent = text;
+    return note;
+  }
+
+  function renderDay(pool) {
+    var key = state.focus || todayKey();
+    var events = inRange(pool, key, key)
+      .sort(function (a, b) { return (a.start || "").localeCompare(b.start || ""); });
+
+    var wrap = document.createElement("section");
+    wrap.className = "day-view";
+    wrap.setAttribute("aria-label", "Events on " + fmtDayLong(key));
+
+    if (!events.length) {
+      wrap.appendChild(emptyDayNote(
+        "Nothing on this day with the filters you have on. Try the next day, or widen the filters."));
+      el.month.replaceChildren(wrap);
+      return events.length;
+    }
+
+    var allDay = events.filter(function (e) { return e.all_day; });
+    var timed = events.filter(function (e) { return !e.all_day; });
+
+    if (allDay.length) {
+      var band = document.createElement("div");
+      band.className = "day-allday";
+      var bandHead = document.createElement("h3");
+      bandHead.textContent = "All day";
+      band.appendChild(bandHead);
+      allDay.forEach(function (e) { band.appendChild(calendarRow(e)); });
+      wrap.appendChild(band);
+    }
+
+    // One block per hour that actually has something in it, rather than a
+    // rail of twenty empty hours you have to scroll past on a phone.
+    var byHour = {};
+    timed.forEach(function (e) {
+      var hour = Number(parseDate(e.start)
+        .toLocaleTimeString("en-GB", { hour: "2-digit", hour12: false, timeZone: TZ })
+        .slice(0, 2));
+      (byHour[hour] = byHour[hour] || []).push(e);
     });
 
-    var months = {};
-    Object.keys(byDay).forEach(function (k) { months[k.slice(0, 7)] = true; });
+    var rail = document.createElement("div");
+    rail.className = "day-rail";
+    Object.keys(byHour).map(Number).sort(function (a, b) { return a - b; })
+      .forEach(function (hour) {
+        var slot = document.createElement("div");
+        slot.className = "day-slot";
+
+        var label = document.createElement("span");
+        label.className = "day-hour";
+        var d = new Date(2000, 0, 1, hour);
+        label.textContent = d.toLocaleTimeString("en-US", { hour: "numeric" })
+          .toLowerCase().replace(/\s/g, "");
+        slot.appendChild(label);
+
+        var items = document.createElement("div");
+        items.className = "day-items";
+        byHour[hour].forEach(function (e) {
+          items.appendChild(calendarRow(e, { hideExactHour: true }));
+        });
+        slot.appendChild(items);
+        rail.appendChild(slot);
+      });
+    wrap.appendChild(rail);
+
+    el.month.replaceChildren(wrap);
+    return events.length;
+  }
+
+  function renderWeek(pool) {
+    var range = focusRange();
+    var events = inRange(pool, range[0], range[1]);
+    var byDay = groupByDay(events);
+    var today = todayKey();
+
+    var grid = document.createElement("div");
+    grid.className = "week-grid";
+    grid.setAttribute("aria-label", "Week of " + rangeHeading());
+
+    for (var i = 0; i < 7; i++) {
+      var key = addDays(range[0], i);
+      var column = document.createElement("section");
+      column.className = "week-day" + (key === today ? " is-today" : "");
+
+      var head = document.createElement("h3");
+      head.className = "week-day-head";
+
+      var name = document.createElement("span");
+      name.className = "week-dow";
+      name.textContent = fromKey(key).toLocaleDateString("en-US", { weekday: "short" });
+      head.appendChild(name);
+
+      var num = document.createElement("span");
+      num.className = "week-date";
+      num.textContent = fromKey(key).getDate();
+      head.appendChild(num);
+
+      if (key === today) {
+        var badge = document.createElement("span");
+        badge.className = "week-today";
+        badge.textContent = "Today";
+        head.appendChild(badge);
+      }
+      column.appendChild(head);
+
+      var list = (byDay[key] || [])
+        .sort(function (a, b) { return (a.start || "").localeCompare(b.start || ""); });
+
+      if (!list.length) {
+        var quiet = document.createElement("p");
+        quiet.className = "week-quiet";
+        quiet.textContent = "Nothing";
+        column.appendChild(quiet);
+      } else {
+        list.forEach(function (e) { column.appendChild(calendarRow(e)); });
+      }
+      grid.appendChild(column);
+    }
+
+    el.month.replaceChildren(grid);
+    return events.length;
+  }
+
+  function renderMonth(pool) {
+    var range = focusRange();
+    var events = inRange(pool, range[0], range[1]);
+    var byDay = groupByDay(events);
 
     var frag = document.createDocumentFragment();
     var today = todayKey();
 
-    Object.keys(months).sort().slice(0, 4).forEach(function (mk) {
+    [range[0].slice(0, 7)].forEach(function (mk) {
       var year = Number(mk.slice(0, 4));
       var month = Number(mk.slice(5, 7)) - 1;
 
       var wrap = document.createElement("section");
       wrap.className = "month";
-
-      var head = document.createElement("div");
-      head.className = "month-head";
-      var h2 = document.createElement("h2");
-      h2.textContent = new Date(year, month, 1)
-        .toLocaleDateString("en-US", { month: "long", year: "numeric" });
-      head.appendChild(h2);
-      wrap.appendChild(head);
 
       var grid = document.createElement("div");
       grid.className = "month-grid";
@@ -835,24 +1106,28 @@
           button.type = "button";
           button.className = "month-item";
           button.textContent = (e.all_day ? "" : fmtTime(e.start) + " ") + e.title;
+          button.setAttribute("aria-label",
+            e.title + " on " + fmtDayLong(key) + ". Open the full listing.");
           button.addEventListener("click", (function (row) {
-            return function () {
-              setView("list");
-              var card = document.getElementById("e-" + row.id);
-              if (!card) return;
-              toggleCard(card, row, true);
-              card.scrollIntoView({ behavior: "smooth", block: "center" });
-              var opener = card.querySelector(".card-open");
-              if (opener) opener.focus();
-            };
+            return function () { jumpToEvent(row); };
           })(e));
           cell.appendChild(button);
         });
 
         if (list.length > 3) {
-          var more = document.createElement("span");
+          var more = document.createElement("button");
+          more.type = "button";
           more.className = "month-more";
           more.textContent = "+" + (list.length - 3) + " more";
+          more.setAttribute("aria-label",
+            "See all " + list.length + " events on " + fmtDayLong(key));
+          more.addEventListener("click", (function (dayKeyValue) {
+            return function () {
+              state.focus = dayKeyValue;
+              setView("day");
+              $("cal-heading").focus();
+            };
+          })(key));
           cell.appendChild(more);
         }
         grid.appendChild(cell);
@@ -863,32 +1138,69 @@
     });
 
     el.month.replaceChildren(frag);
+    return events.length;
   }
 
-  function render() {
-    var events = visible();
+  var VIEW_NOUN = { day: "day", week: "week", month: "month" };
 
-    el.count.textContent = events.length === 0
-      ? "No events match"
-      : events.length + (events.length === 1 ? " event" : " events") + " found";
-    el.empty.hidden = events.length > 0;
-    if (!events.length) {
+  function render() {
+    var isList = state.view === "list";
+    var count;
+
+    if (isList) {
+      var events = visible();
+      count = events.length;
+      renderList(events);
+    } else {
+      var pool = calendarPool();
+      count = state.view === "day" ? renderDay(pool)
+        : state.view === "week" ? renderWeek(pool)
+        : renderMonth(pool);
+    }
+
+    el.list.hidden = !isList;
+    el.month.hidden = isList;
+    if (el.whenRow) el.whenRow.hidden = !isList;
+    renderCalendarNav();
+    renderActive();
+
+    var suffix = isList ? " found"
+      : state.view === "day" ? " on this day"
+      : " this " + VIEW_NOUN[state.view];
+    el.count.textContent = count === 0
+      ? (isList ? "No events match"
+         : state.view === "day" ? "Nothing on this day" : "Nothing this " + VIEW_NOUN[state.view])
+      : count + (count === 1 ? " event" : " events") + suffix;
+
+    // The list view's empty state offers to widen the filters. The calendar
+    // views say it in place, next to the arrows that move you off the empty
+    // day, so the whole page does not get replaced by an apology.
+    el.empty.hidden = !isList || count > 0;
+    if (isList && !count) {
       $("empty-text").textContent = emptyAdvice();
       $("empty-undo").hidden = state.history.length === 0;
     }
+  }
 
-    if (state.view === "list") {
-      renderList(events);
-      el.list.hidden = false;
-      el.month.hidden = true;
-    } else {
-      renderMonth(events);
-      el.list.hidden = true;
-      el.month.hidden = false;
-    }
+  function renderCalendarNav() {
+    var nav = el.calNav;
+    if (!nav) return;
+    nav.hidden = state.view === "list";
+    if (nav.hidden) return;
+    $("cal-heading").textContent = rangeHeading();
+    var range = focusRange();
+    var today = todayKey();
+    $("cal-today").disabled = today >= range[0] && today <= range[1];
+    $("cal-prev").setAttribute("aria-label", "Previous " + VIEW_NOUN[state.view]);
+    $("cal-next").setAttribute("aria-label", "Next " + VIEW_NOUN[state.view]);
   }
 
   function setView(view) {
+    // Arriving at a calendar view from the list lands you on today, unless a
+    // chosen day is already on screen, which is the day you were looking at.
+    if (view !== "list" && state.view === "list") {
+      state.focus = state.date || todayKey();
+    }
     state.view = view;
     document.querySelectorAll("[data-view]").forEach(function (b) {
       var on = b.dataset.view === view;
@@ -1151,7 +1463,7 @@
       });
     });
 
-    if (state.when !== "all") {
+    if (state.when !== "all" && state.view === "list") {
       chips.push({
         label: state.when === "date" && state.date
           ? new Date(state.date + "T12:00:00").toLocaleDateString("en-US",
@@ -1340,7 +1652,6 @@
   function apply() {
     syncAskBox();
     writeUrl();
-    renderActive();
     render();
     var undoButton = $("undo");
     if (undoButton) undoButton.disabled = state.history.length === 0;
@@ -1554,6 +1865,8 @@
     el = {
       list: $("list-view"),
       month: $("month-view"),
+      calNav: $("cal-nav"),
+      whenRow: $("when-row"),
       count: $("count"),
       empty: $("empty"),
       form: $("filters"),
@@ -1607,6 +1920,29 @@
 
 
     $("reset").addEventListener("click", showEverything);
+    $("cal-prev").addEventListener("click", function () { stepFocus(-1); });
+    $("cal-next").addEventListener("click", function () { stepFocus(1); });
+    $("cal-today").addEventListener("click", function () {
+      state.focus = todayKey();
+      render();
+    });
+
+    // Arrow keys move the calendar, but only when the person is not typing
+    // into something, and not while a dropdown has the focus.
+    document.addEventListener("keydown", function (e) {
+      if (state.view === "list") return;
+      if (e.metaKey || e.ctrlKey || e.altKey) return;
+      var tag = (e.target.tagName || "").toLowerCase();
+      if (tag === "input" || tag === "textarea" || tag === "select") return;
+      if (e.target.closest && e.target.closest(".multi-panel, .cal-panel, dialog")) return;
+      if (e.key === "ArrowLeft") { e.preventDefault(); stepFocus(-1); }
+      else if (e.key === "ArrowRight") { e.preventDefault(); stepFocus(1); }
+      else if (e.key === "t" || e.key === "T") {
+        state.focus = todayKey();
+        render();
+      }
+    });
+
     $("empty-reset").addEventListener("click", showEverything);
     $("undo").addEventListener("click", undo);
     $("empty-undo").addEventListener("click", undo);
