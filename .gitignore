@@ -1,0 +1,15 @@
+# Nothing in here belongs in the repo. node_modules is only needed to run the
+# front end tests, and npm install rebuilds it from package-lock.json.
+node_modules/
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store
+*.egg-info/
+
+# Built on demand by scripts/build_preview.py when you want to look at the
+# site offline. The published site is the repo itself, so this does not
+# belong in it.
+preview.html

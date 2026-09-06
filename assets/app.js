@@ -1095,12 +1095,39 @@
         var cell = document.createElement("div");
         cell.className = "month-cell" + (key === today ? " is-today" : "");
 
-        var num = document.createElement("span");
+        var list = byDay[key] || [];
+
+        // The date is a button, not a label. On a phone the individual event
+        // rows are hidden (seven columns leaves about fifty pixels, which
+        // truncates every title to "10...") and this becomes the way in: tap
+        // the day, get the day view. It is also the only tap target in the
+        // cell big enough to hit reliably.
+        var num = document.createElement("button");
+        num.type = "button";
         num.className = "month-date";
-        num.textContent = day;
+        num.appendChild(document.createTextNode(String(day)));
+        num.setAttribute("aria-label", list.length
+          ? fmtDayLong(key) + ", " + list.length +
+            (list.length === 1 ? " event" : " events")
+          : fmtDayLong(key) + ", nothing on");
+        num.addEventListener("click", (function (dayKeyValue) {
+          return function () {
+            state.focus = dayKeyValue;
+            setView("day");
+            var heading = $("cal-heading");
+            if (heading) heading.focus();
+          };
+        })(key));
+
+        if (list.length) {
+          var dot = document.createElement("span");
+          dot.className = "month-count";
+          dot.textContent = list.length;
+          dot.setAttribute("aria-hidden", "true");
+          num.appendChild(dot);
+        }
         cell.appendChild(num);
 
-        var list = byDay[key] || [];
         list.slice(0, 3).forEach(function (e) {
           var button = document.createElement("button");
           button.type = "button";

@@ -23,8 +23,10 @@ function buildPage() {
 
 const HTML = buildPage();
 
-async function load() {
-  const dom = new JSDOM(HTML, {
+async function load() { return loadPage(HTML); }
+
+async function loadPage(html) {
+  const dom = new JSDOM(html, {
     runScripts: "dangerously",
     url: "https://shinabarger.github.io/kid-events-in-ann-arbor/",
     pretendToBeVisual: true,
@@ -188,6 +190,9 @@ test("the age filter offers every band and picking one narrows the list", async 
   const values = [...window.document.querySelectorAll("#panel-age input")].map((b) => b.value);
   assert.deepEqual(values, ["baby", "toddler", "preschool", "elementary", "tween", "teen"]);
 
+  // Widen first: the snapshot carries real dates now, so which events fall in
+  // the default two day window depends on the day the suite runs.
+  showAll(window);
   const before = cards(window).length;
   pick(window, "age", "baby");
   assert.ok(cards(window).length < before);
@@ -197,16 +202,35 @@ test("the age filter offers every band and picking one narrows the list", async 
 });
 
 test("picking two ages shows events for either one", async () => {
+  // Data driven on purpose. Pinning specific titles here is what broke when
+  // the snapshot moved to real dates, and the thing being tested is the union,
+  // not which events happen to be in the sample this week.
   const window = await load();
-  pick(window, "age", "baby");
-  const babyOnly = new Set(titles(window));
-  pick(window, "age", "teen");
-  const both = titles(window);
+  showAll(window);
 
-  assert.ok(both.length > babyOnly.size, "adding a second age should widen the list");
-  assert.ok(both.includes("Baby Playgroups"));
-  assert.ok(both.includes("Silent Disco Dance Party"));
+  pick(window, "age", "baby");
+  const babyOnly = cards(window).length;
+
+  window.document.querySelector('#panel-age input[value="baby"]').checked = false;
+  window.document.querySelector('#panel-age input[value="baby"]')
+    .dispatchEvent(new window.Event("change", { bubbles: true }));
+  pick(window, "age", "teen");
+  const teenOnly = cards(window).length;
+
+  pick(window, "age", "baby");
+  const both = cards(window).length;
+
+  assert.ok(babyOnly > 0 && teenOnly > 0, "the sample needs both bands");
+  assert.ok(both >= Math.max(babyOnly, teenOnly), "a union cannot be smaller than either side");
+  assert.ok(both <= babyOnly + teenOnly, "and cannot exceed the sum");
   assert.equal(summary(window, "age"), "Babies +1");
+
+  for (const card of cards(window)) {
+    const badges = card.querySelector(".badges").textContent;
+    // An all-ages event legitimately answers to both, and says so that way.
+    assert.match(badges, /Bab|Teen|All ages/,
+      "every card should match one of the two bands");
+  }
 });
 
 test("all ages events land under every band picked", async () => {
@@ -503,10 +527,55 @@ test("reset clears everything", async () => {
 
 /* --- repeating all day listings ------------------------------------------- */
 
+
+/* The repeats filter needs an all-day recurring listing to act on, and the
+   sample has none since the Kids Eat Free promo was filtered out upstream.
+   Real ones do exist, a multi-day fair for instance, so rather than invent a
+   row in the captured snapshot this injects one into the page's inlined data. */
+function pageWith(extraEvents) {
+  return HTML.replace(
+    /(<script type="application\/json" id="inline-data">)([\s\S]*?)(<\/script>)/,
+    (_all, open, json, close) => {
+      // The inlined blob is { events: <the whole payload>, feeds: ... }.
+      const blob = JSON.parse(json);
+      const payload = blob.events;
+      payload.events = payload.events.concat(extraEvents);
+      payload.events.sort((a, b) => (a.start || "").localeCompare(b.start || ""));
+      payload.count = payload.events.length;
+      return open + JSON.stringify(blob) + close;
+    }
+  );
+}
+
+function allDayRepeat(overrides) {
+  const today = new Date().toLocaleDateString("en-CA", { timeZone: "America/Detroit" });
+  return Object.assign({
+    id: "fixture-allday-repeat",
+    title: "County Fair Week",
+    start: `${today}T00:00:00-04:00`,
+    end: null,
+    all_day: true,
+    recurring: true,
+    repeat_count: 7,
+    description: "Runs all week.",
+    url: "",
+    venue: "Washtenaw Farm Council Grounds",
+    address: "",
+    city: "Ann Arbor",
+    lat: null, lon: null,
+    zone: "city", washtenaw: true, bus: true, drive_minutes: 5,
+    ages: ["preschool", "elementary"], all_ages: true, age_min: 0, age_max: 18,
+    audience_raw: "All ages", setting: "outdoor", cost: "free", price: "Free",
+    registration: false, categories: [], also_seen_on: [],
+    source: "fixture", source_name: "Fixture", image: "", updated: ""
+  }, overrides || {});
+}
+
 test("all day repeats are in the list by default", async () => {
-  const window = await load();
-  assert.ok(titles(window).includes("Kids Eat Free"),
-    "the sample data should carry a daily repeat");
+  const window = await loadPage(pageWith([allDayRepeat()]));
+  showAll(window);
+  assert.ok(titles(window).includes("County Fair Week"),
+    "an all-day repeat should show unless you ask to hide it");
 });
 
 test("repeats is one choice of two, never both, and never only-repeats", async () => {
@@ -526,13 +595,14 @@ test("repeats is one choice of two, never both, and never only-repeats", async (
 });
 
 test("hiding all day repeats drops them and keeps everything else", async () => {
-  const window = await load();
+  const window = await loadPage(pageWith([allDayRepeat()]));
+  showAll(window);
   const everything = cards(window).length;
 
   pick(window, "repeats", "hide");
   const shown = titles(window);
-  assert.ok(!shown.includes("Kids Eat Free"), "the daily repeat should be hidden");
-  assert.ok(shown.length < everything);
+  assert.ok(!shown.includes("County Fair Week"), "the daily repeat should be hidden");
+  assert.equal(shown.length, everything - 1, "and nothing else should go with it");
   assert.equal(summary(window, "repeats"), "No all-day repeats");
 
   pick(window, "repeats", "show");
@@ -604,8 +674,10 @@ test("clicking the title expands it, clicking again shrinks it back", async () =
 
 test("the expanded panel carries the details worth having", async () => {
   const window = await load();
+  showAll(window);
   const card = cards(window).find(
     (c) => c.querySelector(".card-name").textContent === "Baby Playgroups");
+  assert.ok(card, "Baby Playgroups is not in the snapshot any more");
   card.querySelector(".card-open").click();
 
   const labels = [...card.querySelectorAll(".detail-list dt")].map((d) => d.textContent);
@@ -615,7 +687,8 @@ test("the expanded panel carries the details worth having", async () => {
     assert.ok(labels.includes(label), `missing "${label}" from ${labels.join(", ")}`);
   }
   assert.match(values[labels.indexOf("When")], /\w+day.*\d/);
-  assert.match(values[labels.indexOf("Where")], /Fifth Ave/);
+  assert.match(values[labels.indexOf("Where")], /\d+ [A-Z].*Ann Arbor/,
+    "Where should carry a street address, not just a venue name");
   assert.equal(values[labels.indexOf("Cost")], "Free");
 });
 
@@ -647,7 +720,8 @@ test("every card has a copy link button", async () => {
   for (const card of cards(window)) {
     const button = card.querySelector(".card-copy");
     assert.ok(button, "no copy button");
-    assert.equal(button.textContent, "Copy link");
+    assert.equal(button.querySelector(".card-copy-label").textContent, "Copy link");
+    assert.ok(button.querySelector("svg.icon"), "no copy icon");
     assert.match(button.getAttribute("aria-label"), /^Copy a link to /);
   }
 });
@@ -694,37 +768,112 @@ test("opening a shared link expands that event and widens the dates", async () =
 
 /* --- calendar buttons ------------------------------------------------------ */
 
-test("every card says Add to Google Calendar and links correctly", async () => {
+test("one Add to calendar button, three calendars behind it", async () => {
   const window = await load();
   for (const card of cards(window)) {
-    const link = card.querySelector(".card-google");
-    assert.equal(link.textContent, "Add to Google Calendar");
-    const params = new URL(link.getAttribute("href")).searchParams;
-    assert.equal(params.get("action"), "TEMPLATE");
-    assert.ok(params.get("text"));
-    assert.match(params.get("dates"), /^\d{8}T\d{6}Z\/\d{8}T\d{6}Z$/);
-    assert.equal(params.get("ctz"), "America/Detroit");
+    const button = card.querySelector(".card-cal");
+    assert.ok(button, "no calendar button");
+    assert.equal(button.querySelector("span").textContent, "Add to calendar");
+    assert.ok(button.querySelector("svg.icon"), "no calendar icon");
+    assert.equal(button.getAttribute("aria-expanded"), "false");
+    assert.equal(button.getAttribute("aria-haspopup"), "true");
+
+    const panel = card.querySelector(".cal-panel");
+    assert.equal(panel.hidden, true, "the menu must start closed");
+    assert.equal(panel.getAttribute("role"), "menu");
+    assert.deepEqual(
+      [...panel.querySelectorAll(".cal-item span")].map((s) => s.textContent),
+      ["Google Calendar", "Apple Calendar", "Outlook Calendar"]
+    );
   }
 });
 
-test("every card says Add to Apple Calendar and produces a file", async () => {
+test("the Google item carries the whole event", async () => {
   const window = await load();
-  const button = window.document.querySelector(".card-apple");
-  assert.equal(button.textContent, "Add to Apple Calendar");
+  const item = window.document.querySelectorAll(".cal-item")[0];
+  const params = new URL(item.getAttribute("href")).searchParams;
+  assert.equal(params.get("action"), "TEMPLATE");
+  assert.ok(params.get("text"));
+  assert.match(params.get("dates"), /^\d{8}T\d{6}Z\/\d{8}T\d{6}Z$/);
+  assert.equal(params.get("ctz"), "America/Detroit");
+  assert.ok(params.get("location"), "no address, so the calendar cannot map it");
+});
+
+test("the Apple item downloads a real calendar file", async () => {
+  const window = await load();
+  const item = window.document.querySelectorAll(".cal-item")[1];
 
   let downloaded = null;
   window.URL.createObjectURL = (blob) => { downloaded = blob; return "blob:fake"; };
   window.URL.revokeObjectURL = () => {};
-  button.click();
+  item.click();
   assert.ok(downloaded, "clicking Apple Calendar did not produce a file");
   assert.equal(downloaded.type, "text/calendar;charset=utf-8");
 });
 
-test("the source button says View on Website", async () => {
+test("the Outlook item opens the compose deeplink", async () => {
+  const window = await load();
+  const item = window.document.querySelectorAll(".cal-item")[2];
+  const url = new URL(item.getAttribute("href"));
+  assert.equal(url.host, "outlook.live.com");
+  assert.equal(url.searchParams.get("rru"), "addevent");
+  assert.ok(url.searchParams.get("subject"));
+  assert.ok(url.searchParams.get("startdt"));
+});
+
+test("the calendar menu opens, closes, and hands focus back", async () => {
+  const window = await load();
+  const card = cards(window)[0];
+  const button = card.querySelector(".card-cal");
+  const panel = card.querySelector(".cal-panel");
+
+  button.click();
+  assert.equal(panel.hidden, false);
+  assert.equal(button.getAttribute("aria-expanded"), "true");
+  assert.equal(window.document.activeElement, panel.querySelector(".cal-item"),
+    "opening should land focus on the first item");
+
+  panel.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape", bubbles: true }));
+  assert.equal(panel.hidden, true);
+  assert.equal(button.getAttribute("aria-expanded"), "false");
+  assert.equal(window.document.activeElement, button, "Escape should return focus");
+});
+
+test("arrow keys walk the calendar menu and wrap", async () => {
+  const window = await load();
+  const card = cards(window)[0];
+  const panel = card.querySelector(".cal-panel");
+  const items = [...panel.querySelectorAll(".cal-item")];
+
+  card.querySelector(".card-cal").click();
+  const down = () => panel.dispatchEvent(
+    new window.KeyboardEvent("keydown", { key: "ArrowDown", bubbles: true }));
+
+  down();
+  assert.equal(window.document.activeElement, items[1]);
+  down();
+  assert.equal(window.document.activeElement, items[2]);
+  down();
+  assert.equal(window.document.activeElement, items[0], "should wrap around");
+});
+
+test("opening one card's calendar menu closes another's", async () => {
+  const window = await load();
+  const [first, second] = cards(window);
+  first.querySelector(".card-cal").click();
+  second.querySelector(".card-cal").click();
+  assert.equal(first.querySelector(".cal-panel").hidden, true);
+  assert.equal(second.querySelector(".cal-panel").hidden, false);
+});
+
+test("the source button says View on event website", async () => {
   const window = await load();
   for (const card of cards(window)) {
     const link = card.querySelector(".card-source");
-    if (link) assert.equal(link.textContent, "View on Website");
+    if (link) {
+      assert.equal(link.querySelector("span").textContent, "View on event website");
+      assert.ok(link.querySelector("svg.icon"), "no website icon");
+    }
   }
 });
 
@@ -1092,4 +1241,355 @@ test("a projected occurrence still links back to the schedule page", async () =>
   assert.ok(card, "no projected occurrence rendered");
   const link = card.querySelector(".card-source");
   assert.match(link.href, /themamasnetwork\.org\/events/);
+});
+
+/* --- the bug that shipped ------------------------------------------------ */
+
+test("every filter dropdown starts closed, with the real stylesheet applied", async () => {
+  // jsdom has no cascade, so `panel.hidden` was true while the live site
+  // rendered every dropdown open: `.multi-panel { display: flex }` in the
+  // author stylesheet beats the browser's own `[hidden] { display: none }`.
+  // This checks the stylesheet the way a browser would instead.
+  const css = readFileSync(join(ROOT, "assets", "style.css"), "utf8");
+
+  const hiddenRule = css.match(/\[hidden\]\s*\{([^}]*)\}/);
+  assert.ok(hiddenRule, "no author level [hidden] rule");
+  assert.match(hiddenRule[1], /display\s*:\s*none\s*!important/);
+
+  const window = await load();
+  for (const name of ["age", "where", "setting", "cost", "signup", "repeats"]) {
+    const panel = window.document.getElementById(`panel-${name}`);
+    assert.equal(panel.hidden, true, `${name} panel is open on load`);
+  }
+  for (const panel of window.document.querySelectorAll(".cal-panel")) {
+    assert.equal(panel.hidden, true, "a calendar menu is open on load");
+  }
+});
+
+test("nothing sets display on an element that is toggled with hidden", async () => {
+  // The real guard: if a rule targets one of these and sets display without
+  // the [hidden] override winning, it silently unhides on the live site.
+  const css = readFileSync(join(ROOT, "assets", "style.css"), "utf8");
+  const hiddenIndex = css.search(/\[hidden\]\s*\{/);
+  assert.ok(hiddenIndex > -1);
+
+  for (const selector of [".multi-panel", ".cal-panel", ".card-more"]) {
+    const at = css.indexOf(`${selector} {`);
+    if (at === -1) continue;
+    const block = css.slice(at, css.indexOf("}", at));
+    if (/display\s*:/.test(block)) {
+      assert.ok(
+        /!important/.test(css.slice(hiddenIndex, css.indexOf("}", hiddenIndex))),
+        `${selector} sets display, so [hidden] needs !important to beat it`
+      );
+    }
+  }
+});
+
+test("the page opens in light mode", async () => {
+  const window = await load();
+  assert.equal(window.document.documentElement.getAttribute("data-theme"), "light");
+});
+
+test("a saved dark choice is still honoured", async () => {
+  const window = await load();
+  const toggle = window.document.getElementById("theme-toggle");
+  toggle.click();
+  assert.equal(window.document.documentElement.getAttribute("data-theme"), "dark");
+  assert.equal(toggle.getAttribute("aria-pressed"), "true");
+  assert.match(toggle.getAttribute("aria-label"), /light theme/i);
+});
+
+/* --- day, week and month views ------------------------------------------- */
+
+function setView(window, view) {
+  window.document.querySelector(`[data-view="${view}"]`).click();
+}
+
+function heading(window) {
+  return window.document.getElementById("cal-heading").textContent;
+}
+
+test("all four views are offered", async () => {
+  const window = await load();
+  const views = [...window.document.querySelectorAll("[data-view]")]
+    .map((b) => b.dataset.view);
+  assert.deepEqual(views, ["list", "day", "week", "month"]);
+});
+
+test("the day view opens on today and shows that day only", async () => {
+  const window = await load();
+  setView(window, "day");
+  assert.match(heading(window), /^Today, /);
+
+  const days = new Set(
+    [...window.document.querySelectorAll(".cal-row")].map((r) =>
+      r.closest(".day-view") ? "one" : "other")
+  );
+  assert.deepEqual([...days], ["one"], "the day view should render one day");
+  assert.match(window.document.getElementById("count").textContent, /on this day$/);
+});
+
+test("the week view lays out seven days, Sunday first", async () => {
+  const window = await load();
+  setView(window, "week");
+  const columns = [...window.document.querySelectorAll(".week-day")];
+  assert.equal(columns.length, 7);
+  assert.equal(columns[0].querySelector(".week-dow").textContent, "Sun");
+  assert.equal(columns[6].querySelector(".week-dow").textContent, "Sat");
+  assert.equal(
+    window.document.querySelectorAll(".week-day.is-today").length, 1,
+    "exactly one column should be marked today"
+  );
+});
+
+test("the month view draws one month, the one you navigated to", async () => {
+  const window = await load();
+  setView(window, "month");
+  assert.equal(window.document.querySelectorAll(".month-grid").length, 1);
+  assert.match(heading(window), /^[A-Z][a-z]+ \d{4}$/);
+});
+
+test("the arrows move a day, a week and a month at a time", async () => {
+  const window = await load();
+  const next = window.document.getElementById("cal-next");
+
+  setView(window, "day");
+  const day1 = heading(window);
+  next.click();
+  assert.notEqual(heading(window), day1);
+
+  setView(window, "week");
+  const week1 = heading(window);
+  next.click();
+  assert.notEqual(heading(window), week1);
+
+  setView(window, "month");
+  const month1 = heading(window);
+  next.click();
+  assert.notEqual(heading(window), month1);
+  window.document.getElementById("cal-prev").click();
+  assert.equal(heading(window), month1, "back should land where it started");
+});
+
+test("Today is disabled while today is on screen, and works when it is not", async () => {
+  const window = await load();
+  setView(window, "day");
+  const today = window.document.getElementById("cal-today");
+  assert.equal(today.disabled, true, "already on today");
+
+  window.document.getElementById("cal-next").click();
+  assert.equal(today.disabled, false);
+  today.click();
+  assert.match(heading(window), /^Today, /);
+  assert.equal(today.disabled, true);
+});
+
+test("arrow keys move the calendar but never while you are typing", async () => {
+  const window = await load();
+  setView(window, "week");
+  const before = heading(window);
+
+  window.document.dispatchEvent(
+    new window.KeyboardEvent("keydown", { key: "ArrowRight", bubbles: true }));
+  assert.notEqual(heading(window), before);
+
+  // Typing a search must not skip the calendar sideways.
+  const back = heading(window);
+  const ask = window.document.getElementById("ask");
+  ask.dispatchEvent(new window.KeyboardEvent("keydown", { key: "ArrowRight", bubbles: true }));
+  assert.equal(heading(window), back);
+});
+
+test("the When chips step aside in the calendar views", async () => {
+  // Two controls for one job is how somebody ends up staring at an empty week
+  // wondering which one is lying to them.
+  const window = await load();
+  const whenRow = window.document.getElementById("when-row");
+  const active = window.document.getElementById("active-bar");
+
+  assert.equal(whenRow.hidden, false);
+  assert.match(active.textContent, /Today & tomorrow/);
+
+  setView(window, "week");
+  assert.equal(whenRow.hidden, true);
+  assert.doesNotMatch(active.textContent, /Today & tomorrow/);
+
+  setView(window, "list");
+  assert.equal(whenRow.hidden, false, "and come back when you return to the list");
+  assert.match(active.textContent, /Today & tomorrow/);
+});
+
+test("the other filters still apply in a calendar view", async () => {
+  const window = await load();
+  setView(window, "week");
+  const before = window.document.querySelectorAll(".cal-row").length;
+
+  pick(window, "cost", "free");
+  await new Promise((r) => window.setTimeout(r, 20));
+  const after = window.document.querySelectorAll(".cal-row").length;
+  assert.ok(after > 0 && after < before, "a cost filter should still narrow the week");
+});
+
+test("clicking an event in a calendar view opens its card in the list", async () => {
+  const window = await load();
+  setView(window, "week");
+  const row = window.document.querySelector(".cal-row");
+  const title = row.querySelector(".cal-row-title").textContent;
+
+  row.click();
+  await new Promise((r) => window.setTimeout(r, 30));
+
+  assert.equal(window.document.getElementById("list-view").hidden, false);
+  const open = window.document.querySelector(".card.is-open");
+  assert.ok(open, "nothing opened");
+  assert.equal(open.querySelector(".card-name").textContent.trim(), title);
+});
+
+test("a calendar row is announced with its time and place", async () => {
+  const window = await load();
+  setView(window, "day");
+  for (const row of window.document.querySelectorAll(".cal-row")) {
+    assert.match(row.getAttribute("aria-label"), /Open the full listing\.$/);
+  }
+});
+
+test("the day rail does not repeat the hour it is already showing", async () => {
+  const window = await load();
+  setView(window, "day");
+  for (const slot of window.document.querySelectorAll(".day-slot")) {
+    const hour = slot.querySelector(".day-hour").textContent;
+    for (const time of slot.querySelectorAll(".cal-row-time")) {
+      assert.notEqual(time.textContent, hour, "the rail already says this");
+    }
+  }
+});
+
+test("plus N more in the month grid opens that day", async () => {
+  const window = await load();
+  setView(window, "month");
+  const more = window.document.querySelector(".month-more");
+  assert.ok(more, "no busy day in the sample");
+  assert.equal(more.tagName, "BUTTON", "a dead end otherwise");
+  assert.match(more.getAttribute("aria-label"), /^See all \d+ events on /);
+
+  more.click();
+  await new Promise((r) => window.setTimeout(r, 30));
+  assert.ok(window.document.querySelector(".day-view"), "should land in the day view");
+});
+
+/* --- the staleness notice ------------------------------------------------ */
+
+function pageWithMeta(overrides) {
+  return HTML.replace(
+    /(<script type="application\/json" id="inline-data">)([\s\S]*?)(<\/script>)/,
+    (_all, open, json, close) => {
+      const blob = JSON.parse(json);
+      Object.assign(blob.events, overrides);
+      return open + JSON.stringify(blob) + close;
+    }
+  );
+}
+
+test("sample data says so, loudly", async () => {
+  // Without this, a stale snapshot looks exactly like a working calendar,
+  // which is how a Saturday event ended up on somebody's Sunday.
+  const window = await loadPage(pageWithMeta({
+    sample: true, snapshot_date: "2026-09-04",
+  }));
+  const box = window.document.getElementById("staleness");
+  assert.equal(box.hidden, false, "the sample should announce itself");
+  assert.match(box.textContent, /sample listings captured on September 4, 2026/);
+  assert.match(box.textContent, /Update events/);
+});
+
+test("real and fresh data shows no notice at all", async () => {
+  const window = await loadPage(pageWithMeta({
+    sample: false, generated: new Date().toISOString(),
+  }));
+  assert.equal(window.document.getElementById("staleness").hidden, true);
+});
+
+test("a daily job that stopped running is called out", async () => {
+  const threeDaysAgo = new Date(Date.now() - 3 * 24 * 36e5).toISOString();
+  const window = await loadPage(pageWithMeta({
+    sample: false, generated: threeDaysAgo,
+  }));
+  const box = window.document.getElementById("staleness");
+  assert.equal(box.hidden, false, "three days without an update is worth saying");
+  assert.match(box.textContent, /last ran 3 days ago/);
+});
+
+test("a run a few hours late is not worth a warning", async () => {
+  const window = await loadPage(pageWithMeta({
+    sample: false, generated: new Date(Date.now() - 20 * 36e5).toISOString(),
+  }));
+  assert.equal(window.document.getElementById("staleness").hidden, true,
+    "the job runs daily, so 20 hours is normal");
+});
+
+test("the notice is announced but does not steal focus", async () => {
+  const window = await loadPage(pageWithMeta({ sample: true, snapshot_date: "2026-09-04" }));
+  const box = window.document.getElementById("staleness");
+  assert.equal(box.getAttribute("role"), "status");
+  assert.equal(box.getAttribute("aria-live"), null, "role=status already implies polite");
+});
+
+/* --- the header ----------------------------------------------------------- */
+
+test("the logo and the title are one link home", async () => {
+  const window = await load();
+  const brand = window.document.querySelector(".brand");
+  assert.equal(brand.tagName, "A");
+  assert.equal(brand.getAttribute("href"), "./");
+  assert.ok(brand.querySelector(".brand-mark"), "the mark should be inside the link");
+  assert.ok(brand.querySelector("h1"), "and so should the title");
+
+  // One destination, one tab stop.
+  const homeLinks = [...window.document.querySelectorAll(".masthead a")]
+    .filter((a) => a.getAttribute("href") === "./");
+  assert.equal(homeLinks.length, 2, "the brand plus the Calendar nav link");
+});
+
+test("the header nav marks the page you are on", async () => {
+  const window = await load();
+  const current = window.document.querySelector(".masthead [aria-current='page']");
+  assert.ok(current, "nothing marked as current");
+  assert.equal(current.getAttribute("href"), "./");
+  assert.ok(window.document.querySelector('.masthead a[href="about.html"]'));
+});
+
+test("Calendar and About wear the same pill as every other button", async () => {
+  const window = await load();
+  for (const label of ["Calendar", "About"]) {
+    const item = [...window.document.querySelectorAll(".masthead a")]
+      .find((a) => a.textContent.trim() === label);
+    assert.ok(item, `no ${label} in the header`);
+    assert.ok(item.classList.contains("btn"), `${label} is not styled as a button`);
+    assert.ok(item.classList.contains("btn-nav"));
+    // Still an anchor, so middle click and open-in-new-tab keep working.
+    assert.equal(item.tagName, "A");
+    assert.ok(item.getAttribute("href"));
+  }
+});
+
+test("the site title is not painted like a body link", async () => {
+  // It shipped blue and underlined on a dark green bar for one upload, which
+  // was genuinely unreadable.
+  const css = readFileSync(join(ROOT, "assets", "style.css"), "utf8");
+  const block = css.slice(css.indexOf(".brand,"), css.indexOf("/* Hover is a lift"));
+  assert.match(block, /color:\s*#fff/);
+  assert.match(block, /text-decoration:\s*none/);
+});
+
+test("the theme toggle swaps its icon as well as its word", async () => {
+  const window = await load();
+  const toggle = window.document.getElementById("theme-toggle");
+  assert.ok(toggle.querySelector(".theme-sun"), "no sun icon");
+  assert.ok(toggle.querySelector(".theme-moon"), "no moon icon");
+  assert.equal(toggle.querySelector(".theme-label").textContent, "Dark");
+
+  toggle.click();
+  assert.equal(toggle.querySelector(".theme-label").textContent, "Light");
+  assert.match(toggle.getAttribute("aria-label"), /light theme/i);
 });

@@ -383,3 +383,363 @@ def test_the_description_clamp_is_two_lines():
     assert "line-clamp: unset" in css, "expanding a card must unclamp the text"
     assert 'class="card-more"' in read(HTML)
     assert 'aria-expanded="false"' in read(HTML)
+
+
+# --- the bug that shipped ------------------------------------------------
+
+def test_hidden_actually_hides():
+    """This one reached the live site.
+
+    The browser's own `[hidden] { display: none }` lives in the user agent
+    stylesheet, which loses to any author declaration. `.multi-panel` sets
+    `display: flex`, so every filter dropdown rendered open on page load even
+    though the markup said hidden and the jsdom tests agreed it was hidden.
+
+    jsdom has no cascade, so no amount of front end testing catches this. One
+    author level rule does.
+    """
+    css = read(CSS)
+    match = re.search(r"\[hidden\]\s*\{([^}]*)\}", css)
+    assert match, "no author level [hidden] rule, so anything with a display: wins"
+    body = match.group(1)
+    assert "display" in body and "none" in body
+    assert "!important" in body, (
+        "without !important a later display: rule silently unhides it again"
+    )
+
+
+def test_everything_toggled_with_hidden_is_covered_by_that_rule():
+    """A list of the classes the script hides, as a reminder of what would
+    break if the rule above were removed."""
+    js = read(JS)
+    for selector in (".multi-panel", ".cal-panel", ".card-more"):
+        assert selector in read(CSS), f"{selector} has no styles at all"
+    assert ".hidden = " in js or ".hidden=" in js
+
+
+# --- the calendar menu ---------------------------------------------------
+
+def test_the_calendar_menu_is_announced_as_a_menu():
+    html = read(HTML)
+    assert 'class="cal-panel" role="menu" hidden' in html
+    assert 'class="btn btn-small btn-secondary card-cal" aria-expanded="false" aria-haspopup="true"' in html
+
+
+def test_the_menu_items_are_reachable_by_keyboard():
+    js = read(JS)
+    for key in ("ArrowDown", "ArrowUp", "Escape", "Home", "End", "Tab"):
+        assert key in js, f"the calendar menu does not handle {key}"
+    assert 'setAttribute("role", "menuitem")' in js
+    assert "button.focus()" in js, "Escape has to put focus back on the button"
+
+
+def test_all_three_calendars_are_offered():
+    js = read(JS)
+    for name in ("Google Calendar", "Apple Calendar", "Outlook Calendar"):
+        assert name in js, f"{name} missing from the menu"
+    assert "outlook.live.com/calendar/0/deeplink/compose" in js
+    assert "rru=addevent" in js or '"rru": "addevent"' in js or 'rru: "addevent"' in js
+
+
+def test_every_icon_is_hidden_from_screen_readers():
+    """An icon next to a word label is decoration. Left exposed, a screen
+    reader reads the SVG and then the label, twice for every button."""
+    html = read(HTML)
+    for tag in re.findall(r"<svg\b[^>]*>", html):
+        assert 'aria-hidden="true"' in tag, f"icon not hidden from assistive tech: {tag[:70]}"
+        assert 'focusable="false"' in tag, (
+            f"old Edge and IE put SVGs in the tab order without this: {tag[:70]}"
+        )
+
+
+def test_every_action_button_still_has_a_text_label():
+    """Icons are added next to the words, never instead of them."""
+    html = read(HTML)
+    actions = html[html.index('class="card-actions"'):]
+    actions = actions[:actions.index("</article>")]
+    for label in ("Add to calendar", "Copy link", "View on event website"):
+        assert f"<span>{label}</span>" in actions or f'>{label}</span>' in actions, label
+
+
+# --- the theme -----------------------------------------------------------
+
+def test_the_page_opens_in_light_mode():
+    """Following the system setting meant anybody whose laptop is on dark got
+    a dark kids calendar without ever asking for one."""
+    assert 'data-theme="light"' in read(HTML), (
+        "stamp it in the markup so the first paint is light, with no flash"
+    )
+    js = read(JS)
+    assert 'var dark = saved === "dark";' in js, "dark should need an explicit choice"
+
+
+def test_the_dark_theme_is_still_reachable_and_sticky():
+    js = read(JS)
+    assert 'localStorage.setItem("a2kids-theme"' in js
+    assert 'aria-pressed' in js
+
+
+# --- the calendar views --------------------------------------------------
+
+def test_all_four_views_exist():
+    html = read(HTML)
+    for view in ("list", "day", "week", "month"):
+        assert f'data-view="{view}"' in html, f"no {view} view"
+    assert 'role="group" aria-label="Choose a view"' in html
+
+
+def test_the_calendar_navigation_is_labelled():
+    html = read(HTML)
+    assert 'id="cal-nav"' in html and 'hidden' in html
+    assert 'id="cal-prev"' in html and 'id="cal-next"' in html
+    assert 'id="cal-today"' in html
+    # The heading changes as you move, so it has to be announced.
+    assert 'id="cal-heading" tabindex="-1" role="status" aria-live="polite"' in html
+
+
+def test_the_arrows_say_what_they_move():
+    """"Previous" alone is useless. Previous what: day, week, month?"""
+    js = read(JS)
+    assert '"Previous " + VIEW_NOUN[state.view]' in js
+    assert '"Next " + VIEW_NOUN[state.view]' in js
+
+
+def test_a_calendar_row_is_a_button_not_a_div():
+    js = read(JS)
+    block = js[js.index("function calendarRow"):js.index("function jumpToEvent")]
+    assert 'createElement("button")' in block
+    assert 'row.type = "button"' in block
+    assert "aria-label" in block
+
+
+def test_the_month_more_link_goes_somewhere():
+    """A dead "+14 more" is worse than not showing the count at all."""
+    js = read(JS)
+    assert '"See all " + list.length + " events on "' in js
+    assert 'setView("day")' in js
+
+
+def test_calendar_rows_meet_the_target_size():
+    css = read(CSS)
+    block = css[css.index(".cal-row {"):css.index("}", css.index(".cal-row {"))]
+    match = re.search(r"min-height:\s*(\d+)px", block)
+    assert match and int(match.group(1)) >= 44, (
+        "WCAG 2.5.8 wants 44px, and so does anybody tapping with a baby on one arm"
+    )
+
+
+def test_the_week_grid_collapses_on_a_phone():
+    """Seven columns on a 390px screen is seven unreadable slivers."""
+    css = read(CSS)
+    assert ".week-grid { grid-template-columns: 1fr; }" in css.replace("\n", " ")
+
+
+def test_keyboard_navigation_does_not_hijack_typing():
+    js = read(JS)
+    block = js[js.index('if (state.view === "list") return;'):]
+    block = block[:block.index("$(\"empty-reset\")")]
+    assert 'tag === "input"' in block, "arrow keys would move the calendar mid-search"
+    assert "closest" in block and ".multi-panel" in block
+
+
+# --- the header and the About page ---------------------------------------
+
+def test_the_whole_brand_lockup_is_one_link_home():
+    """People click the logo. They also click the title. Both should work,
+    and wrapping the pair in one link is how you get that without two
+    tab stops for the same destination."""
+    html = read(HTML)
+    assert '<a class="brand" href="./"' in html
+    assert 'aria-label="Kid Events in Ann Arbor, back to the calendar"' in html
+    # The mark is decoration inside a labelled link, so it stays hidden.
+    brand = html[html.index('<a class="brand"'):html.index("</a>", html.index('<a class="brand"'))]
+    assert 'class="brand-mark"' in brand and 'aria-hidden="true"' in brand
+    assert "<h1" in brand, "the site name should still be the page heading"
+
+
+def test_the_header_nav_says_where_you_are():
+    html = read(HTML)
+    assert 'aria-label="Main"' in html
+    assert 'href="./" aria-current="page"' in html
+    assert 'href="about.html"' in html
+
+
+def test_the_nav_items_look_like_buttons_but_stay_links():
+    """They navigate to another page, so they are anchors. A real <button>
+    would break middle click, open in a new tab and copy link address, and a
+    screen reader would announce "button" for something that navigates. Same
+    pill as every other button on the page, different element underneath."""
+    for page in (HTML, os.path.join(ROOT, "about.html")):
+        markup = read(page)
+        for label in ("Calendar", "About"):
+            match = re.search(rf'<a[^>]*class="([^"]*)"[^>]*>{label}</a>', markup)
+            assert match, f"{label} is not an anchor on {os.path.basename(page)}"
+            classes = match.group(1)
+            assert "btn" in classes and "btn-nav" in classes, classes
+    assert "nav-link" not in read(HTML), "the old unstyled link class is gone"
+
+
+def test_the_site_title_is_white_and_never_underlined():
+    """The generic `a` rule paints links brand blue, which on a dark green bar
+    is unreadable. It shipped that way for one upload."""
+    css = read(CSS)
+    block = css[css.index(".brand,"):css.index("/* Hover is a lift")]
+    assert "color: #fff" in block
+    assert "text-decoration: none" in block
+    for selector in (".brand:link", ".brand:visited", ".brand:hover",
+                     ".brand .brand-name", ".brand .tagline"):
+        assert selector in block, f"{selector} not covered, so it can go blue"
+    assert "text-decoration: underline" not in css[css.index(".brand,"):css.index(".brand-mark {")]
+
+
+def test_the_brand_and_nav_have_visible_focus_rings():
+    css = read(CSS)
+    assert ".brand:focus-visible" in css
+    assert ".masthead .btn:focus-visible" in css, (
+        "the global ring is tuned for light backgrounds and vanishes on the bar"
+    )
+    assert ":focus-visible" in css
+
+
+def test_the_logo_got_bigger():
+    css = read(CSS)
+    block = css[css.index(".brand-mark {"):css.index("}", css.index(".brand-mark {"))]
+    size = int(re.search(r"width:\s*(\d+)px", block).group(1))
+    assert size >= 48, f"the mark is {size}px, which reads as an afterthought"
+
+
+def test_the_theme_toggle_keeps_a_name_when_its_label_is_hidden():
+    """Below 620px the word goes and only the icon is left, so the accessible
+    name has to come from somewhere."""
+    css = read(CSS)
+    assert ".theme-label" in css and "clip-path: inset(50%)" in css
+    js = read(JS)
+    assert 'button.setAttribute("aria-label"' in js
+
+
+def test_there_is_an_about_page_and_it_is_a_real_page():
+    path = os.path.join(ROOT, "about.html")
+    assert os.path.exists(path), "no About page"
+    page = read(path)
+
+    assert 'lang="en"' in page
+    assert 'data-theme="light"' in page
+    assert "<title>About Kid Events in Ann Arbor</title>" in page
+    assert 'rel="canonical"' in page
+    assert 'class="skip"' in page, "a skip link, same as the calendar page"
+    assert page.count("<h1") == 1
+
+
+def test_the_about_page_says_why_it_exists():
+    page = read(os.path.join(ROOT, "about.html"))
+    assert "sleep deprived parent of a toddler" in page
+    assert "out of the house" in page
+
+
+def test_the_about_page_links_back_to_the_calendar():
+    page = read(os.path.join(ROOT, "about.html"))
+    assert '<a class="brand" href="./"' in page
+    assert 'href="about.html" aria-current="page"' in page
+
+
+def test_the_calendar_page_links_to_about():
+    assert 'href="about.html"' in read(HTML)
+
+
+def test_the_about_page_carries_the_theme_across():
+    """A dark reader who clicks About should not get flashbanged."""
+    page = read(os.path.join(ROOT, "about.html"))
+    assert 'localStorage.getItem("a2kids-theme")' in page
+    assert page.index('localStorage.getItem("a2kids-theme")') < page.index("<body")
+
+
+def test_every_icon_on_the_about_page_is_hidden_from_screen_readers():
+    page = read(os.path.join(ROOT, "about.html"))
+    for tag in re.findall(r"<svg\b[^>]*>", page):
+        assert 'aria-hidden="true"' in tag and 'focusable="false"' in tag, tag[:70]
+
+
+def test_the_about_page_is_in_the_sitemap():
+    with open(os.path.join(ROOT, "sitemap.xml"), "r", encoding="utf-8") as fh:
+        sitemap = fh.read()
+    assert "about.html</loc>" in sitemap
+
+
+def test_the_brand_bar_stays_dark_in_both_themes():
+    """--brand-green-dark flips to a light mint in dark mode so it works as
+    text. Using it as the header background turned the whole bar pale green
+    the moment anyone switched. The bar gets its own token instead."""
+    css = read(CSS)
+    assert "background: var(--masthead-bg)" in css
+    assert css.count("--masthead-bg:") == 3, (
+        "the token needs a value in :root, [data-theme=dark] and the "
+        "prefers-color-scheme block, or one of the three paths goes pale"
+    )
+    for block in re.findall(r"--masthead-bg:\s*(#[0-9a-f]{6})", css, re.I):
+        r, g, b = (int(block[i:i + 2], 16) for i in (1, 3, 5))
+        luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255
+        assert luminance < 0.4, f"{block} is too light for white header text"
+
+
+# --- the wide brand bar and the mobile pass ------------------------------
+
+def test_the_brand_bar_runs_wider_than_the_content_column():
+    """A header that stops where the article stops reads as a widget dropped
+    onto the page. One that runs most of the window reads as the top of a
+    site."""
+    css = read(CSS)
+    block = css[css.index(".masthead-inner {"):css.index("}", css.index(".masthead-inner {"))]
+    match = re.search(r"max-width:\s*(\d+)px", block)
+    assert match, "the header inner has no width of its own"
+    wrap = int(re.search(r"--wrap:\s*(\d+)px", css).group(1))
+    assert int(match.group(1)) > wrap, (
+        f"header is {match.group(1)}px, content column is {wrap}px, so it is not wider"
+    )
+
+
+def test_the_month_date_is_a_button_that_opens_the_day():
+    """Seven columns in a phone width is about fifty pixels each, which turns
+    every event title into "10...". The count plus a tappable date is what a
+    phone calendar actually does."""
+    js = read(JS)
+    block = js[js.index('num.className = "month-date"') - 200:]
+    block = block[:block.index("cell.appendChild(num)")]
+    assert 'createElement("button")' in block
+    assert 'setView("day")' in block
+    assert "aria-label" in block and "events" in block
+
+
+def test_the_month_grid_hides_truncated_titles_on_a_phone():
+    css = read(CSS)
+    assert "@media (max-width: 700px)" in css
+    tail = css[css.index("@media (max-width: 700px)"):]
+    block = tail[:tail.index("}\n}") + 3]
+    assert ".month-item" in block and "display: none" in block
+    assert ".month-count" in block or ".month-date" in block
+
+
+def test_the_three_targets_that_missed_44px_now_make_it():
+    css = read(CSS)
+    for selector in (".card-open", ".active-chip", ".month-date"):
+        at = css.rindex(selector)
+        block = css[at:css.index("}", at)]
+        assert "min-height: 44px" in block or "min-height: 44px" in css[at:at + 400], (
+            f"{selector} is still under the 44px target size"
+        )
+
+
+def test_the_skip_link_is_clipped_not_shoved_off_screen():
+    """left: -9999px leaves a real box off the left edge, which some Android
+    browsers count toward scrollable width and turn into a phantom sideways
+    scroll."""
+    css = read(CSS)
+    start = css.index(".skip {")
+    block = css[start:css.index(".skip:focus", start)]
+    # The comment above it explains what it replaced, so read declarations only.
+    declarations = re.sub(r"/\*.*?\*/", "", block, flags=re.S)
+    assert "-9999px" not in declarations
+    assert "clip-path: inset(50%)" in block
+
+    focus = css[css.index(".skip:focus", start):]
+    focus = focus[:focus.index("}") + 1]
+    assert "clip-path: none" in focus, "focusing it has to make it visible again"

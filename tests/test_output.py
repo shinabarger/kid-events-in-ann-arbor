@@ -5,6 +5,7 @@ import os
 import re
 import subprocess
 import sys
+from datetime import datetime
 
 import pytest
 
@@ -257,3 +258,74 @@ def test_the_same_series_from_two_adapters_only_lands_once(payload):
         assert not ({"mamas_network", "mamas_network_repeat"} <= set(sources)), (
             f"both the real calendar and a projection landed on {day}"
         )
+
+
+# --- the bug that put Saturday's event on Sunday -------------------------
+
+def test_the_snapshot_stores_real_dates_not_offsets():
+    """This shipped, and it was the worst kind of wrong.
+
+    The snapshot used to store each event as a day offset, which the build
+    re-stamped against whatever day it ran. The sample always looked current
+    and every date was wrong by however long it had been since the capture: a
+    Saturday cider mill event showed on Sunday, then Monday, sliding one more
+    day every day. On a calendar people plan a weekend around, a wrong date is
+    worse than no date.
+    """
+    import json as _json
+
+    path = os.path.join(ROOT, "config", "snapshot", "seed.json")
+    with open(path, "r", encoding="utf-8") as fh:
+        seed = _json.load(fh)
+
+    for row in seed["events"]:
+        assert isinstance(row["d"], str), (
+            f"{row['title']!r} still stores a day offset, which will drift"
+        )
+        datetime.strptime(row["d"], "%Y-%m-%d")
+
+
+def test_the_sample_keeps_the_day_the_source_actually_said():
+    """Two real listings, checked against their own pages. The cider mill
+    celebration was a Saturday and the babies class was a Sunday."""
+    import json as _json
+
+    path = os.path.join(ROOT, "config", "snapshot", "seed.json")
+    with open(path, "r", encoding="utf-8") as fh:
+        seed = _json.load(fh)
+    by_title = {r["title"]: r for r in seed["events"]}
+
+    expected = {
+        "Dexter Cider Mill 140th Season Celebration": ("2026-09-05", "Saturday"),
+        "Dancing Babies with Momo Kajiwara": ("2026-09-06", "Sunday"),
+    }
+    for title, (day, weekday) in expected.items():
+        assert by_title[title]["d"] == day, title
+        assert datetime.strptime(day, "%Y-%m-%d").strftime("%A") == weekday
+
+
+def test_building_twice_on_different_days_does_not_move_anything(payload):
+    """The drift test. Build, note the dates, build again pretending it is a
+    week later, and nothing should have moved."""
+    import json as _json
+    import subprocess
+    import sys as _sys
+
+    first = {e["title"]: e["start"][:10] for e in payload["events"]}
+
+    env = dict(os.environ, TZ="America/Detroit")
+    subprocess.run([_sys.executable, os.path.join(ROOT, "scripts", "build_sample.py")],
+                   cwd=ROOT, check=True, capture_output=True, env=env)
+    with open(EVENTS, "r", encoding="utf-8") as fh:
+        again = {e["title"]: e["start"][:10] for e in _json.load(fh)["events"]}
+
+    moved = {t: (first[t], again[t]) for t in first if t in again and first[t] != again[t]}
+    assert not moved, f"these dates moved between builds: {list(moved)[:4]}"
+
+
+def test_the_payload_says_when_it_was_made_and_whether_it_is_real(payload):
+    """The page needs both to warn anybody that the dates may be stale."""
+    assert payload.get("generated")
+    datetime.fromisoformat(payload["generated"])
+    if payload.get("sample"):
+        assert payload.get("snapshot_date"), "a sample has to say when it was captured"

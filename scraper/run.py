@@ -20,7 +20,7 @@ from datetime import datetime, timedelta, timezone
 
 import yaml
 
-from . import classify, courtesy, geo, icsbuild, kidfilter, seo
+from . import classify, courtesy, geo, icsbuild, kidfilter, notevents, seo
 from .dedupe import dedupe
 from .models import AGE_BANDS, AGE_BAND_LABELS, ZONE_LABELS
 from .sources import (aadl, annarborwithkids, generic, manual, observer,
@@ -309,6 +309,13 @@ def main() -> int:
 
     events = dedupe(events)
     print(f"After dedupe: {len(events)}", file=sys.stderr)
+
+    events, not_really = notevents.apply(events)
+    if not_really:
+        print(f"Dropped as not an event: {len(not_really)}", file=sys.stderr)
+        for reason in sorted({e.drop_reason for e in not_really}):
+            same = [e for e in not_really if e.drop_reason == reason]
+            print(f"    {len(same)}x {same[0].title[:44]}  ({reason})", file=sys.stderr)
 
     events, not_for_kids = kidfilter.filter_mixed(events, mixed_sources())
     print(f"Dropped as not for children: {len(not_for_kids)}", file=sys.stderr)
