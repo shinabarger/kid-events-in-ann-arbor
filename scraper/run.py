@@ -20,7 +20,7 @@ from datetime import datetime, timedelta, timezone
 
 import yaml
 
-from . import classify, courtesy, geo, icsbuild, kidfilter, notevents, seo
+from . import classify, courtesy, geo, icsbuild, kidfilter, notevents, seo, venuegate
 from .dedupe import dedupe
 from .models import AGE_BANDS, AGE_BAND_LABELS, ZONE_LABELS
 from .sources import (aadl, annarborwithkids, generic, manual, observer,
@@ -341,6 +341,14 @@ def main() -> int:
     for event in not_for_kids[:8]:
         print(f"    {event.source}: {event.title[:56]}  ({event.drop_reason})",
               file=sys.stderr)
+
+    # After kidfilter on purpose. The whole point is to catch what a kid
+    # calendar's blanket age tags vouched for.
+    events, wrong_room = venuegate.apply(events)
+    if wrong_room:
+        print(f"Dropped at adult venues: {len(wrong_room)}", file=sys.stderr)
+        for event in wrong_room[:8]:
+            print(f"    {event.venue}: {event.title[:56]}", file=sys.stderr)
 
     events = courtesy.apply(events)
     print(f"After the opt-out list and excerpt trim: {len(events)}", file=sys.stderr)

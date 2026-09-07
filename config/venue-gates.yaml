@@ -1,0 +1,18 @@
+# Venues that program mostly for adults but do run the occasional children's
+# event. Anything here has to say in its own title or description that it is
+# for children, teens or families. Age tags do not count, because a kid
+# calendar that republishes a venue's whole listing tags every one of them,
+# and dedupe then carries those tags onto the copy that wins.
+#
+# This is not a blocklist. A storytime at Literati still comes through.
+#
+# Match is case insensitive against the venue name, as a substring.
+venues:
+  - Literati
+  - Michigan Theater
+  - The Ark
+  - Blind Pig
+  - Kerrytown Concert House
+  - Bookbound
+  - Nicola's Books
+  - Vault of Midnight
