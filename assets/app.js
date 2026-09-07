@@ -495,6 +495,20 @@
     return lines.join("\r\n") + "\r\n";
   }
 
+  /* Event data comes from other people's sites, so a url is untrusted input
+     until it has been parsed. Anything that is not plain http or https never
+     reaches an href, because javascript: and data: both run when clicked. */
+  function safeUrl(value) {
+    if (!value) return "";
+    try {
+      var parsed = new URL(value, location.href);
+      return (parsed.protocol === "http:" || parsed.protocol === "https:")
+        ? parsed.href : "";
+    } catch (err) {
+      return "";
+    }
+  }
+
   function downloadIcs(event) {
     var blob = new Blob([singleIcs(event)], { type: "text/calendar;charset=utf-8" });
     var url = URL.createObjectURL(blob);
@@ -603,8 +617,9 @@
     copy.addEventListener("click", function () { copyLink(event, copy); });
 
     var source = node.querySelector(".card-source");
-    if (event.url) {
-      source.href = event.url;
+    var sourceUrl = safeUrl(event.url);
+    if (sourceUrl) {
+      source.href = sourceUrl;
       source.setAttribute("aria-label",
         "View " + event.title + " on " + event.source_name + ", opens in a new tab");
     } else {
@@ -1398,9 +1413,10 @@
       });
       refreshMulti(name);
     });
-    var radio = el.form.querySelector('input[name="when"][value="' + state.when + '"]');
+    // state.when can come straight off the query string, so comparing values
+    // beats interpolating it into a selector that a quote would break.
     el.form.querySelectorAll('input[name="when"]').forEach(function (r) {
-      r.checked = r === radio;
+      r.checked = r.value === state.when;
     });
   }
 
@@ -1653,15 +1669,22 @@
     });
     if (params.has("when")) {
       state.when = params.get("when");
-      var radio = el.form.querySelector('input[name="when"][value="' + state.when + '"]');
-      if (radio) radio.checked = true;
+      // Interpolating this into a selector lets ?when=" throw a SyntaxError
+      // out of readUrl and take the whole page down with it.
+      var radios = el.form.querySelectorAll('input[name="when"]');
+      Array.prototype.forEach.call(radios, function (radio) {
+        if (radio.value === state.when) radio.checked = true;
+      });
     }
   }
 
   /* A link someone was texted points at one event. Widen the dates so it is
      definitely on screen, then open it. */
   function openShared(id) {
-    var event = state.byId[id];
+    // ?event=__proto__ would otherwise hand back Object.prototype, which is
+    // truthy and is not an event.
+    var event = Object.prototype.hasOwnProperty.call(state.byId, id)
+      ? state.byId[id] : null;
     if (!event) return;
     state.when = "all";
     state.date = "";

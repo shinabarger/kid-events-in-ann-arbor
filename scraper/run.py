@@ -52,6 +52,23 @@ def collect(only: str | None = None) -> tuple:
     events = []
     report = []
 
+# The footer shows this text in a tooltip on the public site, so it must not
+# carry anything about the machine that produced it. The full traceback still
+# goes to stderr, where only the Actions log sees it.
+_URL_RE = re.compile(r"(https?://[A-Za-z0-9.-]+)(?:[/?#][^\s]*)?")
+_PATH_RE = re.compile(r"(?:[A-Za-z]:)?[/\\][\w.$~+-]+(?:[/\\][\w.$~+-]+)+")
+
+
+def scrub_error(exc: Exception) -> str:
+    """A one line reason with absolute paths taken out."""
+    text = f"{type(exc).__name__}: {exc}"
+    # Cut URLs back to the host first, so the path rule below does not chew
+    # them into something unreadable.
+    text = _URL_RE.sub(lambda m: m.group(1), text)
+    text = _PATH_RE.sub(lambda m: m.group(0).rsplit("/", 1)[-1].rsplit("\\", 1)[-1], text)
+    return " ".join(text.split())[:200]
+
+
     def run(key, name, fn):
         if only and only != key:
             return
@@ -64,7 +81,7 @@ def collect(only: str | None = None) -> tuple:
             print(f"  {name}: {len(batch)}", file=sys.stderr)
         except Exception as exc:  # noqa: BLE001 - a dead source must not stop the run
             report.append({"key": key, "name": name, "count": 0, "ok": False,
-                           "error": f"{type(exc).__name__}: {exc}"[:300], "seconds": 0})
+                           "error": scrub_error(exc), "seconds": 0})
             print(f"  {name}: FAILED {exc}", file=sys.stderr)
             traceback.print_exc(file=sys.stderr)
 

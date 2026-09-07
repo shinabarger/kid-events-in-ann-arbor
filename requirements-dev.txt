@@ -1,1 +1,5 @@
 pytest>=8.0
+
+# Only scripts/build_images.py needs this, but leaving it undeclared meant
+# whatever version happened to be lying around got used.
+Pillow>=10.4

@@ -1593,3 +1593,87 @@ test("the theme toggle swaps its icon as well as its word", async () => {
   assert.equal(toggle.querySelector(".theme-label").textContent, "Light");
   assert.match(toggle.getAttribute("aria-label"), /light theme/i);
 });
+
+/* --- stale data in the browser ------------------------------------------- */
+
+test("the data fetch cannot be served from cache", async () => {
+  // The JSON changes every morning and the page does not, so a cached
+  // events.json is a calendar quietly showing yesterday. This is what made a
+  // successful scrape still display the "sample listings" notice.
+  const js = readFileSync(join(ROOT, "assets", "app.js"), "utf8");
+  const block = js.slice(js.indexOf("function loadJson"), js.indexOf("function stalenessNote"));
+
+  assert.match(block, /cache:\s*"no-cache"/, "no revalidation, so the browser may reuse it");
+  assert.match(block, /\?d=/, "no per-day cache buster for proxies that ignore the header");
+  assert.match(block, /toLocaleDateString/, "the buster should change daily, like the file");
+
+  assert.doesNotMatch(
+    js, /fetch\("data\/(events|feeds)\.json"\)/,
+    "a bare fetch of the data files bypasses all of that"
+  );
+});
+
+test("a failed data load is an error, not a blank page", async () => {
+  const js = readFileSync(join(ROOT, "assets", "app.js"), "utf8");
+  const block = js.slice(js.indexOf("function loadJson"), js.indexOf("function stalenessNote"));
+  assert.match(block, /if \(!r\.ok\) throw/, "a 404 would otherwise parse as JSON and fail oddly");
+});
+
+/* --- untrusted input ------------------------------------------------------ */
+
+test("a javascript: url from a source never reaches an href", async () => {
+  // Event data is scraped from other people's sites, so every url on it is
+  // untrusted until it has been parsed. javascript: and data: both run on
+  // click, and an href is the one place they get to.
+  const window = await loadPage(pageWith([{
+    id: "hostile-1",
+    title: "Storytime",
+    start: new Date(Date.now() + 3600e3).toISOString(),
+    venue: "Downtown Library",
+    city: "Ann Arbor",
+    url: "javascript:alert(document.domain)",
+    source: "aadl",
+    source_name: "Ann Arbor District Library",
+  }]));
+  showAll(window);
+
+  const card = window.document.getElementById("e-hostile-1");
+  assert.ok(card, "the event should still be listed");
+  const link = card.querySelector(".card-source");
+  if (link) {
+    assert.doesNotMatch(link.getAttribute("href") || "", /^javascript:/i);
+  }
+});
+
+test("an ordinary https url still gets through", async () => {
+  const window = await loadPage(pageWith([{
+    id: "ok-1",
+    title: "Storytime",
+    start: new Date(Date.now() + 3600e3).toISOString(),
+    venue: "Downtown Library",
+    city: "Ann Arbor",
+    url: "https://aadl.org/node/668324",
+    source: "aadl",
+    source_name: "Ann Arbor District Library",
+  }]));
+  showAll(window);
+
+  const link = window.document.getElementById("e-ok-1").querySelector(".card-source");
+  assert.ok(link, "a real url should render a link");
+  assert.equal(link.getAttribute("href"), "https://aadl.org/node/668324");
+});
+
+test("a hostile query string does not take the page down", async () => {
+  // ?when=" used to be interpolated straight into a querySelector, where it
+  // threw a SyntaxError out of readUrl and left the page blank.
+  const js = readFileSync(join(ROOT, "assets", "app.js"), "utf8");
+
+  assert.doesNotMatch(
+    js, /querySelector\([^)]*\+\s*state\.when/,
+    "state.when is a url parameter and must not be built into a selector"
+  );
+  assert.match(
+    js, /hasOwnProperty\.call\(state\.byId/,
+    "?event=__proto__ would otherwise hand back Object.prototype, which is truthy"
+  );
+});

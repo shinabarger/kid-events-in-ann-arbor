@@ -9,6 +9,11 @@ env:
   # The site is Eastern. Runners are UTC, which slides "today" after 8pm.
   TZ: America/Detroit
 
+# Running the tests only ever needs to read the checkout. Saying so keeps a
+# compromised dependency from being able to push with the run's own token.
+permissions:
+  contents: read
+
 jobs:
   test:
     runs-on: ubuntu-latest
