@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T03:56:59+00:00",
+ "generated": "2026-09-07T15:17:35+00:00",
  "sample": false,
- "count": 768,
+ "count": 759,
  "horizon_days": 120,
  "age_bands": [
   {
@@ -94,15 +94,15 @@
    "count": 305,
    "ok": true,
    "error": "",
-   "seconds": 356.7
+   "seconds": 313.3
   },
   {
    "key": "aawk",
    "name": "Ann Arbor with Kids",
-   "count": 610,
+   "count": 599,
    "ok": true,
    "error": "",
-   "seconds": 3.6
+   "seconds": 3.3
   },
   {
    "key": "umich",
@@ -126,7 +126,7 @@
    "count": 30,
    "ok": true,
    "error": "",
-   "seconds": 79.5
+   "seconds": 67.6
   },
   {
    "key": "a2observer",
@@ -142,7 +142,7 @@
    "count": 0,
    "ok": true,
    "error": "",
-   "seconds": 11.1
+   "seconds": 11.2
   },
   {
    "key": "metroparks",
@@ -150,7 +150,7 @@
    "count": 0,
    "ok": true,
    "error": "",
-   "seconds": 1.3
+   "seconds": 0.8
   },
   {
    "key": "a2family",
@@ -158,7 +158,7 @@
    "count": 0,
    "ok": true,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.2
   },
   {
    "key": "ypsi_library",
@@ -174,7 +174,7 @@
    "count": 87,
    "ok": true,
    "error": "",
-   "seconds": 0.7
+   "seconds": 1.6
   },
   {
    "key": "reced",
@@ -182,7 +182,7 @@
    "count": 0,
    "ok": true,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "key": "washtenaw_parks",
@@ -190,7 +190,7 @@
    "count": 0,
    "ok": true,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "key": "a2_summer_fest",
@@ -198,7 +198,7 @@
    "count": 0,
    "ok": true,
    "error": "",
-   "seconds": 10.6
+   "seconds": 10.2
   },
   {
    "key": "chelsea_library",
@@ -206,7 +206,7 @@
    "count": 0,
    "ok": true,
    "error": "",
-   "seconds": 234.5
+   "seconds": 16.6
   },
   {
    "key": "saline_library",
@@ -214,7 +214,7 @@
    "count": 0,
    "ok": true,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.2
   },
   {
    "key": "dexter_library",
@@ -222,7 +222,7 @@
    "count": 0,
    "ok": true,
    "error": "",
-   "seconds": 86.6
+   "seconds": 71.8
   },
   {
    "key": "a2gov_calendar",
@@ -230,7 +230,7 @@
    "count": 0,
    "ok": true,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.7
   },
   {
    "key": "mamas_network",
@@ -244,494 +244,13 @@
  "events": [
   {
    "title": "Saline Fair",
-   "start": "2026-09-06T10:00:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-06T21:00:00-04:00",
-   "all_day": false,
-   "recurring": false,
-   "repeat_count": 2,
-   "description": "The Saline Fair returns the week before Labor Day. Regular admission to the fair is $10/person ages 11 and up. Wednesday admission is $5. Special Admission prices are listed below with some key events.",
-   "url": "https://annarborwithkids.com/events/saline-fair-2026-09-06/",
-   "venue": "Washtenaw Farm Council Fairgrounds",
-   "address": "Washtenaw Farm Council Fairgrounds, 5055 Ann Arbor Saline Rd, Ann Arbor, Michigan, 48103, South, United States",
-   "city": "Ann Arbor",
-   "lat": 42.212444,
-   "lon": -83.79470700000002,
-   "zone": "near",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 14,
-   "audience_raw": "Babies, Elementary, High Schoolers, MiddleSchoolers, Preschoolers, Toddler",
-   "ages": [
-    "baby",
-    "toddler",
-    "preschool",
-    "elementary",
-    "tween",
-    "teen"
-   ],
-   "age_min": 0,
-   "age_max": 18,
-   "all_ages": false,
-   "setting": "outdoor",
-   "cost": "paid",
-   "price": "$10",
-   "registration": false,
-   "categories": [
-    "Age Range",
-    "Animals",
-    "Babies",
-    "CarnivalRides",
-    "Community Fair",
-    "Elementary",
-    "High Schoolers",
-    "MiddleSchoolers",
-    "Preschoolers",
-    "Toddler"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "fa7c4f734fc16e4c"
-  },
-  {
-   "title": "Whitmore Lake Farmers Market",
-   "start": "2026-09-06T10:00:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-06T14:00:00-04:00",
-   "all_day": false,
-   "recurring": false,
-   "repeat_count": 4,
-   "description": "The Whitmore Lake Farmers Market is back for its fourth season. The market is held at Northfield Community Park",
-   "url": "https://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-06-07-2026-06-14-2026-06-21-2026-06-28-2026-07-05-2026-07-12-2026-07-19-2026-07-26-2026-08-02-2026-08-09-2026-08-16-2026-08-23-2026-08-30-2026-09-06/",
-   "venue": "Northfield Community Park",
-   "address": "Northfield Community Park, 9725 N. Main Street, Whitmore Lake, Michigan, 48189, Whitmore Lake, United States",
-   "city": "Ann Arbor",
-   "lat": 42.4249745,
-   "lon": -83.76442299999997,
-   "zone": "near",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 4,
-   "audience_raw": "Elementary, High Schoolers, MiddleSchoolers, Preschoolers, Toddler",
-   "ages": [
-    "baby",
-    "toddler",
-    "preschool",
-    "elementary",
-    "tween",
-    "teen"
-   ],
-   "age_min": 1,
-   "age_max": 18,
-   "all_ages": false,
-   "setting": "outdoor",
-   "cost": "free",
-   "price": "Free",
-   "registration": false,
-   "categories": [
-    "Elementary",
-    "Farmers Market",
-    "Food",
-    "Free",
-    "High Schoolers",
-    "MiddleSchoolers",
-    "Music/Concerts",
-    "Outdoor",
-    "Preschoolers",
-    "Toddler"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "3849e22abe3c5929"
-  },
-  {
-   "title": "Dancing Babies with Momo Kajiwara",
-   "start": "2026-09-06T11:00:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-06T11:45:00-04:00",
-   "all_day": false,
-   "recurring": false,
-   "repeat_count": 1,
-   "description": "Join local music teacher, Momo Kajiwara, for a program of music and motion! This event is for Babies And Preschoolers, Up To Age 5. Held in the 1st Floor Lobby.",
-   "url": "https://annarborwithkids.com/events/dancing-babies-with-momo-kajiwara/",
-   "venue": "Downtown Branch of AADL",
-   "address": "Downtown Branch of AADL, 343 South Fifth Avenue, Ann Arbor, Michigan, 48104, Downtown, United States",
-   "city": "Ann Arbor",
-   "lat": 42.278198,
-   "lon": -83.745971,
-   "zone": "city",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 5,
-   "audience_raw": "Babies, Preschoolers, Toddler",
-   "ages": [
-    "baby",
-    "toddler",
-    "preschool"
-   ],
-   "age_min": 0,
-   "age_max": 5,
-   "all_ages": false,
-   "setting": "indoor",
-   "cost": "free",
-   "price": "Free",
-   "registration": false,
-   "categories": [
-    "Babies",
-    "Free",
-    "IndoorActivities",
-    "Music/Concerts",
-    "Preschoolers",
-    "Toddler"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "dcc92315c561a734"
-  },
-  {
-   "title": "Family-Friendly Film Series - Sing",
-   "start": "2026-09-06T11:00:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-06T11:00:00-04:00",
-   "all_day": false,
-   "recurring": false,
-   "repeat_count": 1,
-   "description": "The Michigan Theater's Family-Friendly Film Series are typically shown on Sundays at 11a or 1:30p at the Michigan Theater. This year admission is free for all instead of just kids. They do request that you reserve tickets in advance for accurate attendance.",
-   "url": "https://annarborwithkids.com/events/family-friendly-film-series-sing/",
-   "venue": "Michigan Theater",
-   "address": "Michigan Theater, 603 E. Liberty St, Ann Arbor, MI, 48104, Downtown, United States",
-   "city": "Ann Arbor",
-   "lat": 42.279704,
-   "lon": -83.742019,
-   "zone": "city",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 4,
-   "audience_raw": "Elementary, High Schoolers, Middle Schoolers",
-   "ages": [
-    "elementary",
-    "tween",
-    "teen"
-   ],
-   "age_min": 5,
-   "age_max": 18,
-   "all_ages": false,
-   "setting": "indoor",
-   "cost": "free",
-   "price": "Free",
-   "registration": false,
-   "categories": [
-    "Elementary",
-    "Free",
-    "High Schoolers",
-    "IndoorActivities",
-    "Middle Schoolers",
-    "Movies",
-    "Pop Culture"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "c8d3b21bafdf2095"
-  },
-  {
-   "title": "Anything Goes - PYTMI",
-   "start": "2026-09-06T12:00:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-06T12:00:00-04:00",
-   "all_day": false,
-   "recurring": false,
-   "repeat_count": 1,
-   "description": "Anything Goes sets sail with Professional Youth Theatre of Michigan’s talented young performers in this high-energy classic musical comedy! Aboard the S.S.",
-   "url": "https://annarborwithkids.com/events/hadestown-teen-edition-2026-09-06/",
-   "venue": "Riverside Arts Center",
-   "address": "Riverside Arts Center, 76 North Huron Street, Ypsilanti, MI, 48197, United States",
-   "city": "Ypsilanti",
-   "lat": 42.242199,
-   "lon": -83.61271729999999,
-   "zone": "near",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 22,
-   "audience_raw": "Elementary, HighSchoolers, Middle Schoolers",
-   "ages": [
-    "elementary",
-    "tween",
-    "teen"
-   ],
-   "age_min": 5,
-   "age_max": 18,
-   "all_ages": false,
-   "setting": "indoor",
-   "cost": "unknown",
-   "price": "",
-   "registration": true,
-   "categories": [
-    "Advance Registration",
-    "Elementary",
-    "HighSchoolers",
-    "Indoor Activities",
-    "Middle Schoolers",
-    "RegistrationRecommended/Appreciated",
-    "Theater"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "e76ac5df7e7ae17d"
-  },
-  {
-   "title": "Critter House Open Hours",
-   "start": "2026-09-06T12:00:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-06T15:00:00-04:00",
-   "all_day": false,
-   "recurring": true,
-   "repeat_count": 6,
-   "description": "Observe frogs, turtles, snakes, and more as they hop, crawl, and slither in their homes! The LSNC Critter House is home to many species native to the region.",
-   "url": "https://annarborwithkids.com/events/critter-house-open-hours-2-2026-06-06-2026-06-07-2026-06-13-2026-06-14-2026-06-20-2026-06-21-2026-06-27-2026-06-28-2026-07-04-2026-07-05-2026-07-11-2026-07-12-2026-07-18-2026-07-19-2026-05-2026-09-06/",
-   "venue": "Leslie Science & Nature Center",
-   "address": "Leslie Science & Nature Center, 1831 Traver Rd, Ann Arbor, MI, 48105, North Ann Arbor, United States",
-   "city": "Ann Arbor",
-   "lat": 42.30078700000001,
-   "lon": -83.73028399999998,
-   "zone": "city",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 8,
-   "audience_raw": "Elementary, HighSchoolers, Middle Schoolers, Preschoolers, Toddler",
-   "ages": [
-    "baby",
-    "toddler",
-    "preschool",
-    "elementary",
-    "tween",
-    "teen"
-   ],
-   "age_min": 1,
-   "age_max": 18,
-   "all_ages": false,
-   "setting": "indoor",
-   "cost": "unknown",
-   "price": "",
-   "registration": false,
-   "categories": [
-    "Animals",
-    "Elementary",
-    "HighSchoolers",
-    "Indoor Activities",
-    "Middle Schoolers",
-    "Preschoolers",
-    "Toddler"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "9d8608a58eb756c3"
-  },
-  {
-   "title": "Women in Engineering",
-   "start": "2026-09-06T12:00:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-06T13:30:00-04:00",
-   "all_day": false,
-   "recurring": false,
-   "repeat_count": 1,
-   "description": "Join Kailly Nocera, a NASA Solar System Ambassador, in this fun and educational event centering women in the field of engineering!",
-   "url": "https://annarborwithkids.com/events/women-in-engineering/",
-   "venue": "Malletts Creek Branch of AADL",
-   "address": "Malletts Creek Branch of AADL, 3090 E Eisenhower Parkway, Ann Arbor, Michigan, 48108, South, United States",
-   "city": "Ann Arbor",
-   "lat": 42.2436533,
-   "lon": -83.71799220000003,
-   "zone": "city",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 9,
-   "audience_raw": "Elementary, HighSchoolers, Middle Schoolers",
-   "ages": [
-    "elementary",
-    "tween",
-    "teen"
-   ],
-   "age_min": 5,
-   "age_max": 18,
-   "all_ages": false,
-   "setting": "indoor",
-   "cost": "free",
-   "price": "Free",
-   "registration": false,
-   "categories": [
-    "Elementary",
-    "Environmental",
-    "Free",
-    "HighSchoolers",
-    "Indoor Activities",
-    "Middle Schoolers",
-    "STEM"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "7bd42bb8f77c6f95"
-  },
-  {
-   "title": "Guided Acrylic Painting with Katie Hammond",
-   "start": "2026-09-06T12:30:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-06T14:00:00-04:00",
-   "all_day": false,
-   "recurring": false,
-   "repeat_count": 1,
-   "description": "Paint along during this guided workshop led by local artist Katie Hammond. Using acrylic paint, you'll create a work inspired by tattoo and folk art onto a 16 x 20” canvas.",
-   "url": "https://annarborwithkids.com/events/guided-acrylic-painting-with-katie-hammond/",
-   "venue": "Downtown Branch of AADL",
-   "address": "Downtown Branch of AADL, 343 South Fifth Avenue, Ann Arbor, Michigan, 48104, Downtown, United States",
-   "city": "Ann Arbor",
-   "lat": 42.278198,
-   "lon": -83.745971,
-   "zone": "city",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 5,
-   "audience_raw": "High Schoolers",
-   "ages": [
-    "teen"
-   ],
-   "age_min": 14,
-   "age_max": 18,
-   "all_ages": false,
-   "setting": "indoor",
-   "cost": "free",
-   "price": "Free",
-   "registration": false,
-   "categories": [
-    "Art",
-    "Free",
-    "High Schoolers",
-    "IndoorActivities"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "0dd6aacd502e99f6"
-  },
-  {
-   "title": "Celebrating 10 Years of Westgate Branch",
-   "start": "2026-09-06T13:00:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-06T14:30:00-04:00",
-   "all_day": false,
-   "recurring": false,
-   "repeat_count": 1,
-   "description": "Westgate Branch opened to the public on September 6, 2016, and AADL is celebrating its 10th anniversary with cookies, buttons, and commemorative bookmarks! Join library staff for this low-key celebration of the library's wonderful Westgate Branch!",
-   "url": "https://annarborwithkids.com/events/celebrating-10-years-of-westgate-branch/",
-   "venue": "Westgate Branch of AADL",
-   "address": "Westgate Branch of AADL, 2503 Jackson Ave, Ann Arbor, Michigan, 48103, West, United States",
-   "city": "Ann Arbor",
-   "lat": 42.2786067,
-   "lon": -83.78273059999998,
-   "zone": "city",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 8,
-   "audience_raw": "Elementary, HighSchoolers, Middle Schoolers, Preschoolers",
-   "ages": [
-    "preschool",
-    "elementary",
-    "tween",
-    "teen"
-   ],
-   "age_min": 3,
-   "age_max": 18,
-   "all_ages": false,
-   "setting": "indoor",
-   "cost": "free",
-   "price": "Free",
-   "registration": false,
-   "categories": [
-    "Elementary",
-    "Food",
-    "Free",
-    "HighSchoolers",
-    "Indoor Activities",
-    "Middle Schoolers",
-    "Preschoolers"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "ca3e8534e305b555"
-  },
-  {
-   "title": "Puzzle and Board Game Swap",
-   "start": "2026-09-06T16:00:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-06T18:00:00-04:00",
-   "all_day": false,
-   "recurring": false,
-   "repeat_count": 1,
-   "description": "Drop off old puzzles and games; pick out new-to-you items to take home! Items will be accepted at all library locations until August 30. You do not need to bring materials in order to pick something up. This event is for Grade K–Adult. Held in the Lower Level Program Room.",
-   "url": "https://annarborwithkids.com/events/puzzle-and-board-game-swap-2/",
-   "venue": "Downtown Branch of AADL",
-   "address": "Downtown Branch of AADL, 343 South Fifth Avenue, Ann Arbor, Michigan, 48104, Downtown, United States",
-   "city": "Ann Arbor",
-   "lat": 42.278198,
-   "lon": -83.745971,
-   "zone": "city",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 5,
-   "audience_raw": "Elementary, HighSchoolers, MiddleSchoolers",
-   "ages": [
-    "elementary",
-    "tween",
-    "teen"
-   ],
-   "age_min": 5,
-   "age_max": 18,
-   "all_ages": false,
-   "setting": "indoor",
-   "cost": "free",
-   "price": "Free",
-   "registration": false,
-   "categories": [
-    "Elementary",
-    "Free",
-    "Games",
-    "HighSchoolers",
-    "Indoor Activities",
-    "MiddleSchoolers",
-    "Resale/Thrifting",
-    "Shopping"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "a9f82b1d826205ba"
-  },
-  {
-   "title": "Saline Fair",
    "start": "2026-09-07T13:00:00-04:00",
    "source": "aawk",
    "source_name": "Ann Arbor with Kids",
    "end": "2026-09-07T19:00:00-04:00",
    "all_day": false,
    "recurring": false,
-   "repeat_count": 2,
+   "repeat_count": 1,
    "description": "The Saline Fair returns the week before Labor Day. Regular admission to the fair is $10/person ages 11 and up. Wednesday admission is $5. Special Admission prices are listed below with some key events.",
    "url": "https://annarborwithkids.com/events/saline-fair/",
    "venue": "Washtenaw Farm Council Fairgrounds",
@@ -773,7 +292,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "81be967e51fc73ad"
   },
   {
@@ -813,7 +332,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "40614772e77fab23"
   },
   {
@@ -853,7 +372,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bdf99cba6443ec8e"
   },
   {
@@ -901,7 +420,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "33781a06ecb07476"
   },
   {
@@ -946,7 +465,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "80c6f609a904147d"
   },
   {
@@ -991,7 +510,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1ca29d8c3f2be440"
   },
   {
@@ -1035,7 +554,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "849b44dbfcac9cbf"
   },
   {
@@ -1088,7 +607,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cafcb79d727e4db7"
   },
   {
@@ -1142,7 +661,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1b5b560a20e09c98"
   },
   {
@@ -1190,7 +709,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ccbf4a43972696f8"
   },
   {
@@ -1242,7 +761,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f88932bca65da2d7"
   },
   {
@@ -1282,7 +801,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "86979d8588036f99"
   },
   {
@@ -1335,7 +854,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "397862086454c2cc"
   },
   {
@@ -1375,7 +894,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "93eb0b4dfd40d126"
   },
   {
@@ -1421,7 +940,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "49e25bf826c29077"
   },
   {
@@ -1467,7 +986,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5dd0ca20bf5ec01c"
   },
   {
@@ -1511,7 +1030,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "572a2ea2b3ec10b0"
   },
   {
@@ -1561,7 +1080,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7c9f5782d1c11510"
   },
   {
@@ -1607,7 +1126,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "76f77819b8bfa04c"
   },
   {
@@ -1654,7 +1173,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "32f7b671b20667ea"
   },
   {
@@ -1702,7 +1221,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "87314e94d1d8ca00"
   },
   {
@@ -1744,7 +1263,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "321be2bcfdd30ff5"
   },
   {
@@ -1788,7 +1307,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "873604c7b3209526"
   },
   {
@@ -1823,7 +1342,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "57d7a0691fab9736"
   },
   {
@@ -1872,7 +1391,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "baa3f220e748f39d"
   },
   {
@@ -1920,7 +1439,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1f1db890bddfcad0"
   },
   {
@@ -1960,7 +1479,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9f9e6fd5ae9a6409"
   },
   {
@@ -2013,7 +1532,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3071ee2a70e32883"
   },
   {
@@ -2065,7 +1584,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "423fdd80c729f885"
   },
   {
@@ -2111,7 +1630,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "46fc8b2d960a0997"
   },
   {
@@ -2156,7 +1675,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5048bf28fcbce413"
   },
   {
@@ -2203,7 +1722,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d75026d40ba7ddca"
   },
   {
@@ -2249,7 +1768,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "272f08b4c57a48f7"
   },
   {
@@ -2298,8 +1817,48 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8cf0867d28085d94"
+  },
+  {
+   "title": "Blue Ribbon Bash",
+   "start": "2026-09-11T00:00:00-04:00",
+   "source": "destination_a2",
+   "source_name": "Destination Ann Arbor",
+   "end": null,
+   "all_day": true,
+   "recurring": false,
+   "repeat_count": 1,
+   "description": "Therapeutic Riding, Inc (TRI) is an adaptive riding center in Ann Arbor where children and adults with a variety of disabilities can fulfill their...",
+   "url": "https://www.annarbor.org/event/blue-ribbon-bash/25201/",
+   "venue": "Therapeutic Riding Inc.",
+   "address": "3425 E. Morgan Rd., Ann Arbor, MI, 48108",
+   "city": "Ann Arbor",
+   "lat": 42.2175299,
+   "lon": -83.69229729999999,
+   "zone": "near",
+   "washtenaw": true,
+   "bus": true,
+   "drive_minutes": 17,
+   "audience_raw": "",
+   "ages": [
+    "toddler",
+    "preschool",
+    "elementary",
+    "tween"
+   ],
+   "age_min": 2,
+   "age_max": 12,
+   "all_ages": false,
+   "setting": "unknown",
+   "cost": "unknown",
+   "price": "",
+   "registration": false,
+   "categories": [],
+   "also_seen_on": [],
+   "image": "",
+   "updated": "2026-09-07T15:17:34+00:00",
+   "id": "6b2339dc05d361db"
   },
   {
    "title": "Kinder Concert!",
@@ -2343,7 +1902,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4beb7e2940a5dc9c"
   },
   {
@@ -2387,7 +1946,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "840b4911ca59472a"
   },
   {
@@ -2427,7 +1986,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "01994ed47cd98b01"
   },
   {
@@ -2474,7 +2033,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c0880773c087b501"
   },
   {
@@ -2517,8 +2076,51 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7d521e93f4a4d5c2"
+  },
+  {
+   "title": "Library Care Coordination: Drop In Hours",
+   "start": "2026-09-11T11:00:00-04:00",
+   "source": "aawk",
+   "source_name": "Ann Arbor with Kids",
+   "end": "2026-09-11T14:00:00-04:00",
+   "all_day": false,
+   "recurring": true,
+   "repeat_count": 7,
+   "description": "Thanks to funding from the Washtenaw County Mental Health and Public Safety Preservation Millage, YDL has a full-time Library Social Worker!",
+   "url": "https://annarborwithkids.com/events/library-care-coordination-drop-in-hours-2026-09-11/",
+   "venue": "Ypsilanti District Library - Superior",
+   "address": "Ypsilanti District Library - Superior, 1900 Harris Rd, Ypsilanti, Michigan, 48198, Ypsilanti, United States",
+   "city": "Ypsilanti",
+   "lat": 42.270591,
+   "lon": -83.584503,
+   "zone": "near",
+   "washtenaw": true,
+   "bus": true,
+   "drive_minutes": 17,
+   "audience_raw": "High Schoolers",
+   "ages": [
+    "teen"
+   ],
+   "age_min": 14,
+   "age_max": 18,
+   "all_ages": false,
+   "setting": "indoor",
+   "cost": "free",
+   "price": "Free",
+   "registration": false,
+   "categories": [
+    "Community Resources",
+    "Free",
+    "Health",
+    "High Schoolers",
+    "IndoorActivities"
+   ],
+   "also_seen_on": [],
+   "image": "",
+   "updated": "2026-09-07T15:17:34+00:00",
+   "id": "dcc111ba05bba7e2"
   },
   {
    "title": "MICHIGAN WORKS! Southeast Community Outreach",
@@ -2557,7 +2159,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "13110438592c39d9"
   },
   {
@@ -2605,7 +2207,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "497216f6d6eca1b7"
   },
   {
@@ -2651,7 +2253,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8247be0017087b1b"
   },
   {
@@ -2691,7 +2293,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "959477ed6378e619"
   },
   {
@@ -2742,7 +2344,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5392d86655a3588a"
   },
   {
@@ -2795,7 +2397,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c14922bad733dc70"
   },
   {
@@ -2846,7 +2448,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5bfccdae9ccb7084"
   },
   {
@@ -2894,7 +2496,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2b8d800e0945e964"
   },
   {
@@ -2945,7 +2547,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "be8b7f16d7bf5ffe"
   },
   {
@@ -2992,7 +2594,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d4e8282fcef23533"
   },
   {
@@ -3035,7 +2637,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "028a2ad70765b571"
   },
   {
@@ -3090,7 +2692,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f0f18389b5c25d29"
   },
   {
@@ -3137,7 +2739,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d141c83f2a4f8f45"
   },
   {
@@ -3181,7 +2783,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5558d0b6c564cc0b"
   },
   {
@@ -3234,7 +2836,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "65ecba639830d510"
   },
   {
@@ -3286,7 +2888,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bb9e7820ea6adf50"
   },
   {
@@ -3339,7 +2941,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9dd40baefad039bd"
   },
   {
@@ -3387,7 +2989,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "924fe0f19fd362e7"
   },
   {
@@ -3441,7 +3043,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5c192b737e51af6b"
   },
   {
@@ -3481,7 +3083,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ec19f37b06c6114d"
   },
   {
@@ -3525,7 +3127,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "297bd4e80ad6780b"
   },
   {
@@ -3579,7 +3181,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b26c3ba4ac762e03"
   },
   {
@@ -3632,7 +3234,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "08ee9aa2b0722718"
   },
   {
@@ -3679,7 +3281,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e4f5201fe1564974"
   },
   {
@@ -3724,7 +3326,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2f014057590b88cc"
   },
   {
@@ -3770,7 +3372,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d68699ee6743a1e8"
   },
   {
@@ -3816,7 +3418,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e0dd74bcc963442b"
   },
   {
@@ -3865,7 +3467,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c76f4b87acf4e779"
   },
   {
@@ -3912,7 +3514,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d87d63274b1bdf70"
   },
   {
@@ -3922,8 +3524,8 @@
    "source_name": "Ann Arbor with Kids",
    "end": "2026-09-12T15:00:00-04:00",
    "all_day": false,
-   "recurring": true,
-   "repeat_count": 6,
+   "recurring": false,
+   "repeat_count": 4,
    "description": "Observe frogs, turtles, snakes, and more as they hop, crawl, and slither in their homes! The LSNC Critter House is home to many species native to the region.",
    "url": "https://annarborwithkids.com/events/critter-house-open-hours-2-2026-06-06-2026-06-07-2026-06-13-2026-06-14-2026-06-20-2026-06-21-2026-06-27-2026-06-28-2026-07-04-2026-07-05-2026-07-11-2026-07-12-2026-07-18-2026-07-19-2026-06-2026-09-12/",
    "venue": "Leslie Science & Nature Center",
@@ -3962,7 +3564,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7573f3dc013dd5ce"
   },
   {
@@ -4008,7 +3610,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7ed183d2347ed042"
   },
   {
@@ -4063,7 +3665,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8b94d17ba74528cb"
   },
   {
@@ -4109,7 +3711,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f14bca7886654a8a"
   },
   {
@@ -4160,7 +3762,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ecbf973ec2604494"
   },
   {
@@ -4206,7 +3808,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "aed6ab53cf51b58d"
   },
   {
@@ -4252,7 +3854,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8c9fee3767c36e03"
   },
   {
@@ -4300,7 +3902,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a66abf278ae978ab"
   },
   {
@@ -4343,7 +3945,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3368b096907cd00a"
   },
   {
@@ -4392,7 +3994,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "28e0b71c84da523a"
   },
   {
@@ -4441,7 +4043,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2a42d4e4ed865b02"
   },
   {
@@ -4488,7 +4090,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b168c5e4acc569c1"
   },
   {
@@ -4534,7 +4136,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "af324f6f54708ba0"
   },
   {
@@ -4584,7 +4186,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4301e1ab018a37d0"
   },
   {
@@ -4634,7 +4236,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bbcac9726ec95bd0"
   },
   {
@@ -4679,7 +4281,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "21d277d287be99f9"
   },
   {
@@ -4690,7 +4292,7 @@
    "end": "2026-09-13T14:00:00-04:00",
    "all_day": false,
    "recurring": false,
-   "repeat_count": 4,
+   "repeat_count": 3,
    "description": "The Whitmore Lake Farmers Market is back for its fourth season. The market is held at Northfield Community Park",
    "url": "https://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-06-07-2026-06-14-2026-06-21-2026-06-28-2026-07-05-2026-07-12-2026-07-19-2026-07-26-2026-08-02-2026-08-09-2026-08-16-2026-08-23-2026-08-30-2026-09-06-2026-09-13/",
    "venue": "Northfield Community Park",
@@ -4732,7 +4334,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "59e4cb3a90a69d17"
   },
   {
@@ -4777,7 +4379,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7d38fb464faa6f01"
   },
   {
@@ -4787,8 +4389,8 @@
    "source_name": "Ann Arbor with Kids",
    "end": "2026-09-13T15:00:00-04:00",
    "all_day": false,
-   "recurring": true,
-   "repeat_count": 6,
+   "recurring": false,
+   "repeat_count": 4,
    "description": "Observe frogs, turtles, snakes, and more as they hop, crawl, and slither in their homes! The LSNC Critter House is home to many species native to the region.",
    "url": "https://annarborwithkids.com/events/critter-house-open-hours-2-2026-06-06-2026-06-07-2026-06-13-2026-06-14-2026-06-20-2026-06-21-2026-06-27-2026-06-28-2026-07-04-2026-07-05-2026-07-11-2026-07-12-2026-07-18-2026-07-19-2026-12-2026-09-13/",
    "venue": "Leslie Science & Nature Center",
@@ -4827,7 +4429,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "edc5cf9f7df77978"
   },
   {
@@ -4878,7 +4480,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8f0e47f9cc078b50"
   },
   {
@@ -4919,7 +4521,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b7cb9165203f4eae"
   },
   {
@@ -4959,11 +4561,20 @@
    "price": "Free",
    "registration": false,
    "categories": [
-    "Public Event"
+    "Public Event",
+    "Chess",
+    "Elementary",
+    "Free",
+    "Games",
+    "High Schoolers",
+    "IndoorActivities",
+    "Middle Schoolers"
    ],
-   "also_seen_on": [],
+   "also_seen_on": [
+    "Ann Arbor with Kids"
+   ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cb036affa6ba7a08"
   },
   {
@@ -5010,7 +4621,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ba83aedeff3e8ab2"
   },
   {
@@ -5060,7 +4671,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0735808771c2516b"
   },
   {
@@ -5105,7 +4716,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0be60c25e9db8f33"
   },
   {
@@ -5151,7 +4762,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2a402983803d3000"
   },
   {
@@ -5197,7 +4808,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "115e8d28661980e2"
   },
   {
@@ -5242,7 +4853,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8a4e6f57868b1c73"
   },
   {
@@ -5282,7 +4893,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6bd13e4139af3ddd"
   },
   {
@@ -5329,7 +4940,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2d062d815ad5fcc6"
   },
   {
@@ -5369,7 +4980,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c83755a00cf4c875"
   },
   {
@@ -5414,7 +5025,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8a4e6f57868b1c73"
   },
   {
@@ -5462,7 +5073,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2fb405c7183d749f"
   },
   {
@@ -5508,7 +5119,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "451404b046276bfb"
   },
   {
@@ -5559,7 +5170,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "14b9ebf98dfab303"
   },
   {
@@ -5605,7 +5216,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6380a74bf1903410"
   },
   {
@@ -5647,7 +5258,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8d627dcdfe1e0ed8"
   },
   {
@@ -5694,7 +5305,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0070b077e2b10008"
   },
   {
@@ -5739,7 +5350,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "339a5e6a8a081566"
   },
   {
@@ -5782,7 +5393,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9786495ea9096677"
   },
   {
@@ -5822,7 +5433,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a4a768827eb45396"
   },
   {
@@ -5870,7 +5481,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7237fe37cde0aed9"
   },
   {
@@ -5910,7 +5521,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "adf69114d718303c"
   },
   {
@@ -5950,7 +5561,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8b3a17631e3c15e0"
   },
   {
@@ -5996,7 +5607,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "510efbb274dd274a"
   },
   {
@@ -6042,7 +5653,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "df94ec82a6e68fb1"
   },
   {
@@ -6087,7 +5698,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d25bd7dff0095c58"
   },
   {
@@ -6138,7 +5749,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "dc217bd4120b6987"
   },
   {
@@ -6191,7 +5802,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c0199f52a022d1c4"
   },
   {
@@ -6245,7 +5856,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b3c94e34870e88d8"
   },
   {
@@ -6297,7 +5908,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6d1358746f9c7dba"
   },
   {
@@ -6337,7 +5948,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "090a4387c6a2e8dd"
   },
   {
@@ -6389,7 +6000,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1ffa669508609de8"
   },
   {
@@ -6442,7 +6053,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d0f0d5ad821afcbd"
   },
   {
@@ -6482,7 +6093,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3714ce857eb2bb5f"
   },
   {
@@ -6537,7 +6148,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "828ee846769d360a"
   },
   {
@@ -6579,7 +6190,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "de7d51be36eaa87f"
   },
   {
@@ -6625,7 +6236,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "861a3102b4cdfc19"
   },
   {
@@ -6672,7 +6283,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8aed668777b3b598"
   },
   {
@@ -6712,7 +6323,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "321c21c3853240a3"
   },
   {
@@ -6758,7 +6369,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5356def4134c4859"
   },
   {
@@ -6803,7 +6414,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ddf1c48f2e2d11fc"
   },
   {
@@ -6845,7 +6456,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e53e7477aa7f867d"
   },
   {
@@ -6890,7 +6501,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bfaf4ccfa9aa4925"
   },
   {
@@ -6937,7 +6548,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "231d148c28c589fa"
   },
   {
@@ -6982,7 +6593,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "869f479b4a937e64"
   },
   {
@@ -7027,7 +6638,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4eb0fd6c4461c6b8"
   },
   {
@@ -7073,7 +6684,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2b96286fd61401fa"
   },
   {
@@ -7112,7 +6723,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "dfc8f0ad4d417884"
   },
   {
@@ -7120,7 +6731,7 @@
    "start": "2026-09-17T10:00:00-04:00",
    "source": "aawk",
    "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-17T14:00:00-04:00",
+   "end": "2026-09-17T11:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 2,
@@ -7162,7 +6773,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "04d3b6879201c756"
   },
   {
@@ -7205,7 +6816,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b2322300fd754e7a"
   },
   {
@@ -7252,7 +6863,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "00e6da5360664407"
   },
   {
@@ -7292,7 +6903,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "83e6b94c467d834a"
   },
   {
@@ -7345,7 +6956,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "146e249a8c7a65dc"
   },
   {
@@ -7397,7 +7008,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f88e4197b80c8209"
   },
   {
@@ -7443,7 +7054,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4b759698c6174bac"
   },
   {
@@ -7489,7 +7100,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6760691c56d79718"
   },
   {
@@ -7540,7 +7151,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8ea762fff97a3679"
   },
   {
@@ -7586,7 +7197,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d6634474a4414608"
   },
   {
@@ -7632,7 +7243,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3e49f9a88b972455"
   },
   {
@@ -7677,7 +7288,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "66c2bcecfc070a95"
   },
   {
@@ -7721,7 +7332,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "afb93445822141f9"
   },
   {
@@ -7772,7 +7383,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "09ce5a8833d1c3f7"
   },
   {
@@ -7812,7 +7423,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5b710d5db6eaea0b"
   },
   {
@@ -7856,7 +7467,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6aecf45b41eeea34"
   },
   {
@@ -7896,7 +7507,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "addf0cc05d2df057"
   },
   {
@@ -7943,7 +7554,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a595f832dcaf13fa"
   },
   {
@@ -7990,7 +7601,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2b7a869ed430490a"
   },
   {
@@ -8035,7 +7646,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c7f81a2d8c9b25c4"
   },
   {
@@ -8046,7 +7657,7 @@
    "end": "2026-09-18T14:00:00-04:00",
    "all_day": false,
    "recurring": true,
-   "repeat_count": 6,
+   "repeat_count": 7,
    "description": "Thanks to funding from the Washtenaw County Mental Health and Public Safety Preservation Millage, YDL has a full-time Library Social Worker!",
    "url": "https://annarborwithkids.com/events/library-care-coordination-drop-in-hours-2026-09-11-2026-09-18/",
    "venue": "Ypsilanti District Library - Superior",
@@ -8078,7 +7689,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "93b4002c4830b1ef"
   },
   {
@@ -8124,7 +7735,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9197e971fc1a4731"
   },
   {
@@ -8170,7 +7781,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5b0c35ab18dceb9b"
   },
   {
@@ -8210,7 +7821,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bd61e56b8ceddaf0"
   },
   {
@@ -8263,7 +7874,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "98ec413ef66c2813"
   },
   {
@@ -8310,7 +7921,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "dfbede8f32d5a06c"
   },
   {
@@ -8363,7 +7974,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a47d4d065da5fb21"
   },
   {
@@ -8414,7 +8025,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3868cd90c78db10e"
   },
   {
@@ -8462,7 +8073,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "72339c5ef08407d5"
   },
   {
@@ -8501,7 +8112,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "706bd850733e1199"
   },
   {
@@ -8548,7 +8159,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5b2291887b875085"
   },
   {
@@ -8600,7 +8211,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7e45d24d85f83ece"
   },
   {
@@ -8653,7 +8264,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9f1d3412dcedbb41"
   },
   {
@@ -8705,7 +8316,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bb2f6a6ee3945243"
   },
   {
@@ -8758,7 +8369,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e24cba24ab548af5"
   },
   {
@@ -8806,7 +8417,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f1fbf7b7f0594e34"
   },
   {
@@ -8860,7 +8471,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "aa279db59415473f"
   },
   {
@@ -8900,7 +8511,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "eaafb9c291fd46f4"
   },
   {
@@ -8939,7 +8550,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "47964c4cf21907d3"
   },
   {
@@ -8983,7 +8594,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6021ccec65e2bfdf"
   },
   {
@@ -9037,7 +8648,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a425d8c76525af42"
   },
   {
@@ -9090,7 +8701,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d6e8a0af903e712f"
   },
   {
@@ -9140,7 +8751,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "dde0d6b6cbfd7619"
   },
   {
@@ -9189,7 +8800,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "07a41136440943fe"
   },
   {
@@ -9235,7 +8846,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "47f2a4ce7aa8fdda"
   },
   {
@@ -9279,7 +8890,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ca3b7b0d243f9603"
   },
   {
@@ -9324,7 +8935,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "570597cdbaf7eab7"
   },
   {
@@ -9370,7 +8981,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "78df4884601427c9"
   },
   {
@@ -9416,7 +9027,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e7aaf1d086243dc1"
   },
   {
@@ -9458,7 +9069,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7e9f46d55451e0d5"
   },
   {
@@ -9504,7 +9115,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8f9ce8ffa08ff707"
   },
   {
@@ -9552,7 +9163,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a5bf4f9c28ddc176"
   },
   {
@@ -9600,7 +9211,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "96ac87b9f75256f6"
   },
   {
@@ -9646,7 +9257,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0955c122a4a33e0d"
   },
   {
@@ -9699,7 +9310,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e9ba5aba5e533401"
   },
   {
@@ -9751,7 +9362,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6d4b06e79bc63371"
   },
   {
@@ -9762,7 +9373,7 @@
    "end": "2026-09-20T14:00:00-04:00",
    "all_day": false,
    "recurring": false,
-   "repeat_count": 4,
+   "repeat_count": 3,
    "description": "The Whitmore Lake Farmers Market is back for its fourth season. The market is held at Northfield Community Park",
    "url": "https://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-06-07-2026-06-14-2026-06-21-2026-06-28-2026-07-05-2026-07-12-2026-07-19-2026-07-26-2026-08-02-2026-08-09-2026-08-16-2026-08-23-2026-08-30-2026-09-06-202-13-2026-09-20/",
    "venue": "Northfield Community Park",
@@ -9804,7 +9415,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "903f5d9610e89ee6"
   },
   {
@@ -9853,7 +9464,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6e6b01ddefbf1bab"
   },
   {
@@ -9899,7 +9510,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6e96247ee93608e4"
   },
   {
@@ -9944,7 +9555,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "72411533dd13e970"
   },
   {
@@ -9954,8 +9565,8 @@
    "source_name": "Ann Arbor with Kids",
    "end": "2026-09-20T15:00:00-04:00",
    "all_day": false,
-   "recurring": true,
-   "repeat_count": 6,
+   "recurring": false,
+   "repeat_count": 4,
    "description": "Observe frogs, turtles, snakes, and more as they hop, crawl, and slither in their homes! The LSNC Critter House is home to many species native to the region.",
    "url": "https://annarborwithkids.com/events/critter-house-open-hours-2-2026-06-06-2026-06-07-2026-06-13-2026-06-14-2026-06-20-2026-06-21-2026-06-27-2026-06-28-2026-07-04-2026-07-05-2026-07-11-2026-07-12-2026-07-18-2026-07-19-2026-19-2026-09-20/",
    "venue": "Leslie Science & Nature Center",
@@ -9994,7 +9605,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f2d2db1548b01088"
   },
   {
@@ -10048,7 +9659,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b1b0155dc25a3457"
   },
   {
@@ -10092,7 +9703,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f81135be506847ac"
   },
   {
@@ -10137,7 +9748,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6c7ddaba46051fec"
   },
   {
@@ -10188,7 +9799,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b7266c78a5e64997"
   },
   {
@@ -10238,7 +9849,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2261b0637c8f9a9b"
   },
   {
@@ -10283,7 +9894,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cda9eb9572f5b999"
   },
   {
@@ -10332,7 +9943,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "52a1c38b8c62475b"
   },
   {
@@ -10378,7 +9989,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5cb940f87818e184"
   },
   {
@@ -10428,7 +10039,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bc01b28a4f7a8d1f"
   },
   {
@@ -10474,7 +10085,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cbb1c92f0b3a48d3"
   },
   {
@@ -10514,7 +10125,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "83b9a7bd8f4ba53a"
   },
   {
@@ -10559,7 +10170,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f3006395e6540817"
   },
   {
@@ -10606,7 +10217,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ab30bf5f9492ab20"
   },
   {
@@ -10646,7 +10257,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ff4ce9cb627c56e6"
   },
   {
@@ -10692,7 +10303,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "02e38e5efdc26095"
   },
   {
@@ -10738,7 +10349,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "80885753db836d88"
   },
   {
@@ -10783,7 +10394,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "010977423fa8abfc"
   },
   {
@@ -10827,7 +10438,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6e79a759562db8c3"
   },
   {
@@ -10872,7 +10483,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a90bc3fad9b76d01"
   },
   {
@@ -10915,7 +10526,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d4e6ef1807e14842"
   },
   {
@@ -10959,7 +10570,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "076771a08e4a5da2"
   },
   {
@@ -11005,7 +10616,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f08354331975644d"
   },
   {
@@ -11055,7 +10666,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "035a8f5c252931f2"
   },
   {
@@ -11095,7 +10706,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "97c17e071df69f1e"
   },
   {
@@ -11135,7 +10746,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7c31bd26dbf53980"
   },
   {
@@ -11175,7 +10786,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "aa1fc3d2623c758a"
   },
   {
@@ -11220,7 +10831,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7995fcb8fa4f7f66"
   },
   {
@@ -11266,7 +10877,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c7a88730e338caff"
   },
   {
@@ -11311,7 +10922,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ed3f2c7a64f5f148"
   },
   {
@@ -11357,7 +10968,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4286ec8597d7e1e4"
   },
   {
@@ -11402,7 +11013,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "355a8034b16a19f2"
   },
   {
@@ -11441,7 +11052,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d710fd5f8ef6fb87"
   },
   {
@@ -11489,7 +11100,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3c0f6380aee413a4"
   },
   {
@@ -11535,7 +11146,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "314d8ae029a81d2b"
   },
   {
@@ -11584,7 +11195,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e159026716b82924"
   },
   {
@@ -11637,7 +11248,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "662e60adb52b579c"
   },
   {
@@ -11687,7 +11298,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "29af491680967ff1"
   },
   {
@@ -11741,7 +11352,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "56664774c86325d7"
   },
   {
@@ -11793,7 +11404,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a4cd2e8c7f88a1b1"
   },
   {
@@ -11836,7 +11447,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3be11250149b53dd"
   },
   {
@@ -11876,7 +11487,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3b180b3bd96baad3"
   },
   {
@@ -11920,7 +11531,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ad3c8cacbc06a0af"
   },
   {
@@ -11973,7 +11584,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c896cb7f52cbba91"
   },
   {
@@ -12013,7 +11624,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a9ce5ad39034cc1b"
   },
   {
@@ -12059,7 +11670,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a2085e5bde692b97"
   },
   {
@@ -12105,7 +11716,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1ec8499148d0dbc7"
   },
   {
@@ -12153,7 +11764,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "34f4d3d55704a6bd"
   },
   {
@@ -12202,7 +11813,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8f48b2f5a05c8564"
   },
   {
@@ -12248,7 +11859,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "90979b0038bdc3ed"
   },
   {
@@ -12293,7 +11904,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d86422859ff4c6bf"
   },
   {
@@ -12342,7 +11953,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "45cadce331e97f6f"
   },
   {
@@ -12387,7 +11998,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "23ee6069f5eec46f"
   },
   {
@@ -12436,7 +12047,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "913f1320d48f7616"
   },
   {
@@ -12484,7 +12095,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "36bfcc98dd722c8b"
   },
   {
@@ -12529,7 +12140,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5c027c2d2de26607"
   },
   {
@@ -12579,7 +12190,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ccd656f8a46a2b6a"
   },
   {
@@ -12622,7 +12233,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5c2572d6bcff04f4"
   },
   {
@@ -12668,7 +12279,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e821f86d53bb6100"
   },
   {
@@ -12714,7 +12325,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8dafbe06e5fddd96"
   },
   {
@@ -12754,7 +12365,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "37fd0e30eeb59b75"
   },
   {
@@ -12800,7 +12411,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "997299516851635f"
   },
   {
@@ -12853,7 +12464,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c04dcbde5246cfaf"
   },
   {
@@ -12905,7 +12516,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7b07f821b59c30ad"
   },
   {
@@ -12950,7 +12561,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "002739ab4f090684"
   },
   {
@@ -12996,7 +12607,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ff6718684542c120"
   },
   {
@@ -13042,7 +12653,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bc4595f3452e1e93"
   },
   {
@@ -13089,7 +12700,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "68057da15fc384a8"
   },
   {
@@ -13139,7 +12750,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "070d7f578667f939"
   },
   {
@@ -13186,7 +12797,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6c541648d6367e2d"
   },
   {
@@ -13230,7 +12841,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3cd1acd266f68335"
   },
   {
@@ -13270,7 +12881,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "95d6ee4e49d02258"
   },
   {
@@ -13317,7 +12928,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "91b44cc60829f170"
   },
   {
@@ -13328,7 +12939,7 @@
    "end": "2026-09-25T14:00:00-04:00",
    "all_day": false,
    "recurring": true,
-   "repeat_count": 6,
+   "repeat_count": 7,
    "description": "Thanks to funding from the Washtenaw County Mental Health and Public Safety Preservation Millage, YDL has a full-time Library Social Worker!",
    "url": "https://annarborwithkids.com/events/library-care-coordination-drop-in-hours-2026-09-11-2026-09-18-2026-09-25/",
    "venue": "Ypsilanti District Library - Superior",
@@ -13360,7 +12971,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8c056248cf870a93"
   },
   {
@@ -13406,7 +13017,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "63858f53f7340090"
   },
   {
@@ -13446,7 +13057,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "caa7a042db10c8d1"
   },
   {
@@ -13497,7 +13108,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6a8e1b68af6c68d1"
   },
   {
@@ -13550,7 +13161,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "40ba8c977e47b190"
   },
   {
@@ -13600,7 +13211,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "307fcaef0bc0297f"
   },
   {
@@ -13650,7 +13261,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2c82e6b3f88cef1b"
   },
   {
@@ -13698,7 +13309,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ff621d0daa42e9a2"
   },
   {
@@ -13745,7 +13356,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0180015738a25389"
   },
   {
@@ -13798,7 +13409,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4c54ec077ef6524b"
   },
   {
@@ -13847,7 +13458,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0b85d2abfd204c3a"
   },
   {
@@ -13900,7 +13511,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3e007b4c42922b5c"
   },
   {
@@ -13952,7 +13563,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1da2dd97794bdd0f"
   },
   {
@@ -14005,7 +13616,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2ce9cbb1db0ed21c"
   },
   {
@@ -14053,7 +13664,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a77a42ee1305793e"
   },
   {
@@ -14107,7 +13718,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "abf77058fec50ec4"
   },
   {
@@ -14147,7 +13758,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e4c24e35531879b5"
   },
   {
@@ -14196,7 +13807,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "81b2d916c7410385"
   },
   {
@@ -14248,7 +13859,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f335aa5c5a36a68f"
   },
   {
@@ -14292,7 +13903,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2587154f2822ac22"
   },
   {
@@ -14346,7 +13957,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3838c5ca4ab8fbff"
   },
   {
@@ -14399,7 +14010,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f42caa490252cbc8"
   },
   {
@@ -14450,7 +14061,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "37d09a2d61c2b44f"
   },
   {
@@ -14494,7 +14105,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d15545deaf8a6995"
   },
   {
@@ -14540,7 +14151,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "96f80a0d4aa10be7"
   },
   {
@@ -14591,7 +14202,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6323bebd965219cc"
   },
   {
@@ -14645,7 +14256,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7326f5188539f5ed"
   },
   {
@@ -14655,8 +14266,8 @@
    "source_name": "Ann Arbor with Kids",
    "end": "2026-09-26T15:00:00-04:00",
    "all_day": false,
-   "recurring": true,
-   "repeat_count": 6,
+   "recurring": false,
+   "repeat_count": 4,
    "description": "Observe frogs, turtles, snakes, and more as they hop, crawl, and slither in their homes! The LSNC Critter House is home to many species native to the region.",
    "url": "https://annarborwithkids.com/events/critter-house-open-hours-2-2026-06-06-2026-06-07-2026-06-13-2026-06-14-2026-06-20-2026-06-21-2026-06-27-2026-06-28-2026-07-04-2026-07-05-2026-07-11-2026-07-12-2026-07-18-2026-07-19-2026-20-2026-09-26/",
    "venue": "Leslie Science & Nature Center",
@@ -14695,7 +14306,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "487cd2d671b27218"
   },
   {
@@ -14743,7 +14354,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d9c36545ca23117e"
   },
   {
@@ -14789,7 +14400,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ce7642d5541acf43"
   },
   {
@@ -14839,7 +14450,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "940bb8957c6b90c3"
   },
   {
@@ -14887,7 +14498,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "66076e244c61e8f2"
   },
   {
@@ -14937,7 +14548,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2761a4cce961b852"
   },
   {
@@ -14983,7 +14594,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e5b16f2150475e84"
   },
   {
@@ -15033,7 +14644,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ce3abc075bf78946"
   },
   {
@@ -15044,7 +14655,7 @@
    "end": "2026-09-27T14:00:00-04:00",
    "all_day": false,
    "recurring": false,
-   "repeat_count": 4,
+   "repeat_count": 3,
    "description": "The Whitmore Lake Farmers Market is back for its fourth season. The market is held at Northfield Community Park",
    "url": "https://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-06-07-2026-06-14-2026-06-21-2026-06-28-2026-07-05-2026-07-12-2026-07-19-2026-07-26-2026-08-02-2026-08-09-2026-08-16-2026-08-23-2026-08-30-2026-09-06-202-20-2026-09-27/",
    "venue": "Northfield Community Park",
@@ -15086,7 +14697,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ac595a570ce235e5"
   },
   {
@@ -15134,7 +14745,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "28fba37fc9674e27"
   },
   {
@@ -15179,58 +14790,8 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1e5fa3f9ccc7267c"
-  },
-  {
-   "title": "Critter House Open Hours",
-   "start": "2026-09-27T12:00:00-04:00",
-   "source": "aawk",
-   "source_name": "Ann Arbor with Kids",
-   "end": "2026-09-27T15:00:00-04:00",
-   "all_day": false,
-   "recurring": true,
-   "repeat_count": 6,
-   "description": "Observe frogs, turtles, snakes, and more as they hop, crawl, and slither in their homes! The LSNC Critter House is home to many species native to the region.",
-   "url": "https://annarborwithkids.com/events/critter-house-open-hours-2-2026-06-06-2026-06-07-2026-06-13-2026-06-14-2026-06-20-2026-06-21-2026-06-27-2026-06-28-2026-07-04-2026-07-05-2026-07-11-2026-07-12-2026-07-18-2026-07-19-2026-26-2026-09-27/",
-   "venue": "Leslie Science & Nature Center",
-   "address": "Leslie Science & Nature Center, 1831 Traver Rd, Ann Arbor, MI, 48105, North Ann Arbor, United States",
-   "city": "Ann Arbor",
-   "lat": 42.30078700000001,
-   "lon": -83.73028399999998,
-   "zone": "city",
-   "washtenaw": true,
-   "bus": true,
-   "drive_minutes": 8,
-   "audience_raw": "Elementary, HighSchoolers, Middle Schoolers, Preschoolers, Toddler",
-   "ages": [
-    "baby",
-    "toddler",
-    "preschool",
-    "elementary",
-    "tween",
-    "teen"
-   ],
-   "age_min": 1,
-   "age_max": 18,
-   "all_ages": false,
-   "setting": "indoor",
-   "cost": "unknown",
-   "price": "",
-   "registration": false,
-   "categories": [
-    "Animals",
-    "Elementary",
-    "HighSchoolers",
-    "Indoor Activities",
-    "Middle Schoolers",
-    "Preschoolers",
-    "Toddler"
-   ],
-   "also_seen_on": [],
-   "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
-   "id": "767f2b20d0a37006"
   },
   {
    "title": "Critters Up Close",
@@ -15276,7 +14837,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8e2624704abf4948"
   },
   {
@@ -15322,7 +14883,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ca9fbfbf6e17e91e"
   },
   {
@@ -15376,7 +14937,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2792794d8d7cb2bb"
   },
   {
@@ -15430,7 +14991,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "67c6ce27045a547d"
   },
   {
@@ -15476,7 +15037,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ef2598ae932b7556"
   },
   {
@@ -15522,7 +15083,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "98d738f97aba36ee"
   },
   {
@@ -15565,7 +15126,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6891745fa21b8b2f"
   },
   {
@@ -15619,7 +15180,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ba3c73525888124a"
   },
   {
@@ -15664,7 +15225,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9117334902ea5087"
   },
   {
@@ -15709,7 +15270,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "da273ffe250ec4ca"
   },
   {
@@ -15755,7 +15316,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "815ed8822a362e79"
   },
   {
@@ -15795,7 +15356,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "24a5b81722fb9ad4"
   },
   {
@@ -15840,7 +15401,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "092f3aadee50bf74"
   },
   {
@@ -15887,7 +15448,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0d8458aba4e34870"
   },
   {
@@ -15927,7 +15488,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c24372e73ac33de8"
   },
   {
@@ -15973,7 +15534,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e2d2cb9549a399eb"
   },
   {
@@ -16022,7 +15583,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "993520167f6ee61d"
   },
   {
@@ -16068,7 +15629,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1d0ac33f26840b84"
   },
   {
@@ -16119,7 +15680,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5253aca0648ad961"
   },
   {
@@ -16165,7 +15726,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8a7e1dd0a4860e86"
   },
   {
@@ -16212,7 +15773,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8cd8b40b89b89236"
   },
   {
@@ -16257,7 +15818,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ea0582d82ad26fab"
   },
   {
@@ -16300,7 +15861,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e2152736fd7466b6"
   },
   {
@@ -16344,7 +15905,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "131ba03e78a56f24"
   },
   {
@@ -16390,7 +15951,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6865019a76963954"
   },
   {
@@ -16439,7 +16000,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cea64b3b210e4f5c"
   },
   {
@@ -16479,7 +16040,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e6b27adea53a0517"
   },
   {
@@ -16519,7 +16080,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "88d48edf2789f7dd"
   },
   {
@@ -16559,7 +16120,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5033580d66ca2346"
   },
   {
@@ -16604,7 +16165,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a299ee31ef50d7de"
   },
   {
@@ -16650,7 +16211,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ce559e50ab67b508"
   },
   {
@@ -16696,7 +16257,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4a04f76b7f0e7b51"
   },
   {
@@ -16741,7 +16302,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3bd442746c7f9fa4"
   },
   {
@@ -16791,7 +16352,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9f25eb9e47950636"
   },
   {
@@ -16838,7 +16399,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d589eebdf326b54b"
   },
   {
@@ -16885,7 +16446,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d3d22aaa19855064"
   },
   {
@@ -16938,7 +16499,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "89ffc2689643e4fe"
   },
   {
@@ -16992,7 +16553,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6c4e3c992975f50d"
   },
   {
@@ -17044,7 +16605,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "01d190b55810fe10"
   },
   {
@@ -17087,7 +16648,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e3b7f9bd000f036e"
   },
   {
@@ -17127,7 +16688,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e1510b42b0b5579f"
   },
   {
@@ -17171,7 +16732,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "aab8302c0798a2c5"
   },
   {
@@ -17224,7 +16785,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6393453ae9597808"
   },
   {
@@ -17264,7 +16825,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "79b3958e74730e7a"
   },
   {
@@ -17310,7 +16871,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e47542b60ecf8dba"
   },
   {
@@ -17356,7 +16917,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0840734e92e7d660"
   },
   {
@@ -17402,7 +16963,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b41d45dabe328db7"
   },
   {
@@ -17447,7 +17008,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6b898cbfce5765f0"
   },
   {
@@ -17497,7 +17058,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "03b4db24097ca4d5"
   },
   {
@@ -17542,7 +17103,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "12106c6dcce929a8"
   },
   {
@@ -17591,7 +17152,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a3aad3718e4cd103"
   },
   {
@@ -17636,7 +17197,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0154c90cbc01ba97"
   },
   {
@@ -17679,7 +17240,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4d305d6d7a88fd8f"
   },
   {
@@ -17725,7 +17286,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c64154dc4804fc5d"
   },
   {
@@ -17771,7 +17332,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ac8e1f0549fc2706"
   },
   {
@@ -17811,7 +17372,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5ff381299dbe5c64"
   },
   {
@@ -17864,7 +17425,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "90e480bf4ce7770c"
   },
   {
@@ -17910,7 +17471,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a110ced8c9a3b4be"
   },
   {
@@ -17949,7 +17510,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ccfb6bba749bb162"
   },
   {
@@ -17990,7 +17551,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9baf5ee4c508cc23"
   },
   {
@@ -18029,7 +17590,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a033d495c6818f7e"
   },
   {
@@ -18073,7 +17634,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "64042dfca6b3ef22"
   },
   {
@@ -18113,7 +17674,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "901620323ceff3ad"
   },
   {
@@ -18124,7 +17685,7 @@
    "end": "2026-10-02T14:00:00-04:00",
    "all_day": false,
    "recurring": true,
-   "repeat_count": 6,
+   "repeat_count": 7,
    "description": "Thanks to funding from the Washtenaw County Mental Health and Public Safety Preservation Millage, YDL has a full-time Library Social Worker!",
    "url": "https://annarborwithkids.com/events/library-care-coordination-drop-in-hours-2026-09-11-2026-09-18-2026-09-25-2026-10-02/",
    "venue": "Ypsilanti District Library - Superior",
@@ -18156,7 +17717,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "31949bf5a86da13f"
   },
   {
@@ -18202,7 +17763,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "79a6039c6dfcdefa"
   },
   {
@@ -18242,7 +17803,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a317b0526bdda595"
   },
   {
@@ -18295,7 +17856,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f65a01635b5d8d5b"
   },
   {
@@ -18347,7 +17908,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "45d420f052148503"
   },
   {
@@ -18386,7 +17947,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b99af2b6d3a75057"
   },
   {
@@ -18427,7 +17988,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0f9bfb2314943971"
   },
   {
@@ -18468,7 +18029,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "22eda37065aa7b5d"
   },
   {
@@ -18515,7 +18076,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "58529642a651d76c"
   },
   {
@@ -18552,7 +18113,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e7e2cbb7395bea56"
   },
   {
@@ -18605,7 +18166,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f7f946d60eb3600e"
   },
   {
@@ -18657,7 +18218,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1f667aa8a31404ef"
   },
   {
@@ -18710,7 +18271,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3d290d8197901999"
   },
   {
@@ -18764,7 +18325,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7ce644ae956a118a"
   },
   {
@@ -18804,7 +18365,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "42847e4a8f2f6fc4"
   },
   {
@@ -18848,7 +18409,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "20d50381d5aa46b6"
   },
   {
@@ -18902,7 +18463,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a9350fcbc987f3af"
   },
   {
@@ -18955,7 +18516,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "55721af3488716be"
   },
   {
@@ -18994,7 +18555,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d087b508ca40472c"
   },
   {
@@ -19040,7 +18601,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4acc8ba0b54eb0bd"
   },
   {
@@ -19079,7 +18640,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a1745ed33f264c48"
   },
   {
@@ -19128,7 +18689,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7426201f32a4954e"
   },
   {
@@ -19167,7 +18728,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bdf1c022fa83845c"
   },
   {
@@ -19206,7 +18767,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d0296df217bfe5ba"
   },
   {
@@ -19247,7 +18808,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "deac04140804e977"
   },
   {
@@ -19293,7 +18854,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ed21b30316403c2e"
   },
   {
@@ -19332,7 +18893,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4fd87a56d3ff47f1"
   },
   {
@@ -19371,7 +18932,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b726225eabe1761a"
   },
   {
@@ -19410,7 +18971,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2c6adb379d13b2dc"
   },
   {
@@ -19449,7 +19010,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bb57640e16159585"
   },
   {
@@ -19488,7 +19049,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f6e20d1540b8e028"
   },
   {
@@ -19535,7 +19096,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "34a724e5b35d706b"
   },
   {
@@ -19580,7 +19141,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3a4e853cd0d22949"
   },
   {
@@ -19619,7 +19180,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c24e0b38f3a979d5"
   },
   {
@@ -19669,7 +19230,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a678ab868f4242fc"
   },
   {
@@ -19708,7 +19269,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "96bc910020d0398d"
   },
   {
@@ -19745,7 +19306,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c342a5c6239b3043"
   },
   {
@@ -19784,7 +19345,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c428678fdb9cd686"
   },
   {
@@ -19823,7 +19384,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9059e5d1c2e173af"
   },
   {
@@ -19868,7 +19429,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2f40ebb7021996d8"
   },
   {
@@ -19905,7 +19466,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "91c5aab62f538cf9"
   },
   {
@@ -19952,7 +19513,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a72ef5426df52cf1"
   },
   {
@@ -19998,7 +19559,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6909590460b6fcbc"
   },
   {
@@ -20038,7 +19599,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ea53f2bfd703f41d"
   },
   {
@@ -20083,7 +19644,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f7fc40e3227ba75d"
   },
   {
@@ -20130,7 +19691,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "569621a6c2d601ff"
   },
   {
@@ -20170,7 +19731,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ba2b540bb08ebc23"
   },
   {
@@ -20210,7 +19771,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e75781b20bb71eb5"
   },
   {
@@ -20256,7 +19817,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "da297121e8cea58f"
   },
   {
@@ -20293,7 +19854,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f700366690e94912"
   },
   {
@@ -20330,7 +19891,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1e7110da7861d5c4"
   },
   {
@@ -20375,7 +19936,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "df19723a16bbab85"
   },
   {
@@ -20418,7 +19979,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bbabdeb3d2828a5f"
   },
   {
@@ -20462,7 +20023,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d7fb1d2960b38157"
   },
   {
@@ -20508,7 +20069,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e6df35a40e0c6afb"
   },
   {
@@ -20548,7 +20109,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f70f60be0efb36ca"
   },
   {
@@ -20588,7 +20149,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1f8cc8fbe71d4fdf"
   },
   {
@@ -20633,7 +20194,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "43a1ca5d7c5760da"
   },
   {
@@ -20679,7 +20240,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d5699db95eb5077c"
   },
   {
@@ -20725,7 +20286,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4f729723e1b0e627"
   },
   {
@@ -20770,7 +20331,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "52b4b208e2de7e17"
   },
   {
@@ -20809,7 +20370,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8fdf27f6cb41d51c"
   },
   {
@@ -20848,7 +20409,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b7f08a85e4e26835"
   },
   {
@@ -20887,7 +20448,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4dbd1ca720087c3a"
   },
   {
@@ -20926,7 +20487,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c5d5e5e28001cb44"
   },
   {
@@ -20979,7 +20540,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a1a8be74bb0c11cc"
   },
   {
@@ -21033,7 +20594,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "82418614184c6ecd"
   },
   {
@@ -21085,7 +20646,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "45bda4ea073a9a68"
   },
   {
@@ -21128,7 +20689,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "550abdede12e008c"
   },
   {
@@ -21168,7 +20729,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "95be8188c051e646"
   },
   {
@@ -21212,7 +20773,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7a017b74067374af"
   },
   {
@@ -21252,7 +20813,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bb35302791c48739"
   },
   {
@@ -21298,7 +20859,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "fbcb2c38b64c9895"
   },
   {
@@ -21344,7 +20905,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ea2433361ea40c12"
   },
   {
@@ -21384,7 +20945,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "412b10841cbebea5"
   },
   {
@@ -21430,7 +20991,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8da3dfdf13be44b5"
   },
   {
@@ -21475,7 +21036,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4ef39fedd60bba22"
   },
   {
@@ -21527,7 +21088,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2523952c5e7e581b"
   },
   {
@@ -21566,7 +21127,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "dd3f9b1d16148649"
   },
   {
@@ -21610,7 +21171,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "70cc5bca135cd3d4"
   },
   {
@@ -21655,7 +21216,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b64af05e1eac407d"
   },
   {
@@ -21705,7 +21266,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2e2cdbff1db9073f"
   },
   {
@@ -21748,7 +21309,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "eab4607f11905452"
   },
   {
@@ -21794,7 +21355,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ca20da466f0ed284"
   },
   {
@@ -21834,7 +21395,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "46e8ea31c5ca69da"
   },
   {
@@ -21880,7 +21441,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0bee12da689eb3b3"
   },
   {
@@ -21919,7 +21480,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f46203524b73eb81"
   },
   {
@@ -21959,7 +21520,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "164e3adb4fcd097b"
   },
   {
@@ -22012,7 +21573,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3612bd600be42551"
   },
   {
@@ -22058,7 +21619,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f0c65fe141f63d53"
   },
   {
@@ -22097,7 +21658,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5a54455781bca1b4"
   },
   {
@@ -22138,7 +21699,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e12f06a06189a2ad"
   },
   {
@@ -22184,7 +21745,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "42963e7ccd078903"
   },
   {
@@ -22223,7 +21784,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b4f6af021f9503bd"
   },
   {
@@ -22267,7 +21828,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ac3fd71f22866e70"
   },
   {
@@ -22307,7 +21868,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4f46e92267e4101a"
   },
   {
@@ -22318,7 +21879,7 @@
    "end": "2026-10-09T14:00:00-04:00",
    "all_day": false,
    "recurring": true,
-   "repeat_count": 6,
+   "repeat_count": 7,
    "description": "Thanks to funding from the Washtenaw County Mental Health and Public Safety Preservation Millage, YDL has a full-time Library Social Worker!",
    "url": "https://annarborwithkids.com/events/library-care-coordination-drop-in-hours-2026-09-11-2026-09-18-2026-09-25-2026-10-02-2026-10-09/",
    "venue": "Ypsilanti District Library - Superior",
@@ -22350,7 +21911,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a552bb0855db4691"
   },
   {
@@ -22396,7 +21957,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "085d49181844cef9"
   },
   {
@@ -22436,7 +21997,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5e24e4a551bc9f39"
   },
   {
@@ -22476,7 +22037,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "186a89b4370f80db"
   },
   {
@@ -22516,7 +22077,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "445189ebdc3b78d1"
   },
   {
@@ -22569,7 +22130,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "547fca1e11ab0510"
   },
   {
@@ -22608,7 +22169,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6878c14cffa862b1"
   },
   {
@@ -22645,7 +22206,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9026a9ca8d4692e4"
   },
   {
@@ -22684,7 +22245,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "258c592bd554b45e"
   },
   {
@@ -22731,7 +22292,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "84d77e13e486ec2e"
   },
   {
@@ -22784,7 +22345,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "15697c8e2782b0a2"
   },
   {
@@ -22836,7 +22397,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2948a696e874312c"
   },
   {
@@ -22889,7 +22450,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "03356e0cbc9a9a90"
   },
   {
@@ -22943,7 +22504,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6a35259e2351b7d0"
   },
   {
@@ -22983,7 +22544,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0f437abbb36650e5"
   },
   {
@@ -23027,7 +22588,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "dcafda0506e01075"
   },
   {
@@ -23081,7 +22642,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "57bcaa9a6f8b10bf"
   },
   {
@@ -23134,7 +22695,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "61d3e6daf2bf571b"
   },
   {
@@ -23181,7 +22742,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "911be563c6650b7a"
   },
   {
@@ -23222,7 +22783,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "71a36173160fdd84"
   },
   {
@@ -23261,7 +22822,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "69c2ce4c26d3ab32"
   },
   {
@@ -23305,7 +22866,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4acb3f83c2c2c8bd"
   },
   {
@@ -23351,7 +22912,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "009691515f12401c"
   },
   {
@@ -23392,7 +22953,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "43317716ea19a1b4"
   },
   {
@@ -23432,7 +22993,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6f92bef5a8b5f20c"
   },
   {
@@ -23473,7 +23034,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f8e559c27219cd48"
   },
   {
@@ -23514,7 +23075,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2358cd3f48cd32fd"
   },
   {
@@ -23553,7 +23114,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b21c5f93fc36e767"
   },
   {
@@ -23594,7 +23155,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cd9a08f2ea1d611f"
   },
   {
@@ -23640,7 +23201,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0d3805cd2e2792e0"
   },
   {
@@ -23680,7 +23241,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d1ee02cc5dee09f1"
   },
   {
@@ -23721,7 +23282,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "afb46a684c48bf84"
   },
   {
@@ -23769,7 +23330,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b0db414a248e419e"
   },
   {
@@ -23819,7 +23380,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b8da1c40fc523bce"
   },
   {
@@ -23859,7 +23420,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7e11d91108fe54cf"
   },
   {
@@ -23898,7 +23459,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "534e0292ad7f6f61"
   },
   {
@@ -23943,7 +23504,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f76d13c7aed7df3e"
   },
   {
@@ -23987,7 +23548,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "aabb4b0d7d74f389"
   },
   {
@@ -24028,7 +23589,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6e5aa016d73610d3"
   },
   {
@@ -24073,7 +23634,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6283b4e6a0fb7e93"
   },
   {
@@ -24113,7 +23674,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9a384335ccbf15f2"
   },
   {
@@ -24152,7 +23713,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "32b9d461b065424f"
   },
   {
@@ -24198,7 +23759,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c45cbd3c6d5c03c6"
   },
   {
@@ -24243,7 +23804,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1a3e8c2fc31d71cb"
   },
   {
@@ -24290,7 +23851,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5c2a0b475f18a348"
   },
   {
@@ -24336,7 +23897,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8d2771cfbbadb2a2"
   },
   {
@@ -24381,7 +23942,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5e0f0b6c15efa65c"
   },
   {
@@ -24424,7 +23985,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "eb126329d637e2ee"
   },
   {
@@ -24468,7 +24029,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e21c5dae1a882e72"
   },
   {
@@ -24514,7 +24075,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e8a52e6e0457f805"
   },
   {
@@ -24555,7 +24116,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2ebb53158454d94e"
   },
   {
@@ -24595,7 +24156,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1a436c3de3fdbf52"
   },
   {
@@ -24635,7 +24196,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e88495596b067d9f"
   },
   {
@@ -24680,7 +24241,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "57bf1b9415fb9f04"
   },
   {
@@ -24726,7 +24287,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2a0ba0a26a264e1d"
   },
   {
@@ -24772,7 +24333,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2647768c69ca6366"
   },
   {
@@ -24817,7 +24378,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3ef96099af0a4f85"
   },
   {
@@ -24856,7 +24417,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d15d3737b6cd5d5f"
   },
   {
@@ -24895,7 +24456,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a686eab24ba333ff"
   },
   {
@@ -24948,7 +24509,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f14929c6cbada81c"
   },
   {
@@ -25002,7 +24563,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "056af894f47807a3"
   },
   {
@@ -25054,7 +24615,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "571aa8d3085c2470"
   },
   {
@@ -25097,7 +24658,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "eacfe798566d8cdf"
   },
   {
@@ -25137,7 +24698,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "63e1c9a996d116b5"
   },
   {
@@ -25181,7 +24742,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "eedaae0e8a4eea2f"
   },
   {
@@ -25221,7 +24782,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a518ca55a11d087e"
   },
   {
@@ -25267,7 +24828,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2e16d2c5a3ce2bd2"
   },
   {
@@ -25313,7 +24874,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f98f813567fdf8b5"
   },
   {
@@ -25359,7 +24920,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b9fb4d2b7153cc0b"
   },
   {
@@ -25404,7 +24965,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5726cfadd915ff51"
   },
   {
@@ -25443,7 +25004,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8c5cdcf262ac60bc"
   },
   {
@@ -25484,7 +25045,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4594a1788ada0102"
   },
   {
@@ -25523,7 +25084,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f49a40bc172988a9"
   },
   {
@@ -25568,7 +25129,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ad5b900a170cc6cc"
   },
   {
@@ -25611,7 +25172,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d9d8b676436c1cc0"
   },
   {
@@ -25657,7 +25218,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8548c7523731dcea"
   },
   {
@@ -25698,7 +25259,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9e4820807babe9bf"
   },
   {
@@ -25744,7 +25305,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "92234db133e6c2a1"
   },
   {
@@ -25784,7 +25345,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e8c52b3c0ea34a92"
   },
   {
@@ -25823,7 +25384,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "170a043cd3806666"
   },
   {
@@ -25869,7 +25430,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9927514db378cdfb"
   },
   {
@@ -25915,7 +25476,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1586eb95c854d85b"
   },
   {
@@ -25954,7 +25515,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e25cfff6ca807f16"
   },
   {
@@ -25993,7 +25554,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "27f33c96e74221a4"
   },
   {
@@ -26037,7 +25598,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a1f3488e6bd8d2c3"
   },
   {
@@ -26077,7 +25638,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "acdfe23fd6b0a62d"
   },
   {
@@ -26118,7 +25679,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c1c2f0f777f20119"
   },
   {
@@ -26129,7 +25690,7 @@
    "end": "2026-10-16T14:00:00-04:00",
    "all_day": false,
    "recurring": true,
-   "repeat_count": 6,
+   "repeat_count": 7,
    "description": "Thanks to funding from the Washtenaw County Mental Health and Public Safety Preservation Millage, YDL has a full-time Library Social Worker!",
    "url": "https://annarborwithkids.com/events/library-care-coordination-drop-in-hours-2026-09-11-2026-09-18-2026-09-25-2026-10-02-2026-10-09-2026-10-16/",
    "venue": "Ypsilanti District Library - Superior",
@@ -26161,7 +25722,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "281c1c7d6f430f12"
   },
   {
@@ -26207,7 +25768,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "512f7bb0ffb0bd8e"
   },
   {
@@ -26247,7 +25808,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2ae414ac398ddafd"
   },
   {
@@ -26300,7 +25861,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7a76ac117061f8e2"
   },
   {
@@ -26339,7 +25900,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "28d335ffd796b0ea"
   },
   {
@@ -26376,7 +25937,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "37e294470d028f99"
   },
   {
@@ -26428,7 +25989,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6aae1c54333de1c5"
   },
   {
@@ -26475,7 +26036,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ef7e52ae419e0ee4"
   },
   {
@@ -26516,7 +26077,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ce0af5f3fab53e3a"
   },
   {
@@ -26569,7 +26130,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d26ca7e790df4ba0"
   },
   {
@@ -26621,7 +26182,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "fc190ba2f3b634c5"
   },
   {
@@ -26674,7 +26235,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ebbb00eaba0b2139"
   },
   {
@@ -26728,7 +26289,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "16feb395c35735b4"
   },
   {
@@ -26768,7 +26329,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ac9724bc632fc82e"
   },
   {
@@ -26812,7 +26373,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "619dc7bbb16239f9"
   },
   {
@@ -26866,7 +26427,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bedffd6e59f5af62"
   },
   {
@@ -26919,7 +26480,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "68791fb15d69ad2e"
   },
   {
@@ -26958,7 +26519,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5dfb70790cc7c0d3"
   },
   {
@@ -27004,7 +26565,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "541518bfc4669009"
   },
   {
@@ -27045,7 +26606,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7a51da222d18338b"
   },
   {
@@ -27085,7 +26646,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "51c210a967db745b"
   },
   {
@@ -27131,7 +26692,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e4d36c6c43a8f6dd"
   },
   {
@@ -27175,7 +26736,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "74aa4d1977986295"
   },
   {
@@ -27215,7 +26776,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f6a240b2df52c72a"
   },
   {
@@ -27266,7 +26827,7 @@
     "Ann Arbor with Kids"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6160c0d4501b38ff"
   },
   {
@@ -27311,7 +26872,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1e53525e7864e143"
   },
   {
@@ -27348,7 +26909,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "76ced046d6693a0f"
   },
   {
@@ -27387,7 +26948,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3b0f25139b4820a7"
   },
   {
@@ -27428,7 +26989,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "63ea52d6df9bf32a"
   },
   {
@@ -27467,7 +27028,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8fc9d745dfb99501"
   },
   {
@@ -27512,7 +27073,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "003fb01fbf8b310e"
   },
   {
@@ -27558,7 +27119,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ff64d233791c2286"
   },
   {
@@ -27595,7 +27156,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c805b7c99e7647a8"
   },
   {
@@ -27636,7 +27197,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cabc8c7a77014492"
   },
   {
@@ -27676,7 +27237,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4bd179c1d656be2e"
   },
   {
@@ -27721,7 +27282,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "db13f7aefea41f7d"
   },
   {
@@ -27768,7 +27329,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3f9783ca2dc3fde3"
   },
   {
@@ -27808,7 +27369,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "eae3682862aa88a8"
   },
   {
@@ -27854,7 +27415,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c8bd9d3c62e7e6c2"
   },
   {
@@ -27895,7 +27456,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1b94c26ab6ba35e3"
   },
   {
@@ -27932,7 +27493,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0600ee787c343fa6"
   },
   {
@@ -27977,7 +27538,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1dbb2203c2b88aa7"
   },
   {
@@ -28020,7 +27581,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0621608a857c6a73"
   },
   {
@@ -28064,7 +27625,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c452a1dd37741be6"
   },
   {
@@ -28110,7 +27671,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3251063465ee27f9"
   },
   {
@@ -28150,7 +27711,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "58f7faad13ac2e80"
   },
   {
@@ -28190,7 +27751,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9672c81057c9c97f"
   },
   {
@@ -28235,7 +27796,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f1378b0a8a67731b"
   },
   {
@@ -28281,7 +27842,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1990e8034ddf54f9"
   },
   {
@@ -28327,7 +27888,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "56803a487256ac79"
   },
   {
@@ -28372,7 +27933,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ba0583b0871058a0"
   },
   {
@@ -28411,7 +27972,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "92a21430498c5e27"
   },
   {
@@ -28450,7 +28011,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bca4de631de400c2"
   },
   {
@@ -28489,7 +28050,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "66f24256b3dd82de"
   },
   {
@@ -28542,7 +28103,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4f7e9aba35eababb"
   },
   {
@@ -28596,7 +28157,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b8c65f7e77573bd7"
   },
   {
@@ -28648,7 +28209,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "08cfff6e27d3121f"
   },
   {
@@ -28691,7 +28252,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f2439b416cbedde1"
   },
   {
@@ -28731,7 +28292,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7b318d86edd0df03"
   },
   {
@@ -28775,7 +28336,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "92bb268bcc4e604f"
   },
   {
@@ -28815,7 +28376,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "60cee5c9c6a1c857"
   },
   {
@@ -28861,7 +28422,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "88e2734352fc55df"
   },
   {
@@ -28907,7 +28468,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b913ded6caf8e714"
   },
   {
@@ -28953,7 +28514,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "21f5beec0d419df4"
   },
   {
@@ -28998,7 +28559,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "45cf60b7cc38a072"
   },
   {
@@ -29040,7 +28601,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d7b17c595321a78f"
   },
   {
@@ -29087,7 +28648,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "497ca6624f3dfdee"
   },
   {
@@ -29132,7 +28693,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "81921ebfc62ca8a5"
   },
   {
@@ -29183,7 +28744,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "61b796434d7543a2"
   },
   {
@@ -29228,7 +28789,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d8f1a7566458e132"
   },
   {
@@ -29271,7 +28832,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0e770e081ffe85d2"
   },
   {
@@ -29317,7 +28878,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c38cdaac402fce61"
   },
   {
@@ -29363,7 +28924,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f78b4a64bb24b63f"
   },
   {
@@ -29403,7 +28964,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "fe27633c7a13ed19"
   },
   {
@@ -29443,7 +29004,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "002acd53e9d87ce9"
   },
   {
@@ -29489,7 +29050,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a0ba5f6236f1199d"
   },
   {
@@ -29528,7 +29089,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5a52ee052ed8fe30"
   },
   {
@@ -29569,7 +29130,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "65dda0ea09a16a7d"
   },
   {
@@ -29606,7 +29167,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "544363cfffdf435f"
   },
   {
@@ -29650,7 +29211,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "fb09de0a88888fa9"
   },
   {
@@ -29690,7 +29251,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2708df818d0be8d5"
   },
   {
@@ -29701,7 +29262,7 @@
    "end": "2026-10-23T14:00:00-04:00",
    "all_day": false,
    "recurring": true,
-   "repeat_count": 6,
+   "repeat_count": 7,
    "description": "Thanks to funding from the Washtenaw County Mental Health and Public Safety Preservation Millage, YDL has a full-time Library Social Worker!",
    "url": "https://annarborwithkids.com/events/library-care-coordination-drop-in-hours-2026-09-11-2026-09-18-2026-09-25-2026-10-02-2026-10-09-2026-10-16-2026-10-23/",
    "venue": "Ypsilanti District Library - Superior",
@@ -29733,7 +29294,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b025b1c2436e92a0"
   },
   {
@@ -29779,7 +29340,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4fd0ef006ceb0312"
   },
   {
@@ -29819,7 +29380,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6ca8e033ee0d7692"
   },
   {
@@ -29872,7 +29433,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "80f84738bf0ec021"
   },
   {
@@ -29911,7 +29472,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ddf667a5016c110d"
   },
   {
@@ -29958,7 +29519,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3ab0eefe2f387e87"
   },
   {
@@ -30011,7 +29572,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "099b0e802b04a9e1"
   },
   {
@@ -30063,7 +29624,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ebfc89a3320231b5"
   },
   {
@@ -30116,7 +29677,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c9782bb1d4fba175"
   },
   {
@@ -30170,7 +29731,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4207f3d4b512e357"
   },
   {
@@ -30210,7 +29771,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "72b96e3b62d4c0e5"
   },
   {
@@ -30257,7 +29818,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "399562db0cce2079"
   },
   {
@@ -30306,7 +29867,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0d9c229eee1f1496"
   },
   {
@@ -30350,7 +29911,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "6177ded1fffa09e0"
   },
   {
@@ -30404,7 +29965,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4ec7a14d3add89ae"
   },
   {
@@ -30457,7 +30018,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c6fc596448d8ca22"
   },
   {
@@ -30497,7 +30058,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "51844d5121131b52"
   },
   {
@@ -30555,7 +30116,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "45f8d1e06a2d7c7e"
   },
   {
@@ -30599,7 +30160,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "5fb75b9f43ce5e34"
   },
   {
@@ -30645,7 +30206,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "40e32d5543e1d13f"
   },
   {
@@ -30686,7 +30247,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c950aac9263542a1"
   },
   {
@@ -30732,7 +30293,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0ef4e38efe533bd0"
   },
   {
@@ -30773,7 +30334,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "60b9121179f9b928"
   },
   {
@@ -30814,7 +30375,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "532a1f653794626c"
   },
   {
@@ -30854,7 +30415,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "59a04d4abf11d672"
   },
   {
@@ -30904,7 +30465,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e13c4f6f78b7a81f"
   },
   {
@@ -30953,7 +30514,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1121ad17187df6da"
   },
   {
@@ -30990,7 +30551,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "fbc3261499f46548"
   },
   {
@@ -31035,7 +30596,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4793376a3f171fb0"
   },
   {
@@ -31086,7 +30647,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9bfe64e3006113b0"
   },
   {
@@ -31130,7 +30691,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "38f70bd319663f90"
   },
   {
@@ -31183,7 +30744,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "175e3a866b13deae"
   },
   {
@@ -31232,7 +30793,7 @@
     "Ann Arbor District Library"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1f3a74174a3894a4"
   },
   {
@@ -31276,7 +30837,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d870691edff9ebc1"
   },
   {
@@ -31320,7 +30881,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0a791d285b134904"
   },
   {
@@ -31361,7 +30922,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9148524d7840c0bf"
   },
   {
@@ -31413,7 +30974,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4e8dcff087bcc4be"
   },
   {
@@ -31458,7 +31019,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0005a405c3fa9b3d"
   },
   {
@@ -31504,7 +31065,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8ed05f83b672e645"
   },
   {
@@ -31544,7 +31105,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2280a59eee16611d"
   },
   {
@@ -31589,7 +31150,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b2c58b09ab1c3df1"
   },
   {
@@ -31636,7 +31197,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3df28f92c452e021"
   },
   {
@@ -31676,7 +31237,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "653f83800d3eedc8"
   },
   {
@@ -31722,7 +31283,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3a8b6a3e04aa3a9d"
   },
   {
@@ -31763,7 +31324,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e622476c52948ab9"
   },
   {
@@ -31802,7 +31363,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "291796de9d210e3a"
   },
   {
@@ -31847,7 +31408,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "dcf5beba076e6526"
   },
   {
@@ -31890,7 +31451,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c11642d9a30df3fa"
   },
   {
@@ -31934,7 +31495,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c038a64306c8efa2"
   },
   {
@@ -31980,7 +31541,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bfedb5d62ae5dc8d"
   },
   {
@@ -32020,7 +31581,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b1f354c1b22cb151"
   },
   {
@@ -32060,7 +31621,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ad4a4b6929f2e16a"
   },
   {
@@ -32105,7 +31666,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a1e45694b9247c4e"
   },
   {
@@ -32151,7 +31712,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b7b172a77dc39aa0"
   },
   {
@@ -32197,7 +31758,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "73b37aab3474f618"
   },
   {
@@ -32242,7 +31803,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bd78ee7c490e77da"
   },
   {
@@ -32279,7 +31840,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0233e3dcf7632655"
   },
   {
@@ -32320,7 +31881,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "fff6bba82b83e61b"
   },
   {
@@ -32373,7 +31934,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cb1b856a32804c1e"
   },
   {
@@ -32427,7 +31988,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "221dd651742b27b5"
   },
   {
@@ -32479,7 +32040,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "edd5ec8dd5046471"
   },
   {
@@ -32522,7 +32083,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bd569354aaefa9aa"
   },
   {
@@ -32566,7 +32127,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "c943776320ba35b3"
   },
   {
@@ -32606,7 +32167,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1058533bd116fc49"
   },
   {
@@ -32646,7 +32207,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f5e9088d17cd2bf3"
   },
   {
@@ -32692,7 +32253,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "fb622c26fcd76836"
   },
   {
@@ -32738,7 +32299,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "19036c7f785189cc"
   },
   {
@@ -32777,7 +32338,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f7f4527ccecfbf77"
   },
   {
@@ -32823,7 +32384,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "04e4850fcf73e8f7"
   },
   {
@@ -32868,7 +32429,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "464fc26ec6f8beac"
   },
   {
@@ -32907,7 +32468,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cc75d7771a59f5ca"
   },
   {
@@ -32946,7 +32507,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "1c9d49317772ff9f"
   },
   {
@@ -32991,7 +32552,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "b14da44c7deb2176"
   },
   {
@@ -33034,7 +32595,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d2f634f0ad9a380d"
   },
   {
@@ -33080,7 +32641,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0c5b988c843704c8"
   },
   {
@@ -33126,7 +32687,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "313efcab31e46fe3"
   },
   {
@@ -33166,7 +32727,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "abac9e65ba9e56f8"
   },
   {
@@ -33212,7 +32773,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f4d61f3b76338edd"
   },
   {
@@ -33251,7 +32812,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cf96064accbbe25b"
   },
   {
@@ -33290,7 +32851,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0bcffe57f92d88a4"
   },
   {
@@ -33329,7 +32890,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "8700763cbac5f2bd"
   },
   {
@@ -33376,7 +32937,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "10a7849614c74663"
   },
   {
@@ -33420,7 +32981,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "85daeb389d13d5b6"
   },
   {
@@ -33460,7 +33021,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "32b5581d405d59f3"
   },
   {
@@ -33499,7 +33060,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9d57fdbba5286cbf"
   },
   {
@@ -33545,7 +33106,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "448f0557d8006199"
   },
   {
@@ -33585,7 +33146,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "f03a5f3766eca1c5"
   },
   {
@@ -33625,7 +33186,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "94d8363b09a2c1c9"
   },
   {
@@ -33666,7 +33227,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3352f6ca76810276"
   },
   {
@@ -33713,7 +33274,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "320ee50495ea67b3"
   },
   {
@@ -33754,7 +33315,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "09c2fe0eba945202"
   },
   {
@@ -33807,7 +33368,7 @@
     "Ann Arbor Parks & Rec"
    ],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "59f4127bcd6fb32b"
   },
   {
@@ -33859,7 +33420,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "789df771b9fdd081"
   },
   {
@@ -33912,7 +33473,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "ce1c9c5937f30507"
   },
   {
@@ -33966,7 +33527,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "47e567e43736ce45"
   },
   {
@@ -34014,7 +33575,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3d53e1932043e2be"
   },
   {
@@ -34058,7 +33619,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "113167dd04c8487f"
   },
   {
@@ -34112,7 +33673,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "031417cbc90a3d69"
   },
   {
@@ -34165,7 +33726,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "4da9fdea982952a5"
   },
   {
@@ -34211,7 +33772,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "bd33a7f1dc2c147a"
   },
   {
@@ -34251,7 +33812,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "12aa934afeab1de6"
   },
   {
@@ -34292,7 +33853,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d8a657962fc1960c"
   },
   {
@@ -34338,7 +33899,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e86b71ec89a628c4"
   },
   {
@@ -34375,7 +33936,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a946b979c1006171"
   },
   {
@@ -34414,7 +33975,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "2b5cb052048788c7"
   },
   {
@@ -34454,7 +34015,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "e5fbaa74fb2c0ee6"
   },
   {
@@ -34495,7 +34056,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "cee0f08245cc5226"
   },
   {
@@ -34534,7 +34095,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7027a646f464e05a"
   },
   {
@@ -34574,7 +34135,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "32f2d1e974ae361b"
   },
   {
@@ -34615,7 +34176,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "d9e78e014aef01f2"
   },
   {
@@ -34656,7 +34217,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3a02545928b07e51"
   },
   {
@@ -34697,7 +34258,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "32faae74136c7cbf"
   },
   {
@@ -34737,7 +34298,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "0594f3352cc7e4cf"
   },
   {
@@ -34777,7 +34338,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7fcc198a55fbe917"
   },
   {
@@ -34816,7 +34377,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7e4bfc32b0959c67"
   },
   {
@@ -34856,7 +34417,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "19c44143a1f307ec"
   },
   {
@@ -34897,7 +34458,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "a53591ec9b65105a"
   },
   {
@@ -34936,7 +34497,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "031a563fdfc5cb78"
   },
   {
@@ -34976,7 +34537,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "3e858a7ec4ff48cc"
   },
   {
@@ -35016,7 +34577,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "7a85547c9af5793e"
   },
   {
@@ -35056,7 +34617,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "433c7c8a8433123a"
   },
   {
@@ -35096,7 +34657,7 @@
    ],
    "also_seen_on": [],
    "image": "",
-   "updated": "2026-09-07T03:56:59+00:00",
+   "updated": "2026-09-07T15:17:34+00:00",
    "id": "9644da9ee72d29d5"
   }
  ]
