@@ -919,9 +919,64 @@
     var when = event.all_day ? "all day" : fmtTime(event.start);
     row.setAttribute("aria-label",
       event.title + ", " + when + (event.venue ? ", " + event.venue : "") +
-      ". Open the full listing.");
-    row.addEventListener("click", function () { jumpToEvent(event); });
+      (options && options.inline ? ". Open the full listing here."
+        : ". Open the full listing."));
+    if (!(options && options.inline)) {
+      row.addEventListener("click", function () { jumpToEvent(event); });
+    }
     return row;
+  }
+
+  /* Day view opens the full card in place. Sending someone to list view threw
+     away the day they had picked, which is the one thing they had told us. */
+  function inlineRow(event, options) {
+    var wrap = document.createElement("div");
+    wrap.className = "cal-inline";
+
+    var opts = { inline: true };
+    if (options && options.hideExactHour) opts.hideExactHour = true;
+    var row = calendarRow(event, opts);
+
+    var panel = document.createElement("div");
+    panel.className = "cal-inline-panel";
+    panel.hidden = true;
+
+    function close() {
+      panel.replaceChildren();
+      panel.hidden = true;
+      row.hidden = false;
+      row.focus();
+    }
+
+    function open() {
+      var node = buildCard(event);
+      var card = node.querySelector(".card");
+      // List view may already hold a card for this event, and two elements
+      // cannot share an id.
+      card.removeAttribute("id");
+      card.classList.add("is-inline");
+      toggleCard(card, event, true);
+
+      // buildCard wires the title to the ordinary collapse, which would leave
+      // a collapsed stub sitting under a row that says the same thing. In here
+      // the title closes the panel instead.
+      var title = card.querySelector(".card-open");
+      var fresh = title.cloneNode(true);
+      title.parentNode.replaceChild(fresh, title);
+      fresh.setAttribute("aria-expanded", "true");
+      fresh.setAttribute("aria-label", "Collapse " + event.title);
+      fresh.addEventListener("click", close);
+
+      panel.replaceChildren(card);
+      panel.hidden = false;
+      row.hidden = true;
+      fresh.focus();
+    }
+
+    row.addEventListener("click", open);
+    wrap.appendChild(row);
+    wrap.appendChild(panel);
+    return wrap;
   }
 
   function jumpToEvent(event) {
@@ -975,7 +1030,7 @@
       var bandHead = document.createElement("h3");
       bandHead.textContent = "All day";
       band.appendChild(bandHead);
-      allDay.forEach(function (e) { band.appendChild(calendarRow(e)); });
+      allDay.forEach(function (e) { band.appendChild(inlineRow(e)); });
       wrap.appendChild(band);
     }
 
@@ -1006,7 +1061,7 @@
         var items = document.createElement("div");
         items.className = "day-items";
         byHour[hour].forEach(function (e) {
-          items.appendChild(calendarRow(e, { hideExactHour: true }));
+          items.appendChild(inlineRow(e, { hideExactHour: true }));
         });
         slot.appendChild(items);
         rail.appendChild(slot);

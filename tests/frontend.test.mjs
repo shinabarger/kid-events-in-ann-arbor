@@ -1450,6 +1450,13 @@ test("a calendar row is announced with its time and place", async () => {
   const window = await load();
   setView(window, "day");
   for (const row of window.document.querySelectorAll(".cal-row")) {
+    // Day view opens in place, week and month jump to the list, and the label
+    // has to say which one is about to happen.
+    assert.match(row.getAttribute("aria-label"), /Open the full listing here\.$/);
+  }
+
+  setView(window, "week");
+  for (const row of window.document.querySelectorAll(".cal-row")) {
     assert.match(row.getAttribute("aria-label"), /Open the full listing\.$/);
   }
 });
@@ -1676,4 +1683,55 @@ test("a hostile query string does not take the page down", async () => {
     js, /hasOwnProperty\.call\(state\.byId/,
     "?event=__proto__ would otherwise hand back Object.prototype, which is truthy"
   );
+});
+
+/* --- day view expands in place ------------------------------------------- */
+
+test("a day view row opens the full card without leaving day view", async () => {
+  const window = await load();
+  setView(window, "day");
+
+  const wrap = window.document.querySelector(".cal-inline");
+  assert.ok(wrap, "day view should be built from inline rows");
+  const row = wrap.querySelector(".cal-row");
+  assert.equal(wrap.querySelector(".cal-inline-panel").hidden, true, "starts closed");
+
+  row.click();
+
+  assert.equal(window.document.querySelector(".view-day, .day-view") !== null, true,
+    "still in day view");
+  const card = wrap.querySelector(".cal-inline-panel .card");
+  assert.ok(card, "no card dropped down");
+  assert.ok(card.classList.contains("is-open"), "the card should open expanded");
+  assert.equal(card.querySelector(".card-more").hidden, false, "details should be showing");
+  assert.equal(row.hidden, true, "the row is replaced by the card, not doubled up");
+  assert.equal(card.id, "", "a duplicate id would break getElementById in list view");
+});
+
+test("clicking the card title in day view collapses it back to the row", async () => {
+  const window = await load();
+  setView(window, "day");
+
+  const wrap = window.document.querySelector(".cal-inline");
+  const row = wrap.querySelector(".cal-row");
+  row.click();
+
+  const title = wrap.querySelector(".cal-inline-panel .card .card-open");
+  assert.match(title.getAttribute("aria-label"), /^Collapse /);
+  title.click();
+
+  assert.equal(wrap.querySelector(".cal-inline-panel").hidden, true, "panel should close");
+  assert.equal(wrap.querySelector(".cal-inline-panel .card"), null, "no collapsed stub left behind");
+  assert.equal(row.hidden, false, "the row should come back");
+});
+
+test("the card in day view carries the same buttons as the list", async () => {
+  const window = await load();
+  setView(window, "day");
+  window.document.querySelector(".cal-inline .cal-row").click();
+
+  const card = window.document.querySelector(".cal-inline-panel .card");
+  assert.ok(card.querySelector(".cal-menu"), "no add to calendar");
+  assert.ok(card.querySelector(".card-copy"), "no copy link");
+  assert.ok(card.querySelector(".card-where"), "no details table");
 });

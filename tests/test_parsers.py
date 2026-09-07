@@ -283,3 +283,76 @@ def test_umich_adult_event_is_not_family_sponsored():
     events = umich.parse_payload(payload)
     mixer = next(e for e in events if "Wine" in e.title)
     assert umich.is_family_sponsored(mixer) is False
+
+
+# --- schema.org dates without a time ---------------------------------------
+
+def test_a_date_with_no_time_is_all_day_not_midnight():
+    """Several calendars put the date in startDate and the time in their own
+    markup. Stamping midnight on those published a 6:30pm author talk as 12am.
+    """
+    from scraper.sources.generic import event_from_jsonld
+
+    site = {"key": "destination_a2", "name": "Destination Ann Arbor"}
+    node = {"name": "Martin Sorge: Great Bakes", "startDate": "2026-09-08",
+            "endDate": "2026-09-08"}
+
+    event = event_from_jsonld(node, site, "https://example.org/e/1", "")
+    assert event.all_day is True, "no time anywhere, so say all day"
+    assert event.end is None, "an end equal to the start is worse than no end"
+
+
+def test_a_time_on_the_page_beats_a_bare_date_in_the_feed():
+    from scraper.sources.generic import event_from_jsonld
+
+    site = {"key": "destination_a2", "name": "Destination Ann Arbor"}
+    node = {"name": "Martin Sorge: Great Bakes", "startDate": "2026-09-08"}
+
+    event = event_from_jsonld(node, site, "https://example.org/e/1",
+                              "<div><span>Time:</span> 6:30 PM</div>")
+    assert event.start == "2026-09-08T18:30:00-04:00"
+    assert event.all_day is False
+
+
+def test_a_real_datetime_in_the_feed_is_left_alone():
+    from scraper.sources.generic import event_from_jsonld
+
+    site = {"key": "destination_a2", "name": "Destination Ann Arbor"}
+    node = {"name": "Storytime", "startDate": "2026-09-08T10:30:00-04:00",
+            "endDate": "2026-09-08T11:15:00-04:00"}
+
+    event = event_from_jsonld(node, site, "https://example.org/e/1",
+                              "<p>Time: 6:30 PM</p>")
+    assert event.start == "2026-09-08T10:30:00-04:00", "the page must not override the feed"
+    assert event.end == "2026-09-08T11:15:00-04:00"
+    assert event.all_day is False
+
+
+def test_time_recovery_reads_a_range_and_ignores_loose_times():
+    from scraper.sources.generic import recover_time
+
+    assert recover_time("<p>Time: 6:30 PM - 8:00 PM</p>", "2026-09-08") == (
+        "2026-09-08T18:30:00-04:00", "2026-09-08T20:00:00-04:00")
+
+    # January, so the offset has to follow.
+    assert recover_time("Starts at 10 am", "2026-01-14")[0] == "2026-01-14T10:00:00-05:00"
+
+    # A time buried in a description is far more likely to belong to something
+    # else than to be this event's start.
+    assert recover_time("<p>Doors 7 pm. Bring a book.</p>", "2026-09-08") == ("", "")
+    assert recover_time("", "2026-09-08") == ("", "")
+
+
+def test_nothing_published_starts_at_midnight_unless_it_says_all_day():
+    """The guard that would have caught this in the first place."""
+    import json
+    import os
+
+    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    with open(os.path.join(root, "data", "events.json"), "r", encoding="utf-8") as fh:
+        payload = json.load(fh)
+
+    bad = [e for e in payload["events"]
+           if "T00:00:00" in (e.get("start") or "") and not e.get("all_day")]
+    assert not bad, ("a timed event at midnight is almost always a date with the "
+                     "time lost: " + ", ".join(f"{e['source_name']}/{e['title']}" for e in bad[:5]))

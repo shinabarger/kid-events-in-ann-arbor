@@ -1261,6 +1261,12 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
   min-height: 44px;
 }
 .cal-row + .cal-row { margin-top: 6px; }
+
+/* Day view expands a row into the full card where the row was standing. */
+.cal-inline + .cal-inline { margin-top: 6px; }
+.cal-inline-panel { margin: 0; }
+.card.is-inline { margin: 0; }
+.card.is-inline .card-open { cursor: pointer; }
 .cal-row:hover { background: var(--surface-2); }
 .cal-row:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
 .cal-row.is-allday { border-left-color: var(--brand-blue); background: var(--brand-blue-soft); }
@@ -1430,7 +1436,9 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
 }
 .prose ul { margin: 0 0 1rem; padding-left: 1.15rem; }
 .prose li { margin: .4rem 0; line-height: 1.6; }
-.prose a { color: var(--brand-blue-dark); }
+/* Body links only. Without the :not, this beats .btn-primary on specificity
+   and paints the button's label blue on a green background. */
+.prose a:not(.btn) { color: var(--brand-blue-dark); }
 .prose-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 2rem; }
 
 [data-theme="dark"] .prose h1,

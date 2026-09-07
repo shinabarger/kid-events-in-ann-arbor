@@ -133,10 +133,71 @@ def iter_jsonld_events(html: str):
                     yield node
 
 
-def event_from_jsonld(node: dict, site: dict, fallback_url: str = "") -> Event | None:
-    start = _normalize_dt(_text(node.get("startDate")))
+# schema.org lets startDate be a bare date, and several calendars use that even
+# for an event with a perfectly good start time, keeping the time in their own
+# display markup instead. Stamping midnight on those was publishing a 6:30pm
+# author talk as a 12am event.
+_DATE_ONLY = re.compile(r"\d{4}-\d{2}-\d{2}$")
+
+# "Time: 6:30 PM", "Time: 6:30 PM - 8:00 PM", "Starts at 10 am".
+_LABELLED_TIME = re.compile(
+    r"(?:\btimes?\b|\bstarts?\s+at\b)\s*[:\-]?\s*"
+    r"(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m\.?"
+    r"(?:\s*(?:-|–|—|to)\s*(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m\.?)?",
+    re.I)
+
+
+def _clock24(hour: str, minute: str, half: str) -> str:
+    h = int(hour) % 12
+    if half.lower() == "p":
+        h += 12
+    return "%02d:%02d:00" % (h, int(minute or 0))
+
+
+def recover_time(html: str, date: str) -> tuple:
+    """Pull a start (and maybe end) time off the detail page.
+
+    Only a labelled time counts. A bare "7 pm" somewhere in a description is
+    far more likely to be a different event than this one's start.
+    Returns (start_iso, end_iso) and either may be "".
+    """
+    if not html or not date:
+        return "", ""
+    text = re.sub(r"<[^>]+>", " ", html)
+    text = re.sub(r"\s+", " ", htmllib.unescape(text))
+    match = _LABELLED_TIME.search(text)
+    if not match:
+        return "", ""
+
+    offset = "-04:00" if 3 <= int(date[5:7]) <= 11 else "-05:00"
+    start = f"{date}T{_clock24(match.group(1), match.group(2), match.group(3))}{offset}"
+    end = ""
+    if match.group(4):
+        end = f"{date}T{_clock24(match.group(4), match.group(5), match.group(6))}{offset}"
+        if end <= start:          # ran past midnight, or the page is confused
+            end = ""
+    return start, end
+
+
+def event_from_jsonld(node: dict, site: dict, fallback_url: str = "",
+                      html: str = "") -> Event | None:
+    raw_start = _text(node.get("startDate")).strip()
+    start = _normalize_dt(raw_start)
     if not start:
         return None
+
+    end = _normalize_dt(_text(node.get("endDate"))) or None
+    all_day = False
+    if _DATE_ONLY.match(raw_start):
+        # No time in the feed. Try the page, and if it has none either, say so
+        # rather than claiming midnight.
+        found, found_end = recover_time(html, raw_start)
+        if found:
+            start = found
+            end = found_end or None
+        else:
+            all_day = True
+            end = None
 
     venue, address, city, lat, lon = _location(node)
     cost, price = _offers(node)
@@ -151,7 +212,8 @@ def event_from_jsonld(node: dict, site: dict, fallback_url: str = "") -> Event |
     return Event(
         title=_text(node.get("name")).strip(),
         start=start,
-        end=_normalize_dt(_text(node.get("endDate"))) or None,
+        end=end,
+        all_day=all_day,
         description=re.sub(r"\s+", " ", _text(node.get("description")))[:1500],
         url=_text(node.get("url")) or fallback_url,
         venue=venue,
@@ -189,7 +251,7 @@ def harvest_jsonld(site: dict) -> list:
         # Some calendars put the whole list in JSON-LD on the listing page.
         # Take those directly and skip the detail fetch for them.
         for node in iter_jsonld_events(html):
-            event = event_from_jsonld(node, site, listing)
+            event = event_from_jsonld(node, site, listing, html)
             if event:
                 events.append(event)
                 links.discard(event.url)
@@ -200,7 +262,7 @@ def harvest_jsonld(site: dict) -> list:
         except http.FetchError:
             continue
         for node in iter_jsonld_events(html):
-            event = event_from_jsonld(node, site, url)
+            event = event_from_jsonld(node, site, url, html)
             if event:
                 events.append(event)
     return events
@@ -296,7 +358,7 @@ def harvest_rss(site: dict) -> list:
         except http.FetchError:
             continue
         for node in iter_jsonld_events(html):
-            event = event_from_jsonld(node, site, url)
+            event = event_from_jsonld(node, site, url, html)
             if event:
                 events.append(event)
     return events
