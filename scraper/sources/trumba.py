@@ -1,4 +1,4 @@
-"""Trumba calendars, which the City of Ann Arbor uses for Parks & Rec.
+r"""Trumba calendars, which the City of Ann Arbor uses for Parks & Rec.
 
 The city links people to the RSS version, but the RSS buries the date in a
 sentence of prose ("Saturday, September 5, 2026, 7am - 3pm") and gives you

@@ -47,11 +47,6 @@ def mixed_sources() -> set:
     return {site["key"] for site in load_sites() if site.get("audience") == "mixed"}
 
 
-def collect(only: str | None = None) -> tuple:
-    """Returns (events, report). The report is what the site shows as status."""
-    events = []
-    report = []
-
 # The footer shows this text in a tooltip on the public site, so it must not
 # carry anything about the machine that produced it. The full traceback still
 # goes to stderr, where only the Actions log sees it.
@@ -68,6 +63,11 @@ def scrub_error(exc: Exception) -> str:
     text = _PATH_RE.sub(lambda m: m.group(0).rsplit("/", 1)[-1].rsplit("\\", 1)[-1], text)
     return " ".join(text.split())[:200]
 
+
+def collect(only: str | None = None) -> tuple:
+    """Returns (events, report). The report is what the site shows as status."""
+    events = []
+    report = []
 
     def run(key, name, fn):
         if only and only != key:

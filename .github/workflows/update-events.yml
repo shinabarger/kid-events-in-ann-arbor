@@ -39,7 +39,12 @@ jobs:
           cache: pip
 
       - name: Install
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt -r requirements-dev.txt
+
+      # Forty minutes of scraping is a slow way to find out that a module does
+      # not import. This is the same suite tests.yml runs, and it takes seconds.
+      - name: Check the pipeline still holds together
+        run: python -m pytest -q
 
       - name: Restore the fetch cache
         uses: actions/cache@v4
