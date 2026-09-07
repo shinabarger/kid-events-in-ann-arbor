@@ -42,6 +42,12 @@ def build():
                 with open(path, "rb") as fh:
                     kept[path] = fh.read()
 
+    # The sample build rewrites this too, with today's date.
+    sitemap = os.path.join(ROOT, "sitemap.xml")
+    if os.path.exists(sitemap):
+        with open(sitemap, "rb") as fh:
+            kept[sitemap] = fh.read()
+
     subprocess.run(
         [sys.executable, os.path.join(ROOT, "scripts", "build_sample.py")],
         cwd=ROOT, check=True, capture_output=True,

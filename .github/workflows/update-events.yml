@@ -81,12 +81,55 @@ jobs:
 
       - name: Commit
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data feeds sitemap.xml
-          if git diff --staged --quiet; then
-            echo "Nothing changed."
-          else
+
+          stage_and_commit() {
+            git add data feeds sitemap.xml
+            if git diff --staged --quiet; then
+              echo "Nothing changed."
+              return 1
+            fi
             git commit -m "Update events for $(date -u +%Y-%m-%d)"
-            git push
+            return 0
+          }
+
+          if ! stage_and_commit; then
+            exit 0
           fi
+
+          # A push from a laptop while this job was scraping leaves the runner
+          # behind, and the push is rejected after four minutes of work. These
+          # files are generated, so there is nothing to merge: put the freshly
+          # scraped output on top of whatever the remote has now and commit
+          # again. No rebase, so no conflict is possible.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+
+            echo "Push rejected. Rebuilding on top of the remote and retrying."
+            keep="$(mktemp -d)"
+            cp -a data "$keep/data"
+            cp -a feeds "$keep/feeds"
+            cp -a sitemap.xml "$keep/sitemap.xml"
+
+            git fetch origin main
+            git reset --hard origin/main
+
+            rm -rf data feeds sitemap.xml
+            cp -a "$keep/data" data
+            cp -a "$keep/feeds" feeds
+            cp -a "$keep/sitemap.xml" sitemap.xml
+            rm -rf "$keep"
+
+            if ! stage_and_commit; then
+              echo "The remote already has this morning's data."
+              exit 0
+            fi
+          done
+
+          echo "Still could not push after three tries."
+          exit 1
