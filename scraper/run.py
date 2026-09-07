@@ -217,6 +217,28 @@ def normalize(events: list) -> list:
 RECURRING_THRESHOLD = 5
 
 
+def flag_midnight(events: list) -> tuple:
+    """Nothing for a three year old starts at midnight.
+
+    A start of exactly 00:00:00 with no end is a source that published a date
+    and kept the time somewhere the adapter did not look. Whichever adapter it
+    came from, "All day" is a far better answer than a confident 12am, so the
+    last word on it lives here rather than in each parser.
+    """
+    touched = []
+    for event in events:
+        if event.all_day or not event.start:
+            continue
+        if not event.start[11:19] == "00:00:00":
+            continue
+        if event.end and event.end != event.start:
+            continue          # a real overnight thing, leave it alone
+        event.all_day = True
+        event.end = None
+        touched.append(event)
+    return events, touched
+
+
 def mark_recurring(events: list) -> list:
     """Flag the listings that repeat, so the site can offer to hide them.
 
@@ -352,6 +374,12 @@ def main() -> int:
 
     events = courtesy.apply(events)
     print(f"After the opt-out list and excerpt trim: {len(events)}", file=sys.stderr)
+
+    events, midnight = flag_midnight(events)
+    if midnight:
+        print(f"Midnight starts turned into all day: {len(midnight)}", file=sys.stderr)
+        for event in midnight[:8]:
+            print(f"    {event.source}: {event.title[:56]}", file=sys.stderr)
 
     events = mark_recurring(events)
     events = drop_listing_links(events)

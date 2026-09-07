@@ -343,16 +343,26 @@ def test_time_recovery_reads_a_range_and_ignores_loose_times():
     assert recover_time("", "2026-09-08") == ("", "")
 
 
-def test_nothing_published_starts_at_midnight_unless_it_says_all_day():
-    """The guard that would have caught this in the first place."""
-    import json
-    import os
+def test_a_midnight_start_becomes_all_day_whichever_adapter_it_came_from():
+    """The backstop. Ann Arbor with Kids had this too, not just the JSON-LD
+    parser, so the last word on it sits at the end of the pipeline where it
+    catches every source at once.
+    """
+    from scraper.models import Event
+    from scraper.run import flag_midnight
 
-    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    with open(os.path.join(root, "data", "events.json"), "r", encoding="utf-8") as fh:
-        payload = json.load(fh)
+    dateless = Event(title="Fall Car Show", start="2026-09-08T00:00:00-04:00",
+                     source="aawk", venue="Somewhere")
+    timed = Event(title="Storytime", start="2026-09-08T10:30:00-04:00",
+                  end="2026-09-08T11:15:00-04:00", source="aadl", venue="Library")
+    overnight = Event(title="Midnight Movie", start="2026-09-08T00:00:00-04:00",
+                      end="2026-09-08T02:00:00-04:00", source="x", venue="Theater")
+    already = Event(title="Festival", start="2026-09-08T00:00:00-04:00",
+                    all_day=True, source="x", venue="Park")
 
-    bad = [e for e in payload["events"]
-           if "T00:00:00" in (e.get("start") or "") and not e.get("all_day")]
-    assert not bad, ("a timed event at midnight is almost always a date with the "
-                     "time lost: " + ", ".join(f"{e['source_name']}/{e['title']}" for e in bad[:5]))
+    _, touched = flag_midnight([dateless, timed, overnight, already])
+
+    assert dateless.all_day is True and dateless.end is None
+    assert timed.all_day is False, "a real time must be left alone"
+    assert overnight.all_day is False, "a genuine overnight event keeps its hours"
+    assert touched == [dateless], "only the one that needed it"

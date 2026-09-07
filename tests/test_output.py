@@ -24,10 +24,36 @@ REQUIRED_FIELDS = [
 
 @pytest.fixture(scope="module", autouse=True)
 def build():
+    """Build the sample, then put back whatever was there before.
+
+    build_sample.py writes straight into data/ and feeds/, which on a working
+    copy is the real scraped data. Running the tests used to leave 90 sample
+    events sitting where 771 real ones had been, and a git add . after that
+    would push the sample live, banner and all.
+    """
+    kept = {}
+    for folder, suffix in (("data", ".json"), ("feeds", ".ics")):
+        base = os.path.join(ROOT, folder)
+        if not os.path.isdir(base):
+            continue
+        for name in os.listdir(base):
+            if name.endswith(suffix):
+                path = os.path.join(base, name)
+                with open(path, "rb") as fh:
+                    kept[path] = fh.read()
+
     subprocess.run(
         [sys.executable, os.path.join(ROOT, "scripts", "build_sample.py")],
         cwd=ROOT, check=True, capture_output=True,
     )
+
+    yield
+
+    # Written in place rather than deleted and replaced, so this still works
+    # where the checkout does not allow unlinking.
+    for path, body in kept.items():
+        with open(path, "wb") as fh:
+            fh.write(body)
 
 
 @pytest.fixture(scope="module")
@@ -329,3 +355,17 @@ def test_the_payload_says_when_it_was_made_and_whether_it_is_real(payload):
     datetime.fromisoformat(payload["generated"])
     if payload.get("sample"):
         assert payload.get("snapshot_date"), "a sample has to say when it was captured"
+
+
+def test_a_real_run_says_it_is_not_a_sample(payload):
+    """The notice keys off this. Leaving it absent meant the page had to infer
+    it, and a cached copy of the old sample file kept the warning on screen
+    after a perfectly good scrape."""
+    from scraper.run import build_payload
+
+    real = build_payload([], [])
+    assert real["sample"] is False, "a live run must say so explicitly"
+    assert "generated" in real
+
+    # And the sample build still flags itself.
+    assert payload.get("sample") is True
