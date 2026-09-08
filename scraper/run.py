@@ -317,6 +317,18 @@ def drop_listing_links(events: list, keep: set | None = None) -> list:
 
 def build_payload(events: list, report: list) -> dict:
     rows = [e.to_dict() for e in events]
+
+    # Two different numbers, and the gap between them is the interesting part.
+    # "count" is what the source handed over. "kept" is what survived dedupe,
+    # the kid filter, the venue gate and the horizon. A source with a healthy
+    # count and a kept of nought is not broken, it is being out-ranked by a
+    # copy of the same event somewhere else.
+    published = {}
+    for row in rows:
+        key = row.get("source")
+        published[key] = published.get(key, 0) + 1
+    report = [dict(entry, kept=published.get(entry["key"], 0)) for entry in report]
+
     return {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         # Always present, so the page never has to guess from a missing key.

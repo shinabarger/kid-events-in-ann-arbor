@@ -207,3 +207,25 @@ def test_the_site_is_served_from_the_domain_root():
                 "github.com/shinabarger/kid-events-in-ann-arbor/", ""):
             bad.append(name)
     assert not bad, f"these still use the repo subpath: {bad}"
+
+
+def test_the_about_page_lists_the_sources():
+    """It is the only place a broken source is visible now that the footer
+    only shows the ones that contributed."""
+    with open(os.path.join(ROOT, "about.html"), "r", encoding="utf-8") as fh:
+        html = fh.read()
+    assert 'id="source-table"' in html, "no table for the source list to fill"
+    assert 'src="assets/sources.js"' in html, "nothing loads it"
+
+    js_path = os.path.join(ROOT, "assets", "sources.js")
+    assert os.path.exists(js_path)
+    with open(js_path, "r", encoding="utf-8") as fh:
+        js = fh.read()
+
+    # Same cache dodge the calendar uses, or the table quietly shows yesterday.
+    assert 'cache: "no-cache"' in js
+    assert "?d=" in js
+    # Both numbers, and the three states told apart.
+    assert "kept" in js and "count" in js
+    assert "the fetch itself failed" in js
+    assert "already covered elsewhere" in js

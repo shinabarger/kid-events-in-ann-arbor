@@ -171,7 +171,7 @@ def main() -> int:
         "zones": [{"key": k, "label": v} for k, v in ZONE_LABELS.items()],
         "sources": [
             {"key": key, "name": display_names.get(key) or SOURCE_NAMES.get(key, key),
-             "count": count,
+             "count": count, "kept": count,
              "ok": True, "error": "", "seconds": 0}
             for key, count in sorted(by_source.items(), key=lambda kv: -kv[1])
         ],

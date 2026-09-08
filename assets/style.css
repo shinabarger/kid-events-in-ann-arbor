@@ -1624,3 +1624,45 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
 .botcheck { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 
 .h-captcha { min-height: 78px; }
+
+
+/* ---------- the source table on the about page -------------------------- */
+
+.source-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0 2rem;
+  font-size: .82rem;
+}
+.source-table caption {
+  caption-side: top;
+  text-align: left;
+  color: var(--text-soft);
+  font-size: .78rem;
+  padding-bottom: 8px;
+}
+.source-table th,
+.source-table td {
+  text-align: left;
+  padding: 6px 10px 6px 0;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+.source-table th {
+  font-size: .7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: var(--text-soft);
+  white-space: nowrap;
+}
+.source-table .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.source-table .note { color: var(--text-soft); font-size: .76rem; }
+/* Deliberately quiet. This table is for me, not a warning for visitors. */
+.source-table .needs-a-look td:first-child { font-weight: 700; }
+
+@media (max-width: 560px) {
+  .source-table { font-size: .78rem; }
+  .source-table th:last-child,
+  .source-table td.note { display: none; }
+}

@@ -375,3 +375,48 @@ def test_a_real_run_says_it_is_not_a_sample(payload):
 
     # And the sample build still flags itself.
     assert payload.get("sample") is True
+
+
+def test_each_source_reports_what_it_found_and_what_survived(payload):
+    """Two numbers, because they answer different questions.
+
+    A source with a healthy "count" and a "kept" of nought is not broken, it
+    is losing every event to a duplicate somewhere else. Without both numbers
+    that is indistinguishable from a dead scraper, which is the confusion that
+    put this here.
+    """
+    for source in payload["sources"]:
+        assert "count" in source, f"{source['name']} has no found count"
+        assert "kept" in source, f"{source['name']} has no published count"
+        assert source["kept"] <= source["count"], (
+            f"{source['name']} published more than it found, which cannot happen")
+
+
+def test_the_kept_counts_add_up_to_the_calendar():
+    """Every published event belongs to exactly one source, so the kept counts
+    are a partition of the calendar, not an overlapping tally."""
+    from scraper.models import Event
+    from scraper.run import build_payload
+
+    events = [
+        Event(title="A", start="2026-09-09T10:00:00-04:00", source="aadl", venue="V"),
+        Event(title="B", start="2026-09-09T11:00:00-04:00", source="aadl", venue="V"),
+        Event(title="C", start="2026-09-09T12:00:00-04:00", source="aawk", venue="V"),
+    ]
+    report = [
+        {"key": "aadl", "name": "AADL", "count": 9, "ok": True, "error": "", "seconds": 0},
+        {"key": "aawk", "name": "AAWK", "count": 4, "ok": True, "error": "", "seconds": 0},
+        {"key": "gone", "name": "Gone", "count": 7, "ok": True, "error": "", "seconds": 0},
+    ]
+    built = build_payload(events, report)
+    kept = {s["key"]: s["kept"] for s in built["sources"]}
+
+    assert kept == {"aadl": 2, "aawk": 1, "gone": 0}
+    assert sum(kept.values()) == built["count"]
+
+
+def test_a_source_that_fetched_nothing_is_not_confused_with_one_that_failed(payload):
+    """The about page tells these apart, so the data has to as well."""
+    for source in payload["sources"]:
+        if not source["ok"]:
+            assert source["count"] == 0, "a failed fetch cannot have found anything"
