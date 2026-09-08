@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:cafcb79d727e4db7@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260909T110000Z
 DTEND:20260909T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -27,9 +27,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-05-2026-09-09/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=cafcb79d727e4db7\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-05-2026-09-09/\nFound on: https://kideventsinanna
+ rbor.com/?event=cafcb79d727e4db7\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -39,7 +39,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:1b5b560a20e09c98@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260909T130000Z
 DTEND:20260909T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -57,9 +57,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-04-29-2026-05-06
  -2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-0
  6-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-2-02-2026-09-09/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 1b5b560a20e09c98\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=1b5b560a20e09c98\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-04-29-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06
  -10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-202
@@ -68,7 +67,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:ccbf4a43972696f8@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260909T133000Z
 DTEND:20260909T150000Z
 SUMMARY:Summer Art Class with The Artful Acre
@@ -83,9 +82,8 @@ DESCRIPTION:Run by a former elementary teacher\, toddler mom\, and artist\
  er\nCost: $18\nSignup: Registration required\, book before you go\nOutdoo
  rs\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: http
  s://annarborwithkids.com/events/summer-art-class-with-the-artful-acre-202
- 6-09-09/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor
- /?event=ccbf4a43972696f8\n\nDouble check the time with the organizer befo
- re you go.
+ 6-09-09/\nFound on: https://kideventsinannarbor.com/?event=ccbf4a43972696
+ f8\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/summer-art-class-with-the-artful-a
  cre-2026-09-09/
 CATEGORIES:Advance Registration\,Crafts\,Nature\,Outdoor\,Preschoolers\,Re
@@ -93,7 +91,7 @@ CATEGORIES:Advance Registration\,Crafts\,Nature\,Outdoor\,Preschoolers\,Re
 END:VEVENT
 BEGIN:VEVENT
 UID:f88932bca65da2d7@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260909T140000Z
 DTEND:20260909T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -110,9 +108,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2026 season runs May-October. The
  y: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/chel
  sea-farmers-market-2-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-
  03-2026-06-10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026
- -07-22-2026-07-29-2026-08-05-2026-08-02-2026-09-09/\nFound on: https://sh
- inabarger.github.io/kid-events-in-ann-arbor/?event=f88932bca65da2d7\n\nDo
- uble check the time with the organizer before you go.
+ -07-22-2026-07-29-2026-08-05-2026-08-02-2026-09-09/\nFound on: https://ki
+ deventsinannarbor.com/?event=f88932bca65da2d7\n\nDouble check the time wi
+ th the organizer before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2026-05-0
  6-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-
  06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2
@@ -122,7 +120,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:397862086454c2cc@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260909T143000Z
 DTEND:20260909T153000Z
 SUMMARY:Nature Play
@@ -137,15 +135,15 @@ DESCRIPTION:Join Ann Arbor Parks for a self-guided exploration of nature t
  ed States\nAges: Babies\, Preschoolers\, Toddler\nCost: Free\nSignup: Reg
  istration required\, book before you go\nOutdoors\, dress for the weather
  \nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/e
- vents/nature-play-2-2026-09-09/\nFound on: https://shinabarger.github.io/
- kid-events-in-ann-arbor/?event=397862086454c2cc\n\nDouble check the time 
- with the organizer before you go.
+ vents/nature-play-2-2026-09-09/\nFound on: https://kideventsinannarbor.co
+ m/?event=397862086454c2cc\n\nDouble check the time with the organizer bef
+ ore you go.
 URL:https://annarborwithkids.com/events/nature-play-2-2026-09-09/
 CATEGORIES:Advance Registration\,Babies\,Free\,Nature\,Outdoor\,Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:7c9f5782d1c11510@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260909T210000Z
 DTEND:20260909T223000Z
 SUMMARY:Wonder Walk: Sun-Kissed September
@@ -162,8 +160,8 @@ DESCRIPTION:Late summer is bittersweet\; days are a bit shorter\, but yell
  st: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the we
  ather\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.
  com/events/wonder-walk-spring-equinox-time-for-change/\nFound on: https:/
- /shinabarger.github.io/kid-events-in-ann-arbor/?event=7c9f5782d1c11510\n\
- nDouble check the time with the organizer before you go.
+ /kideventsinannarbor.com/?event=7c9f5782d1c11510\n\nDouble check the time
+  with the organizer before you go.
 URL:https://annarborwithkids.com/events/wonder-walk-spring-equinox-time-fo
  r-change/
 CATEGORIES:Elementary\,Free\,HighSchoolers\,Hikes/Walks\,MiddleSchoolers\,
@@ -171,7 +169,7 @@ CATEGORIES:Elementary\,Free\,HighSchoolers\,Hikes/Walks\,MiddleSchoolers\,
 END:VEVENT
 BEGIN:VEVENT
 UID:873604c7b3209526@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:Practical Magic - Union Rec Movie in the Shed
@@ -184,16 +182,16 @@ DESCRIPTION:Spooky season is kicking off in the Sheds at Union Rec! Every
  n\, 48104\, United States\nAges: High Schoolers\, MiddleSchoolers\nCost: 
  Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann Arbor with
   Kids\nDetails: https://annarborwithkids.com/events/practical-magic-union
- -rec-movie-in-the-shed/\nFound on: https://shinabarger.github.io/kid-even
- ts-in-ann-arbor/?event=873604c7b3209526\n\nDouble check the time with the
-  organizer before you go.
+ -rec-movie-in-the-shed/\nFound on: https://kideventsinannarbor.com/?event
+ =873604c7b3209526\n\nDouble check the time with the organizer before you 
+ go.
 URL:https://annarborwithkids.com/events/practical-magic-union-rec-movie-in
  -the-shed/
 CATEGORIES:Food\,Halloween\,High Schoolers\,MiddleSchoolers\,Movies
 END:VEVENT
 BEGIN:VEVENT
 UID:3071ee2a70e32883@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260910T180000Z
 DTEND:20260910T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -211,15 +209,14 @@ DESCRIPTION:Support your local farmer\, food producer\, and maker by shopp
  rs\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop 
  in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann A
  rbor with Kids\nDetails: https://annarborwithkids.com/events/farmers-mark
- et-2-2026-09-10/\nFound on: https://shinabarger.github.io/kid-events-in-a
- nn-arbor/?event=3071ee2a70e32883\n\nDouble check the time with the organi
- zer before you go.
+ et-2-2026-09-10/\nFound on: https://kideventsinannarbor.com/?event=3071ee
+ 2a70e32883\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/farmers-market-2-2026-09-10/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:423fdd80c729f885@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260910T190000Z
 DTEND:20260910T230000Z
 SUMMARY:Westside Farmers Market
@@ -236,9 +233,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Westsi
  up needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Ki
  ds\nDetails: https://annarborwithkids.com/events/westside-farmers-market-
  2026-07-09-2026-07-16-2026-07-23-2026-07-30-2026-08-06-2026-08-13-2026-08
- -20-2026-08-27-2026-09-03-2026-09-10/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=423fdd80c729f885\n\nDouble check the
-  time with the organizer before you go.
+ -20-2026-08-27-2026-09-03-2026-09-10/\nFound on: https://kideventsinannar
+ bor.com/?event=423fdd80c729f885\n\nDouble check the time with the organiz
+ er before you go.
 URL:https://annarborwithkids.com/events/westside-farmers-market-2026-07-09
  -2026-07-16-2026-07-23-2026-07-30-2026-08-06-2026-08-13-2026-08-20-2026-0
  8-27-2026-09-03-2026-09-10/
@@ -246,7 +243,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:c0880773c087b501@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260911T150000Z
 DTEND:20260911T230000Z
 SUMMARY:Foodie Fridays
@@ -262,9 +259,9 @@ DESCRIPTION:Enjoy local food truck favorites at County Farm Park’s Platt e
  etails: https://annarborwithkids.com/events/foodie-fridays-2026-05-15-202
  6-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03
  -2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-0
- 8-21-2026-0-04-2026-09-11/\nFound on: https://shinabarger.github.io/kid-e
- vents-in-ann-arbor/?event=c0880773c087b501\n\nDouble check the time with 
- the organizer before you go.
+ 8-21-2026-0-04-2026-09-11/\nFound on: https://kideventsinannarbor.com/?ev
+ ent=c0880773c087b501\n\nDouble check the time with the organizer before y
+ ou go.
 URL:https://annarborwithkids.com/events/foodie-fridays-2026-05-15-2026-05-
  22-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026
  -07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-
@@ -274,7 +271,7 @@ CATEGORIES:Elementary\,Food\,High Schoolers\,MiddleSchoolers\,Outdoor\,Pre
 END:VEVENT
 BEGIN:VEVENT
 UID:5392d86655a3588a@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260911T190000Z
 DTEND:20260911T200000Z
 SUMMARY:Chow Time at the Farm
@@ -290,16 +287,16 @@ DESCRIPTION:Kids can help farm staff feed the animals - pigs\, goats\, cow
  Schoolers\, Preschoolers\, Toddler\nCost: Not listed\nSignup: Registratio
  n required\, book before you go\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/ch
- ow-time-at-the-farm-12/\nFound on: https://shinabarger.github.io/kid-even
- ts-in-ann-arbor/?event=5392d86655a3588a\n\nDouble check the time with the
-  organizer before you go.
+ ow-time-at-the-farm-12/\nFound on: https://kideventsinannarbor.com/?event
+ =5392d86655a3588a\n\nDouble check the time with the organizer before you 
+ go.
 URL:https://annarborwithkids.com/events/chow-time-at-the-farm-12/
 CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
  le Schoolers\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:c14922bad733dc70@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260911T190000Z
 DTEND:20260911T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -316,9 +313,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dixbor
  : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/dixbo
  ro-farmers-market-2-2026-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-1
  9-2026-06-26-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-
- 08-07-2026-08-14-2026-08-21-2026-08-04-2026-09-11/\nFound on: https://shi
- nabarger.github.io/kid-events-in-ann-arbor/?event=c14922bad733dc70\n\nDou
- ble check the time with the organizer before you go.
+ 08-07-2026-08-14-2026-08-21-2026-08-04-2026-09-11/\nFound on: https://kid
+ eventsinannarbor.com/?event=c14922bad733dc70\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-05-2
  2-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026-
  07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2
@@ -327,7 +324,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:5bfccdae9ccb7084@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260911T213000Z
 DTEND:20260912T000000Z
 SUMMARY:Live from Tolan Square
@@ -343,15 +340,15 @@ DESCRIPTION:Head to Milan for music Live from Tolan Square on Friday night
  oddler\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress 
  for the weather\nListed by: Ann Arbor with Kids\nDetails: https://annarbo
  rwithkids.com/events/live-from-tolan-square-2026-09-11/\nFound on: https:
- //shinabarger.github.io/kid-events-in-ann-arbor/?event=5bfccdae9ccb7084\n
- \nDouble check the time with the organizer before you go.
+ //kideventsinannarbor.com/?event=5bfccdae9ccb7084\n\nDouble check the tim
+ e with the organizer before you go.
 URL:https://annarborwithkids.com/events/live-from-tolan-square-2026-09-11/
 CATEGORIES:Elementary\,Free\,High Schoolers\,MiddleSchoolers\,Music/Concer
  ts\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:028a2ad70765b571@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260911T220000Z
 DTEND:20260912T010000Z
 SUMMARY:Party in the Park
@@ -366,15 +363,14 @@ DESCRIPTION:Party in the Park: Teen Edition is moving to September! School
  owntown Ann Arbor\nAges: High Schoolers\, MiddleSchoolers\nCost: Free\nSi
  gnup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListe
  d by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/p
- arty-in-the-park/\nFound on: https://shinabarger.github.io/kid-events-in-
- ann-arbor/?event=028a2ad70765b571\n\nDouble check the time with the organ
- izer before you go.
+ arty-in-the-park/\nFound on: https://kideventsinannarbor.com/?event=028a2
+ ad70765b571\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/party-in-the-park/
 CATEGORIES:Free\,High Schoolers\,MiddleSchoolers\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:5558d0b6c564cc0b@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T010000Z
 DTEND:20260912T035500Z
 SUMMARY:Disc Golf Glow Night
@@ -390,9 +386,8 @@ DESCRIPTION:Independence Lake County Park hosts a Disc Golf Glow Night on
   Schoolers\nCost: $5\nSignup: Registration required\, book before you go\
  nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetail
  s: https://annarborwithkids.com/events/disc-golf-glow-night-2026-07-10-20
- 26-08-14-2026-09-11/\nFound on: https://shinabarger.github.io/kid-events-
- in-ann-arbor/?event=5558d0b6c564cc0b\n\nDouble check the time with the or
- ganizer before you go.
+ 26-08-14-2026-09-11/\nFound on: https://kideventsinannarbor.com/?event=55
+ 58d0b6c564cc0b\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/disc-golf-glow-night-2026-07-10-20
  26-08-14-2026-09-11/
 CATEGORIES:Advance Registration\,HighSchoolers\,Middle Schoolers\,Outdoor\
@@ -400,7 +395,7 @@ CATEGORIES:Advance Registration\,HighSchoolers\,Middle Schoolers\,Outdoor\
 END:VEVENT
 BEGIN:VEVENT
 UID:65ecba639830d510@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T110000Z
 DTEND:20260912T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -417,9 +412,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-09-2026-09-12/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=65ecba639830d510\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-09-2026-09-12/\nFound on: https://kideventsinanna
+ rbor.com/?event=65ecba639830d510\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -429,7 +424,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:bb9e7820ea6adf50@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T120000Z
 DTEND:20260912T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -446,9 +441,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2025 season runs May-October. The
  with Kids\nDetails: https://annarborwithkids.com/events/chelsea-farmers-m
  arket-2-2-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-
  06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026
- -07-25-2026-08-01-2026-05-2026-09-12/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=bb9e7820ea6adf50\n\nDouble check the
-  time with the organizer before you go.
+ -07-25-2026-08-01-2026-05-2026-09-12/\nFound on: https://kideventsinannar
+ bor.com/?event=bb9e7820ea6adf50\n\nDouble check the time with the organiz
+ er before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-05
  -02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-202
  6-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01
@@ -458,7 +453,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:9dd40baefad039bd@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T120000Z
 DTEND:20260912T170000Z
 SUMMARY:Dexter Farmers Market
@@ -474,16 +469,16 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dexter
  , Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\
  , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
  r with Kids\nDetails: https://annarborwithkids.com/events/dexter-farmers-
- market-2-2-2026-09-12/\nFound on: https://shinabarger.github.io/kid-event
- s-in-ann-arbor/?event=9dd40baefad039bd\n\nDouble check the time with the 
- organizer before you go.
+ market-2-2-2026-09-12/\nFound on: https://kideventsinannarbor.com/?event=
+ 9dd40baefad039bd\n\nDouble check the time with the organizer before you g
+ o.
 URL:https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-09-
  12/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:924fe0f19fd362e7@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T120000Z
 DTEND:20260912T133000Z
 SUMMARY:Lillie parkrun
@@ -501,8 +496,8 @@ DESCRIPTION:Join Lillie parkrun every Saturday for a free\, fun\, and fami
  m/events/lillie-parkrun-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-
  05-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2
  026-07-18-2026-07-25-2026-08-01-2026-08-08-2026-0-05-2026-09-12/\nFound o
- n: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=924fe0f19
- fd362e7\n\nDouble check the time with the organizer before you go.
+ n: https://kideventsinannarbor.com/?event=924fe0f19fd362e7\n\nDouble chec
+ k the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/lillie-parkrun-2026-05-02-2026-05-
  09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026
  -06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-08-08-
@@ -512,7 +507,7 @@ CATEGORIES:Elementary\,Fitness/Health\,Free\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:5c192b737e51af6b@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T120000Z
 DTEND:20260912T160000Z
 SUMMARY:Saline Famers Market
@@ -529,9 +524,9 @@ DESCRIPTION:From May through October\, the Saline Farmers Market is held D
   with Kids\nDetails: https://annarborwithkids.com/events/saline-famers-ma
  rket-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-20
  26-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-2
- 5-2026-08-01-2026-08-08-05-2026-09-12/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=5c192b737e51af6b\n\nDouble check th
- e time with the organizer before you go.
+ 5-2026-08-01-2026-08-08-05-2026-09-12/\nFound on: https://kideventsinanna
+ rbor.com/?event=5c192b737e51af6b\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/saline-famers-market-2026-05-02-20
  26-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-2
  0-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-
@@ -540,7 +535,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:b26c3ba4ac762e03@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T130000Z
 DTEND:20260912T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -558,9 +553,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-05-02-2026-05-09
  -2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026-0
  6-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-0-05-2026-09-12/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- b26c3ba4ac762e03\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=b26c3ba4ac762e03\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
  -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-202
@@ -569,7 +563,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:08ee9aa2b0722718@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T130000Z
 DTEND:20260912T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -587,16 +581,16 @@ DESCRIPTION:The Ypsilanti Farmers Markets is now on Tuesdays & Saturdays w
  ighSchoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSig
  nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/yp
- silanti-farmers-market-2026-09-12/\nFound on: https://shinabarger.github.
- io/kid-events-in-ann-arbor/?event=08ee9aa2b0722718\n\nDouble check the ti
- me with the organizer before you go.
+ silanti-farmers-market-2026-09-12/\nFound on: https://kideventsinannarbor
+ .com/?event=08ee9aa2b0722718\n\nDouble check the time with the organizer 
+ before you go.
 URL:https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-09-1
  2/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:e4f5201fe1564974@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T140000Z
 DTEND:20260912T160000Z
 SUMMARY:Birds in Your Binoculars
@@ -612,9 +606,9 @@ DESCRIPTION:Birds are everywhere! Join Lake Erie Metropark to head into th
  gh Schoolers\, MiddleSchoolers\nCost: Not listed\nSignup: Registration re
  quired\, book before you go\nOutdoors\, dress for the weather\nListed by:
   Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/birds-
- in-your-binoculars-2026-09-12/\nFound on: https://shinabarger.github.io/k
- id-events-in-ann-arbor/?event=e4f5201fe1564974\n\nDouble check the time w
- ith the organizer before you go.
+ in-your-binoculars-2026-09-12/\nFound on: https://kideventsinannarbor.com
+ /?event=e4f5201fe1564974\n\nDouble check the time with the organizer befo
+ re you go.
 URL:https://annarborwithkids.com/events/birds-in-your-binoculars-2026-09-1
  2/
 CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
@@ -622,7 +616,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:2f014057590b88cc@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T140000Z
 DTEND:20260912T184500Z
 SUMMARY:Doggy Dip
@@ -640,15 +634,15 @@ DESCRIPTION:Rolling Hills County Park is proud to host their annual Doggy
  olers\nCost: Not listed\nSignup: Registration required\, book before you 
  go\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDet
  ails: https://annarborwithkids.com/events/rolling-hills-dog-swim-day-2/\n
- Found on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=2f
- 014057590b88cc\n\nDouble check the time with the organizer before you go.
+ Found on: https://kideventsinannarbor.com/?event=2f014057590b88cc\n\nDoub
+ le check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/rolling-hills-dog-swim-day-2/
 CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
  leSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:8b94d17ba74528cb@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T160000Z
 DTEND:20260912T193000Z
 SUMMARY:Washtenaw County Sheriff's Fall Community Resource Festival
@@ -665,8 +659,8 @@ DESCRIPTION:Did you know something as simple as the position of your child
  s\, Toddler\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, d
  ress for the weather\nListed by: Ann Arbor with Kids\nDetails: https://an
  narborwithkids.com/events/washtenaw-county-sheriffs-office-open-house/\nF
- ound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=8b9
- 4d17ba74528cb\n\nDouble check the time with the organizer before you go.
+ ound on: https://kideventsinannarbor.com/?event=8b94d17ba74528cb\n\nDoubl
+ e check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/washtenaw-county-sheriffs-office-o
  pen-house/
 CATEGORIES:CommunityResources\,Elementary\,Free\,High Schoolers\,MiddleSch
@@ -674,7 +668,7 @@ CATEGORIES:CommunityResources\,Elementary\,Free\,High Schoolers\,MiddleSch
 END:VEVENT
 BEGIN:VEVENT
 UID:ecbf973ec2604494@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260912T170000Z
 DTEND:20260912T180000Z
 SUMMARY:Meet Your Parks | The Anishnaabek and Niibi: The Importance of Wat
@@ -690,9 +684,8 @@ DESCRIPTION:Join Anishinaabek educator Eric Hemenway to learn about how wa
  needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids\
  nDetails: https://annarborwithkids.com/events/meet-your-parks-the-anishna
  abek-and-niibi-the-importance-of-water-to-michigans-first-people-at-furst
- enberg-nature-area/\nFound on: https://shinabarger.github.io/kid-events-i
- n-ann-arbor/?event=ecbf973ec2604494\n\nDouble check the time with the org
- anizer before you go.
+ enberg-nature-area/\nFound on: https://kideventsinannarbor.com/?event=ecb
+ f973ec2604494\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/meet-your-parks-the-anishnaabek-an
  d-niibi-the-importance-of-water-to-michigans-first-people-at-furstenberg-
  nature-area/
@@ -701,7 +694,7 @@ CATEGORIES:BIPOC\,Elementary\,Free\,HighSchoolers\,History\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:bbcac9726ec95bd0@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260913T130000Z
 DTEND:20260913T143000Z
 SUMMARY:All-Girls Skate Instruction
@@ -716,9 +709,9 @@ DESCRIPTION:The Ann Arbor Skate Park offers an All-Girls Skate on the seco
  choolers\, Middle Schoolers\, Preschoolers\nCost: Free\nSignup: Drop in\,
   no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor
   with Kids\nDetails: https://annarborwithkids.com/events/girls-skate-inst
- ruction-2026-06-14-2026-07-12-2026-08-09-2026-09-13/\nFound on: https://s
- hinabarger.github.io/kid-events-in-ann-arbor/?event=bbcac9726ec95bd0\n\nD
- ouble check the time with the organizer before you go.
+ ruction-2026-06-14-2026-07-12-2026-08-09-2026-09-13/\nFound on: https://k
+ ideventsinannarbor.com/?event=bbcac9726ec95bd0\n\nDouble check the time w
+ ith the organizer before you go.
 URL:https://annarborwithkids.com/events/girls-skate-instruction-2026-06-14
  -2026-07-12-2026-08-09-2026-09-13/
 CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
@@ -726,7 +719,7 @@ CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:21d277d287be99f9@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260913T140000Z
 DTEND:20260913T150000Z
 SUMMARY:Literati Presents: Summer Storytime!
@@ -739,16 +732,16 @@ DESCRIPTION:Join Literati every second Sunday in front of The Pretzel Bell
  nAges: Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\, no signup ne
  eded\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nD
  etails: https://annarborwithkids.com/events/literati-presents-summer-stor
- ytime-2026-06-14-2026-07-12-2026-08-09-2026-09-13/\nFound on: https://shi
- nabarger.github.io/kid-events-in-ann-arbor/?event=21d277d287be99f9\n\nDou
- ble check the time with the organizer before you go.
+ ytime-2026-06-14-2026-07-12-2026-08-09-2026-09-13/\nFound on: https://kid
+ eventsinannarbor.com/?event=21d277d287be99f9\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://annarborwithkids.com/events/literati-presents-summer-storytime
  -2026-06-14-2026-07-12-2026-08-09-2026-09-13/
 CATEGORIES:Free\,Outdoor\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:59e4cb3a90a69d17@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260913T140000Z
 DTEND:20260913T180000Z
 SUMMARY:Whitmore Lake Farmers Market
@@ -766,9 +759,8 @@ DESCRIPTION:The Whitmore Lake Farmers Market is back for its fourth season
  ttps://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-06-0
  7-2026-06-14-2026-06-21-2026-06-28-2026-07-05-2026-07-12-2026-07-19-2026-
  07-26-2026-08-02-2026-08-09-2026-08-16-2026-08-23-2026-08-30-2026-09-06-2
- 026-09-13/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arb
- or/?event=59e4cb3a90a69d17\n\nDouble check the time with the organizer be
- fore you go.
+ 026-09-13/\nFound on: https://kideventsinannarbor.com/?event=59e4cb3a90a6
+ 9d17\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-
  06-07-2026-06-14-2026-06-21-2026-06-28-2026-07-05-2026-07-12-2026-07-19-2
  026-07-26-2026-08-02-2026-08-09-2026-08-16-2026-08-23-2026-08-30-2026-09-
@@ -778,7 +770,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:ba83aedeff3e8ab2@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260913T170000Z
 DTEND:20260913T200000Z
 SUMMARY:Monarch Migration Festival
@@ -795,15 +787,15 @@ DESCRIPTION:Join the Leslie Science and Nature Center for their 13th annua
  s\nCost: $25\nSignup: Registration required\, book before you go\nOutdoor
  s\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: https
  ://annarborwithkids.com/events/monarch-migration-festival-3/\nFound on: h
- ttps://shinabarger.github.io/kid-events-in-ann-arbor/?event=ba83aedeff3e8
- ab2\n\nDouble check the time with the organizer before you go.
+ ttps://kideventsinannarbor.com/?event=ba83aedeff3e8ab2\n\nDouble check th
+ e time with the organizer before you go.
 URL:https://annarborwithkids.com/events/monarch-migration-festival-3/
 CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
  le Schoolers\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:0735808771c2516b@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260913T170000Z
 DTEND:20260913T183000Z
 SUMMARY:Wonder Walk: Fall Scrapbook
@@ -818,15 +810,15 @@ DESCRIPTION:Savor the season and discover nature's beauty. Collect a few l
  wn Ann Arbor\nAges: Elementary\, HighSchoolers\, Middle Schoolers\, Presc
  hoolers\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress
   for the weather\nListed by: Ann Arbor with Kids\nDetails: https://annarb
- orwithkids.com/events/wonder-walks-fall-fragrances/\nFound on: https://sh
- inabarger.github.io/kid-events-in-ann-arbor/?event=0735808771c2516b\n\nDo
- uble check the time with the organizer before you go.
+ orwithkids.com/events/wonder-walks-fall-fragrances/\nFound on: https://ki
+ deventsinannarbor.com/?event=0735808771c2516b\n\nDouble check the time wi
+ th the organizer before you go.
 URL:https://annarborwithkids.com/events/wonder-walks-fall-fragrances/
 CATEGORIES:Crafts\,Elementary\,Fall Fun\,Free\,HighSchoolers\,Hikes/Walks
 END:VEVENT
 BEGIN:VEVENT
 UID:a4a768827eb45396@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260915T143000Z
 DTEND:20260915T153000Z
 SUMMARY:FREE Outdoor Story Time for Kids
@@ -837,16 +829,16 @@ DESCRIPTION:Celebrate the changing seasons with stories\, songs and free p
  n required. 9/15 Seed Dispersal at Ward Park.\n\nCost: Free\nSignup: Regi
  stration required\, book before you go\nListed by: Ann Arbor Parks & Rec\
  nDetails: https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Dev
- ent%26eventid%3D206766380\nFound on: https://shinabarger.github.io/kid-ev
- ents-in-ann-arbor/?event=a4a768827eb45396\n\nDouble check the time with t
- he organizer before you go.
+ ent%26eventid%3D206766380\nFound on: https://kideventsinannarbor.com/?eve
+ nt=a4a768827eb45396\n\nDouble check the time with the organizer before yo
+ u go.
 URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
  ventid%3D206766380
 CATEGORIES:Parks and Recreation
 END:VEVENT
 BEGIN:VEVENT
 UID:7237fe37cde0aed9@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260915T143000Z
 DTEND:20260915T153000Z
 SUMMARY:Nature Storytime: Seed Dispersal
@@ -861,16 +853,15 @@ DESCRIPTION:Learn all about seeds and then the group will search for seeds
  eschoolers\, Toddler\nCost: Free\nSignup: Registration required\, book be
  fore you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor with 
  Kids\nDetails: https://annarborwithkids.com/events/nature-storytime-seed-
- dispersal/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arb
- or/?event=7237fe37cde0aed9\n\nDouble check the time with the organizer be
- fore you go.
+ dispersal/\nFound on: https://kideventsinannarbor.com/?event=7237fe37cde0
+ aed9\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/nature-storytime-seed-dispersal/
 CATEGORIES:Advance Registration\,Free\,Nature\,Outdoor\,Preschoolers\,Regi
  strationRecommended/Appreciated
 END:VEVENT
 BEGIN:VEVENT
 UID:c0199f52a022d1c4@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260916T110000Z
 DTEND:20260916T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -887,9 +878,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-12-2026-09-16/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=c0199f52a022d1c4\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-12-2026-09-16/\nFound on: https://kideventsinanna
+ rbor.com/?event=c0199f52a022d1c4\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -899,7 +890,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:b3c94e34870e88d8@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260916T130000Z
 DTEND:20260916T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -917,9 +908,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-04-29-2026-05-06
  -2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-0
  6-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-2-09-2026-09-16/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- b3c94e34870e88d8\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=b3c94e34870e88d8\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-04-29-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06
  -10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-202
@@ -928,7 +918,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:6d1358746f9c7dba@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260916T140000Z
 DTEND:20260916T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -945,9 +935,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2026 season runs May-October. The
  y: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/chel
  sea-farmers-market-2-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-
  03-2026-06-10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026
- -07-22-2026-07-29-2026-08-05-2026-08-09-2026-09-16/\nFound on: https://sh
- inabarger.github.io/kid-events-in-ann-arbor/?event=6d1358746f9c7dba\n\nDo
- uble check the time with the organizer before you go.
+ -07-22-2026-07-29-2026-08-05-2026-08-09-2026-09-16/\nFound on: https://ki
+ deventsinannarbor.com/?event=6d1358746f9c7dba\n\nDouble check the time wi
+ th the organizer before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2026-05-0
  6-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-
  06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2
@@ -957,7 +947,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:d0f0d5ad821afcbd@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260916T143000Z
 DTEND:20260916T153000Z
 SUMMARY:Nature Play
@@ -972,15 +962,15 @@ DESCRIPTION:Join Ann Arbor Parks for a self-guided exploration of nature t
  ed States\nAges: Babies\, Preschoolers\, Toddler\nCost: Free\nSignup: Reg
  istration required\, book before you go\nOutdoors\, dress for the weather
  \nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/e
- vents/nature-play-2-2026-09-16/\nFound on: https://shinabarger.github.io/
- kid-events-in-ann-arbor/?event=d0f0d5ad821afcbd\n\nDouble check the time 
- with the organizer before you go.
+ vents/nature-play-2-2026-09-16/\nFound on: https://kideventsinannarbor.co
+ m/?event=d0f0d5ad821afcbd\n\nDouble check the time with the organizer bef
+ ore you go.
 URL:https://annarborwithkids.com/events/nature-play-2-2026-09-16/
 CATEGORIES:Advance Registration\,Babies\,Free\,Nature\,Outdoor\,Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:321c21c3853240a3@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260916T190000Z
 DTEND:20260917T010000Z
 SUMMARY:Just Between Friends PreSale
@@ -996,15 +986,14 @@ DESCRIPTION:Today's Shopping: PreSale Wednesday is presale shopping only.
   14 minutes from downtown Ann Arbor\nCost: $11\nSignup: Drop in\, no sign
  up needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Ki
  ds\nDetails: https://annarborwithkids.com/events/just-friends-presale-2/\
- nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=3
- 21c21c3853240a3\n\nDouble check the time with the organizer before you go
- .
+ nFound on: https://kideventsinannarbor.com/?event=321c21c3853240a3\n\nDou
+ ble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/just-friends-presale-2/
 CATEGORIES:DisplayImage\,Mom2Mom\,Resale/Thrifting\,Shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:e53e7477aa7f867d@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260916T210000Z
 DTEND:20260917T000000Z
 SUMMARY:Ann Arbor Farmers Market Food Truck Rally!
@@ -1016,16 +1005,16 @@ DESCRIPTION:Join us and our favorite local trucks\, carts\, and pop-ups fo
  e: 315 Detroit Street\, Ann Arbor\, MI\nCost: Not listed\nSignup: Drop in
  \, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arb
  or Parks & Rec\nDetails: https://www.a2gov.org/Pages/Calendar.aspx?trumba
- Embed=view%3Devent%26eventid%3D206809759\nFound on: https://shinabarger.g
- ithub.io/kid-events-in-ann-arbor/?event=e53e7477aa7f867d\n\nDouble check 
- the time with the organizer before you go.
+ Embed=view%3Devent%26eventid%3D206809759\nFound on: https://kideventsinan
+ narbor.com/?event=e53e7477aa7f867d\n\nDouble check the time with the orga
+ nizer before you go.
 URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
  ventid%3D206809759
 CATEGORIES:Farmers Market
 END:VEVENT
 BEGIN:VEVENT
 UID:231d148c28c589fa@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260916T210000Z
 DTEND:20260917T000000Z
 SUMMARY:Third Wednesday Food Truck Rally
@@ -1040,9 +1029,9 @@ DESCRIPTION:The Ann Arbor Farmers Market holds a Food Truck Rally on the t
  e Schoolers\, Preschoolers\nCost: Not listed\nSignup: Drop in\, no signup
   needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids
  \nDetails: https://annarborwithkids.com/events/first-wednesday-food-truck
- -rally-2026-07-15-2026-08-19-2026-09-16/\nFound on: https://shinabarger.g
- ithub.io/kid-events-in-ann-arbor/?event=231d148c28c589fa\n\nDouble check 
- the time with the organizer before you go.
+ -rally-2026-07-15-2026-08-19-2026-09-16/\nFound on: https://kideventsinan
+ narbor.com/?event=231d148c28c589fa\n\nDouble check the time with the orga
+ nizer before you go.
 URL:https://annarborwithkids.com/events/first-wednesday-food-truck-rally-2
  026-07-15-2026-08-19-2026-09-16/
 CATEGORIES:Elementary\,Farmers Market\,Food\,HighSchoolers\,Middle Schoole
@@ -1050,7 +1039,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,HighSchoolers\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:2b96286fd61401fa@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260917T000000Z
 DTEND:20260917T020000Z
 SUMMARY:Gremlins - Union Rec Movie in the Shed
@@ -1063,9 +1052,9 @@ DESCRIPTION:Spooky season is kicking off in the Sheds at Union Rec! Every
  n\, 48104\, United States\nAges: Elementary\, HighSchoolers\, Middle Scho
  olers\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: A
  nn Arbor with Kids\nDetails: https://annarborwithkids.com/events/gremlins
- -union-rec-movie-in-the-shed/\nFound on: https://shinabarger.github.io/ki
- d-events-in-ann-arbor/?event=2b96286fd61401fa\n\nDouble check the time wi
- th the organizer before you go.
+ -union-rec-movie-in-the-shed/\nFound on: https://kideventsinannarbor.com/
+ ?event=2b96286fd61401fa\n\nDouble check the time with the organizer befor
+ e you go.
 URL:https://annarborwithkids.com/events/gremlins-union-rec-movie-in-the-sh
  ed/
 CATEGORIES:Elementary\,Food\,Halloween\,HighSchoolers\,Middle Schoolers\,M
@@ -1073,7 +1062,7 @@ CATEGORIES:Elementary\,Food\,Halloween\,HighSchoolers\,Middle Schoolers\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:dfc8f0ad4d417884@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260917T130000Z
 DTEND:20260918T010000Z
 SUMMARY:Just Between Friends PreSale & Public Shopping
@@ -1090,15 +1079,14 @@ DESCRIPTION:Today's Shopping: PreSale & Public Shopping Thursday is both p
  inutes from downtown Ann Arbor\nCost: $6\nSignup: Registration required\,
   book before you go\nOutdoors\, dress for the weather\nListed by: Ann Arb
  or with Kids\nDetails: https://annarborwithkids.com/events/just-friends-p
- resale-2-2/\nFound on: https://shinabarger.github.io/kid-events-in-ann-ar
- bor/?event=dfc8f0ad4d417884\n\nDouble check the time with the organizer b
- efore you go.
+ resale-2-2/\nFound on: https://kideventsinannarbor.com/?event=dfc8f0ad4d4
+ 17884\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/just-friends-presale-2-2/
 CATEGORIES:Mom2Mom\,Resale/Thrifting\,Shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:04d3b6879201c756@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260917T140000Z
 DTEND:20260917T180000Z
 SUMMARY:Fun on the Farm
@@ -1115,8 +1103,8 @@ DESCRIPTION:Fun on the Farm is an outdoor children’s series that focuses o
  ok before you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor 
  with Kids\nDetails: https://annarborwithkids.com/events/fun-on-the-farm-2
  026-07-09-2026-07-23-2026-08-06-2026-08-20-2026-09-03-2026-09-17/\nFound 
- on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=04d3b687
- 9201c756\n\nDouble check the time with the organizer before you go.
+ on: https://kideventsinannarbor.com/?event=04d3b6879201c756\n\nDouble che
+ ck the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/fun-on-the-farm-2026-07-09-2026-07
  -23-2026-08-06-2026-08-20-2026-09-03-2026-09-17/
 CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,Nature\,Pres
@@ -1124,7 +1112,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,Nature\,Pres
 END:VEVENT
 BEGIN:VEVENT
 UID:146e249a8c7a65dc@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260917T180000Z
 DTEND:20260917T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -1142,15 +1130,14 @@ DESCRIPTION:Support your local farmer\, food producer\, and maker by shopp
  rs\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop 
  in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann A
  rbor with Kids\nDetails: https://annarborwithkids.com/events/farmers-mark
- et-2-2026-09-17/\nFound on: https://shinabarger.github.io/kid-events-in-a
- nn-arbor/?event=146e249a8c7a65dc\n\nDouble check the time with the organi
- zer before you go.
+ et-2-2026-09-17/\nFound on: https://kideventsinannarbor.com/?event=146e24
+ 9a8c7a65dc\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/farmers-market-2-2026-09-17/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f88e4197b80c8209@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260917T190000Z
 DTEND:20260917T230000Z
 SUMMARY:Westside Farmers Market
@@ -1167,9 +1154,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Westsi
  up needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Ki
  ds\nDetails: https://annarborwithkids.com/events/westside-farmers-market-
  2026-07-09-2026-07-16-2026-07-23-2026-07-30-2026-08-06-2026-08-13-2026-08
- -20-2026-08-27-2026-09-03-2026-09-10-2026-09-17/\nFound on: https://shina
- barger.github.io/kid-events-in-ann-arbor/?event=f88e4197b80c8209\n\nDoubl
- e check the time with the organizer before you go.
+ -20-2026-08-27-2026-09-03-2026-09-10-2026-09-17/\nFound on: https://kidev
+ entsinannarbor.com/?event=f88e4197b80c8209\n\nDouble check the time with 
+ the organizer before you go.
 URL:https://annarborwithkids.com/events/westside-farmers-market-2026-07-09
  -2026-07-16-2026-07-23-2026-07-30-2026-08-06-2026-08-13-2026-08-20-2026-0
  8-27-2026-09-03-2026-09-10-2026-09-17/
@@ -1177,7 +1164,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:8ea762fff97a3679@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260917T213000Z
 DTEND:20260918T000000Z
 SUMMARY:Live from Tolan Square
@@ -1193,15 +1180,15 @@ DESCRIPTION:Head to Milan for music Live from Tolan Square on Friday night
  oddler\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress 
  for the weather\nListed by: Ann Arbor with Kids\nDetails: https://annarbo
  rwithkids.com/events/live-from-tolan-square-2026-09-17/\nFound on: https:
- //shinabarger.github.io/kid-events-in-ann-arbor/?event=8ea762fff97a3679\n
- \nDouble check the time with the organizer before you go.
+ //kideventsinannarbor.com/?event=8ea762fff97a3679\n\nDouble check the tim
+ e with the organizer before you go.
 URL:https://annarborwithkids.com/events/live-from-tolan-square-2026-09-17/
 CATEGORIES:Elementary\,Free\,High Schoolers\,MiddleSchoolers\,Music/Concer
  ts\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:5b710d5db6eaea0b@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260918T130000Z
 DTEND:20260918T230000Z
 SUMMARY:Just Between Friends Consignment Sale
@@ -1215,16 +1202,16 @@ DESCRIPTION:Today's Shopping: General Sale The general sale continues 9a-7
  \, South\, United States\nDrive: about 14 minutes from downtown Ann Arbor
  \nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for th
  e weather\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithk
- ids.com/events/just-friends-mom2mom-consignment-2/\nFound on: https://shi
- nabarger.github.io/kid-events-in-ann-arbor/?event=5b710d5db6eaea0b\n\nDou
- ble check the time with the organizer before you go.
+ ids.com/events/just-friends-mom2mom-consignment-2/\nFound on: https://kid
+ eventsinannarbor.com/?event=5b710d5db6eaea0b\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://annarborwithkids.com/events/just-friends-mom2mom-consignment-2
  /
 CATEGORIES:Free\,Mom2Mom\,Resale/Thrifting\,Shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2b7a869ed430490a@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260918T150000Z
 DTEND:20260918T230000Z
 SUMMARY:Foodie Fridays
@@ -1240,9 +1227,9 @@ DESCRIPTION:Enjoy local food truck favorites at County Farm Park’s Platt e
  etails: https://annarborwithkids.com/events/foodie-fridays-2026-05-15-202
  6-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03
  -2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-0
- 8-21-2026-0-11-2026-09-18/\nFound on: https://shinabarger.github.io/kid-e
- vents-in-ann-arbor/?event=2b7a869ed430490a\n\nDouble check the time with 
- the organizer before you go.
+ 8-21-2026-0-11-2026-09-18/\nFound on: https://kideventsinannarbor.com/?ev
+ ent=2b7a869ed430490a\n\nDouble check the time with the organizer before y
+ ou go.
 URL:https://annarborwithkids.com/events/foodie-fridays-2026-05-15-2026-05-
  22-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026
  -07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-
@@ -1252,7 +1239,7 @@ CATEGORIES:Elementary\,Food\,High Schoolers\,MiddleSchoolers\,Outdoor\,Pre
 END:VEVENT
 BEGIN:VEVENT
 UID:98ec413ef66c2813@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260918T190000Z
 DTEND:20260918T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -1269,9 +1256,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dixbor
  : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/dixbo
  ro-farmers-market-2-2026-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-1
  9-2026-06-26-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-
- 08-07-2026-08-14-2026-08-21-2026-08-11-2026-09-18/\nFound on: https://shi
- nabarger.github.io/kid-events-in-ann-arbor/?event=98ec413ef66c2813\n\nDou
- ble check the time with the organizer before you go.
+ 08-07-2026-08-14-2026-08-21-2026-08-11-2026-09-18/\nFound on: https://kid
+ eventsinannarbor.com/?event=98ec413ef66c2813\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-05-2
  2-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026-
  07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2
@@ -1280,7 +1267,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a47d4d065da5fb21@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260918T213000Z
 DTEND:20260918T223000Z
 SUMMARY:Ann Arbor Skyline Homecoming Parade
@@ -1295,16 +1282,16 @@ DESCRIPTION:Join Ann Arbor's Skyline High School in celebrating their Home
  ighSchoolers\, MiddleSchoolers\, Preschoolers\, Toddler\nCost: Free\nSign
  up: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed 
  by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/sky
- line-homecoming-parade/\nFound on: https://shinabarger.github.io/kid-even
- ts-in-ann-arbor/?event=a47d4d065da5fb21\n\nDouble check the time with the
-  organizer before you go.
+ line-homecoming-parade/\nFound on: https://kideventsinannarbor.com/?event
+ =a47d4d065da5fb21\n\nDouble check the time with the organizer before you 
+ go.
 URL:https://annarborwithkids.com/events/skyline-homecoming-parade/
 CATEGORIES:Elementary\,Food\,Free\,HighSchoolers\,Homecoming\,MiddleSchool
  ers
 END:VEVENT
 BEGIN:VEVENT
 UID:3868cd90c78db10e@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260918T213000Z
 DTEND:20260919T000000Z
 SUMMARY:Live from Tolan Square
@@ -1320,15 +1307,15 @@ DESCRIPTION:Head to Milan for music Live from Tolan Square on Friday night
  oddler\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress 
  for the weather\nListed by: Ann Arbor with Kids\nDetails: https://annarbo
  rwithkids.com/events/live-from-tolan-square-2026-09-18/\nFound on: https:
- //shinabarger.github.io/kid-events-in-ann-arbor/?event=3868cd90c78db10e\n
- \nDouble check the time with the organizer before you go.
+ //kideventsinannarbor.com/?event=3868cd90c78db10e\n\nDouble check the tim
+ e with the organizer before you go.
 URL:https://annarborwithkids.com/events/live-from-tolan-square-2026-09-18/
 CATEGORIES:Elementary\,Free\,High Schoolers\,MiddleSchoolers\,Music/Concer
  ts\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:9f1d3412dcedbb41@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T110000Z
 DTEND:20260919T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -1345,9 +1332,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-16-2026-09-19/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=9f1d3412dcedbb41\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-16-2026-09-19/\nFound on: https://kideventsinanna
+ rbor.com/?event=9f1d3412dcedbb41\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -1357,7 +1344,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:bb2f6a6ee3945243@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T120000Z
 DTEND:20260919T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -1374,9 +1361,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2025 season runs May-October. The
  with Kids\nDetails: https://annarborwithkids.com/events/chelsea-farmers-m
  arket-2-2-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-
  06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026
- -07-25-2026-08-01-2026-12-2026-09-19/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=bb2f6a6ee3945243\n\nDouble check the
-  time with the organizer before you go.
+ -07-25-2026-08-01-2026-12-2026-09-19/\nFound on: https://kideventsinannar
+ bor.com/?event=bb2f6a6ee3945243\n\nDouble check the time with the organiz
+ er before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-05
  -02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-202
  6-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01
@@ -1386,7 +1373,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:e24cba24ab548af5@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T120000Z
 DTEND:20260919T170000Z
 SUMMARY:Dexter Farmers Market
@@ -1402,16 +1389,16 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dexter
  , Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\
  , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
  r with Kids\nDetails: https://annarborwithkids.com/events/dexter-farmers-
- market-2-2-2026-09-19/\nFound on: https://shinabarger.github.io/kid-event
- s-in-ann-arbor/?event=e24cba24ab548af5\n\nDouble check the time with the 
- organizer before you go.
+ market-2-2-2026-09-19/\nFound on: https://kideventsinannarbor.com/?event=
+ e24cba24ab548af5\n\nDouble check the time with the organizer before you g
+ o.
 URL:https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-09-
  19/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f1fbf7b7f0594e34@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T120000Z
 DTEND:20260919T133000Z
 SUMMARY:Lillie parkrun
@@ -1429,8 +1416,8 @@ DESCRIPTION:Join Lillie parkrun every Saturday for a free\, fun\, and fami
  m/events/lillie-parkrun-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-
  05-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2
  026-07-18-2026-07-25-2026-08-01-2026-08-08-2026-0-12-2026-09-19/\nFound o
- n: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=f1fbf7b7f
- 0594e34\n\nDouble check the time with the organizer before you go.
+ n: https://kideventsinannarbor.com/?event=f1fbf7b7f0594e34\n\nDouble chec
+ k the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/lillie-parkrun-2026-05-02-2026-05-
  09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026
  -06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-08-08-
@@ -1440,7 +1427,7 @@ CATEGORIES:Elementary\,Fitness/Health\,Free\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:aa279db59415473f@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T120000Z
 DTEND:20260919T160000Z
 SUMMARY:Saline Famers Market
@@ -1457,9 +1444,9 @@ DESCRIPTION:From May through October\, the Saline Farmers Market is held D
   with Kids\nDetails: https://annarborwithkids.com/events/saline-famers-ma
  rket-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-20
  26-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-2
- 5-2026-08-01-2026-08-08-12-2026-09-19/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=aa279db59415473f\n\nDouble check th
- e time with the organizer before you go.
+ 5-2026-08-01-2026-08-08-12-2026-09-19/\nFound on: https://kideventsinanna
+ rbor.com/?event=aa279db59415473f\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/saline-famers-market-2026-05-02-20
  26-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-2
  0-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-
@@ -1468,7 +1455,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:47964c4cf21907d3@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T130000Z
 DTEND:20260919T230000Z
 SUMMARY:Just Between Friends Consignment Sale - General & Half-Price Sale
@@ -1484,15 +1471,15 @@ DESCRIPTION:The spring 2018 Ann Arbor Just Between Friends Consignment Sal
  h\, United States\nDrive: about 14 minutes from downtown Ann Arbor\nCost:
   Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weath
  er\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com
- /events/just-friends-mom2mom-consignment/\nFound on: https://shinabarger.
- github.io/kid-events-in-ann-arbor/?event=47964c4cf21907d3\n\nDouble check
-  the time with the organizer before you go.
+ /events/just-friends-mom2mom-consignment/\nFound on: https://kideventsina
+ nnarbor.com/?event=47964c4cf21907d3\n\nDouble check the time with the org
+ anizer before you go.
 URL:https://annarborwithkids.com/events/just-friends-mom2mom-consignment/
 CATEGORIES:Mom2Mom\,Resale/Thrifting\,Shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:a425d8c76525af42@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T130000Z
 DTEND:20260919T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -1510,9 +1497,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-05-02-2026-05-09
  -2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026-0
  6-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-0-12-2026-09-19/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- a425d8c76525af42\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=a425d8c76525af42\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
  -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-202
@@ -1521,7 +1507,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:d6e8a0af903e712f@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T130000Z
 DTEND:20260919T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -1539,16 +1525,16 @@ DESCRIPTION:The Ypsilanti Farmers Markets is now on Tuesdays & Saturdays w
  ighSchoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSig
  nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/yp
- silanti-farmers-market-2026-09-19/\nFound on: https://shinabarger.github.
- io/kid-events-in-ann-arbor/?event=d6e8a0af903e712f\n\nDouble check the ti
- me with the organizer before you go.
+ silanti-farmers-market-2026-09-19/\nFound on: https://kideventsinannarbor
+ .com/?event=d6e8a0af903e712f\n\nDouble check the time with the organizer 
+ before you go.
 URL:https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-09-1
  9/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:dde0d6b6cbfd7619@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T140000Z
 DTEND:20260919T170000Z
 SUMMARY:Girls in Aviation Day
@@ -1565,15 +1551,15 @@ DESCRIPTION:Join the Ann Arbor Women in Aviation Chapter at Pittsfield Tow
  choolers\nCost: Free\nSignup: Registration required\, book before you go\
  nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetail
  s: https://annarborwithkids.com/events/girls-in-aviation-day/\nFound on: 
- https://shinabarger.github.io/kid-events-in-ann-arbor/?event=dde0d6b6cbfd
- 7619\n\nDouble check the time with the organizer before you go.
+ https://kideventsinannarbor.com/?event=dde0d6b6cbfd7619\n\nDouble check t
+ he time with the organizer before you go.
 URL:https://annarborwithkids.com/events/girls-in-aviation-day/
 CATEGORIES:Advance Registration\,Elementary\,Free\,High Schoolers\,MiddleS
  choolers\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:78df4884601427c9@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T150000Z
 DTEND:20260919T160000Z
 SUMMARY:Walking Storytime
@@ -1589,15 +1575,15 @@ DESCRIPTION:Join YDL for an outdoor walking storytime in the Whittaker Gar
  e: about 17 minutes from downtown Ann Arbor\nAges: Preschoolers\, Toddler
  \nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for th
  e weather\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithk
- ids.com/events/walking-storytime/\nFound on: https://shinabarger.github.i
- o/kid-events-in-ann-arbor/?event=78df4884601427c9\n\nDouble check the tim
- e with the organizer before you go.
+ ids.com/events/walking-storytime/\nFound on: https://kideventsinannarbor.
+ com/?event=78df4884601427c9\n\nDouble check the time with the organizer b
+ efore you go.
 URL:https://annarborwithkids.com/events/walking-storytime/
 CATEGORIES:Crafts\,Free\,Outdoor\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:7e9f46d55451e0d5@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260919T170000Z
 DTEND:20260919T183000Z
 SUMMARY:Field Day
@@ -1614,14 +1600,14 @@ DESCRIPTION:As summer comes to a close\, the library celebrates with one l
  own Ann Arbor\nAges: HighSchoolers\nCost: Free\nSignup: Drop in\, no sign
  up needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Ki
  ds\nDetails: https://annarborwithkids.com/events/field-day/\nFound on: ht
- tps://shinabarger.github.io/kid-events-in-ann-arbor/?event=7e9f46d55451e0
- d5\n\nDouble check the time with the organizer before you go.
+ tps://kideventsinannarbor.com/?event=7e9f46d55451e0d5\n\nDouble check the
+  time with the organizer before you go.
 URL:https://annarborwithkids.com/events/field-day/
 CATEGORIES:Free\,Games\,HighSchoolers\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:6d4b06e79bc63371@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260920T040000Z
 DTEND:20260920T040000Z
 SUMMARY:Fall Car Show
@@ -1637,16 +1623,16 @@ DESCRIPTION:Join Wiard's Orchards for their 3rd annual Fall Car Show on Su
  \nAges: Elementary\, HighSchoolers\, Middle Schoolers\, Preschoolers\, To
  ddler\nCost: Not listed\nSignup: Drop in\, no signup needed\nOutdoors\, d
  ress for the weather\nListed by: Ann Arbor with Kids\nDetails: https://an
- narborwithkids.com/events/fall-car-show/\nFound on: https://shinabarger.g
- ithub.io/kid-events-in-ann-arbor/?event=6d4b06e79bc63371\n\nDouble check 
- the time with the organizer before you go.
+ narborwithkids.com/events/fall-car-show/\nFound on: https://kideventsinan
+ narbor.com/?event=6d4b06e79bc63371\n\nDouble check the time with the orga
+ nizer before you go.
 URL:https://annarborwithkids.com/events/fall-car-show/
 CATEGORIES:Car Show\,Elementary\,Fall Fun\,HighSchoolers\,Middle Schoolers
  \,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:903f5d9610e89ee6@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260920T140000Z
 DTEND:20260920T180000Z
 SUMMARY:Whitmore Lake Farmers Market
@@ -1664,9 +1650,8 @@ DESCRIPTION:The Whitmore Lake Farmers Market is back for its fourth season
  ttps://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-06-0
  7-2026-06-14-2026-06-21-2026-06-28-2026-07-05-2026-07-12-2026-07-19-2026-
  07-26-2026-08-02-2026-08-09-2026-08-16-2026-08-23-2026-08-30-2026-09-06-2
- 02-13-2026-09-20/\nFound on: https://shinabarger.github.io/kid-events-in-
- ann-arbor/?event=903f5d9610e89ee6\n\nDouble check the time with the organ
- izer before you go.
+ 02-13-2026-09-20/\nFound on: https://kideventsinannarbor.com/?event=903f5
+ d9610e89ee6\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-
  06-07-2026-06-14-2026-06-21-2026-06-28-2026-07-05-2026-07-12-2026-07-19-2
  026-07-26-2026-08-02-2026-08-09-2026-08-16-2026-08-23-2026-08-30-2026-09-
@@ -1676,7 +1661,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:b1b0155dc25a3457@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260920T160000Z
 DTEND:20260920T190000Z
 SUMMARY:Ypsilanti Fall River Day
@@ -1692,15 +1677,15 @@ DESCRIPTION:Join the City of Ypsilanti’s Parks & Arts Commission and the H
  \, Elementary\, High Schoolers\, MiddleSchoolers\, Preschoolers\, Toddler
  \nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for th
  e weather\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithk
- ids.com/events/ypsilanti-fall-river-day/\nFound on: https://shinabarger.g
- ithub.io/kid-events-in-ann-arbor/?event=b1b0155dc25a3457\n\nDouble check 
- the time with the organizer before you go.
+ ids.com/events/ypsilanti-fall-river-day/\nFound on: https://kideventsinan
+ narbor.com/?event=b1b0155dc25a3457\n\nDouble check the time with the orga
+ nizer before you go.
 URL:https://annarborwithkids.com/events/ypsilanti-fall-river-day/
 CATEGORIES:Age Range\,Animals\,Babies\,Elementary\,Food\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:035a8f5c252931f2@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260922T143000Z
 DTEND:20260922T153000Z
 SUMMARY:Nature Storytime: Changing Leaves
@@ -1715,15 +1700,14 @@ DESCRIPTION:Learn all about changing leaves and make a craft to take home.
  , Toddler\nCost: Free\nSignup: Registration required\, book before you go
  \nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetai
  ls: https://annarborwithkids.com/events/nature-storytime-changing-leaves/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 035a8f5c252931f2\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=035a8f5c252931f2\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/nature-storytime-changing-leaves/
 CATEGORIES:Advance Registration\,Crafts\,FallFun\,Free\,Nature\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:97c17e071df69f1e@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260922T143000Z
 DTEND:20260922T153000Z
 SUMMARY:Outdoor Story Time for Kids
@@ -1734,16 +1718,16 @@ DESCRIPTION:Celebrate the changing seasons with stories\, songs and free p
  n required. 9/22 Changing Leaves at Lansdowne Park.\n\nCost: Free\nSignup
  : Registration required\, book before you go\nListed by: Ann Arbor Parks 
  & Rec\nDetails: https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=vie
- w%3Devent%26eventid%3D206766383\nFound on: https://shinabarger.github.io/
- kid-events-in-ann-arbor/?event=97c17e071df69f1e\n\nDouble check the time 
- with the organizer before you go.
+ w%3Devent%26eventid%3D206766383\nFound on: https://kideventsinannarbor.co
+ m/?event=97c17e071df69f1e\n\nDouble check the time with the organizer bef
+ ore you go.
 URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
  ventid%3D206766383
 CATEGORIES:Parks and Recreation
 END:VEVENT
 BEGIN:VEVENT
 UID:662e60adb52b579c@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260923T110000Z
 DTEND:20260923T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -1760,9 +1744,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-19-2026-09-23/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=662e60adb52b579c\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-19-2026-09-23/\nFound on: https://kideventsinanna
+ rbor.com/?event=662e60adb52b579c\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -1772,7 +1756,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:29af491680967ff1@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260923T130000Z
 DTEND:20260924T000000Z
 SUMMARY:JLC Huge Book Sale - Premium Access Day/Teachers Night
@@ -1788,16 +1772,16 @@ DESCRIPTION:JLC’s Low-Cost Community Book Sale is a family-run project tha
  or\nAges: Babies\, Elementary\, HighSchoolers\, Middle Schoolers\nCost: $
  2\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\n
  Listed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/eve
- nts/huge-book-sale-jlc-book-sale-2/\nFound on: https://shinabarger.github
- .io/kid-events-in-ann-arbor/?event=29af491680967ff1\n\nDouble check the t
- ime with the organizer before you go.
+ nts/huge-book-sale-jlc-book-sale-2/\nFound on: https://kideventsinannarbo
+ r.com/?event=29af491680967ff1\n\nDouble check the time with the organizer
+  before you go.
 URL:https://annarborwithkids.com/events/huge-book-sale-jlc-book-sale-2/
 CATEGORIES:Babies\,Display Image\,Elementary\,HighSchoolers\,Middle School
  ers\,Resale/Thrifting
 END:VEVENT
 BEGIN:VEVENT
 UID:56664774c86325d7@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260923T130000Z
 DTEND:20260923T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -1815,9 +1799,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-04-29-2026-05-06
  -2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-0
  6-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-2-16-2026-09-23/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 56664774c86325d7\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=56664774c86325d7\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-04-29-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06
  -10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-202
@@ -1826,7 +1809,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a4cd2e8c7f88a1b1@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260923T140000Z
 DTEND:20260923T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -1843,9 +1826,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2026 season runs May-October. The
  y: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/chel
  sea-farmers-market-2-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-
  03-2026-06-10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026
- -07-22-2026-07-29-2026-08-05-2026-08-16-2026-09-23/\nFound on: https://sh
- inabarger.github.io/kid-events-in-ann-arbor/?event=a4cd2e8c7f88a1b1\n\nDo
- uble check the time with the organizer before you go.
+ -07-22-2026-07-29-2026-08-05-2026-08-16-2026-09-23/\nFound on: https://ki
+ deventsinannarbor.com/?event=a4cd2e8c7f88a1b1\n\nDouble check the time wi
+ th the organizer before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2026-05-0
  6-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-
  06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2
@@ -1855,7 +1838,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:c896cb7f52cbba91@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260923T143000Z
 DTEND:20260923T153000Z
 SUMMARY:Nature Play
@@ -1870,15 +1853,15 @@ DESCRIPTION:Join Ann Arbor Parks for a self-guided exploration of nature t
  ed States\nAges: Babies\, Preschoolers\, Toddler\nCost: Free\nSignup: Reg
  istration required\, book before you go\nOutdoors\, dress for the weather
  \nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/e
- vents/nature-play-2-2026-09-23/\nFound on: https://shinabarger.github.io/
- kid-events-in-ann-arbor/?event=c896cb7f52cbba91\n\nDouble check the time 
- with the organizer before you go.
+ vents/nature-play-2-2026-09-23/\nFound on: https://kideventsinannarbor.co
+ m/?event=c896cb7f52cbba91\n\nDouble check the time with the organizer bef
+ ore you go.
 URL:https://annarborwithkids.com/events/nature-play-2-2026-09-23/
 CATEGORIES:Advance Registration\,Babies\,Free\,Nature\,Outdoor\,Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd656f8a46a2b6a@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260924T130000Z
 DTEND:20260925T000000Z
 SUMMARY:JLC Huge Book Sale
@@ -1894,16 +1877,16 @@ DESCRIPTION:JLC’s Low-Cost Community Book Sale is a family-run project tha
  or\nAges: Babies\, Elementary\, HighSchoolers\, Middle Schoolers\nCost: $
  2\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\n
  Listed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/eve
- nts/huge-book-sale-jlc-book-sale-3/\nFound on: https://shinabarger.github
- .io/kid-events-in-ann-arbor/?event=ccd656f8a46a2b6a\n\nDouble check the t
- ime with the organizer before you go.
+ nts/huge-book-sale-jlc-book-sale-3/\nFound on: https://kideventsinannarbo
+ r.com/?event=ccd656f8a46a2b6a\n\nDouble check the time with the organizer
+  before you go.
 URL:https://annarborwithkids.com/events/huge-book-sale-jlc-book-sale-3/
 CATEGORIES:Babies\,Display Image\,Elementary\,HighSchoolers\,Middle School
  ers\,Resale/Thrifting
 END:VEVENT
 BEGIN:VEVENT
 UID:c04dcbde5246cfaf@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260924T180000Z
 DTEND:20260924T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -1921,15 +1904,14 @@ DESCRIPTION:Support your local farmer\, food producer\, and maker by shopp
  rs\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop 
  in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann A
  rbor with Kids\nDetails: https://annarborwithkids.com/events/farmers-mark
- et-2-2026-09-24/\nFound on: https://shinabarger.github.io/kid-events-in-a
- nn-arbor/?event=c04dcbde5246cfaf\n\nDouble check the time with the organi
- zer before you go.
+ et-2-2026-09-24/\nFound on: https://kideventsinannarbor.com/?event=c04dcb
+ de5246cfaf\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/farmers-market-2-2026-09-24/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:7b07f821b59c30ad@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260924T190000Z
 DTEND:20260924T230000Z
 SUMMARY:Westside Farmers Market
@@ -1947,8 +1929,8 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Westsi
  ds\nDetails: https://annarborwithkids.com/events/westside-farmers-market-
  2026-07-09-2026-07-16-2026-07-23-2026-07-30-2026-08-06-2026-08-13-2026-08
  -20-2026-08-27-2026-09-03-2026-09-10-2026-09-17-2026-09-24/\nFound on: ht
- tps://shinabarger.github.io/kid-events-in-ann-arbor/?event=7b07f821b59c30
- ad\n\nDouble check the time with the organizer before you go.
+ tps://kideventsinannarbor.com/?event=7b07f821b59c30ad\n\nDouble check the
+  time with the organizer before you go.
 URL:https://annarborwithkids.com/events/westside-farmers-market-2026-07-09
  -2026-07-16-2026-07-23-2026-07-30-2026-08-06-2026-08-13-2026-08-20-2026-0
  8-27-2026-09-03-2026-09-10-2026-09-17-2026-09-24/
@@ -1956,7 +1938,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:070d7f578667f939@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260925T130000Z
 DTEND:20260926T000000Z
 SUMMARY:JLC Huge Book Sale
@@ -1972,16 +1954,16 @@ DESCRIPTION:JLC’s Low-Cost Community Book Sale is a family-run project tha
  or\nAges: Babies\, Elementary\, HighSchoolers\, Middle Schoolers\nCost: $
  2\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\n
  Listed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/eve
- nts/huge-book-sale-jlc-book-sale/\nFound on: https://shinabarger.github.i
- o/kid-events-in-ann-arbor/?event=070d7f578667f939\n\nDouble check the tim
- e with the organizer before you go.
+ nts/huge-book-sale-jlc-book-sale/\nFound on: https://kideventsinannarbor.
+ com/?event=070d7f578667f939\n\nDouble check the time with the organizer b
+ efore you go.
 URL:https://annarborwithkids.com/events/huge-book-sale-jlc-book-sale/
 CATEGORIES:Babies\,Display Image\,Elementary\,HighSchoolers\,Middle School
  ers\,Resale/Thrifting
 END:VEVENT
 BEGIN:VEVENT
 UID:6c541648d6367e2d@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260925T140000Z
 DTEND:20260925T150000Z
 SUMMARY:Preschool Explorers at the Mills
@@ -1996,8 +1978,8 @@ DESCRIPTION:Join Hudson Mills MetroPark on the last Friday of each month f
  ost: $5\nSignup: Registration required\, book before you go\nListed by: A
  nn Arbor with Kids\nDetails: https://annarborwithkids.com/events/preschoo
  l-explorers-at-the-mills-2026-06-26-2026-07-31-2026-08-28-2026-09-25/\nFo
- und on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=6c54
- 1648d6367e2d\n\nDouble check the time with the organizer before you go.
+ und on: https://kideventsinannarbor.com/?event=6c541648d6367e2d\n\nDouble
+  check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/preschool-explorers-at-the-mills-2
  026-06-26-2026-07-31-2026-08-28-2026-09-25/
 CATEGORIES:Advance Registration\,Animals\,IndoorActivities\,Nature\,Outdoo
@@ -2005,7 +1987,7 @@ CATEGORIES:Advance Registration\,Animals\,IndoorActivities\,Nature\,Outdoo
 END:VEVENT
 BEGIN:VEVENT
 UID:91b44cc60829f170@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260925T150000Z
 DTEND:20260925T230000Z
 SUMMARY:Foodie Fridays
@@ -2021,9 +2003,9 @@ DESCRIPTION:Enjoy local food truck favorites at County Farm Park’s Platt e
  etails: https://annarborwithkids.com/events/foodie-fridays-2026-05-15-202
  6-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03
  -2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-0
- 8-21-2026-0-18-2026-09-25/\nFound on: https://shinabarger.github.io/kid-e
- vents-in-ann-arbor/?event=91b44cc60829f170\n\nDouble check the time with 
- the organizer before you go.
+ 8-21-2026-0-18-2026-09-25/\nFound on: https://kideventsinannarbor.com/?ev
+ ent=91b44cc60829f170\n\nDouble check the time with the organizer before y
+ ou go.
 URL:https://annarborwithkids.com/events/foodie-fridays-2026-05-15-2026-05-
  22-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026
  -07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-
@@ -2033,7 +2015,7 @@ CATEGORIES:Elementary\,Food\,High Schoolers\,MiddleSchoolers\,Outdoor\,Pre
 END:VEVENT
 BEGIN:VEVENT
 UID:6a8e1b68af6c68d1@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260925T190000Z
 DTEND:20260925T200000Z
 SUMMARY:Chow Time at the Farm
@@ -2049,16 +2031,16 @@ DESCRIPTION:Kids can help farm staff feed the animals - pigs\, goats\, cow
  Schoolers\, Preschoolers\, Toddler\nCost: Not listed\nSignup: Registratio
  n required\, book before you go\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/ch
- ow-time-at-the-farm-17/\nFound on: https://shinabarger.github.io/kid-even
- ts-in-ann-arbor/?event=6a8e1b68af6c68d1\n\nDouble check the time with the
-  organizer before you go.
+ ow-time-at-the-farm-17/\nFound on: https://kideventsinannarbor.com/?event
+ =6a8e1b68af6c68d1\n\nDouble check the time with the organizer before you 
+ go.
 URL:https://annarborwithkids.com/events/chow-time-at-the-farm-17/
 CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
  le Schoolers\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:40ba8c977e47b190@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260925T190000Z
 DTEND:20260925T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -2075,9 +2057,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dixbor
  : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/dixbo
  ro-farmers-market-2-2026-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-1
  9-2026-06-26-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-
- 08-07-2026-08-14-2026-08-21-2026-08-18-2026-09-25/\nFound on: https://shi
- nabarger.github.io/kid-events-in-ann-arbor/?event=40ba8c977e47b190\n\nDou
- ble check the time with the organizer before you go.
+ 08-07-2026-08-14-2026-08-21-2026-08-18-2026-09-25/\nFound on: https://kid
+ eventsinannarbor.com/?event=40ba8c977e47b190\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-05-2
  2-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026-
  07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2
@@ -2086,7 +2068,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:307fcaef0bc0297f@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260925T200000Z
 DTEND:20260925T230000Z
 SUMMARY:Milan Homecoming Parade & Food Trucks
@@ -2102,16 +2084,15 @@ DESCRIPTION:Milan Homecoming is on Friday\, September 25. It has a new rou
  s: Elementary\, HighSchoolers\, MiddleSchoolers\nCost: Free\nSignup: Drop
   in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann 
  Arbor with Kids\nDetails: https://annarborwithkids.com/events/milan-homec
- oming-parade/\nFound on: https://shinabarger.github.io/kid-events-in-ann-
- arbor/?event=307fcaef0bc0297f\n\nDouble check the time with the organizer
-  before you go.
+ oming-parade/\nFound on: https://kideventsinannarbor.com/?event=307fcaef0
+ bc0297f\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/milan-homecoming-parade/
 CATEGORIES:Elementary\,Food\,Free\,HighSchoolers\,Homecoming\,MiddleSchool
  ers
 END:VEVENT
 BEGIN:VEVENT
 UID:0b85d2abfd204c3a@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260925T223000Z
 DTEND:20260926T003000Z
 SUMMARY:Fireside Fun – A Good Old-fashioned Campfire Circle
@@ -2128,9 +2109,8 @@ DESCRIPTION:All ages – FREE! No registration is necessary. Enjoy a campfir
   Preschoolers\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\,
   dress for the weather\nListed by: Ann Arbor with Kids\nDetails: https://
  annarborwithkids.com/events/fireside-fun-a-good-old-fashioned-campfire-ci
- rcle-4/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/
- ?event=0b85d2abfd204c3a\n\nDouble check the time with the organizer befor
- e you go.
+ rcle-4/\nFound on: https://kideventsinannarbor.com/?event=0b85d2abfd204c3
+ a\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/fireside-fun-a-good-old-fashioned-
  campfire-circle-4/
 CATEGORIES:Animals\,Elementary\,Food\,Free\,HighSchoolers\,Middle Schooler
@@ -2138,7 +2118,7 @@ CATEGORIES:Animals\,Elementary\,Food\,Free\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:3e007b4c42922b5c@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260926T110000Z
 DTEND:20260926T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -2155,9 +2135,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-23-2026-09-26/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=3e007b4c42922b5c\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-23-2026-09-26/\nFound on: https://kideventsinanna
+ rbor.com/?event=3e007b4c42922b5c\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -2167,7 +2147,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:1da2dd97794bdd0f@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260926T120000Z
 DTEND:20260926T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -2184,9 +2164,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2025 season runs May-October. The
  with Kids\nDetails: https://annarborwithkids.com/events/chelsea-farmers-m
  arket-2-2-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-
  06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026
- -07-25-2026-08-01-2026-19-2026-09-26/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=1da2dd97794bdd0f\n\nDouble check the
-  time with the organizer before you go.
+ -07-25-2026-08-01-2026-19-2026-09-26/\nFound on: https://kideventsinannar
+ bor.com/?event=1da2dd97794bdd0f\n\nDouble check the time with the organiz
+ er before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-05
  -02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-202
  6-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01
@@ -2196,7 +2176,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:2ce9cbb1db0ed21c@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260926T120000Z
 DTEND:20260926T170000Z
 SUMMARY:Dexter Farmers Market
@@ -2212,16 +2192,16 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dexter
  , Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\
  , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
  r with Kids\nDetails: https://annarborwithkids.com/events/dexter-farmers-
- market-2-2-2026-09-26/\nFound on: https://shinabarger.github.io/kid-event
- s-in-ann-arbor/?event=2ce9cbb1db0ed21c\n\nDouble check the time with the 
- organizer before you go.
+ market-2-2-2026-09-26/\nFound on: https://kideventsinannarbor.com/?event=
+ 2ce9cbb1db0ed21c\n\nDouble check the time with the organizer before you g
+ o.
 URL:https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-09-
  26/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a77a42ee1305793e@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260926T120000Z
 DTEND:20260926T133000Z
 SUMMARY:Lillie parkrun
@@ -2239,8 +2219,8 @@ DESCRIPTION:Join Lillie parkrun every Saturday for a free\, fun\, and fami
  m/events/lillie-parkrun-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-
  05-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2
  026-07-18-2026-07-25-2026-08-01-2026-08-08-2026-0-19-2026-09-26/\nFound o
- n: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=a77a42ee1
- 305793e\n\nDouble check the time with the organizer before you go.
+ n: https://kideventsinannarbor.com/?event=a77a42ee1305793e\n\nDouble chec
+ k the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/lillie-parkrun-2026-05-02-2026-05-
  09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026
  -06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-08-08-
@@ -2250,7 +2230,7 @@ CATEGORIES:Elementary\,Fitness/Health\,Free\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:abf77058fec50ec4@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260926T120000Z
 DTEND:20260926T160000Z
 SUMMARY:Saline Famers Market
@@ -2267,9 +2247,9 @@ DESCRIPTION:From May through October\, the Saline Farmers Market is held D
   with Kids\nDetails: https://annarborwithkids.com/events/saline-famers-ma
  rket-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-20
  26-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-2
- 5-2026-08-01-2026-08-08-19-2026-09-26/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=abf77058fec50ec4\n\nDouble check th
- e time with the organizer before you go.
+ 5-2026-08-01-2026-08-08-19-2026-09-26/\nFound on: https://kideventsinanna
+ rbor.com/?event=abf77058fec50ec4\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/saline-famers-market-2026-05-02-20
  26-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-2
  0-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-
@@ -2278,7 +2258,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:81b2d916c7410385@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260926T130000Z
 DTEND:20260926T160000Z
 SUMMARY:Golden Harvest Half Marathon & 5K/10K
@@ -2293,9 +2273,8 @@ DESCRIPTION:Join Bodies Race Company for their Golden Harvest Half-Maratho
  oolers\nCost: $17\nSignup: Registration required\, book before you go\nOu
  tdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: 
  https://annarborwithkids.com/events/golden-harvest-half-marathon-5k-10k/\
- nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=8
- 1b2d916c7410385\n\nDouble check the time with the organizer before you go
- .
+ nFound on: https://kideventsinannarbor.com/?event=81b2d916c7410385\n\nDou
+ ble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/golden-harvest-half-marathon-5k-10
  k/
 CATEGORIES:Advance Registration\,Elementary\,FallFun\,Food\,High Schoolers
@@ -2303,7 +2282,7 @@ CATEGORIES:Advance Registration\,Elementary\,FallFun\,Food\,High Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f335aa5c5a36a68f@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260926T130000Z
 DTEND:20260927T000000Z
 SUMMARY:JLC Huge Book Sale
@@ -2319,16 +2298,16 @@ DESCRIPTION:JLC’s Low-Cost Community Book Sale is a family-run project tha
  or\nAges: Babies\, Elementary\, HighSchoolers\, MiddleSchoolers\nCost: $2
  \nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nL
  isted by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/even
- ts/huge-book-sale-jlc-book-sale-4/\nFound on: https://shinabarger.github.
- io/kid-events-in-ann-arbor/?event=f335aa5c5a36a68f\n\nDouble check the ti
- me with the organizer before you go.
+ ts/huge-book-sale-jlc-book-sale-4/\nFound on: https://kideventsinannarbor
+ .com/?event=f335aa5c5a36a68f\n\nDouble check the time with the organizer 
+ before you go.
 URL:https://annarborwithkids.com/events/huge-book-sale-jlc-book-sale-4/
 CATEGORIES:Babies\,Display Image\,Elementary\,HighSchoolers\,MiddleSchoole
  rs\,Plus
 END:VEVENT
 BEGIN:VEVENT
 UID:3838c5ca4ab8fbff@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260926T130000Z
 DTEND:20260926T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -2346,9 +2325,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-05-02-2026-05-09
  -2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026-0
  6-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-0-19-2026-09-26/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 3838c5ca4ab8fbff\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=3838c5ca4ab8fbff\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
  -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-202
@@ -2357,7 +2335,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f42caa490252cbc8@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260926T130000Z
 DTEND:20260926T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -2375,16 +2353,16 @@ DESCRIPTION:The Ypsilanti Farmers Markets is now on Tuesdays & Saturdays w
  ighSchoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSig
  nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/yp
- silanti-farmers-market-2026-09-26/\nFound on: https://shinabarger.github.
- io/kid-events-in-ann-arbor/?event=f42caa490252cbc8\n\nDouble check the ti
- me with the organizer before you go.
+ silanti-farmers-market-2026-09-26/\nFound on: https://kideventsinannarbor
+ .com/?event=f42caa490252cbc8\n\nDouble check the time with the organizer 
+ before you go.
 URL:https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-09-2
  6/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:7326f5188539f5ed@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260926T150000Z
 DTEND:20260926T170000Z
 SUMMARY:Tailgate with Ypsi Meals on Wheels and EMU
@@ -2400,8 +2378,8 @@ DESCRIPTION:Ypsilanti Meals on Wheels is hosting a community tailgate even
  $40\nSignup: Registration required\, book before you go\nOutdoors\, dress
   for the weather\nListed by: Ann Arbor with Kids\nDetails: https://annarb
  orwithkids.com/events/tailgate-with-ypsi-meals-on-wheels-and-emu/\nFound 
- on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=7326f518
- 8539f5ed\n\nDouble check the time with the organizer before you go.
+ on: https://kideventsinannarbor.com/?event=7326f5188539f5ed\n\nDouble che
+ ck the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/tailgate-with-ypsi-meals-on-wheels
  -and-emu/
 CATEGORIES:Advance Registration\,CharitableEvent\,Elementary\,Food\,High S
@@ -2409,7 +2387,7 @@ CATEGORIES:Advance Registration\,CharitableEvent\,Elementary\,Food\,High S
 END:VEVENT
 BEGIN:VEVENT
 UID:ce3abc075bf78946@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260927T130000Z
 DTEND:20260927T143000Z
 SUMMARY:All-Girls Skate Instruction
@@ -2424,9 +2402,9 @@ DESCRIPTION:The Ann Arbor Skate Park offers an All-Girls Skate on the seco
  choolers\, Middle Schoolers\, Preschoolers\nCost: Free\nSignup: Drop in\,
   no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor
   with Kids\nDetails: https://annarborwithkids.com/events/girls-skate-inst
- ruction-2026-06-28-2026-07-26-2026-08-23-2026-09-27/\nFound on: https://s
- hinabarger.github.io/kid-events-in-ann-arbor/?event=ce3abc075bf78946\n\nD
- ouble check the time with the organizer before you go.
+ ruction-2026-06-28-2026-07-26-2026-08-23-2026-09-27/\nFound on: https://k
+ ideventsinannarbor.com/?event=ce3abc075bf78946\n\nDouble check the time w
+ ith the organizer before you go.
 URL:https://annarborwithkids.com/events/girls-skate-instruction-2026-06-28
  -2026-07-26-2026-08-23-2026-09-27/
 CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
@@ -2434,7 +2412,7 @@ CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:ac595a570ce235e5@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260927T140000Z
 DTEND:20260927T180000Z
 SUMMARY:Whitmore Lake Farmers Market
@@ -2452,9 +2430,8 @@ DESCRIPTION:The Whitmore Lake Farmers Market is back for its fourth season
  ttps://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-06-0
  7-2026-06-14-2026-06-21-2026-06-28-2026-07-05-2026-07-12-2026-07-19-2026-
  07-26-2026-08-02-2026-08-09-2026-08-16-2026-08-23-2026-08-30-2026-09-06-2
- 02-20-2026-09-27/\nFound on: https://shinabarger.github.io/kid-events-in-
- ann-arbor/?event=ac595a570ce235e5\n\nDouble check the time with the organ
- izer before you go.
+ 02-20-2026-09-27/\nFound on: https://kideventsinannarbor.com/?event=ac595
+ a570ce235e5\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/whitmore-lake-farmers-market-2026-
  06-07-2026-06-14-2026-06-21-2026-06-28-2026-07-05-2026-07-12-2026-07-19-2
  026-07-26-2026-08-02-2026-08-09-2026-08-16-2026-08-23-2026-08-30-2026-09-
@@ -2464,7 +2441,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:ba3c73525888124a@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260927T183000Z
 DTEND:20260927T200000Z
 SUMMARY:RunTough 2026
@@ -2480,16 +2457,15 @@ DESCRIPTION:ChadTough Defeat DIPG Foundation is excited to announce their
  oolers\, Preschoolers\, Toddler\nCost: Not listed\nSignup: Registration r
  equired\, book before you go\nOutdoors\, dress for the weather\nListed by
  : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/runto
- ugh/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?ev
- ent=ba3c73525888124a\n\nDouble check the time with the organizer before y
- ou go.
+ ugh/\nFound on: https://kideventsinannarbor.com/?event=ba3c73525888124a\n
+ \nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/runtough/
 CATEGORIES:Advance Registration\,CharitableEvent\,Elementary\,High Schoole
  rs\,MiddleSchoolers\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:cea64b3b210e4f5c@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260929T143000Z
 DTEND:20260929T153000Z
 SUMMARY:Nature Storytime: Moon Phases
@@ -2504,16 +2480,15 @@ DESCRIPTION:Learn all about the phases of the moon and make a craft to tak
  reschoolers\, Toddler\nCost: Free\nSignup: Registration required\, book b
  efore you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor with
   Kids\nDetails: https://annarborwithkids.com/events/nature-storytime-moon
- -phases/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor
- /?event=cea64b3b210e4f5c\n\nDouble check the time with the organizer befo
- re you go.
+ -phases/\nFound on: https://kideventsinannarbor.com/?event=cea64b3b210e4f
+ 5c\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/nature-storytime-moon-phases/
 CATEGORIES:Advance Registration\,Crafts\,Free\,Nature\,Outdoor\,Preschoole
  rs
 END:VEVENT
 BEGIN:VEVENT
 UID:e6b27adea53a0517@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260929T143000Z
 DTEND:20260929T153000Z
 SUMMARY:Outdoor Story Time for Kids
@@ -2524,16 +2499,16 @@ DESCRIPTION:Celebrate the changing seasons with stories\, songs and free p
  n required. 9/29 Moon Phases\, Las Vegas Park.\n\nCost: Free\nSignup: Reg
  istration required\, book before you go\nListed by: Ann Arbor Parks & Rec
  \nDetails: https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3De
- vent%26eventid%3D206766385\nFound on: https://shinabarger.github.io/kid-e
- vents-in-ann-arbor/?event=e6b27adea53a0517\n\nDouble check the time with 
- the organizer before you go.
+ vent%26eventid%3D206766385\nFound on: https://kideventsinannarbor.com/?ev
+ ent=e6b27adea53a0517\n\nDouble check the time with the organizer before y
+ ou go.
 URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
  ventid%3D206766385
 CATEGORIES:Parks and Recreation
 END:VEVENT
 BEGIN:VEVENT
 UID:89ffc2689643e4fe@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260930T110000Z
 DTEND:20260930T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -2550,9 +2525,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-26-2026-09-30/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=89ffc2689643e4fe\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-26-2026-09-30/\nFound on: https://kideventsinanna
+ rbor.com/?event=89ffc2689643e4fe\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -2562,7 +2537,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:6c4e3c992975f50d@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260930T130000Z
 DTEND:20260930T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -2580,9 +2555,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-04-29-2026-05-06
  -2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-0
  6-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-2-23-2026-09-30/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 6c4e3c992975f50d\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=6c4e3c992975f50d\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-04-29-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06
  -10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-202
@@ -2591,7 +2565,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:01d190b55810fe10@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260930T140000Z
 DTEND:20260930T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -2608,9 +2582,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2026 season runs May-October. The
  y: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/chel
  sea-farmers-market-2-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-
  03-2026-06-10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026
- -07-22-2026-07-29-2026-08-05-2026-08-23-2026-09-30/\nFound on: https://sh
- inabarger.github.io/kid-events-in-ann-arbor/?event=01d190b55810fe10\n\nDo
- uble check the time with the organizer before you go.
+ -07-22-2026-07-29-2026-08-05-2026-08-23-2026-09-30/\nFound on: https://ki
+ deventsinannarbor.com/?event=01d190b55810fe10\n\nDouble check the time wi
+ th the organizer before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2026-05-0
  6-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-
  06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2
@@ -2620,7 +2594,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:6393453ae9597808@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260930T143000Z
 DTEND:20260930T153000Z
 SUMMARY:Nature Play
@@ -2635,15 +2609,15 @@ DESCRIPTION:Join Ann Arbor Parks for a self-guided exploration of nature t
  ed States\nAges: Babies\, Preschoolers\, Toddler\nCost: Free\nSignup: Reg
  istration required\, book before you go\nOutdoors\, dress for the weather
  \nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/e
- vents/nature-play-2-2026-09-30/\nFound on: https://shinabarger.github.io/
- kid-events-in-ann-arbor/?event=6393453ae9597808\n\nDouble check the time 
- with the organizer before you go.
+ vents/nature-play-2-2026-09-30/\nFound on: https://kideventsinannarbor.co
+ m/?event=6393453ae9597808\n\nDouble check the time with the organizer bef
+ ore you go.
 URL:https://annarborwithkids.com/events/nature-play-2-2026-09-30/
 CATEGORIES:Advance Registration\,Babies\,Free\,Nature\,Outdoor\,Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:03b4db24097ca4d5@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20260930T210000Z
 DTEND:20260930T223000Z
 SUMMARY:Climate Week Wonder Walk: Strategies for Resilience
@@ -2660,9 +2634,9 @@ DESCRIPTION:Taking a positive step! Learn about native plantings and biosw
   Preschoolers\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\,
   dress for the weather\nListed by: Ann Arbor with Kids\nDetails: https://
  annarborwithkids.com/events/wonder-walk-big-teeth-and-webbed-feet-beaver-
- tales-and-co-existence/\nFound on: https://shinabarger.github.io/kid-even
- ts-in-ann-arbor/?event=03b4db24097ca4d5\n\nDouble check the time with the
-  organizer before you go.
+ tales-and-co-existence/\nFound on: https://kideventsinannarbor.com/?event
+ =03b4db24097ca4d5\n\nDouble check the time with the organizer before you 
+ go.
 URL:https://annarborwithkids.com/events/wonder-walk-big-teeth-and-webbed-f
  eet-beaver-tales-and-co-existence/
 CATEGORIES:Elementary\,Environmental\,Free\,HighSchoolers\,Hikes/Walks\,Mi
@@ -2670,7 +2644,7 @@ CATEGORIES:Elementary\,Environmental\,Free\,HighSchoolers\,Hikes/Walks\,Mi
 END:VEVENT
 BEGIN:VEVENT
 UID:90e480bf4ce7770c@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261001T180000Z
 DTEND:20261001T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -2688,15 +2662,14 @@ DESCRIPTION:Support your local farmer\, food producer\, and maker by shopp
  rs\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop 
  in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann A
  rbor with Kids\nDetails: https://annarborwithkids.com/events/farmers-mark
- et-2-2026-10-01/\nFound on: https://shinabarger.github.io/kid-events-in-a
- nn-arbor/?event=90e480bf4ce7770c\n\nDouble check the time with the organi
- zer before you go.
+ et-2-2026-10-01/\nFound on: https://kideventsinannarbor.com/?event=90e480
+ bf4ce7770c\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/farmers-market-2-2026-10-01/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f65a01635b5d8d5b@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261002T190000Z
 DTEND:20261002T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -2713,9 +2686,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dixbor
  : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/dixbo
  ro-farmers-market-2-2026-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-1
  9-2026-06-26-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-
- 08-07-2026-08-14-2026-08-21-2026-08-25-2026-10-02/\nFound on: https://shi
- nabarger.github.io/kid-events-in-ann-arbor/?event=f65a01635b5d8d5b\n\nDou
- ble check the time with the organizer before you go.
+ 08-07-2026-08-14-2026-08-21-2026-08-25-2026-10-02/\nFound on: https://kid
+ eventsinannarbor.com/?event=f65a01635b5d8d5b\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-05-2
  2-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026-
  07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2
@@ -2724,7 +2697,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:b99af2b6d3a75057@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261002T210000Z
 DTEND:20261002T223000Z
 SUMMARY:Free Family Trivia Night
@@ -2736,16 +2709,15 @@ DESCRIPTION:Looking for a fun night of friendly competition? Gather your f
  e\nSignup: Registration required\, book before you go\nOutdoors\, dress f
  or the weather\nListed by: Ann Arbor Parks & Rec\nDetails: https://www.a2
  gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D20640137
- 3\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event
- =b99af2b6d3a75057\n\nDouble check the time with the organizer before you 
- go.
+ 3\nFound on: https://kideventsinannarbor.com/?event=b99af2b6d3a75057\n\nD
+ ouble check the time with the organizer before you go.
 URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
  ventid%3D206401373
 CATEGORIES:Parks and Recreation
 END:VEVENT
 BEGIN:VEVENT
 UID:f7f946d60eb3600e@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261003T110000Z
 DTEND:20261003T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -2762,9 +2734,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-30-2026-10-03/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=f7f946d60eb3600e\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-30-2026-10-03/\nFound on: https://kideventsinanna
+ rbor.com/?event=f7f946d60eb3600e\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -2774,7 +2746,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:1f667aa8a31404ef@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261003T120000Z
 DTEND:20261003T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -2791,9 +2763,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2025 season runs May-October. The
  with Kids\nDetails: https://annarborwithkids.com/events/chelsea-farmers-m
  arket-2-2-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-
  06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026
- -07-25-2026-08-01-2026-26-2026-10-03/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=1f667aa8a31404ef\n\nDouble check the
-  time with the organizer before you go.
+ -07-25-2026-08-01-2026-26-2026-10-03/\nFound on: https://kideventsinannar
+ bor.com/?event=1f667aa8a31404ef\n\nDouble check the time with the organiz
+ er before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-05
  -02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-202
  6-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01
@@ -2803,7 +2775,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:3d290d8197901999@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261003T120000Z
 DTEND:20261003T170000Z
 SUMMARY:Dexter Farmers Market
@@ -2819,16 +2791,16 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dexter
  , Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\
  , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
  r with Kids\nDetails: https://annarborwithkids.com/events/dexter-farmers-
- market-2-2-2026-10-03/\nFound on: https://shinabarger.github.io/kid-event
- s-in-ann-arbor/?event=3d290d8197901999\n\nDouble check the time with the 
- organizer before you go.
+ market-2-2-2026-10-03/\nFound on: https://kideventsinannarbor.com/?event=
+ 3d290d8197901999\n\nDouble check the time with the organizer before you g
+ o.
 URL:https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-10-
  03/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:7ce644ae956a118a@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261003T120000Z
 DTEND:20261003T160000Z
 SUMMARY:Saline Famers Market
@@ -2845,9 +2817,9 @@ DESCRIPTION:From May through October\, the Saline Farmers Market is held D
   with Kids\nDetails: https://annarborwithkids.com/events/saline-famers-ma
  rket-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-20
  26-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-2
- 5-2026-08-01-2026-08-08-26-2026-10-03/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=7ce644ae956a118a\n\nDouble check th
- e time with the organizer before you go.
+ 5-2026-08-01-2026-08-08-26-2026-10-03/\nFound on: https://kideventsinanna
+ rbor.com/?event=7ce644ae956a118a\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/saline-famers-market-2026-05-02-20
  26-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-2
  0-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-
@@ -2856,7 +2828,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a9350fcbc987f3af@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261003T130000Z
 DTEND:20261003T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -2874,9 +2846,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-05-02-2026-05-09
  -2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026-0
  6-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-0-26-2026-10-03/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- a9350fcbc987f3af\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=a9350fcbc987f3af\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
  -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-202
@@ -2885,7 +2856,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:55721af3488716be@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261003T130000Z
 DTEND:20261003T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -2903,16 +2874,16 @@ DESCRIPTION:The Ypsilanti Farmers Markets is now on Tuesdays & Saturdays w
  ighSchoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSig
  nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/yp
- silanti-farmers-market-2026-10-03/\nFound on: https://shinabarger.github.
- io/kid-events-in-ann-arbor/?event=55721af3488716be\n\nDouble check the ti
- me with the organizer before you go.
+ silanti-farmers-market-2026-10-03/\nFound on: https://kideventsinannarbor
+ .com/?event=55721af3488716be\n\nDouble check the time with the organizer 
+ before you go.
 URL:https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-10-0
  3/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:34a724e5b35d706b@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261004T120000Z
 DTEND:20261004T180000Z
 SUMMARY:Ann Arbor Marathon
@@ -2928,15 +2899,15 @@ DESCRIPTION:The Probility Ann Arbor Marathon includes a 5K\, 10K\, half ma
  , MiddleSchoolers\nCost: $45\nSignup: Registration required\, book before
   you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids
  \nDetails: https://annarborwithkids.com/events/ann-arbor-marathon/\nFound
-  on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=34a724e
- 5b35d706b\n\nDouble check the time with the organizer before you go.
+  on: https://kideventsinannarbor.com/?event=34a724e5b35d706b\n\nDouble ch
+ eck the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-marathon/
 CATEGORIES:Advance Registration\,Elementary\,Fitness/Health\,High Schooler
  s\,MiddleSchoolers\,Race
 END:VEVENT
 BEGIN:VEVENT
 UID:a678ab868f4242fc@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261004T160000Z
 DTEND:20261004T210000Z
 SUMMARY:Climate Week: Refugia Festival
@@ -2952,15 +2923,15 @@ DESCRIPTION:Celebrate the intersection of sound\, art\, and ecology at the
  eSchoolers\, Preschoolers\nCost: Free\nSignup: Drop in\, no signup needed
  \nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetai
  ls: https://annarborwithkids.com/events/climate-week-refugia-festival/\nF
- ound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=a67
- 8ab868f4242fc\n\nDouble check the time with the organizer before you go.
+ ound on: https://kideventsinannarbor.com/?event=a678ab868f4242fc\n\nDoubl
+ e check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/climate-week-refugia-festival/
 CATEGORIES:CommunityResources\,Elementary\,Environmental\,High Schoolers\,
  MiddleSchoolers\,Music/Concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:a72ef5426df52cf1@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261004T200000Z
 DTEND:20261004T220000Z
 SUMMARY:Fall Fest
@@ -2975,15 +2946,15 @@ DESCRIPTION:Join PandaPrograms for their third annual Fall Fest. There wil
  ry\, Preschoolers\nCost: Free\nSignup: Registration required\, book befor
  e you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kid
  s\nDetails: https://annarborwithkids.com/events/family-fun-fridays/\nFoun
- d on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=a72ef5
- 426df52cf1\n\nDouble check the time with the organizer before you go.
+ d on: https://kideventsinannarbor.com/?event=a72ef5426df52cf1\n\nDouble c
+ heck the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/family-fun-fridays/
 CATEGORIES:CharitableEvent\,Elementary\,Fitness/Health\,Food\,Free\,Outdoo
  r
 END:VEVENT
 BEGIN:VEVENT
 UID:a1a8be74bb0c11cc@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261007T110000Z
 DTEND:20261007T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3000,9 +2971,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-03-2026-10-07/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=a1a8be74bb0c11cc\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-03-2026-10-07/\nFound on: https://kideventsinanna
+ rbor.com/?event=a1a8be74bb0c11cc\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -3012,7 +2983,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:82418614184c6ecd@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261007T130000Z
 DTEND:20261007T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -3030,9 +3001,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-04-29-2026-05-06
  -2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-0
  6-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-2-30-2026-10-07/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 82418614184c6ecd\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=82418614184c6ecd\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-04-29-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06
  -10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-202
@@ -3041,7 +3011,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:45bda4ea073a9a68@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261007T140000Z
 DTEND:20261007T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -3058,9 +3028,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2026 season runs May-October. The
  y: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/chel
  sea-farmers-market-2-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-
  03-2026-06-10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026
- -07-22-2026-07-29-2026-08-05-2026-08-30-2026-10-07/\nFound on: https://sh
- inabarger.github.io/kid-events-in-ann-arbor/?event=45bda4ea073a9a68\n\nDo
- uble check the time with the organizer before you go.
+ -07-22-2026-07-29-2026-08-05-2026-08-30-2026-10-07/\nFound on: https://ki
+ deventsinannarbor.com/?event=45bda4ea073a9a68\n\nDouble check the time wi
+ th the organizer before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2026-05-0
  6-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-
  06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2
@@ -3070,7 +3040,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:2523952c5e7e581b@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261007T210000Z
 DTEND:20261007T223000Z
 SUMMARY:Wonder Walk: Bird Migration Behavior and Climate Change
@@ -3085,9 +3055,8 @@ DESCRIPTION:Join Emily Elderbrook\, a bird behavior biologist\, on a walk
  ers\, Preschoolers\nCost: Free\nSignup: Drop in\, no signup needed\nOutdo
  ors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: htt
  ps://annarborwithkids.com/events/wonder-walk-bird-migration-behavior-and-
- climate-change/\nFound on: https://shinabarger.github.io/kid-events-in-an
- n-arbor/?event=2523952c5e7e581b\n\nDouble check the time with the organiz
- er before you go.
+ climate-change/\nFound on: https://kideventsinannarbor.com/?event=2523952
+ c5e7e581b\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/wonder-walk-bird-migration-behavio
  r-and-climate-change/
 CATEGORIES:Animals\,Elementary\,Environmental\,FallFun\,Free\,High Schoole
@@ -3095,7 +3064,7 @@ CATEGORIES:Animals\,Elementary\,Environmental\,FallFun\,Free\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2cdbff1db9073f@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261008T140000Z
 DTEND:20261008T150000Z
 SUMMARY:Fun on the Farm
@@ -3112,9 +3081,8 @@ DESCRIPTION:Fun on the Farm is an outdoor children’s series that focuses o
  ok before you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor 
  with Kids\nDetails: https://annarborwithkids.com/events/fun-on-the-farm-2
  026-07-09-2026-07-23-2026-08-06-2026-08-20-2026-09-03-2026-09-17-2026-10-
- 01-2/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?e
- vent=2e2cdbff1db9073f\n\nDouble check the time with the organizer before 
- you go.
+ 01-2/\nFound on: https://kideventsinannarbor.com/?event=2e2cdbff1db9073f\
+ n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/fun-on-the-farm-2026-07-09-2026-07
  -23-2026-08-06-2026-08-20-2026-09-03-2026-09-17-2026-10-01-2/
 CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,Nature\,Pres
@@ -3122,7 +3090,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,Nature\,Pres
 END:VEVENT
 BEGIN:VEVENT
 UID:3612bd600be42551@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261008T180000Z
 DTEND:20261008T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -3140,15 +3108,14 @@ DESCRIPTION:Support your local farmer\, food producer\, and maker by shopp
  rs\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop 
  in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann A
  rbor with Kids\nDetails: https://annarborwithkids.com/events/farmers-mark
- et-2-2026-10-08/\nFound on: https://shinabarger.github.io/kid-events-in-a
- nn-arbor/?event=3612bd600be42551\n\nDouble check the time with the organi
- zer before you go.
+ et-2-2026-10-08/\nFound on: https://kideventsinannarbor.com/?event=3612bd
+ 600be42551\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/farmers-market-2-2026-10-08/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:547fca1e11ab0510@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261009T190000Z
 DTEND:20261009T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -3165,9 +3132,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dixbor
  : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/dixbo
  ro-farmers-market-2-2026-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-1
  9-2026-06-26-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-
- 08-07-2026-08-14-2026-08-21-2026-08-02-2026-10-09/\nFound on: https://shi
- nabarger.github.io/kid-events-in-ann-arbor/?event=547fca1e11ab0510\n\nDou
- ble check the time with the organizer before you go.
+ 08-07-2026-08-14-2026-08-21-2026-08-02-2026-10-09/\nFound on: https://kid
+ eventsinannarbor.com/?event=547fca1e11ab0510\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-05-2
  2-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026-
  07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2
@@ -3176,7 +3143,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:15697c8e2782b0a2@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261010T110000Z
 DTEND:20261010T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3193,9 +3160,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-07-2026-10-10/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=15697c8e2782b0a2\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-07-2026-10-10/\nFound on: https://kideventsinanna
+ rbor.com/?event=15697c8e2782b0a2\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -3205,7 +3172,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:2948a696e874312c@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261010T120000Z
 DTEND:20261010T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -3222,9 +3189,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2025 season runs May-October. The
  with Kids\nDetails: https://annarborwithkids.com/events/chelsea-farmers-m
  arket-2-2-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-
  06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026
- -07-25-2026-08-01-2026-03-2026-10-10/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=2948a696e874312c\n\nDouble check the
-  time with the organizer before you go.
+ -07-25-2026-08-01-2026-03-2026-10-10/\nFound on: https://kideventsinannar
+ bor.com/?event=2948a696e874312c\n\nDouble check the time with the organiz
+ er before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-05
  -02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-202
  6-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01
@@ -3234,7 +3201,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:03356e0cbc9a9a90@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261010T120000Z
 DTEND:20261010T170000Z
 SUMMARY:Dexter Farmers Market
@@ -3250,16 +3217,16 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dexter
  , Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\
  , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
  r with Kids\nDetails: https://annarborwithkids.com/events/dexter-farmers-
- market-2-2-2026-10-10/\nFound on: https://shinabarger.github.io/kid-event
- s-in-ann-arbor/?event=03356e0cbc9a9a90\n\nDouble check the time with the 
- organizer before you go.
+ market-2-2-2026-10-10/\nFound on: https://kideventsinannarbor.com/?event=
+ 03356e0cbc9a9a90\n\nDouble check the time with the organizer before you g
+ o.
 URL:https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-10-
  10/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:6a35259e2351b7d0@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261010T120000Z
 DTEND:20261010T160000Z
 SUMMARY:Saline Famers Market
@@ -3276,9 +3243,9 @@ DESCRIPTION:From May through October\, the Saline Farmers Market is held D
   with Kids\nDetails: https://annarborwithkids.com/events/saline-famers-ma
  rket-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-20
  26-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-2
- 5-2026-08-01-2026-08-08-03-2026-10-10/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=6a35259e2351b7d0\n\nDouble check th
- e time with the organizer before you go.
+ 5-2026-08-01-2026-08-08-03-2026-10-10/\nFound on: https://kideventsinanna
+ rbor.com/?event=6a35259e2351b7d0\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/saline-famers-market-2026-05-02-20
  26-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-2
  0-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-
@@ -3287,7 +3254,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:57bcaa9a6f8b10bf@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261010T130000Z
 DTEND:20261010T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -3305,9 +3272,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-05-02-2026-05-09
  -2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026-0
  6-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-0-03-2026-10-10/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 57bcaa9a6f8b10bf\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=57bcaa9a6f8b10bf\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
  -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-202
@@ -3316,7 +3282,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:61d3e6daf2bf571b@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261010T130000Z
 DTEND:20261010T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -3334,16 +3300,16 @@ DESCRIPTION:The Ypsilanti Farmers Markets is now on Tuesdays & Saturdays w
  ighSchoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSig
  nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/yp
- silanti-farmers-market-2026-10-10/\nFound on: https://shinabarger.github.
- io/kid-events-in-ann-arbor/?event=61d3e6daf2bf571b\n\nDouble check the ti
- me with the organizer before you go.
+ silanti-farmers-market-2026-10-10/\nFound on: https://kideventsinannarbor
+ .com/?event=61d3e6daf2bf571b\n\nDouble check the time with the organizer 
+ before you go.
 URL:https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-10-1
  0/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:911be563c6650b7a@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261010T140000Z
 DTEND:20261010T160000Z
 SUMMARY:Birds in Your Binoculars
@@ -3359,9 +3325,9 @@ DESCRIPTION:Birds are everywhere! Join Lake Erie Metropark to head into th
  gh Schoolers\, MiddleSchoolers\nCost: Not listed\nSignup: Registration re
  quired\, book before you go\nOutdoors\, dress for the weather\nListed by:
   Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/birds-
- in-your-binoculars-2026-10-10/\nFound on: https://shinabarger.github.io/k
- id-events-in-ann-arbor/?event=911be563c6650b7a\n\nDouble check the time w
- ith the organizer before you go.
+ in-your-binoculars-2026-10-10/\nFound on: https://kideventsinannarbor.com
+ /?event=911be563c6650b7a\n\nDouble check the time with the organizer befo
+ re you go.
 URL:https://annarborwithkids.com/events/birds-in-your-binoculars-2026-10-1
  0/
 CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
@@ -3369,7 +3335,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:b8da1c40fc523bce@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261011T130000Z
 DTEND:20261011T143000Z
 SUMMARY:All-Girls Skate Instruction
@@ -3385,8 +3351,8 @@ DESCRIPTION:The Ann Arbor Skate Park offers an All-Girls Skate on the seco
   no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor
   with Kids\nDetails: https://annarborwithkids.com/events/girls-skate-inst
  ruction-2026-06-14-2026-07-12-2026-08-09-2026-09-13-2026-10-11/\nFound on
- : https://shinabarger.github.io/kid-events-in-ann-arbor/?event=b8da1c40fc
- 523bce\n\nDouble check the time with the organizer before you go.
+ : https://kideventsinannarbor.com/?event=b8da1c40fc523bce\n\nDouble check
+  the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/girls-skate-instruction-2026-06-14
  -2026-07-12-2026-08-09-2026-09-13-2026-10-11/
 CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
@@ -3394,7 +3360,7 @@ CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:f14929c6cbada81c@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261014T110000Z
 DTEND:20261014T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3411,9 +3377,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-10-2026-10-14/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=f14929c6cbada81c\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-10-2026-10-14/\nFound on: https://kideventsinanna
+ rbor.com/?event=f14929c6cbada81c\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -3423,7 +3389,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:056af894f47807a3@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261014T130000Z
 DTEND:20261014T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -3441,9 +3407,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-04-29-2026-05-06
  -2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-0
  6-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-2-07-2026-10-14/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 056af894f47807a3\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=056af894f47807a3\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-04-29-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06
  -10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-202
@@ -3452,7 +3417,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:571aa8d3085c2470@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261014T140000Z
 DTEND:20261014T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -3469,9 +3434,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2026 season runs May-October. The
  y: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/chel
  sea-farmers-market-2-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-
  03-2026-06-10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026
- -07-22-2026-07-29-2026-08-05-2026-08-07-2026-10-14/\nFound on: https://sh
- inabarger.github.io/kid-events-in-ann-arbor/?event=571aa8d3085c2470\n\nDo
- uble check the time with the organizer before you go.
+ -07-22-2026-07-29-2026-08-05-2026-08-07-2026-10-14/\nFound on: https://ki
+ deventsinannarbor.com/?event=571aa8d3085c2470\n\nDouble check the time wi
+ th the organizer before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2026-05-0
  6-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-
  06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2
@@ -3481,7 +3446,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:7a76ac117061f8e2@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261016T190000Z
 DTEND:20261016T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -3498,9 +3463,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dixbor
  : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/dixbo
  ro-farmers-market-2-2026-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-1
  9-2026-06-26-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-
- 08-07-2026-08-14-2026-08-21-2026-08-09-2026-10-16/\nFound on: https://shi
- nabarger.github.io/kid-events-in-ann-arbor/?event=7a76ac117061f8e2\n\nDou
- ble check the time with the organizer before you go.
+ 08-07-2026-08-14-2026-08-21-2026-08-09-2026-10-16/\nFound on: https://kid
+ eventsinannarbor.com/?event=7a76ac117061f8e2\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-05-2
  2-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026-
  07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2
@@ -3509,7 +3474,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:6aae1c54333de1c5@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261016T220000Z
 DTEND:20261017T010000Z
 SUMMARY:Michigan Marching Band Open Stadium Practice
@@ -3523,9 +3488,9 @@ DESCRIPTION:The University of Michigan Marching Band will have a FREE open
  an\, United States\nAges: Elementary\, HighSchoolers\, MiddleSchoolers\, 
  Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\, no signup needed\nL
  isted by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/even
- ts/michigan-marching-band-open-stadium-practice/\nFound on: https://shina
- barger.github.io/kid-events-in-ann-arbor/?event=6aae1c54333de1c5\n\nDoubl
- e check the time with the organizer before you go.
+ ts/michigan-marching-band-open-stadium-practice/\nFound on: https://kidev
+ entsinannarbor.com/?event=6aae1c54333de1c5\n\nDouble check the time with 
+ the organizer before you go.
 URL:https://annarborwithkids.com/events/michigan-marching-band-open-stadiu
  m-practice/
 CATEGORIES:Concert\,Elementary\,Free\,HighSchoolers\,Homecoming\,MiddleSch
@@ -3533,7 +3498,7 @@ CATEGORIES:Concert\,Elementary\,Free\,HighSchoolers\,Homecoming\,MiddleSch
 END:VEVENT
 BEGIN:VEVENT
 UID:d26ca7e790df4ba0@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261017T110000Z
 DTEND:20261017T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3550,9 +3515,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-14-2026-10-17/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=d26ca7e790df4ba0\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-14-2026-10-17/\nFound on: https://kideventsinanna
+ rbor.com/?event=d26ca7e790df4ba0\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -3562,7 +3527,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:fc190ba2f3b634c5@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261017T120000Z
 DTEND:20261017T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -3579,9 +3544,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2025 season runs May-October. The
  with Kids\nDetails: https://annarborwithkids.com/events/chelsea-farmers-m
  arket-2-2-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-
  06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026
- -07-25-2026-08-01-2026-10-2026-10-17/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=fc190ba2f3b634c5\n\nDouble check the
-  time with the organizer before you go.
+ -07-25-2026-08-01-2026-10-2026-10-17/\nFound on: https://kideventsinannar
+ bor.com/?event=fc190ba2f3b634c5\n\nDouble check the time with the organiz
+ er before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-05
  -02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-202
  6-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01
@@ -3591,7 +3556,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:ebbb00eaba0b2139@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261017T120000Z
 DTEND:20261017T170000Z
 SUMMARY:Dexter Farmers Market
@@ -3607,16 +3572,16 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dexter
  , Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\
  , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
  r with Kids\nDetails: https://annarborwithkids.com/events/dexter-farmers-
- market-2-2-2026-10-17/\nFound on: https://shinabarger.github.io/kid-event
- s-in-ann-arbor/?event=ebbb00eaba0b2139\n\nDouble check the time with the 
- organizer before you go.
+ market-2-2-2026-10-17/\nFound on: https://kideventsinannarbor.com/?event=
+ ebbb00eaba0b2139\n\nDouble check the time with the organizer before you g
+ o.
 URL:https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-10-
  17/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:16feb395c35735b4@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261017T120000Z
 DTEND:20261017T160000Z
 SUMMARY:Saline Famers Market
@@ -3633,9 +3598,9 @@ DESCRIPTION:From May through October\, the Saline Farmers Market is held D
   with Kids\nDetails: https://annarborwithkids.com/events/saline-famers-ma
  rket-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-20
  26-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-2
- 5-2026-08-01-2026-08-08-10-2026-10-17/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=16feb395c35735b4\n\nDouble check th
- e time with the organizer before you go.
+ 5-2026-08-01-2026-08-08-10-2026-10-17/\nFound on: https://kideventsinanna
+ rbor.com/?event=16feb395c35735b4\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/saline-famers-market-2026-05-02-20
  26-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-2
  0-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-
@@ -3644,7 +3609,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:bedffd6e59f5af62@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261017T130000Z
 DTEND:20261017T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -3662,9 +3627,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-05-02-2026-05-09
  -2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026-0
  6-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-0-10-2026-10-17/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- bedffd6e59f5af62\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=bedffd6e59f5af62\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
  -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-202
@@ -3673,7 +3637,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:68791fb15d69ad2e@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261017T130000Z
 DTEND:20261017T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -3691,16 +3655,16 @@ DESCRIPTION:The Ypsilanti Farmers Markets is now on Tuesdays & Saturdays w
  ighSchoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSig
  nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/yp
- silanti-farmers-market-2026-10-17/\nFound on: https://shinabarger.github.
- io/kid-events-in-ann-arbor/?event=68791fb15d69ad2e\n\nDouble check the ti
- me with the organizer before you go.
+ silanti-farmers-market-2026-10-17/\nFound on: https://kideventsinannarbor
+ .com/?event=68791fb15d69ad2e\n\nDouble check the time with the organizer 
+ before you go.
 URL:https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-10-1
  7/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:76ced046d6693a0f@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261018T160000Z
 DTEND:20261018T200000Z
 SUMMARY:Boo Bash
@@ -3710,16 +3674,16 @@ DESCRIPTION:Details to be announced. Stay tune. http://www.a2gov.org/parke
  vents\n\nWhere: 2751 Packard Road\, Ann Arbor\, MI\nCost: Not listed\nSig
  nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor Parks & Rec\nDetails: https://www.a2gov.org/Pages/Calendar
- .aspx?trumbaEmbed=view%3Devent%26eventid%3D206769313\nFound on: https://s
- hinabarger.github.io/kid-events-in-ann-arbor/?event=76ced046d6693a0f\n\nD
- ouble check the time with the organizer before you go.
+ .aspx?trumbaEmbed=view%3Devent%26eventid%3D206769313\nFound on: https://k
+ ideventsinannarbor.com/?event=76ced046d6693a0f\n\nDouble check the time w
+ ith the organizer before you go.
 URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
  ventid%3D206769313
 CATEGORIES:Parks and Recreation
 END:VEVENT
 BEGIN:VEVENT
 UID:4f7e9aba35eababb@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261021T110000Z
 DTEND:20261021T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3736,9 +3700,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-17-2026-10-21/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=4f7e9aba35eababb\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-17-2026-10-21/\nFound on: https://kideventsinanna
+ rbor.com/?event=4f7e9aba35eababb\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -3748,7 +3712,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:b8c65f7e77573bd7@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261021T130000Z
 DTEND:20261021T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -3766,9 +3730,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-04-29-2026-05-06
  -2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-0
  6-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-2-14-2026-10-21/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- b8c65f7e77573bd7\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=b8c65f7e77573bd7\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-04-29-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06
  -10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-202
@@ -3777,7 +3740,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:08cfff6e27d3121f@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261021T140000Z
 DTEND:20261021T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -3794,9 +3757,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2026 season runs May-October. The
  y: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/chel
  sea-farmers-market-2-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-
  03-2026-06-10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026
- -07-22-2026-07-29-2026-08-05-2026-08-14-2026-10-21/\nFound on: https://sh
- inabarger.github.io/kid-events-in-ann-arbor/?event=08cfff6e27d3121f\n\nDo
- uble check the time with the organizer before you go.
+ -07-22-2026-07-29-2026-08-05-2026-08-14-2026-10-21/\nFound on: https://ki
+ deventsinannarbor.com/?event=08cfff6e27d3121f\n\nDouble check the time wi
+ th the organizer before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2026-05-0
  6-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-
  06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2
@@ -3806,7 +3769,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:d7b17c595321a78f@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261021T210000Z
 DTEND:20261022T000000Z
 SUMMARY:Ann Arbor Farmers Market Food Truck Rally!
@@ -3818,16 +3781,16 @@ DESCRIPTION:Join us and our favorite local trucks\, carts\, and pop-ups fo
  e: 315 Detroit Street\, Ann Arbor\, MI\nCost: Not listed\nSignup: Drop in
  \, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arb
  or Parks & Rec\nDetails: https://www.a2gov.org/Pages/Calendar.aspx?trumba
- Embed=view%3Devent%26eventid%3D206809760\nFound on: https://shinabarger.g
- ithub.io/kid-events-in-ann-arbor/?event=d7b17c595321a78f\n\nDouble check 
- the time with the organizer before you go.
+ Embed=view%3Devent%26eventid%3D206809760\nFound on: https://kideventsinan
+ narbor.com/?event=d7b17c595321a78f\n\nDouble check the time with the orga
+ nizer before you go.
 URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
  ventid%3D206809760
 CATEGORIES:Farmers Market
 END:VEVENT
 BEGIN:VEVENT
 UID:497ca6624f3dfdee@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261021T210000Z
 DTEND:20261022T000000Z
 SUMMARY:Third Wednesday Food Truck Rally
@@ -3842,9 +3805,9 @@ DESCRIPTION:The Ann Arbor Farmers Market holds a Food Truck Rally on the t
  e Schoolers\, Preschoolers\nCost: Not listed\nSignup: Drop in\, no signup
   needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids
  \nDetails: https://annarborwithkids.com/events/first-wednesday-food-truck
- -rally-2026-07-15-2026-08-19-2026-09-16-2026-10-21/\nFound on: https://sh
- inabarger.github.io/kid-events-in-ann-arbor/?event=497ca6624f3dfdee\n\nDo
- uble check the time with the organizer before you go.
+ -rally-2026-07-15-2026-08-19-2026-09-16-2026-10-21/\nFound on: https://ki
+ deventsinannarbor.com/?event=497ca6624f3dfdee\n\nDouble check the time wi
+ th the organizer before you go.
 URL:https://annarborwithkids.com/events/first-wednesday-food-truck-rally-2
  026-07-15-2026-08-19-2026-09-16-2026-10-21/
 CATEGORIES:Elementary\,Farmers Market\,Food\,HighSchoolers\,Middle Schoole
@@ -3852,7 +3815,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,HighSchoolers\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:80f84738bf0ec021@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261023T190000Z
 DTEND:20261023T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -3869,9 +3832,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dixbor
  : Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/dixbo
  ro-farmers-market-2-2026-05-22-2026-05-29-2026-06-05-2026-06-12-2026-06-1
  9-2026-06-26-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-
- 08-07-2026-08-14-2026-08-21-2026-08-16-2026-10-23/\nFound on: https://shi
- nabarger.github.io/kid-events-in-ann-arbor/?event=80f84738bf0ec021\n\nDou
- ble check the time with the organizer before you go.
+ 08-07-2026-08-14-2026-08-21-2026-08-16-2026-10-23/\nFound on: https://kid
+ eventsinannarbor.com/?event=80f84738bf0ec021\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-05-2
  2-2026-05-29-2026-06-05-2026-06-12-2026-06-19-2026-06-26-2026-07-03-2026-
  07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2
@@ -3880,7 +3843,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:099b0e802b04a9e1@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261024T110000Z
 DTEND:20261024T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3897,9 +3860,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-21-2026-10-24/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=099b0e802b04a9e1\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-21-2026-10-24/\nFound on: https://kideventsinanna
+ rbor.com/?event=099b0e802b04a9e1\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -3909,7 +3872,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfc89a3320231b5@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261024T120000Z
 DTEND:20261024T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -3926,9 +3889,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2025 season runs May-October. The
  with Kids\nDetails: https://annarborwithkids.com/events/chelsea-farmers-m
  arket-2-2-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-
  06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026
- -07-25-2026-08-01-2026-17-2026-10-24/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=ebfc89a3320231b5\n\nDouble check the
-  time with the organizer before you go.
+ -07-25-2026-08-01-2026-17-2026-10-24/\nFound on: https://kideventsinannar
+ bor.com/?event=ebfc89a3320231b5\n\nDouble check the time with the organiz
+ er before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-05
  -02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-202
  6-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01
@@ -3938,7 +3901,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:c9782bb1d4fba175@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261024T120000Z
 DTEND:20261024T170000Z
 SUMMARY:Dexter Farmers Market
@@ -3954,16 +3917,16 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dexter
  , Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\
  , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
  r with Kids\nDetails: https://annarborwithkids.com/events/dexter-farmers-
- market-2-2-2026-10-24/\nFound on: https://shinabarger.github.io/kid-event
- s-in-ann-arbor/?event=c9782bb1d4fba175\n\nDouble check the time with the 
- organizer before you go.
+ market-2-2-2026-10-24/\nFound on: https://kideventsinannarbor.com/?event=
+ c9782bb1d4fba175\n\nDouble check the time with the organizer before you g
+ o.
 URL:https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-10-
  24/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4207f3d4b512e357@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261024T120000Z
 DTEND:20261024T160000Z
 SUMMARY:Saline Famers Market
@@ -3980,9 +3943,9 @@ DESCRIPTION:From May through October\, the Saline Farmers Market is held D
   with Kids\nDetails: https://annarborwithkids.com/events/saline-famers-ma
  rket-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-20
  26-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-2
- 5-2026-08-01-2026-08-08-17-2026-10-24/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=4207f3d4b512e357\n\nDouble check th
- e time with the organizer before you go.
+ 5-2026-08-01-2026-08-08-17-2026-10-24/\nFound on: https://kideventsinanna
+ rbor.com/?event=4207f3d4b512e357\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/saline-famers-market-2026-05-02-20
  26-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-2
  0-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-
@@ -3991,7 +3954,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:399562db0cce2079@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261024T130000Z
 DTEND:20261024T180000Z
 SUMMARY:Michigan Monster Dash
@@ -4007,15 +3970,15 @@ DESCRIPTION:8th Annual Michigan Monster Dash\, returning to the scenic Ken
  rs\nCost: $65\nSignup: Registration required\, book before you go\nOutdoo
  rs\, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: http
  s://annarborwithkids.com/events/michigan-monster-dash/\nFound on: https:/
- /shinabarger.github.io/kid-events-in-ann-arbor/?event=399562db0cce2079\n\
- nDouble check the time with the organizer before you go.
+ /kideventsinannarbor.com/?event=399562db0cce2079\n\nDouble check the time
+  with the organizer before you go.
 URL:https://annarborwithkids.com/events/michigan-monster-dash/
 CATEGORIES:Advance Registration\,Elementary\,Halloween\,High Schoolers\,Mi
  ddleSchoolers\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:0d9c229eee1f1496@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261024T130000Z
 DTEND:20261024T160000Z
 SUMMARY:Spooky Sprint
@@ -4033,15 +3996,15 @@ DESCRIPTION:Join Bodies Race Company for the annual Spooky Sprint 5k/10k &
  eSchoolers\nCost: $17\nSignup: Registration required\, book before you go
  \nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDetai
  ls: https://annarborwithkids.com/events/spooky-sprint/\nFound on: https:/
- /shinabarger.github.io/kid-events-in-ann-arbor/?event=0d9c229eee1f1496\n\
- nDouble check the time with the organizer before you go.
+ /kideventsinannarbor.com/?event=0d9c229eee1f1496\n\nDouble check the time
+  with the organizer before you go.
 URL:https://annarborwithkids.com/events/spooky-sprint/
 CATEGORIES:Advance Registration\,Elementary\,Food\,Halloween\,High Schoole
  rs\,MiddleSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4ec7a14d3add89ae@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261024T130000Z
 DTEND:20261024T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -4059,9 +4022,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-05-02-2026-05-09
  -2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026-0
  6-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-0-17-2026-10-24/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 4ec7a14d3add89ae\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=4ec7a14d3add89ae\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
  -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-202
@@ -4070,7 +4032,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:c6fc596448d8ca22@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261024T130000Z
 DTEND:20261024T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -4088,16 +4050,16 @@ DESCRIPTION:The Ypsilanti Farmers Markets is now on Tuesdays & Saturdays w
  ighSchoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSig
  nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/yp
- silanti-farmers-market-2026-10-24/\nFound on: https://shinabarger.github.
- io/kid-events-in-ann-arbor/?event=c6fc596448d8ca22\n\nDouble check the ti
- me with the organizer before you go.
+ silanti-farmers-market-2026-10-24/\nFound on: https://kideventsinannarbor
+ .com/?event=c6fc596448d8ca22\n\nDouble check the time with the organizer 
+ before you go.
 URL:https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-10-2
  4/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:45f8d1e06a2d7c7e@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
 SUMMARY:Trunk or Treat
@@ -4114,14 +4076,14 @@ DESCRIPTION:Join a fun-filled Community Trunk or Treat at Christian Montes
  s\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\, no signup neede
  d\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kids\nDeta
  ils: https://annarborwithkids.com/events/trunk-or-treat-2/\nFound on: htt
- ps://shinabarger.github.io/kid-events-in-ann-arbor/?event=45f8d1e06a2d7c7
- e\n\nDouble check the time with the organizer before you go.
+ ps://kideventsinannarbor.com/?event=45f8d1e06a2d7c7e\n\nDouble check the 
+ time with the organizer before you go.
 URL:https://annarborwithkids.com/events/trunk-or-treat-2/
 CATEGORIES:Babies\,CharitableEvent\,Elementary\,Food\,Free\,Halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:e13c4f6f78b7a81f@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261025T130000Z
 DTEND:20261025T143000Z
 SUMMARY:All-Girls Skate Instruction
@@ -4137,8 +4099,8 @@ DESCRIPTION:The Ann Arbor Skate Park offers an All-Girls Skate on the seco
   no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor
   with Kids\nDetails: https://annarborwithkids.com/events/girls-skate-inst
  ruction-2026-06-28-2026-07-26-2026-08-23-2026-09-27-2026-10-25/\nFound on
- : https://shinabarger.github.io/kid-events-in-ann-arbor/?event=e13c4f6f78
- b7a81f\n\nDouble check the time with the organizer before you go.
+ : https://kideventsinannarbor.com/?event=e13c4f6f78b7a81f\n\nDouble check
+  the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/girls-skate-instruction-2026-06-28
  -2026-07-26-2026-08-23-2026-09-27-2026-10-25/
 CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
@@ -4146,7 +4108,7 @@ CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:1121ad17187df6da@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261025T140000Z
 DTEND:20261025T180000Z
 SUMMARY:Prescribed Fire Festival
@@ -4161,15 +4123,15 @@ DESCRIPTION:The Michigan Prescribed Fire Council and Matthaei Botanical Ga
  \, Preschoolers\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors
  \, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: https:
  //annarborwithkids.com/events/prescribed-fire-festival/\nFound on: https:
- //shinabarger.github.io/kid-events-in-ann-arbor/?event=1121ad17187df6da\n
- \nDouble check the time with the organizer before you go.
+ //kideventsinannarbor.com/?event=1121ad17187df6da\n\nDouble check the tim
+ e with the organizer before you go.
 URL:https://annarborwithkids.com/events/prescribed-fire-festival/
 CATEGORIES:CommunityResources\,Elementary\,Environmental\,Free\,High Schoo
  lers\,MiddleSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:9bfe64e3006113b0@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261025T153000Z
 DTEND:20261025T190000Z
 SUMMARY:AADL Costume Contest
@@ -4184,16 +4146,15 @@ DESCRIPTION:Ann Arbor District Library's annual Halloween Costume Contest
  abies\, Elementary\, HighSchoolers\, Middle Schoolers\, Preschoolers\, To
  ddler\nCost: Free\nSignup: Drop in\, no signup needed\nListed by: Ann Arb
  or with Kids\nDetails: https://annarborwithkids.com/events/aadl-costume-c
- ontest-2/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbo
- r/?event=9bfe64e3006113b0\n\nDouble check the time with the organizer bef
- ore you go.
+ ontest-2/\nFound on: https://kideventsinannarbor.com/?event=9bfe64e300611
+ 3b0\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/aadl-costume-contest-2/
 CATEGORIES:Babies\,Elementary\,Free\,Halloween\,HighSchoolers\,Middle Scho
  olers
 END:VEVENT
 BEGIN:VEVENT
 UID:175e3a866b13deae@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261025T153000Z
 DTEND:20261025T190000Z
 SUMMARY:Halloween Downtown Trick or Treat
@@ -4209,15 +4170,15 @@ DESCRIPTION:The Main Street Treat Parade is on Sunday\, October 25. Activi
  olers\, MiddleSchoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Dro
  p in\, no signup needed\nListed by: Ann Arbor with Kids\nDetails: https:/
  /annarborwithkids.com/events/halloween-treat-parade-3/\nFound on: https:/
- /shinabarger.github.io/kid-events-in-ann-arbor/?event=175e3a866b13deae\n\
- nDouble check the time with the organizer before you go.
+ /kideventsinannarbor.com/?event=175e3a866b13deae\n\nDouble check the time
+  with the organizer before you go.
 URL:https://annarborwithkids.com/events/halloween-treat-parade-3/
 CATEGORIES:Babies\,DisplayImage\,Elementary\,Free\,Halloween\,High Schoole
  rs
 END:VEVENT
 BEGIN:VEVENT
 UID:cb1b856a32804c1e@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261028T110000Z
 DTEND:20261028T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -4234,9 +4195,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-24-2026-10-28/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=cb1b856a32804c1e\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-24-2026-10-28/\nFound on: https://kideventsinanna
+ rbor.com/?event=cb1b856a32804c1e\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -4246,7 +4207,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:221dd651742b27b5@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261028T130000Z
 DTEND:20261028T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -4264,9 +4225,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-04-29-2026-05-06
  -2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-0
  6-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-2-21-2026-10-28/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 221dd651742b27b5\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=221dd651742b27b5\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-04-29-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06
  -10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-202
@@ -4275,7 +4235,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:edd5ec8dd5046471@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261028T140000Z
 DTEND:20261028T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -4292,9 +4252,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2026 season runs May-October. The
  y: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/chel
  sea-farmers-market-2-2026-05-06-2026-05-13-2026-05-20-2026-05-27-2026-06-
  03-2026-06-10-2026-06-17-2026-06-24-2026-07-01-2026-07-08-2026-07-15-2026
- -07-22-2026-07-29-2026-08-05-2026-08-21-2026-10-28/\nFound on: https://sh
- inabarger.github.io/kid-events-in-ann-arbor/?event=edd5ec8dd5046471\n\nDo
- uble check the time with the organizer before you go.
+ -07-22-2026-07-29-2026-08-05-2026-08-21-2026-10-28/\nFound on: https://ki
+ deventsinannarbor.com/?event=edd5ec8dd5046471\n\nDouble check the time wi
+ th the organizer before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2026-05-0
  6-2026-05-13-2026-05-20-2026-05-27-2026-06-03-2026-06-10-2026-06-17-2026-
  06-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2
@@ -4304,7 +4264,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:10a7849614c74663@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261030T140000Z
 DTEND:20261030T150000Z
 SUMMARY:Preschool Explorers at the Mills
@@ -4319,9 +4279,8 @@ DESCRIPTION:Join Hudson Mills MetroPark on the last Friday of each month f
  ost: $5\nSignup: Registration required\, book before you go\nListed by: A
  nn Arbor with Kids\nDetails: https://annarborwithkids.com/events/preschoo
  l-explorers-at-the-mills-2026-06-26-2026-07-31-2026-08-28-2026-09-25-2026
- -10-30/\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/
- ?event=10a7849614c74663\n\nDouble check the time with the organizer befor
- e you go.
+ -10-30/\nFound on: https://kideventsinannarbor.com/?event=10a7849614c7466
+ 3\n\nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/preschool-explorers-at-the-mills-2
  026-06-26-2026-07-31-2026-08-28-2026-09-25-2026-10-30/
 CATEGORIES:Advance Registration\,Animals\,IndoorActivities\,Nature\,Outdoo
@@ -4329,7 +4288,7 @@ CATEGORIES:Advance Registration\,Animals\,IndoorActivities\,Nature\,Outdoo
 END:VEVENT
 BEGIN:VEVENT
 UID:59f4127bcd6fb32b@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261031T110000Z
 DTEND:20261031T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -4346,9 +4305,9 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Ann Ar
   with Kids\nDetails: https://annarborwithkids.com/events/ann-arbor-farmer
  s-market-3-2026-05-02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05
  -20-2026-05-23-2026-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-202
- 6-06-13-2026-06-17-2026-28-2026-10-31/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=59f4127bcd6fb32b\n\nDouble check th
- e time with the organizer before you go.
+ 6-06-13-2026-06-17-2026-28-2026-10-31/\nFound on: https://kideventsinanna
+ rbor.com/?event=59f4127bcd6fb32b\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/ann-arbor-farmers-market-3-2026-05
  -02-2026-05-06-2026-05-09-2026-05-13-2026-05-16-2026-05-20-2026-05-23-202
  6-05-27-2026-05-30-2026-06-03-2026-06-06-2026-06-10-2026-06-13-2026-06-17
@@ -4358,7 +4317,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:789df771b9fdd081@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261031T120000Z
 DTEND:20261031T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -4375,9 +4334,9 @@ DESCRIPTION:The Chelsea Farmers Market's 2025 season runs May-October. The
  with Kids\nDetails: https://annarborwithkids.com/events/chelsea-farmers-m
  arket-2-2-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-
  06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026
- -07-25-2026-08-01-2026-24-2026-10-31/\nFound on: https://shinabarger.gith
- ub.io/kid-events-in-ann-arbor/?event=789df771b9fdd081\n\nDouble check the
-  time with the organizer before you go.
+ -07-25-2026-08-01-2026-24-2026-10-31/\nFound on: https://kideventsinannar
+ bor.com/?event=789df771b9fdd081\n\nDouble check the time with the organiz
+ er before you go.
 URL:https://annarborwithkids.com/events/chelsea-farmers-market-2-2-2026-05
  -02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-202
  6-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01
@@ -4387,7 +4346,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:ce1c9c5937f30507@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261031T120000Z
 DTEND:20261031T170000Z
 SUMMARY:Dexter Farmers Market
@@ -4403,16 +4362,16 @@ DESCRIPTION:Farmers Market excursions are tons of fun for kids. The Dexter
  , Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\
  , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
  r with Kids\nDetails: https://annarborwithkids.com/events/dexter-farmers-
- market-2-2-2026-10-31/\nFound on: https://shinabarger.github.io/kid-event
- s-in-ann-arbor/?event=ce1c9c5937f30507\n\nDouble check the time with the 
- organizer before you go.
+ market-2-2-2026-10-31/\nFound on: https://kideventsinannarbor.com/?event=
+ ce1c9c5937f30507\n\nDouble check the time with the organizer before you g
+ o.
 URL:https://annarborwithkids.com/events/dexter-farmers-market-2-2-2026-10-
  31/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:47e567e43736ce45@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261031T120000Z
 DTEND:20261031T160000Z
 SUMMARY:Saline Famers Market
@@ -4429,9 +4388,9 @@ DESCRIPTION:From May through October\, the Saline Farmers Market is held D
   with Kids\nDetails: https://annarborwithkids.com/events/saline-famers-ma
  rket-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-20
  26-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-2
- 5-2026-08-01-2026-08-08-24-2026-10-31/\nFound on: https://shinabarger.git
- hub.io/kid-events-in-ann-arbor/?event=47e567e43736ce45\n\nDouble check th
- e time with the organizer before you go.
+ 5-2026-08-01-2026-08-08-24-2026-10-31/\nFound on: https://kideventsinanna
+ rbor.com/?event=47e567e43736ce45\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://annarborwithkids.com/events/saline-famers-market-2026-05-02-20
  26-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-2
  0-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-
@@ -4440,7 +4399,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:3d53e1932043e2be@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261031T121500Z
 DTEND:20261031T144500Z
 SUMMARY:Run Scream Run
@@ -4456,16 +4415,16 @@ DESCRIPTION:Start Halloween morning at Wiards Orchard for Run Scream Run!
  own Ann Arbor\nAges: Elementary\, High Schoolers\, MiddleSchoolers\nCost:
   $35\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weathe
  r\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/
- events/run-scream-run/\nFound on: https://shinabarger.github.io/kid-event
- s-in-ann-arbor/?event=3d53e1932043e2be\n\nDouble check the time with the 
- organizer before you go.
+ events/run-scream-run/\nFound on: https://kideventsinannarbor.com/?event=
+ 3d53e1932043e2be\n\nDouble check the time with the organizer before you g
+ o.
 URL:https://annarborwithkids.com/events/run-scream-run/
 CATEGORIES:CharitableEvent\,Elementary\,Fitness/Health\,Halloween\,High Sc
  hoolers\,Holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:031417cbc90a3d69@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261031T130000Z
 DTEND:20261031T180000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -4483,9 +4442,8 @@ DESCRIPTION:White Lotus Farms offers a Farmers Market on Saturdays from 9a
  thkids.com/events/white-lotus-farms-famers-market-2-2026-05-02-2026-05-09
  -2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-2026-0
  6-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-0-24-2026-10-31/
- \nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event=
- 031417cbc90a3d69\n\nDouble check the time with the organizer before you g
- o.
+ \nFound on: https://kideventsinannarbor.com/?event=031417cbc90a3d69\n\nDo
+ uble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/white-lotus-farms-famers-market-2-
  2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
  -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-202
@@ -4494,7 +4452,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4da9fdea982952a5@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261031T130000Z
 DTEND:20261031T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -4512,16 +4470,16 @@ DESCRIPTION:The Ypsilanti Farmers Markets is now on Tuesdays & Saturdays w
  ighSchoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSig
  nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
   by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/yp
- silanti-farmers-market-2026-10-31/\nFound on: https://shinabarger.github.
- io/kid-events-in-ann-arbor/?event=4da9fdea982952a5\n\nDouble check the ti
- me with the organizer before you go.
+ silanti-farmers-market-2026-10-31/\nFound on: https://kideventsinannarbor
+ .com/?event=4da9fdea982952a5\n\nDouble check the time with the organizer 
+ before you go.
 URL:https://annarborwithkids.com/events/ypsilanti-farmers-market-2026-10-3
  1/
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:2b5cb052048788c7@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261106T210000Z
 DTEND:20261106T223000Z
 SUMMARY:Free Family Trivia Night
@@ -4533,16 +4491,15 @@ DESCRIPTION:Looking for a fun night of friendly competition? Gather your f
  e\nSignup: Registration required\, book before you go\nOutdoors\, dress f
  or the weather\nListed by: Ann Arbor Parks & Rec\nDetails: https://www.a2
  gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D20640137
- 4\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event
- =2b5cb052048788c7\n\nDouble check the time with the organizer before you 
- go.
+ 4\nFound on: https://kideventsinannarbor.com/?event=2b5cb052048788c7\n\nD
+ ouble check the time with the organizer before you go.
 URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
  ventid%3D206401374
 CATEGORIES:Parks and Recreation
 END:VEVENT
 BEGIN:VEVENT
 UID:7e4bfc32b0959c67@kid-events-in-ann-arbor
-DTSTAMP:20260908T135538Z
+DTSTAMP:20260908T155723Z
 DTSTART:20261204T220000Z
 DTEND:20261204T233000Z
 SUMMARY:Free Family Trivia Night
@@ -4554,9 +4511,8 @@ DESCRIPTION:Looking for a fun night of friendly competition? Gather your f
  e\nSignup: Registration required\, book before you go\nOutdoors\, dress f
  or the weather\nListed by: Ann Arbor Parks & Rec\nDetails: https://www.a2
  gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D20640137
- 5\nFound on: https://shinabarger.github.io/kid-events-in-ann-arbor/?event
- =7e4bfc32b0959c67\n\nDouble check the time with the organizer before you 
- go.
+ 5\nFound on: https://kideventsinannarbor.com/?event=7e4bfc32b0959c67\n\nD
+ ouble check the time with the organizer before you go.
 URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
  ventid%3D206401375
 CATEGORIES:Parks and Recreation
