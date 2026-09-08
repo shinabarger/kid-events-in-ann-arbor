@@ -80,7 +80,7 @@ def share_card() -> str:
            "Storytimes, playgroups and festivals,",
            font=sub, fill=(214, 236, 224))
     d.text((88, 522), "all on one page you can filter.", font=sub, fill=(214, 236, 224))
-    d.text((88, 560), "shinabarger.github.io/kid-events-in-ann-arbor",
+    d.text((88, 560), "kideventsinannarbor.com",
            font=small, fill=(150, 200, 176))
 
     path = os.path.join(OUT, "og-cover.png")

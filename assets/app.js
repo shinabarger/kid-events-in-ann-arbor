@@ -6,7 +6,7 @@
 (function () {
   "use strict";
 
-  var SITE = "https://shinabarger.github.io/kid-events-in-ann-arbor";
+  var SITE = "https://kideventsinannarbor.com";
   var TZ = "America/Detroit";
 
   /* Every filter except the search box and the date chips takes a set of

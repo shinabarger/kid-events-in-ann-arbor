@@ -222,7 +222,7 @@ def test_site_files_are_present():
 def test_the_page_points_at_the_right_pages_url():
     with open(os.path.join(ROOT, "assets", "app.js"), "r", encoding="utf-8") as fh:
         js = fh.read()
-    assert "shinabarger.github.io/kid-events-in-ann-arbor" in js
+    assert "kideventsinannarbor.com" in js
 
 
 def test_html_has_the_accessibility_basics():

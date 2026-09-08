@@ -8,4 +8,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shinabarger.github.io/kid-events-in-ann-arbor/sitemap.xml
+Sitemap: https://kideventsinannarbor.com/sitemap.xml

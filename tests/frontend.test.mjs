@@ -28,7 +28,7 @@ async function load() { return loadPage(HTML); }
 async function loadPage(html) {
   const dom = new JSDOM(html, {
     runScripts: "dangerously",
-    url: "https://shinabarger.github.io/kid-events-in-ann-arbor/",
+    url: "https://kideventsinannarbor.com/",
     pretendToBeVisual: true,
   });
   const { window } = dom;
@@ -736,7 +736,7 @@ test("copy link puts a shareable permalink on the clipboard", async () => {
   await new Promise((r) => window.setTimeout(r, 10));
 
   assert.match(copied,
-    /^https:\/\/shinabarger\.github\.io\/kid-events-in-ann-arbor\/\?event=[0-9a-f]{16}$/);
+    /^https:\/\/kideventsinannarbor\.com\/\?event=[0-9a-f]{16}$/);
   assert.equal(card.querySelector(".card-copy").textContent, "Link copied");
 });
 
@@ -747,7 +747,7 @@ test("opening a shared link expands that event and widens the dates", async () =
 
   const dom = new JSDOM(HTML, {
     runScripts: "dangerously",
-    url: `https://shinabarger.github.io/kid-events-in-ann-arbor/?event=${id}`,
+    url: `https://kideventsinannarbor.com/?event=${id}`,
     pretendToBeVisual: true,
   });
   const w = dom.window;
@@ -939,7 +939,7 @@ test("a 14 month old can take Babies and Toddlers together", async () => {
     const google = row.querySelector("a.btn-primary").getAttribute("href");
     const apple = row.querySelector("a.btn-secondary").getAttribute("href");
     assert.match(google, /calendar\.google\.com\/calendar\/r\/settings\/addbyurl\?cid=/);
-    assert.match(apple, /^webcal:\/\/shinabarger\.github\.io\/kid-events-in-ann-arbor\/feeds\/age-/);
+    assert.match(apple, /^webcal:\/\/kideventsinannarbor\.com\/feeds\/age-/);
     assert.ok(row.querySelector("button").textContent === "Copy");
   }
 

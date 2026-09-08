@@ -13,7 +13,7 @@ import pytest
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = ROOT
-SITE = "https://shinabarger.github.io/kid-events-in-ann-arbor/"
+SITE = "https://kideventsinannarbor.com/"
 
 
 @pytest.fixture(scope="module")
@@ -118,7 +118,10 @@ def test_the_full_icon_set_exists(html):
 
     with open(os.path.join(DOCS, "site.webmanifest"), "r", encoding="utf-8") as fh:
         manifest = json.load(fh)
-    assert manifest["start_url"].endswith("/kid-events-in-ann-arbor/")
+    # The site is served at the root of its own domain, not under a repo
+    # subpath, so an installed shortcut has to open "/".
+    assert manifest["start_url"] == "/"
+    assert manifest["scope"] == "/"
     assert {i["sizes"] for i in manifest["icons"]} >= {"192x192", "512x512"}
 
 
@@ -128,7 +131,7 @@ def test_there_is_a_404_that_goes_somewhere():
     with open(path, "r", encoding="utf-8") as fh:
         page = fh.read()
     assert "noindex" in page, "a 404 should never be indexed"
-    assert page.count('href="/kid-events-in-ann-arbor/') >= 3, (
+    assert page.count('href="/') >= 3, (
         "a dead end is the whole problem a 404 page exists to fix"
     )
 
@@ -145,3 +148,62 @@ def test_nothing_loads_over_plain_http(html):
         assert 'src="http://' not in body and 'href="http://' not in body, (
             f"mixed content in {path}"
         )
+
+
+# --- the custom domain -----------------------------------------------------
+
+def test_nothing_still_points_at_the_old_pages_url():
+    """The site moved from a repo subpath to its own domain.
+
+    Anything left on the old origin is either a canonical tag telling Google
+    the wrong address, or a share link that sends someone through a redirect.
+    Links to github.com are a different thing and stay.
+    """
+    import os as _os
+
+    # Assembled rather than written out, so this test does not match itself.
+    needle = "shinabarger" + ".github.io"
+    stale = []
+    for base, dirs, names in _os.walk(ROOT):
+        dirs[:] = [d for d in dirs
+                   if d not in {".git", "node_modules", "__pycache__",
+                                ".pytest_cache", "data", "feeds"}]
+        for name in names:
+            if not name.endswith((".html", ".js", ".py", ".xml", ".txt",
+                                  ".webmanifest", ".mjs")):
+                continue
+            path = _os.path.join(base, name)
+            with open(path, "r", encoding="utf-8", errors="ignore") as fh:
+                for i, line in enumerate(fh, 1):
+                    if needle in line:
+                        stale.append(f"{_os.path.relpath(path, ROOT)}:{i}")
+    assert not stale, "still on the old github.io origin: " + ", ".join(stale[:8])
+
+
+def test_the_repo_ships_a_cname_matching_the_canonical_url():
+    """Pages serves the custom domain off this file. Lose it and the domain
+    silently stops working on the next deploy."""
+    import os as _os
+
+    path = _os.path.join(ROOT, "CNAME")
+    assert _os.path.exists(path), "no CNAME file, so Pages will drop the domain"
+    with open(path, "r", encoding="utf-8") as fh:
+        domain = fh.read().strip()
+
+    assert domain == "kideventsinannarbor.com"
+    assert SITE.startswith("https://" + domain), "CNAME and SITE disagree"
+    assert "\n" not in domain, "one bare hostname, no scheme and no path"
+
+
+def test_the_site_is_served_from_the_domain_root():
+    """A path left over from the subpath days 404s on the apex domain."""
+    import os as _os
+
+    bad = []
+    for name in ("index.html", "about.html", "404.html", "site.webmanifest"):
+        with open(_os.path.join(ROOT, name), "r", encoding="utf-8") as fh:
+            body = fh.read()
+        if "/kid-events-in-ann-arbor/" in body.replace(
+                "github.com/shinabarger/kid-events-in-ann-arbor/", ""):
+            bad.append(name)
+    assert not bad, f"these still use the repo subpath: {bad}"

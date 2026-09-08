@@ -49,7 +49,7 @@ def _stamp(value: str) -> str:
     return dt.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
 
-SITE = "https://shinabarger.github.io/kid-events-in-ann-arbor"
+SITE = "https://kideventsinannarbor.com"
 
 
 def calendar_location(event: dict) -> str:

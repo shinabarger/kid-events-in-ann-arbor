@@ -9,7 +9,7 @@ from __future__ import annotations
 
 import os
 
-SITE = "https://shinabarger.github.io/kid-events-in-ann-arbor/"
+SITE = "https://kideventsinannarbor.com/"
 
 
 PAGES = [
