@@ -43,6 +43,11 @@
   --shadow: 0 1px 2px rgba(20, 45, 35, .06), 0 6px 20px rgba(20, 45, 35, .06);
   --shadow-pop: 0 10px 30px rgba(16, 40, 30, .18);
   --wrap: 1120px;
+  /* The reading column on the about, contact and thanks pages. The footer on
+     those pages lines up with it, so both read off this one value. In rem,
+     not ch, because ch is relative to font size and the footer text is
+     smaller, which is exactly how the two ended up different widths. */
+  --prose-measure: 38rem;
   /* Baloo 2 for the friendly bits, Karla for everything you actually read.
      Both fall back to the system stack if Google Fonts is blocked. */
   --font-display: "Baloo 2", "Trebuchet MS", "Segoe UI", system-ui, sans-serif;
@@ -403,7 +408,11 @@ a { color: var(--brand-blue-dark); }
   margin: 18px 0;
   display: grid;
   gap: 12px;
-  grid-template-columns: 1fr;
+  /* minmax(0, 1fr) rather than 1fr. A plain 1fr refuses to shrink below the
+     widest item's min-content, and the row of view buttons does not wrap, so
+     on a phone the whole grid pushed past the screen edge and the page
+     scrolled sideways. */
+  grid-template-columns: minmax(0, 1fr);
   /* Bottom aligned so a label that wraps onto two lines, like
      "Indoor or outdoor", does not shove its control out of the row. */
   align-items: end;
@@ -580,6 +589,7 @@ input[type="search"]::-webkit-search-cancel-button {
 .chip input:focus-visible + span { outline: 3px solid var(--focus); outline-offset: 2px; }
 
 .filters-footer {
+  min-width: 0;
   grid-column: 1 / -1;
   display: flex;
   flex-wrap: wrap;
@@ -592,7 +602,7 @@ input[type="search"]::-webkit-search-cancel-button {
 
 .count { margin: 0; font-size: .9rem; font-weight: 600; color: var(--text-soft); }
 .view-switch { display: flex; gap: 8px; flex-wrap: wrap; }
-.seg { display: flex; gap: 6px; }
+.seg { display: flex; gap: 6px; flex-wrap: wrap; }
 
 /* --- Day groups and cards ---------------------------------------------- */
 
@@ -861,7 +871,9 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
 .detail-body p { margin: 0 0 9px; }
 
 .site-footer {
-  --footer-measure: 34rem;
+  /* Full content width, so the footer lines up with the event rows above it
+     rather than stopping short in the middle of the page. */
+  --footer-measure: none;
   margin-top: 34px;
   padding: 22px 0 40px;
   border-top: 1px solid var(--line);
@@ -1459,9 +1471,16 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
 /* --- Prose pages (About) ------------------------------------------------ */
 
 .prose {
-  max-width: 68ch;
+  max-width: var(--prose-measure);
   margin: 0 auto;
   padding: 2.5rem 0 3.5rem;
+}
+
+/* On a text page the article is a centred column, so a full width footer
+   underneath it starts and ends in the wrong places. Same box, same edges. */
+.page-prose .site-footer .wrap > * {
+  max-width: var(--prose-measure);
+  margin-inline: auto;
 }
 .prose h1 {
   margin: 0 0 .6rem;
