@@ -2043,15 +2043,24 @@
       ? when.toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short", timeZone: TZ })
       : "recently") + ". " + meta.count + " events across the next " + meta.horizon_days + " days.";
 
-    var frag = document.createDocumentFragment();
-    frag.appendChild(document.createTextNode("Pulled from: "));
-    (meta.sources || []).forEach(function (source) {
-      var pill = document.createElement("span");
-      pill.className = "source-pill" + (source.ok ? "" : " is-down");
-      pill.textContent = source.name + (source.ok ? " (" + source.count + ")" : " (no data)");
-      if (!source.ok && source.error) pill.title = source.error;
-      frag.appendChild(pill);
+    /* Only sources that actually contributed. A wall of "(0)" chips, and a
+       red one shouting that something upstream is down, is my problem to fix
+       and not something a parent needs to read. The run log still lists every
+       source and every failure. */
+    var contributing = (meta.sources || []).filter(function (source) {
+      return source.ok && source.count > 0;
     });
+
+    var frag = document.createDocumentFragment();
+    if (contributing.length) {
+      frag.appendChild(document.createTextNode("Pulled from: "));
+      contributing.forEach(function (source) {
+        var pill = document.createElement("span");
+        pill.className = "source-pill";
+        pill.textContent = source.name + " (" + source.count + ")";
+        frag.appendChild(pill);
+      });
+    }
     el.sources.replaceChildren(frag);
   }
 

@@ -891,7 +891,6 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
   margin-right: 4px;
   font-size: .78rem;
 }
-.source-pill.is-down { border-color: var(--warn-text); color: var(--warn-text); }
 
 .empty {
   text-align: center;

@@ -1775,3 +1775,40 @@ test("the card in day view carries the same buttons as the list", async () => {
   assert.ok(card.querySelector(".card-copy"), "no copy link");
   assert.ok(card.querySelector(".card-where"), "no details table");
 });
+
+/* --- the source list ------------------------------------------------------ */
+
+test("the footer lists only sources that contributed something", async () => {
+  // A wall of "(0)" chips is the maintainer's problem, not a parent's.
+  const window = await loadPage(pageWithMeta({
+    sources: [
+      { key: "aadl", name: "Ann Arbor District Library", count: 305, ok: true, error: "" },
+      { key: "quiet", name: "Chelsea District Library", count: 0, ok: true, error: "" },
+      { key: "broken", name: "The Mamas Network", count: 0, ok: false, error: "TimeoutError: read timed out" },
+    ],
+  }));
+
+  const text = window.document.getElementById("source-list").textContent;
+  assert.match(text, /Ann Arbor District Library \(305\)/);
+  assert.doesNotMatch(text, /Chelsea/, "a source with nothing to add is noise");
+  assert.doesNotMatch(text, /Mamas/, "a broken source should not shout at visitors");
+  assert.doesNotMatch(text, /no data/);
+});
+
+test("a broken source is never marked with colour alone", async () => {
+  const window = await loadPage(pageWithMeta({
+    sources: [
+      { key: "broken", name: "The Mamas Network", count: 0, ok: false, error: "TimeoutError" },
+    ],
+  }));
+  const pills = window.document.querySelectorAll("#source-list .source-pill");
+  assert.equal(pills.length, 0, "nothing should render for a source that failed");
+});
+
+test("the whole line disappears when nothing contributed", async () => {
+  const window = await loadPage(pageWithMeta({
+    sources: [{ key: "broken", name: "Everything", count: 0, ok: false, error: "boom" }],
+  }));
+  assert.equal(window.document.getElementById("source-list").textContent.trim(), "",
+    "a bare 'Pulled from:' with nothing after it reads as a bug");
+});

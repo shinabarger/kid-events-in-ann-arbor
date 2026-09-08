@@ -168,8 +168,13 @@ def test_state_is_never_carried_by_color_alone():
     html = read(HTML)
     # Selected view is announced with aria-pressed, not just a green pill.
     assert 'aria-pressed' in html and 'setAttribute("aria-pressed"' in js
-    # A source that is down says "no data" as well as changing color.
-    assert '"(no data)"' in js or '(no data)' in js
+    # The source list used to mark a broken feed with a red pill, which is
+    # colour on its own. It now lists only sources that contributed, so there
+    # is no state to convey and nothing to convey it with. Guard that the red
+    # variant does not come back without a text label beside it.
+    assert "is-down" not in js, (
+        "a state styled pill is back, so it needs words as well as a colour")
+    assert "source.count > 0" in js, "the source list should only show contributors"
     # Free and registration are words in a badge, not a color swatch.
     assert '"Free"' in js and '"Registration required"' in js
 

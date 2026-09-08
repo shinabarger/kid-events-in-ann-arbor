@@ -232,6 +232,15 @@ def parse_paragraph(text: str, month: int, year: int) -> list:
     return events
 
 
+# A genuine listing has a bracketed clock time in it.
+ENTRY_SHAPE_RE = re.compile(r"\([^)]*(?:a\.?m\.?|p\.?m\.?|noon)[^)]*\)", re.IGNORECASE)
+
+# An entry starts with an optional star and then a month and a day. Used to
+# carve entries out of the raw text when the markup is not cooperating.
+ENTRY_START_RE = re.compile(
+    r"(?=(?:\u2605\s*)?(?:Jan|Feb|Mar|Apr|May|Jun|July?|Aug|Sept?|Oct|Nov|Dec)\.?\s+\d{1,2}\b)")
+
+
 def parse_page(html: str, fallback_year: int | None = None) -> list:
     fallback_year = fallback_year or datetime.now().year
     soup = BeautifulSoup(html, "html.parser")
@@ -239,9 +248,35 @@ def parse_page(html: str, fallback_year: int | None = None) -> list:
     text = main.get_text(" ", strip=True)
     month, year = month_year(text, fallback_year)
 
+    # The happy path: one entry per block element.
     events = []
-    for para in main.find_all("p"):
-        events.extend(parse_paragraph(para.get_text(" ", strip=True), month, year))
+    for block in main.find_all(["p", "li"]):
+        events.extend(parse_paragraph(block.get_text(" ", strip=True), month, year))
+    if events:
+        return events
+
+    # Nothing came back, which has happened before when the site moved the
+    # listings out of <p> tags. Fall back to the page's own text and cut it up
+    # on the date markers, so the shape of the markup stops mattering.
+    whole = soup.get_text(" ", strip=True)
+    month, year = month_year(whole, fallback_year)
+
+    seen = set()
+    for chunk in ENTRY_START_RE.split(whole):
+        chunk = chunk.strip()
+        # A real entry always carries a clock time in brackets. Without this
+        # the "Key to Locations" block, which lists opening hours, gets carved
+        # up into events with no start time.
+        if not chunk or not ENTRY_SHAPE_RE.search(chunk):
+            continue
+        for event in parse_paragraph(chunk, month, year):
+            if not event.title or not event.title[0].isalnum():
+                continue
+            key = (event.title, event.start)
+            if key in seen:
+                continue
+            seen.add(key)
+            events.append(event)
     return events
 
 

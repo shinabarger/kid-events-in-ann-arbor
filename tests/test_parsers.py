@@ -366,3 +366,37 @@ def test_a_midnight_start_becomes_all_day_whichever_adapter_it_came_from():
     assert timed.all_day is False, "a real time must be left alone"
     assert overnight.all_day is False, "a genuine overnight event keeps its hours"
     assert touched == [dateless], "only the one that needed it"
+
+
+def test_the_observer_parser_survives_the_markup_moving():
+    """It went to zero once already when the listings left their <p> tags.
+
+    The fallback works off the page's own text, so the shape of the markup
+    stops being load bearing.
+    """
+    import os
+    from bs4 import BeautifulSoup
+    from scraper.sources import observer
+
+    here = os.path.dirname(os.path.abspath(__file__))
+    with open(os.path.join(here, "fixtures", "observer_kids.html"), encoding="utf-8") as fh:
+        html = fh.read()
+
+    normal = observer.parse_page(html)
+    assert len(normal) >= 10, "the ordinary path should still work"
+
+    # Same words, no paragraphs at all.
+    soup = BeautifulSoup(html, "html.parser")
+    blob = " ".join(p.get_text(" ", strip=True) for p in soup.find_all("p"))
+    flattened = observer.parse_page("<html><body><main><div>" + blob + "</div></main></body></html>")
+
+    assert flattened, "the fallback found nothing, so a markup change still zeroes this source"
+    assert len(flattened) >= len(normal) - 2
+
+    overlap = ({(e.title, e.start) for e in normal}
+               & {(e.title, e.start) for e in flattened})
+    assert len(overlap) >= 8, "the fallback should recover most of the same events"
+
+    for event in flattened:
+        assert event.title and event.title[0].isalnum(), f"junk entry: {event.title!r}"
+        assert event.start[11:19] != "00:00:00", f"no real time on {event.title!r}"
