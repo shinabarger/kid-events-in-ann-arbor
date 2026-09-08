@@ -1657,12 +1657,9 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
   white-space: nowrap;
 }
 .source-table .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
-.source-table .note { color: var(--text-soft); font-size: .76rem; }
 /* Deliberately quiet. This table is for me, not a warning for visitors. */
 .source-table .needs-a-look td:first-child { font-weight: 700; }
 
 @media (max-width: 560px) {
   .source-table { font-size: .78rem; }
-  .source-table th:last-child,
-  .source-table td.note { display: none; }
 }

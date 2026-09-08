@@ -225,7 +225,9 @@ def test_the_about_page_lists_the_sources():
     # Same cache dodge the calendar uses, or the table quietly shows yesterday.
     assert 'cache: "no-cache"' in js
     assert "?d=" in js
-    # Both numbers, and the three states told apart.
+    # Both numbers. The states are told apart by the numbers themselves now:
+    # a failed fetch reads "failed" instead of a count, and a source losing
+    # everything to duplicates shows a healthy found beside a nought.
     assert "kept" in js and "count" in js
-    assert "the fetch itself failed" in js
-    assert "already covered elsewhere" in js
+    assert '"failed"' in js, "a dead fetch has to look different from a zero"
+    assert "needs-a-look" in js

@@ -5,7 +5,8 @@
    itself is broken. "On the calendar" is what survived dedupe, the kid filter,
    the venue gate and the 120 day horizon, so a healthy "found" next to a zero
    "on the calendar" means the source is working fine and simply losing every
-   duplicate to a copy somewhere else. */
+   duplicate to a copy somewhere else. A fetch that fell over reads "failed"
+   in place of a count. */
 (function () {
   "use strict";
 
@@ -36,19 +37,16 @@
       cell(row, source.ok ? String(found) : "failed", "num");
       cell(row, String(kept), "num");
 
-      var note = "";
-      if (!source.ok) note = "the fetch itself failed";
-      else if (found === 0) note = "nothing published right now";
-      else if (kept === 0) note = "all of it already covered elsewhere";
-      cell(row, note, "note");
-
+      // The two numbers already say it. A fetch that fell over reads "failed"
+      // rather than a count, and a source losing everything to duplicates
+      // shows a healthy found next to a nought.
       if (!source.ok || (found > 0 && kept === 0)) row.className = "needs-a-look";
       tbody.appendChild(row);
     });
 
     var head = document.createElement("thead");
     var hr = document.createElement("tr");
-    ["Source", "Found", "On the calendar", ""].forEach(function (label) {
+    ["Source", "Found", "On the calendar"].forEach(function (label) {
       var th = document.createElement("th");
       th.textContent = label;
       th.scope = "col";
