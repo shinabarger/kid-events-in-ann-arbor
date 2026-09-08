@@ -543,6 +543,21 @@ input[type="search"]::-webkit-search-cancel-button {
 
 .chips { display: flex; flex-wrap: wrap; gap: 7px; }
 
+/* Undo and Reset, pushed to the right of the When chips so they sit with the
+   filters they act on rather than with the view buttons. */
+.filter-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+@media (min-width: 700px) {
+  .field-when { display: flex; align-items: flex-end; gap: 12px; flex-wrap: wrap; }
+  .field-when legend { float: left; width: 100%; }
+  .field-when .chips { flex: 1 1 auto; }
+  .filter-actions { margin-top: 0; margin-left: auto; }
+}
+
 .chip { position: relative; }
 .chip input { position: absolute; opacity: 0; width: 0; height: 0; }
 .chip span {
@@ -846,6 +861,7 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
 .detail-body p { margin: 0 0 9px; }
 
 .site-footer {
+  --footer-measure: 34rem;
   margin-top: 34px;
   padding: 22px 0 40px;
   border-top: 1px solid var(--line);
@@ -1141,10 +1157,44 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
 
 /* The attribution and opt-out notice in the footer. Quiet, but not hidden:
    the whole point is that an organizer can find it without hunting. */
+/* One measure for the whole footer. These used to be set in ch, which is
+   relative to font size, so two paragraphs at different sizes wrapped at
+   visibly different widths. */
+.site-footer p { max-width: var(--footer-measure); }
+
+/* Tags, with the control that turns them off sitting on the same line. */
+.tag-row {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  margin: 8px 0 0;
+}
+.tag-row .badges { margin: 0; flex: 1 1 auto; }
+.tags-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  flex: 0 0 auto;
+  margin-left: auto;
+  padding: 4px 9px;
+  min-height: 32px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-soft);
+  font: inherit;
+  font-size: .78rem;
+  cursor: pointer;
+}
+.tags-toggle:hover { background: var(--surface-2); color: var(--text); }
+.tags-toggle:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.tags-toggle .icon { width: 14px; height: 14px; flex: 0 0 auto; }
+.card.tags-off .tag-row { margin-top: 6px; }
+
 .site-footer .credit {
   font-size: .82rem;
   color: var(--text-soft);
-  max-width: 62ch;
   margin: 10px 0 0;
 }
 
@@ -1500,3 +1550,59 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
   .month-date { min-height: 44px; justify-content: space-between; font-size: .85rem; }
   .month-count { font-size: .7rem; }
 }
+
+
+/* ---------- the contact form ------------------------------------------- */
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 34rem;
+  margin: 1.6rem 0 0;
+}
+.form-row { display: flex; flex-direction: column; gap: 5px; }
+.form-row label {
+  font-size: .78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: var(--text-soft);
+}
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form select,
+.contact-form textarea {
+  font: inherit;
+  /* 16px, because anything smaller makes iOS Safari zoom the page on focus. */
+  font-size: 1rem;
+  padding: 11px 12px;
+  min-height: 44px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  width: 100%;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.contact-form textarea { min-height: 140px; resize: vertical; line-height: 1.5; }
+.contact-form select {
+  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%),
+                    linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position: calc(100% - 18px) 50%, calc(100% - 13px) 50%;
+  background-size: 5px 5px, 5px 5px;
+  background-repeat: no-repeat;
+  padding-right: 34px;
+}
+.contact-form :is(input, select, textarea):focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 1px;
+  border-color: var(--brand-green);
+}
+.form-hint { font-size: .8rem; color: var(--text-soft); }
+
+/* The honeypot. Only something automated ever finds it. */
+.botcheck { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+.h-captcha { min-height: 78px; }

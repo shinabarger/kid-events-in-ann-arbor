@@ -99,7 +99,9 @@
     events: [],
     byId: {},
     meta: null,
-    view: "list",
+    // Day, not list. Somebody opening this at 9am on a Saturday wants to know
+    // what is on today, not to scroll a fortnight.
+    view: "day",
     focus: "",
     feeds: [],
     when: DEFAULT_WHEN,
@@ -572,6 +574,48 @@
     return out;
   }
 
+  /* Tags are useful once and clutter forever after. Hiding them is one
+     setting for the whole visit rather than a per card fiddle, so it sticks
+     while you move between days and views. sessionStorage, not local: it
+     lasts as long as the tab and no longer. */
+  var TAGS_KEY = "a2kids-tags-hidden";
+
+  function tagsHidden() {
+    try { return sessionStorage.getItem(TAGS_KEY) === "1"; }
+    catch (err) { return state.tagsHidden === true; }
+  }
+
+  function setTagsHidden(hidden) {
+    state.tagsHidden = hidden;
+    try { sessionStorage.setItem(TAGS_KEY, hidden ? "1" : "0"); }
+    catch (err) { /* private mode, the in memory flag carries it */ }
+    document.querySelectorAll(".card").forEach(paintTags);
+  }
+
+  var TAG_ICON = {
+    hide: '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false">'
+      + '<path d="M5 10h10" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg>',
+    show: '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false">'
+      + '<path d="M10 5v10M5 10h10" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg>'
+  };
+
+  function paintTags(card) {
+    var list = card.querySelector(".badges");
+    var button = card.querySelector(".tags-toggle");
+    if (!list || !button) return;
+    var hidden = tagsHidden();
+    var empty = list.children.length === 0;
+
+    list.hidden = hidden || empty;
+    button.hidden = empty;
+    button.innerHTML = hidden ? TAG_ICON.show : TAG_ICON.hide;
+    button.appendChild(document.createTextNode(hidden ? "Show tags" : "Hide tags"));
+    button.setAttribute("aria-expanded", hidden ? "false" : "true");
+    button.setAttribute("aria-label",
+      (hidden ? "Show tags on every event" : "Hide tags on every event"));
+    card.classList.toggle("tags-off", hidden);
+  }
+
   function fillBadges(list, event) {
     list.replaceChildren();
     badgeList(event).forEach(function (pair) {
@@ -609,6 +653,12 @@
     else desc.remove();
 
     fillBadges(node.querySelector(".badges"), event);
+
+    var tagsToggle = node.querySelector(".tags-toggle");
+    if (tagsToggle) {
+      tagsToggle.addEventListener("click", function () { setTagsHidden(!tagsHidden()); });
+      paintTags(card);
+    }
 
     buildCalendarMenu(node.querySelector(".cal-menu"), event);
 
@@ -1647,7 +1697,7 @@
     var clear = document.createElement("button");
     clear.type = "button";
     clear.className = "active-clear";
-    clear.textContent = "Show everything";
+    clear.textContent = "Reset";
     clear.addEventListener("click", showEverything);
     box.appendChild(clear);
   }
@@ -1741,6 +1791,10 @@
     var event = Object.prototype.hasOwnProperty.call(state.byId, id)
       ? state.byId[id] : null;
     if (!event) return;
+    // The page lands on the day view, where one day is on screen and the
+    // shared event probably is not. Widening the dates only means anything in
+    // the list, so go there.
+    setView("list");
     state.when = "all";
     state.date = "";
     syncCheckboxes();

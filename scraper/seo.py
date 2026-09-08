@@ -15,6 +15,7 @@ SITE = "https://kideventsinannarbor.com/"
 PAGES = [
     ("", "daily", "1.0"),
     ("about.html", "monthly", "0.5"),
+    ("contact.html", "monthly", "0.4"),
 ]
 
 

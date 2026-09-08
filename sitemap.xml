@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-<<<<<<< Updated upstream
-    <loc>https://shinabarger.github.io/kid-events-in-ann-arbor/</loc>
-    <lastmod>2026-09-08</lastmod>
-=======
     <loc>https://kideventsinannarbor.com/</loc>
-    <lastmod>2026-09-07</lastmod>
->>>>>>> Stashed changes
+    <lastmod>2026-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>https://shinabarger.github.io/kid-events-in-ann-arbor/about.html</loc>
-    <lastmod>2026-09-08</lastmod>
-=======
     <loc>https://kideventsinannarbor.com/about.html</loc>
-    <lastmod>2026-09-07</lastmod>
->>>>>>> Stashed changes
+    <lastmod>2026-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kideventsinannarbor.com/contact.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
   </url>
 </urlset>

@@ -15,7 +15,7 @@ import re
 import pytest
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PAGES = ("index.html", "about.html", "404.html")
+PAGES = ("index.html", "about.html", "404.html", "contact.html", "thanks.html")
 
 # A <script> with no src that is not a JSON-LD data block, or a <style>.
 INLINE = r"<%s(?![^>]*\bsrc=)(?![^>]*ld\+json)[^>]*>(.*?)</%s>"
@@ -76,11 +76,26 @@ def test_the_inline_hashes_still_match(page):
 
 @pytest.mark.parametrize("page", PAGES)
 def test_no_unsafe_escape_hatches(page):
+    """Script is strict everywhere. Style has one documented exception.
+
+    The captcha on the contact page writes its own inline styles, and there is
+    no hash to pin because it generates them at runtime. Inline *style* cannot
+    execute anything, and that page carries no user content, so the trade is
+    worth it. Inline *script* stays banned on every page including that one,
+    which is the part that actually matters.
+    """
     text = policy(read(page))
-    for name in ("script-src", "style-src", "default-src"):
+    style_exception = {"contact.html"}
+
+    for name in ("script-src", "default-src"):
         allowed = directive(text, name)
         assert "'unsafe-inline'" not in allowed, f"{page}: {name} allows any inline code"
         assert "'unsafe-eval'" not in allowed, f"{page}: {name} allows eval"
+
+    style = directive(text, "style-src")
+    assert "'unsafe-eval'" not in style, f"{page}: style-src allows eval"
+    if page not in style_exception:
+        assert "'unsafe-inline'" not in style, f"{page}: style-src allows any inline style"
 
 
 @pytest.mark.parametrize("page", PAGES)
@@ -128,3 +143,40 @@ def test_a_broken_source_does_not_publish_the_path_it_broke_on():
     text = scrub_error(ValueError("bad json from https://example.org/private/api?key=abc"))
     assert "example.org" in text, "the host is the useful part"
     assert "key=abc" not in text, "query strings can carry credentials"
+
+
+
+def test_only_the_contact_page_reaches_off_site():
+    """Every other page stays on default-src 'none' with nothing external."""
+    allowed = {"contact.html"}
+    for page in PAGES:
+        text = policy(read(page))
+        offsite = [d for d in ("api.web3forms.com", "hcaptcha.com", "web3forms.com")
+                   if d in text]
+        if page in allowed:
+            assert offsite, "the contact page needs the form service"
+        else:
+            assert not offsite, f"{page} should not reach {offsite}"
+
+
+def test_the_contact_form_posts_where_the_policy_allows():
+    html = read("contact.html")
+    text = policy(html)
+
+    assert 'action="https://api.web3forms.com/submit"' in html
+    assert "form-action https://api.web3forms.com" in text, (
+        "the browser blocks the submit if form-action does not name the endpoint")
+    assert 'name="botcheck"' in html, "no honeypot"
+    assert 'class="h-captcha"' in html, "no captcha"
+    assert "'unsafe-eval'" not in text
+
+
+def test_the_contact_form_has_a_real_key():
+    """A placeholder key silently drops every message, which looks exactly
+    like nobody writing in."""
+    import re as _re
+
+    html = read("contact.html")
+    assert "REPLACE_WITH" not in html, "the access key placeholder is still there"
+    m = _re.search(r'name="access_key" value="([^"]+)"', html)
+    assert m and len(m.group(1)) > 20, "that does not look like a Web3Forms key"

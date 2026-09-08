@@ -307,9 +307,16 @@ def test_users_can_undo(html_and_js=None):
 
 
 def test_there_is_a_show_everything_escape_hatch():
+    """Filtering yourself into a corner has to be undoable from wherever you
+    ended up. The toolbar button is called Reset, the empty state spells it
+    out, and the active filter bar carries one too, so count the control
+    rather than any one wording."""
     html = read(HTML)
     js = read(os.path.join(ROOT, "assets", "app.js"))
-    assert html.count("Show everything") >= 2, "reset should be reachable from more than one place"
+
+    in_page = html.count('id="reset"') + html.count('id="empty-reset"')
+    assert in_page >= 2, "reset should be reachable from more than one place"
+    assert "active-clear" in js, "the active filter bar needs one as well"
     assert "function showEverything(" in js
 
 

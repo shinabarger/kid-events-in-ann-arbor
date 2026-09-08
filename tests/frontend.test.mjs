@@ -23,7 +23,15 @@ function buildPage() {
 
 const HTML = buildPage();
 
-async function load() { return loadPage(HTML); }
+/* The page now lands on Day view. Almost every test below was written against
+   the list, which is still the right place to exercise filtering, so load()
+   switches to it and the tests that care about the landing view say so
+   explicitly by calling loadPage. */
+async function load() {
+  const window = await loadPage(HTML);
+  setView(window, "list");
+  return window;
+}
 
 async function loadPage(html) {
   const dom = new JSDOM(html, {
@@ -82,6 +90,8 @@ function summary(window, name) {
 }
 
 function showAll(window) {
+  // Every caller goes on to read cards, which only the list renders.
+  setView(window, "list");
   const radio = window.document.querySelector('input[name="when"][value="all"]');
   radio.checked = true;
   radio.dispatchEvent(new window.Event("change", { bubbles: true }));
@@ -90,7 +100,11 @@ function showAll(window) {
 /* --- rendering ------------------------------------------------------------ */
 
 test("the page renders every sample event on load", async () => {
+  // Widened on purpose. The seed is a fixed snapshot, so the default window
+  // empties out as the capture ages, and that would fail this for a reason
+  // that has nothing to do with rendering.
   const window = await load();
+  showAll(window);
   assert.ok(cards(window).length >= 10, "expected the sample events to render");
   assert.match(window.document.getElementById("count").textContent, /\d+ events found/);
   assert.equal(window.document.getElementById("empty").hidden, true);
@@ -138,7 +152,7 @@ test("the card puts the description directly under the subtitle", async () => {
   const title = order.findIndex((c) => c.includes("card-title"));
   const where = order.findIndex((c) => c.includes("card-where"));
   const desc = order.findIndex((c) => c.includes("card-desc"));
-  const badges = order.findIndex((c) => c.includes("badges"));
+  const badges = order.findIndex((c) => c.includes("tag-row"));
 
   assert.ok(title < where, "subtitle should follow the title");
   assert.ok(where < desc, "description should sit right under the subtitle");
@@ -161,11 +175,19 @@ test("the subtitle is styled apart from the description", async () => {
 });
 
 test("the subtitle reads venue, city, and drive time", async () => {
+  // Data driven rather than pinned to one event. The seed is a snapshot and
+  // any named event eventually falls off the back of it.
   const window = await load();
-  const fair = cards(window).find((c) => c.querySelector(".card-name").textContent === "Saline Fair");
-  const where = fair.querySelector(".card-where").textContent;
-  assert.match(where, /Washtenaw Farm Council Fairgrounds/);
-  assert.match(where, /min/);
+  showAll(window);
+
+  const outOfTown = cards(window)
+    .map((c) => c.querySelector(".card-where").textContent)
+    .find((text) => /\bmin\b/.test(text));
+
+  assert.ok(outOfTown, "no event outside town, so no drive time to check");
+  assert.match(outOfTown, /about \d+ min/, "a drive time should read as minutes");
+  assert.ok(outOfTown.replace(/about \d+ min/, "").trim().length > 3,
+    "the subtitle should name the venue as well as the drive time");
 });
 
 /* --- multi select filters ------------------------------------------------- */
@@ -611,9 +633,17 @@ test("hiding all day repeats drops them and keeps everything else", async () => 
 
 test("a timed event is never hidden as a repeat", async () => {
   const window = await load();
+  showAll(window);
+
+  const timed = cards(window)
+    .filter((c) => !/All day/i.test(c.querySelector(".card-hour").textContent))
+    .map((c) => c.querySelector(".card-name").textContent);
+  assert.ok(timed.length, "the sample should have some events with a start time");
+
   pick(window, "repeats", "hide");
   const shown = titles(window);
-  assert.ok(shown.includes("Saline Fair"),
+
+  assert.ok(timed.filter((t) => shown.includes(t)).length,
     "only all day repeats should be hidden, not everything that recurs");
 });
 
@@ -1314,7 +1344,17 @@ test("all four views are offered", async () => {
   const window = await load();
   const views = [...window.document.querySelectorAll("[data-view]")]
     .map((b) => b.dataset.view);
-  assert.deepEqual(views, ["list", "day", "week", "month"]);
+  assert.deepEqual(views, ["day", "week", "month", "list"]);
+});
+
+test("the page lands on the day view", async () => {
+  // Someone opening this on a Saturday morning wants today, not a fortnight.
+  const window = await loadPage(HTML);
+  const pressed = [...window.document.querySelectorAll("[data-view]")]
+    .filter((b) => b.getAttribute("aria-pressed") === "true")
+    .map((b) => b.dataset.view);
+  assert.deepEqual(pressed, ["day"], "day should be the one that is on");
+  assert.ok(window.document.querySelector(".day-view"), "no day view rendered");
 });
 
 test("the day view opens on today and shows that day only", async () => {

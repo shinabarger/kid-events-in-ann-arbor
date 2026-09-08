@@ -226,19 +226,42 @@
         <label class="chip"><input type="radio" name="when" value="month"><span>Next 30 days</span></label>
         <label class="chip"><input type="radio" name="when" value="all"><span>Everything</span></label>
       </div>
+
+      <!-- Undo and Reset act on the filters, so they live with the filters.
+           Down beside the view buttons they read as "undo the view". -->
+      <div class="filter-actions">
+        <button type="button" class="btn btn-ghost" id="undo" disabled>
+          <svg class="icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M7 6.5H12a4.5 4.5 0 0 1 0 9H8" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="m9.6 3.6-3 2.9 3 2.9" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Undo
+        </button>
+        <button type="button" class="btn btn-ghost" id="reset">
+          <svg class="icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M16.2 8.4A6.5 6.5 0 1 0 16.5 12" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><path d="M16.6 3.4v5h-5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Reset
+        </button>
+      </div>
     </fieldset>
 
     <div class="filters-footer">
       <p class="count" id="count" role="status" aria-live="polite"></p>
       <div class="view-switch">
         <div class="seg" role="group" aria-label="Choose a view">
-          <button type="button" class="btn btn-ghost is-active" data-view="list" aria-pressed="true">List</button>
-          <button type="button" class="btn btn-ghost" data-view="day" aria-pressed="false">Day</button>
-          <button type="button" class="btn btn-ghost" data-view="week" aria-pressed="false">Week</button>
-          <button type="button" class="btn btn-ghost" data-view="month" aria-pressed="false">Month</button>
+          <button type="button" class="btn btn-ghost is-active" data-view="day" aria-pressed="true">
+            <svg class="icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="14" height="12.5" rx="1.4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M3 8.5h14M6.5 2.6v3.3m7-3.3v3.3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="6" y="11" width="8" height="3.2" rx="0.8" fill="currentColor"/></svg>
+            Day
+          </button>
+          <button type="button" class="btn btn-ghost" data-view="week" aria-pressed="false">
+            <svg class="icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="14" height="12.5" rx="1.4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M3 8.5h14M6.5 2.6v3.3m7-3.3v3.3M7.7 8.5V17m4.6-8.5V17" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+            Week
+          </button>
+          <button type="button" class="btn btn-ghost" data-view="month" aria-pressed="false">
+            <svg class="icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="14" height="12.5" rx="1.4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M3 8.5h14M6.5 2.6v3.3m7-3.3v3.3M7.7 8.5V17m4.6-8.5V17M3 12.7h14" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            Month
+          </button>
+          <button type="button" class="btn btn-ghost" data-view="list" aria-pressed="false">
+            <svg class="icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M7 5.5h10M7 10h10M7 14.5h10" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><circle cx="3.6" cy="5.5" r="1.2" fill="currentColor"/><circle cx="3.6" cy="10" r="1.2" fill="currentColor"/><circle cx="3.6" cy="14.5" r="1.2" fill="currentColor"/></svg>
+            List
+          </button>
         </div>
-        <button type="button" class="btn btn-ghost" id="undo" disabled>Undo</button>
-        <button type="button" class="btn btn-ghost" id="reset">Show everything</button>
       </div>
     </div>
   </form>
@@ -286,23 +309,20 @@
   <div class="wrap">
     <p id="build-info"></p>
     <p class="sources" id="source-list"></p>
-    <p>
+    <p class="credit">
       <a href="about.html">About this site</a>.
-      Missing something? <a href="https://github.com/shinabarger/kid-events-in-ann-arbor/issues/new?template=add-event.yml" rel="noopener">Add an event</a>
-      or <a href="https://github.com/shinabarger/kid-events-in-ann-arbor" rel="noopener">look at the code</a>.
+      Missing something? <a href="contact.html">Add an event</a>.
       Always double check times against the organizer before you head out.
     </p>
     <p class="credit">
       Every listing here belongs to whoever published it, and every event links
-      back to their page. This is a signpost, not a copy: times and places are
-      facts, the write-ups are theirs, and nothing is reprinted in full. Sources
-      are checked once a day, one request at a time, and their robots.txt is
-      obeyed automatically.
+      back to their page. Sources are checked once a day, one request at a
+      time, and their robots.txt is obeyed automatically.
     </p>
     <p class="credit">
-      Run one of these events and would rather not be listed?
-      <a href="https://github.com/shinabarger/kid-events-in-ann-arbor/issues/new?title=Please%20remove%20our%20listings&amp;body=Which%20site%20or%20venue%20should%20come%20off%2C%20and%20anything%20else%20I%20should%20know." rel="noopener">Say so here</a>
-      and you are off by the next morning. No explanation needed.
+      Run an event on here and want to be removed?
+      <a href="contact.html">Contact us here</a> and we will remove you as fast
+      as we are able.
     </p>
   </div>
 </footer>
@@ -354,7 +374,10 @@
       </h3>
       <p class="card-where"></p>
       <p class="card-desc"></p>
-      <ul class="badges"></ul>
+      <div class="tag-row">
+        <ul class="badges"></ul>
+        <button type="button" class="tags-toggle" aria-expanded="true"></button>
+      </div>
       <div class="card-more" hidden>
         <dl class="detail-list"></dl>
       </div>
