@@ -78,15 +78,21 @@ def test_a_whole_run_writes_a_usable_site(tmp_path, monkeypatch):
     """End to end with the network stubbed out, the way the Action runs it."""
     from scraper.models import Event
 
+    # Relative to today, not a fixed date. A hardcoded one silently ages out
+    # of the window and fails this for a reason that is not the pipeline.
+    from datetime import datetime, timedelta
+    from zoneinfo import ZoneInfo as _Zone
+    day = (datetime.now(_Zone("America/Detroit")) + timedelta(days=3)).strftime("%Y-%m-%d")
+
     def fake_collect(only=None):
         events = [
-            Event(title="Baby Storytime", start="2026-09-08T10:30:00-04:00",
-                  end="2026-09-08T11:00:00-04:00", source="aadl",
+            Event(title="Baby Storytime", start=f"{day}T10:30:00-04:00",
+                  end=f"{day}T11:00:00-04:00", source="aadl",
                   source_name="Ann Arbor District Library",
                   venue="Downtown Library", city="Ann Arbor",
                   description="Songs and books for babies and their grown ups.",
                   url="https://aadl.org/node/1"),
-            Event(title="Martin Sorge: Great Bakes", start="2026-09-08T18:30:00-04:00",
+            Event(title="Martin Sorge: Great Bakes", start=f"{day}T18:30:00-04:00",
                   source="destination_a2", source_name="Destination Ann Arbor",
                   venue="Literati Bookstore", city="Ann Arbor",
                   description="A baking book launch.",

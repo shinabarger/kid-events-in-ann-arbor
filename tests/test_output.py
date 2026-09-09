@@ -138,16 +138,20 @@ def test_calendar_entries_carry_the_details(payload):
     weeks, when the title alone will not remind you where to park."""
     from scraper.icsbuild import build_description, calendar_location
 
-    event = next(e for e in payload["events"] if e["title"] == "Baby Playgroups")
+    # Any event with a street address. Pinning a title means the test dies
+    # the day that event falls out of the snapshot.
+    event = next(e for e in payload["events"] if e.get("address"))
     text = build_description(event)
 
     for label in ("Where:", "Ages:", "Cost:", "Signup:", "Listed by:", "Details:"):
         assert label in text, f"{label} missing from the calendar description"
-    assert "Fifth Ave" in text, "the street address should be in there"
     assert "?event=" in text, "a link back to the listing helps when plans change"
 
+    street = event["address"].split(",")[0].strip()
+    assert street and street in text, "the street address should be in there"
+
     location = calendar_location(event)
-    assert "Downtown Library" in location and "Fifth Ave" in location
+    assert event["venue"] in location and street in location
 
 
 def test_calendar_entries_include_coordinates_when_we_have_them(payload):
@@ -318,23 +322,40 @@ def test_the_snapshot_stores_real_dates_not_offsets():
 
 
 def test_the_sample_keeps_the_day_the_source_actually_said():
-    """Two real listings, checked against their own pages. The cider mill
-    celebration was a Saturday and the babies class was a Sunday."""
+    """Every row in the snapshot has to land on the exact day it records.
+
+    Checked against the whole seed rather than two named events, because the
+    snapshot gets recaptured and any name in here eventually stops existing.
+    """
     import json as _json
 
     path = os.path.join(ROOT, "config", "snapshot", "seed.json")
     with open(path, "r", encoding="utf-8") as fh:
         seed = _json.load(fh)
-    by_title = {r["title"]: r for r in seed["events"]}
 
-    expected = {
-        "Dexter Cider Mill 140th Season Celebration": ("2026-09-05", "Saturday"),
-        "Dancing Babies with Momo Kajiwara": ("2026-09-06", "Sunday"),
-    }
-    for title, (day, weekday) in expected.items():
-        assert by_title[title]["d"] == day, title
-        assert datetime.strptime(day, "%Y-%m-%d").strftime("%A") == weekday
+    with open(EVENTS, "r", encoding="utf-8") as fh:
+        built = _json.load(fh)["events"]
 
+    on_day = {}
+    for event in built:
+        on_day.setdefault(event["title"], set()).add(event["start"][:10])
+
+    checked = 0
+    for wrote in seed["events"]:
+        # Rule based projections are computed at build time and deliberately
+        # move: defer_projections drops any that the real scraped month
+        # already covers. Only scraped dates are promises.
+        if wrote.get("src", "").endswith("_repeat"):
+            continue
+        days = on_day.get(wrote["title"])
+        if not days:
+            continue          # filtered out downstream, which is allowed
+        assert wrote["d"] in days, (
+            f"{wrote['title']} is recorded on {wrote['d']} but was built on "
+            f"{sorted(days)}")
+        checked += 1
+
+    assert checked >= 20, "too few rows survived to make this test mean anything"
 
 def test_building_twice_on_different_days_does_not_move_anything(payload):
     """The drift test. Build, note the dates, build again pretending it is a

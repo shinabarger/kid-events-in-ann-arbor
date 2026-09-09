@@ -400,3 +400,91 @@ def test_the_observer_parser_survives_the_markup_moving():
     for event in flattened:
         assert event.title and event.title[0].isalnum(), f"junk entry: {event.title!r}"
         assert event.start[11:19] != "00:00:00", f"no real time on {event.title!r}"
+
+
+# --- three real Observer listings, checked by hand ---------------------------
+
+OBSERVER_QA = [
+    ('★ Sept. 12 & 26 (10–11:30 a.m.): "Rescue Reading": HSHV. Kids ages '
+     '6–11 invited to work on their reading skills by reading to adoptable '
+     'animals, using their own or provided books. No adults. $10. '
+     'Preregistration required at hshv.org/event-calendar.'),
+    ('Sept. 25 (10–11 a.m.): "Preschool Explorers": Hudson Mills Metropark. A '
+     'hands-on nature adventure for kids ages 3–6, accompanied by an adult. '
+     'Hudson Mills Metropark Activity Center, 8801 North Territorial, Dexter. '
+     '$5 per child (adults, free). Preregistration required.'),
+    ('★ Sept. 5 (4–5 p.m.): Kids & Family Open Mic and Comedy Hour: '
+     'Oz’s Music Environment. Kids ages 6–12 and their family members '
+     'invited to play a song, or share a story or joke. Oz’s Music '
+     'Environment, 1922 Packard. Free; donations accepted.'),
+]
+
+
+def test_a_listing_with_two_dates_becomes_two_events():
+    """"Sept. 12 & 26" is one paragraph and two separate mornings."""
+    from scraper.sources import observer
+
+    events = observer.parse_paragraph(OBSERVER_QA[0], 9, 2026)
+    assert len(events) == 2
+    assert [e.start[:10] for e in events] == ["2026-09-12", "2026-09-26"]
+    for event in events:
+        assert event.title == "Rescue Reading"
+        assert event.start[11:16] == "10:00" and event.end[11:16] == "11:30"
+        assert event.cost == "paid" and event.price == "$10"
+        assert event.registration is True
+
+
+def test_the_observer_uses_en_dashes_everywhere():
+    """Their house style is en dashes in times, ages and phone numbers. A
+    parser that only knows hyphens quietly returns nothing."""
+    from scraper.sources import observer
+
+    event = observer.parse_paragraph(OBSERVER_QA[1], 9, 2026)[0]
+    assert event.title == "Preschool Explorers"
+    assert event.start == "2026-09-25T10:00:00-04:00"
+    assert event.end == "2026-09-25T11:00:00-04:00"
+    assert event.venue == "Hudson Mills Metropark"
+
+
+def test_a_stated_age_beats_the_pages_blanket_header():
+    """The page is headed "Kids Calendar (age 12 & under)". That belongs on a
+    listing that names no age, and nowhere near one that does: classify reads
+    audience_raw before the words, so the header was filing a 6 to 11 reading
+    group under Babies.
+    """
+    from scraper import classify
+    from scraper.sources import observer
+
+    reading = observer.parse_paragraph(OBSERVER_QA[0], 9, 2026)[0]
+    classify.enrich(reading)
+    assert (reading.age_min, reading.age_max) == (6, 11)
+    assert "baby" not in reading.ages and "toddler" not in reading.ages
+    assert reading.ages == ["elementary", "tween"]
+
+    explorers = observer.parse_paragraph(OBSERVER_QA[1], 9, 2026)[0]
+    classify.enrich(explorers)
+    assert (explorers.age_min, explorers.age_max) == (3, 6)
+    assert "baby" not in explorers.ages
+
+    # Silent listing, so the page header is the right answer.
+    quiet = observer.parse_paragraph(
+        "★ Sept. 20 (2–3 p.m.): Lego Club: Downtown Library. Build something.",
+        9, 2026)[0]
+    classify.enrich(quiet)
+    assert (quiet.age_min, quiet.age_max) == (0, 12)
+
+
+def test_the_three_qa_listings_all_parse():
+    from scraper.sources import observer
+
+    got = []
+    for text in OBSERVER_QA:
+        got.extend(observer.parse_paragraph(text, 9, 2026))
+
+    assert len(got) == 4, "two dates in the first one, one each in the others"
+    titles = {e.title for e in got}
+    assert titles == {"Rescue Reading", "Preschool Explorers",
+                      "Kids & Family Open Mic and Comedy Hour"}
+    for event in got:
+        assert event.venue, f"{event.title} has no venue"
+        assert event.start[11:19] != "00:00:00", f"{event.title} lost its time"

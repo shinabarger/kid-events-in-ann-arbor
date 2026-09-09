@@ -29,6 +29,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 
 from .. import http
+from ..classify import parse_age_range
 from ..models import Event
 
 BASE = "https://annarborobserver.com"
@@ -219,8 +220,12 @@ def parse_paragraph(text: str, month: int, year: int) -> list:
                     url=KIDS_URL,
                     venue=venue,
                     # The whole page is headed "Kids Calendar (age 12 & under)",
-                    # so that is the floor when a listing does not say an age.
-                    audience_raw="age 12 & under",
+                    # which is a fine floor for a listing that names no age.
+                    # It must not be set when the listing does name one:
+                    # classify reads audience_raw before it reads the words,
+                    # so the blanket header was burying every stated range and
+                    # filing a 6-11 reading group under Babies.
+                    audience_raw=page_audience(title, description),
                     cost=cost,
                     price=price,
                     registration=bool(REGISTRATION_RE.search(body)),
@@ -239,6 +244,16 @@ ENTRY_SHAPE_RE = re.compile(r"\([^)]*(?:a\.?m\.?|p\.?m\.?|noon)[^)]*\)", re.IGNO
 # carve entries out of the raw text when the markup is not cooperating.
 ENTRY_START_RE = re.compile(
     r"(?=(?:\u2605\s*)?(?:Jan|Feb|Mar|Apr|May|Jun|July?|Aug|Sept?|Oct|Nov|Dec)\.?\s+\d{1,2}\b)")
+
+
+def page_audience(title: str, description: str) -> str:
+    """The page level "age 12 & under" only when the listing is silent."""
+    low, high, _all_ages = parse_age_range(title, description)
+    if low is not None or high is not None:
+        return ""
+    # "all ages" or "the whole family" is not a number, and this page still
+    # tops out at twelve, so the header stays and caps it.
+    return "age 12 & under"
 
 
 def parse_page(html: str, fallback_year: int | None = None) -> list:
