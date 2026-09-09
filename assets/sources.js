@@ -34,7 +34,7 @@
       var found = source.count || 0;
 
       cell(row, source.name);
-      cell(row, source.ok ? String(found) : "failed", "num");
+      cell(row, source.ok ? String(found) : "Unknown", "num");
       cell(row, String(kept), "num");
 
       // The two numbers already say it. A fetch that fell over reads "failed"
