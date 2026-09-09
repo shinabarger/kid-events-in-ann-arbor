@@ -328,23 +328,36 @@ def _ics_dt(value: str, params: str) -> str:
     return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset
 
 
+def _or_raise(events: list, failed):
+    """Nothing found and something broke is a failure, not a quiet day.
+
+    Returning [] here reports the source as "0", which is indistinguishable
+    from a site that genuinely has nothing on. Half the sources sitting at
+    zero turned out to be this.
+    """
+    if not events and failed is not None:
+        raise failed
+    return events
+
+
 def harvest_ical(site: dict) -> list:
-    events = []
+    events, failed = [], None
     for url in site.get("feeds", []):
         try:
             events.extend(parse_ics(http.get(url), site))
-        except http.FetchError:
-            continue
-    return events
+        except http.FetchError as exc:
+            failed = exc
+    return _or_raise(events, failed)
 
 
 def harvest_rss(site: dict) -> list:
     """RSS gives titles and links. Detail pages give everything else."""
-    links = set()
+    links, failed = set(), None
     for url in site.get("feeds", []):
         try:
             xml = http.get(url)
-        except http.FetchError:
+        except http.FetchError as exc:
+            failed = exc
             continue
         for link in re.findall(r"<link>(.*?)</link>", xml, re.DOTALL):
             link = link.strip()
@@ -361,7 +374,7 @@ def harvest_rss(site: dict) -> list:
             event = event_from_jsonld(node, site, url, html)
             if event:
                 events.append(event)
-    return events
+    return _or_raise(events, failed)
 
 
 def harvest_tribe(site: dict) -> list:

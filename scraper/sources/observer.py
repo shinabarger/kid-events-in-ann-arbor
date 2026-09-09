@@ -296,7 +296,8 @@ def parse_page(html: str, fallback_year: int | None = None) -> list:
 
 
 def fetch() -> list:
-    try:
-        return parse_page(http.get(KIDS_URL))
-    except http.FetchError:
-        return []
+    # Deliberately not catching FetchError. Swallowing it returned an empty
+    # list, which the run reports as "0 events" and reads exactly like a
+    # quiet week. The Observer was down for weeks looking like a quiet week.
+    # run.py catches per source, so a raise here costs nothing and says why.
+    return parse_page(http.get(KIDS_URL))

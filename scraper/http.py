@@ -31,6 +31,18 @@ USER_AGENT = (
 _last_call = {"t": 0.0}
 
 
+# A bare User-Agent and nothing else looks like a script to the security
+# plugins a lot of these sites run, and gets a 403. These are the headers any
+# browser sends. The agent string still says who this is and how to reach me.
+HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,"
+              "text/calendar;q=0.9,application/json;q=0.8,*/*;q=0.7",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Connection": "keep-alive",
+}
+
+
 class FetchError(RuntimeError):
     pass
 
@@ -68,7 +80,7 @@ def get(url: str, *, retries: int = 2) -> str:
             time.sleep(DELAY - gap)
         robots.wait_for_host(url)
         try:
-            response = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=TIMEOUT)
+            response = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
             _last_call["t"] = time.time()
             robots.note_fetch(url)
             if response.status_code in (401, 403):

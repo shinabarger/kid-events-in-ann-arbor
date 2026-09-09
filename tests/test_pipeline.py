@@ -273,3 +273,72 @@ def test_a_renamed_feed_does_not_leave_the_old_one_being_served(tmp_path):
     assert not stale.exists(), "the old feed is still there"
     assert keeper.exists(), "only .ics files are ours to clean up"
     assert (tmp_path / "within-30-minutes.ics").exists()
+
+
+# --- a dead fetch must never look like a quiet day ---------------------------
+
+def test_a_failed_fetch_is_reported_as_a_failure_not_a_zero(monkeypatch):
+    """The Observer sat at "0 events" for weeks while every request 403'd.
+
+    The adapter caught FetchError and returned [], the run recorded that as a
+    successful fetch of nothing, and the footer showed a plausible looking
+    zero. Nothing anywhere said the site was refusing us.
+    """
+    from scraper import http
+    from scraper.sources import observer
+
+    def refuse(url, **kwargs):
+        raise http.Disallowed(f"403 from {url}")
+
+    monkeypatch.setattr(http, "get", refuse)
+
+    with pytest.raises(http.FetchError):
+        observer.fetch()
+
+
+def test_a_generic_source_whose_only_feed_dies_also_raises(monkeypatch):
+    from scraper import http
+    from scraper.sources import generic
+
+    def refuse(url, **kwargs):
+        raise http.FetchError(f"timed out on {url}")
+
+    monkeypatch.setattr(http, "get", refuse)
+    site = {"key": "x", "name": "X", "feeds": ["https://example.org/feed.ics"]}
+
+    with pytest.raises(http.FetchError):
+        generic.harvest_ical(site)
+
+
+def test_one_dead_feed_among_several_is_still_a_success(monkeypatch):
+    """Only a total loss is a failure. A source with two feeds and one bad one
+    has still contributed, and should not be marked down for it."""
+    from scraper import http
+    from scraper.sources import generic
+
+    good = ("BEGIN:VCALENDAR\r\nBEGIN:VEVENT\r\nSUMMARY:Storytime\r\n"
+            "DTSTART:20260915T103000\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n")
+
+    def half(url, **kwargs):
+        if "bad" in url:
+            raise http.FetchError("nope")
+        return good
+
+    monkeypatch.setattr(http, "get", half)
+    site = {"key": "x", "name": "X",
+            "feeds": ["https://example.org/bad.ics", "https://example.org/ok.ics"]}
+
+    events = generic.harvest_ical(site)
+    assert len(events) == 1 and events[0].title == "Storytime"
+
+
+def test_requests_go_out_with_browser_headers():
+    """A lone User-Agent reads as a script to the security plugins these sites
+    run, and gets a 403."""
+    from scraper import http
+
+    assert "Accept" in http.HEADERS
+    assert "Accept-Language" in http.HEADERS
+    # The agent string still has to say who this is and how to reach them.
+    assert "kid-events-in-ann-arbor" in http.HEADERS["User-Agent"]
+    assert "http" in http.HEADERS["User-Agent"], "no contact link in the agent string"
