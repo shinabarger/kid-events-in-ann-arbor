@@ -10,9 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:bb765e2eddcc6de6@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T083000Z
 DTEND:20260910T170000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260910T123000Z
+DTEND:20260910T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Meri Lou Rec Center Grand Re-Opening
 LOCATION:Meri Lou Murray Recreation Center\, 2960 Washtenaw\, Ann Arbor\, 
  MI\, 48104
@@ -23,14 +29,22 @@ DESCRIPTION:You're Invited to the Meri Lou Murray Recreation Center's Gran
  Lou. FREE ENTRY FOR ALL!\n\nWhere: 2960 Washtenaw\, Ann Arbor\, MI\, 4810
  4\nAges: all ages\nCost: Free\nSignup: Registration required\, book befor
  e you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\n
- Found on: https://kideventsinannarbor.com/?event=bb765e2eddcc6de6\n\nDoub
- le check the time with the organizer before you go.
+ Details: https://annarborfamily.com/Calendar/#!/event/19794233\nFound on:
+  https://kideventsinannarbor.com/?event=bb765e2eddcc6de6\n\nDouble check 
+ the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19794233
 END:VEVENT
 BEGIN:VEVENT
 UID:1e458ede6e96b6e9@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T090000Z
 DTEND:20260910T090000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260910T130000Z
+DTEND:20260910T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -38,6 +52,7 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
+<<<<<<< Updated upstream
  \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
  ?event=1e458ede6e96b6e9\n\nDouble check the time with the organizer befor
  e you go.
@@ -166,6 +181,18 @@ UID:c85a2a771a851645@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T083000Z
 DTEND:20260911T170000Z
+=======
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=1e
+ 458ede6e96b6e9\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
+END:VEVENT
+BEGIN:VEVENT
+UID:c85a2a771a851645@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T123000Z
+DTEND:20260911T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Meri Lou Rec Center Grand Re-Opening
 LOCATION:Meri Lou Murray Recreation Center\, 2960 Washtenaw\, Ann Arbor\, 
  MI\, 48104
@@ -176,14 +203,22 @@ DESCRIPTION:You're Invited to the Meri Lou Murray Recreation Center's Gran
  Lou. FREE ENTRY FOR ALL!\n\nWhere: 2960 Washtenaw\, Ann Arbor\, MI\, 4810
  4\nAges: all ages\nCost: Free\nSignup: Registration required\, book befor
  e you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\n
- Found on: https://kideventsinannarbor.com/?event=c85a2a771a851645\n\nDoub
- le check the time with the organizer before you go.
+ Details: https://annarborfamily.com/Calendar/#!/event/19794233\nFound on:
+  https://kideventsinannarbor.com/?event=c85a2a771a851645\n\nDouble check 
+ the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19794233
 END:VEVENT
 BEGIN:VEVENT
 UID:87f9c2b95163ca22@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T090000Z
 DTEND:20260911T090000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T130000Z
+DTEND:20260911T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -191,15 +226,22 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
- \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
- ?event=87f9c2b95163ca22\n\nDouble check the time with the organizer befor
- e you go.
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=87
+ f9c2b95163ca22\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:8cad218c78a0cefc@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T090000Z
 DTEND:20260911T200000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T130000Z
+DTEND:20260912T000000Z
+>>>>>>> Stashed changes
 SUMMARY:Chow Time at the Farm
 LOCATION:Kensington Metropark\, Farm Center\, 4570 Huron River Pkwy\, Milf
  ord\, MI\, 48380
@@ -210,6 +252,7 @@ DESCRIPTION:Kids can help farm staff feed the animals - pigs\, goats\, cow
  ered adult.\n\nWhere: 4570 Huron River Pkwy\, Milford\, MI\, 48380\nDrive
  : about 35 minutes from downtown Ann Arbor\nAges: all ages\nCost: 5\nSign
  up: Registration required\, book before you go\nOutdoors\, dress for the 
+<<<<<<< Updated upstream
  weather\nListed by: Ann Arbor Family\nFound on: https://kideventsinannarb
  or.com/?event=8cad218c78a0cefc\n\nDouble check the time with the organize
  r before you go.
@@ -379,6 +422,19 @@ UID:d8db11a2045c27af@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T173000Z
 DTEND:20260911T210000Z
+=======
+ weather\nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com
+ /Calendar/#!/event/19873567\nFound on: https://kideventsinannarbor.com/?e
+ vent=8cad218c78a0cefc\n\nDouble check the time with the organizer before 
+ you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19873567
+END:VEVENT
+BEGIN:VEVENT
+UID:d8db11a2045c27af@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T213000Z
+DTEND:20260912T010000Z
+>>>>>>> Stashed changes
 SUMMARY:2026 Taste of Generosity: Michigan
 LOCATION:ROYAL OAK FARMERS MARKET\, 316 E. 11 MILE RD.\, Royal Oak\, MI\, 
  48067
@@ -388,15 +444,23 @@ DESCRIPTION:The fifth annual MS Taste of Generosity\, offers guests a chan
  ive exhibits about MS and those impacted by it.\n\nWhere: 316 E. 11 MILE 
  RD.\, Royal Oak\, MI\, 48067\nDrive: about 4 minutes from downtown Ann Ar
  bor\nAges: all ages\nCost: 50\nSignup: Drop in\, no signup needed\nOutdoo
- rs\, dress for the weather\nListed by: Ann Arbor Family\nFound on: https:
- //kideventsinannarbor.com/?event=d8db11a2045c27af\n\nDouble check the tim
- e with the organizer before you go.
+ rs\, dress for the weather\nListed by: Ann Arbor Family\nDetails: https:/
+ /annarborfamily.com/Calendar/#!/event/19410689\nFound on: https://kideven
+ tsinannarbor.com/?event=d8db11a2045c27af\n\nDouble check the time with th
+ e organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19410689
 END:VEVENT
 BEGIN:VEVENT
 UID:1c2eb77567a47612@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T180000Z
 DTEND:20260911T200000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T220000Z
+DTEND:20260912T000000Z
+>>>>>>> Stashed changes
 SUMMARY:Spider-Man Kid Rave
 LOCATION:Chelsea Party Loft\, 1115 S Main St\, Chelsea\, MI\, 48118
 GEO:42.304941;-84.020135
@@ -406,6 +470,7 @@ DESCRIPTION:Join Spider-Man and Spider-Gwen for an evening of dancing! Sho
  night of dance party fun for the whole family!\n\nWhere: 1115 S Main St\,
   Chelsea\, MI\, 48118\nDrive: about 29 minutes from downtown Ann Arbor\nA
  ges: all ages\nCost: $3\nSignup: Drop in\, no signup needed\nListed by: A
+<<<<<<< Updated upstream
  nn Arbor Family\nFound on: https://kideventsinannarbor.com/?event=1c2eb77
  567a47612\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -538,6 +603,18 @@ UID:0be5aca1ac12129f@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260912T083000Z
 DTEND:20260912T170000Z
+=======
+ nn Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event/19
+ 708795\nFound on: https://kideventsinannarbor.com/?event=1c2eb77567a47612
+ \n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19708795
+END:VEVENT
+BEGIN:VEVENT
+UID:0be5aca1ac12129f@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260912T123000Z
+DTEND:20260912T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Meri Lou Rec Center Grand Re-Opening
 LOCATION:Meri Lou Murray Recreation Center\, 2960 Washtenaw\, Ann Arbor\, 
  MI\, 48104
@@ -548,6 +625,7 @@ DESCRIPTION:You're Invited to the Meri Lou Murray Recreation Center's Gran
  Lou. FREE ENTRY FOR ALL!\n\nWhere: 2960 Washtenaw\, Ann Arbor\, MI\, 4810
  4\nAges: all ages\nCost: Free\nSignup: Registration required\, book befor
  e you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\n
+<<<<<<< Updated upstream
  Found on: https://kideventsinannarbor.com/?event=0be5aca1ac12129f\n\nDoub
  le check the time with the organizer before you go.
 END:VEVENT
@@ -573,6 +651,18 @@ UID:a8d019d4457059a2@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260912T090000Z
 DTEND:20260912T130000Z
+=======
+ Details: https://annarborfamily.com/Calendar/#!/event/19794233\nFound on:
+  https://kideventsinannarbor.com/?event=0be5aca1ac12129f\n\nDouble check 
+ the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19794233
+END:VEVENT
+BEGIN:VEVENT
+UID:a8d019d4457059a2@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260912T130000Z
+DTEND:20260912T170000Z
+>>>>>>> Stashed changes
 SUMMARY:Growing Hope Ypsilanti Kids Farmers Market
 LOCATION:Ypsilanti Farmers MarketPlace\, 16 S. Washington St.\, Ypsilanti\
  , MI\, 48197
@@ -583,6 +673,7 @@ DESCRIPTION:The Kids Market at the Growing Hope Ypsilanti Farmers Market g
  g.\n\nWhere: 16 S. Washington St.\, Ypsilanti\, MI\, 48197\nDrive: about 
  4 minutes from downtown Ann Arbor\nCost: Not listed\nSignup: Drop in\, no
   signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor Fa
+<<<<<<< Updated upstream
  mily\nFound on: https://kideventsinannarbor.com/?event=a8d019d4457059a2\n
  \nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -642,6 +733,18 @@ UID:b430485161ef920e@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260912T103000Z
 DTEND:20260912T110000Z
+=======
+ mily\nDetails: https://annarborfamily.com/Calendar/#!/event/19187445\nFou
+ nd on: https://kideventsinannarbor.com/?event=a8d019d4457059a2\n\nDouble 
+ check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19187445
+END:VEVENT
+BEGIN:VEVENT
+UID:b430485161ef920e@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260912T143000Z
+DTEND:20260912T150000Z
+>>>>>>> Stashed changes
 SUMMARY:Play the Kerrytown Chime
 LOCATION:Kerrytown Market & Shops\, 407 N 5th Ave\, Ann Arbor\, MI\, 48104
 GEO:42.2843156755;-83.7459267676
@@ -651,6 +754,7 @@ DESCRIPTION:The Kerrytown Chime is open for the public to play 3 times a w
  is play by number making it easy and fun for kids \\(and adults too\\).\n
  \nWhere: 407 N 5th Ave\, Ann Arbor\, MI\, 48104\nCost: Not listed\nSignup
  : Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed by
+<<<<<<< Updated upstream
  : Ann Arbor Family\nFound on: https://kideventsinannarbor.com/?event=b430
  485161ef920e\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -723,6 +827,18 @@ UID:7b5ecadcd867a967@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260912T110000Z
 DTEND:20260912T110000Z
+=======
+ : Ann Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event
+ /19386862\nFound on: https://kideventsinannarbor.com/?event=b430485161ef9
+ 20e\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19386862
+END:VEVENT
+BEGIN:VEVENT
+UID:7b5ecadcd867a967@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260912T150000Z
+DTEND:20260912T150000Z
+>>>>>>> Stashed changes
 SUMMARY:Wiard's Orchards Country Fair Opening Day
 LOCATION:Wiards Orchards\, 5565 Merritt Rd\, Ypsilanti\, MI\, 48197
 GEO:42.188037;-83.647582
@@ -731,6 +847,7 @@ DESCRIPTION:OPENING DAY AT WIARDS ORCHARDS! 🍂🎃 Fall is officially here\, a
  iards Orchards!\n\nWhere: 5565 Merritt Rd\, Ypsilanti\, MI\, 48197\nDrive
  : about 24 minutes from downtown Ann Arbor\nCost: Not listed\nSignup: Dro
  p in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann
+<<<<<<< Updated upstream
   Arbor Family\nFound on: https://kideventsinannarbor.com/?event=7b5ecadcd
  867a967\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -1179,13 +1296,24 @@ DESCRIPTION:Make sure your child’s car seat is installed safely during a F
  bout 47 minutes from downtown Ann Arbor\nCost: Free\nSignup: Drop in\, no
   signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor Fa
  mily\nFound on: https://kideventsinannarbor.com/?event=e8f42672151fd19b\n
+=======
+  Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event/1985
+ 8050\nFound on: https://kideventsinannarbor.com/?event=7b5ecadcd867a967\n
+>>>>>>> Stashed changes
  \nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19858050
 END:VEVENT
 BEGIN:VEVENT
 UID:89788832e8cf8fca@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260913T083000Z
 DTEND:20260913T170000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260913T123000Z
+DTEND:20260913T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Meri Lou Rec Center Grand Re-Opening
 LOCATION:Meri Lou Murray Recreation Center\, 2960 Washtenaw\, Ann Arbor\, 
  MI\, 48104
@@ -1196,6 +1324,7 @@ DESCRIPTION:You're Invited to the Meri Lou Murray Recreation Center's Gran
  Lou. FREE ENTRY FOR ALL!\n\nWhere: 2960 Washtenaw\, Ann Arbor\, MI\, 4810
  4\nAges: all ages\nCost: Free\nSignup: Registration required\, book befor
  e you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\n
+<<<<<<< Updated upstream
  Found on: https://kideventsinannarbor.com/?event=89788832e8cf8fca\n\nDoub
  le check the time with the organizer before you go.
 END:VEVENT
@@ -1277,6 +1406,18 @@ UID:de7d3ada35cea9f2@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260913T100000Z
 DTEND:20260913T160000Z
+=======
+ Details: https://annarborfamily.com/Calendar/#!/event/19794233\nFound on:
+  https://kideventsinannarbor.com/?event=89788832e8cf8fca\n\nDouble check 
+ the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19794233
+END:VEVENT
+BEGIN:VEVENT
+UID:de7d3ada35cea9f2@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260913T140000Z
+DTEND:20260913T200000Z
+>>>>>>> Stashed changes
 SUMMARY:Sundays at the Market
 LOCATION:Lucas County Fairgrounds\, 1406 Key St.\, Maumee\, OH\, 43537
 GEO:41.58079;-83.644304
@@ -1286,6 +1427,7 @@ DESCRIPTION:MAUMEE\, OH - SEPT 13! We are HEADED BACK for ONE DAY ONLY — d
  s at the beautiful photo booth\, and enjoy a full food truck rally!\n\nWh
  ere: 1406 Key St.\, Maumee\, OH\, 43537\nDrive: about 14 minutes from dow
  ntown Ann Arbor\nCost: $5\nSignup: Drop in\, no signup needed\nOutdoors\,
+<<<<<<< Updated upstream
   dress for the weather\nListed by: Ann Arbor Family\nFound on: https://ki
  deventsinannarbor.com/?event=de7d3ada35cea9f2\n\nDouble check the time wi
  th the organizer before you go.
@@ -1355,6 +1497,19 @@ UID:89812d3a2eaaf161@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260913T130000Z
 DTEND:20260913T160000Z
+=======
+  dress for the weather\nListed by: Ann Arbor Family\nDetails: https://ann
+ arborfamily.com/Calendar/#!/event/19487789\nFound on: https://kideventsin
+ annarbor.com/?event=de7d3ada35cea9f2\n\nDouble check the time with the or
+ ganizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19487789
+END:VEVENT
+BEGIN:VEVENT
+UID:89812d3a2eaaf161@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+>>>>>>> Stashed changes
 SUMMARY:Monarch Migration Festival 2026
 LOCATION:Leslie Science and Nature Center\, 1831 Traver Rd\, Ann Arbor\, M
  I\, 48105
@@ -1363,6 +1518,7 @@ DESCRIPTION:TIckets: aahom.org/monarch Celebrate the 13th Annual Monarch M
  igration Festival at Leslie Science & Nature Center!\n\nWhere: 1831 Trave
  r Rd\, Ann Arbor\, MI\, 48105\nAges: all ages\nCost: Not listed\nSignup: 
  Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed by: 
+<<<<<<< Updated upstream
  Ann Arbor Family\nFound on: https://kideventsinannarbor.com/?event=89812d
  3a2eaaf161\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -1642,6 +1798,18 @@ UID:a724318db7c23452@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260914T090000Z
 DTEND:20260914T090000Z
+=======
+ Ann Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event/1
+ 9579840\nFound on: https://kideventsinannarbor.com/?event=89812d3a2eaaf16
+ 1\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19579840
+END:VEVENT
+BEGIN:VEVENT
+UID:a724318db7c23452@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260914T130000Z
+DTEND:20260914T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -1649,6 +1817,7 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
+<<<<<<< Updated upstream
  \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
  ?event=a724318db7c23452\n\nDouble check the time with the organizer befor
  e you go.
@@ -1743,6 +1912,18 @@ UID:a3e34c5f720c21c3@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260915T090000Z
 DTEND:20260915T090000Z
+=======
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=a7
+ 24318db7c23452\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
+END:VEVENT
+BEGIN:VEVENT
+UID:a3e34c5f720c21c3@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260915T130000Z
+DTEND:20260915T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -1750,6 +1931,7 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
+<<<<<<< Updated upstream
  \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
  ?event=a3e34c5f720c21c3\n\nDouble check the time with the organizer befor
  e you go.
@@ -1775,6 +1957,18 @@ UID:d2c191e9e4dee8a1@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260915T103000Z
 DTEND:20260915T113000Z
+=======
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=a3
+ e34c5f720c21c3\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
+END:VEVENT
+BEGIN:VEVENT
+UID:d2c191e9e4dee8a1@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260915T143000Z
+DTEND:20260915T153000Z
+>>>>>>> Stashed changes
 SUMMARY:FREE Outdoor Story Time for Kids
 LOCATION:Ann Arbor\, MI
 GEO:42.27087;-83.72633
@@ -1783,6 +1977,7 @@ DESCRIPTION:Tuesday\, September 15\, 2026\, 10:30 - 11:30am Celebrate the
  -October we will meet at a new park! Dress for the weather. For children 
  2-5 years of age and an adult. Free. Registration required.\n\nWhere: Ann
   Arbor\, MI\nCost: Free\nSignup: Registration required\, book before you 
+<<<<<<< Updated upstream
  go\nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.co
  m/?event=d2c191e9e4dee8a1\n\nDouble check the time with the organizer bef
  ore you go.
@@ -6785,5 +6980,12 @@ DESCRIPTION:Looking for a fun night of friendly competition? Gather your f
 URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
  ventid%3D206401375
 CATEGORIES:Parks and Recreation
+=======
+ go\nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Cale
+ ndar/#!/event/19711554\nFound on: https://kideventsinannarbor.com/?event=
+ d2c191e9e4dee8a1\n\nDouble check the time with the organizer before you g
+ o.
+URL:https://annarborfamily.com/Calendar/#!/event/19711554
+>>>>>>> Stashed changes
 END:VEVENT
 END:VCALENDAR

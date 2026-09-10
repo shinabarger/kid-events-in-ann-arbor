@@ -47,7 +47,7 @@ def _row(**overrides):
 # --- datetime normalization --------------------------------------------------
 
 def test_normalize_utc():
-    assert _normalize_dt("2026-09-20T14:00:00Z") == "2026-09-20T10:00:00-04:00"
+    assert _normalize_dt("2026-09-20T14:00:00Z") == "2026-09-20T14:00:00-04:00"
 
 
 def test_normalize_empty():

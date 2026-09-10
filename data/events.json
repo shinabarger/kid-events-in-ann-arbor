@@ -1,7 +1,11 @@
 {
+<<<<<<< Updated upstream
  "generated": "2026-09-10T15:28:54+00:00",
+=======
+ "generated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
  "sample": false,
- "count": 1084,
+ "count": 45,
  "horizon_days": 120,
  "age_bands": [
   {
@@ -73,6 +77,7 @@
  ],
  "sources": [
   {
+<<<<<<< Updated upstream
    "key": "manual",
    "name": "Added by hand",
    "count": 0,
@@ -118,11 +123,14 @@
    "kept": 18
   },
   {
+=======
+>>>>>>> Stashed changes
    "key": "cityspark_a2family",
    "name": "Ann Arbor Family",
-   "count": 564,
+   "count": 568,
    "ok": true,
    "error": "",
+<<<<<<< Updated upstream
    "seconds": 21.3,
    "kept": 143
   },
@@ -251,10 +259,15 @@
    "error": "",
    "seconds": 0.2,
    "kept": 4
+=======
+   "seconds": 22.7,
+   "kept": 45
+>>>>>>> Stashed changes
   }
  ],
  "events": [
   {
+<<<<<<< Updated upstream
    "title": "Flutter Fundraiser",
    "start": "2026-09-10T00:00:00-04:00",
    "source": "destination_a2",
@@ -290,16 +303,18 @@
    "id": "57d7a0691fab9736"
   },
   {
+=======
+>>>>>>> Stashed changes
    "title": "Meri Lou Rec Center Grand Re-Opening",
-   "start": "2026-09-10T04:30:00-04:00",
+   "start": "2026-09-10T08:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-10T13:00:00-04:00",
+   "end": "2026-09-10T17:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 4,
    "description": "You're Invited to the Meri Lou Murray Recreation Center's Grand Re-Opening! It's four days of activities, demonstrations, special offers, giveaways, and opportunities to experience everything new at Meri Lou. FREE ENTRY FOR ALL!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19794233",
    "venue": "Meri Lou Murray Recreation Center",
    "address": "2960 Washtenaw, Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -328,12 +343,16 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "bb765e2eddcc6de6"
   },
   {
    "title": "Ann Arbor District Library Storytimes",
-   "start": "2026-09-10T05:00:00-04:00",
+   "start": "2026-09-10T09:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
    "end": null,
@@ -341,7 +360,7 @@
    "recurring": false,
    "repeat_count": 4,
    "description": "Enjoy fun, engaging storytimes with the Ann Arbor District Library, where songs, stories, and activities spark a love of reading and learning for children and families of all ages.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/18068175",
    "venue": "Various Branches",
    "address": "Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -370,20 +389,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "1e458ede6e96b6e9"
   },
   {
    "title": "Rummage sale",
-   "start": "2026-09-10T05:00:00-04:00",
+   "start": "2026-09-10T09:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-10T13:00:00-04:00",
+   "end": "2026-09-10T17:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 3,
    "description": "Come out to Triumphant Cross Lutheran Church for some cool finds. Items include clothing and accessories, books, home and holiday decor, games, kids and baby items, tech, and much more! Proceeds go toward helping the community such as the MCREST week for the homeless.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19766649",
    "venue": "Triumphant Cross Lutheran Church",
    "address": "22360 E 13 Mile Rd, St. Clair Shores, MI, 48082",
    "city": "St. Clair Shores",
@@ -408,20 +431,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "430774188a12583a"
   },
   {
    "title": "Open Play",
-   "start": "2026-09-10T05:30:00-04:00",
+   "start": "2026-09-10T09:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-10T14:00:00-04:00",
+   "end": "2026-09-10T18:00:00-04:00",
    "all_day": false,
    "recurring": true,
    "repeat_count": 6,
    "description": "",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/17754464",
    "venue": "We Rock The Spectrum - Ann Arbor",
    "address": "4370 Varsity Dr suite a, Ann Arbor, MI, 48108",
    "city": "Ann Arbor",
@@ -443,6 +470,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "c42b5988b7deb392"
   },
@@ -569,16 +597,22 @@
    "id": "5999a1b3a654435c"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "c42b5988b7deb392"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Ms. Rachel Storytime",
-   "start": "2026-09-10T06:30:00-04:00",
+   "start": "2026-09-10T10:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-10T07:00:00-04:00",
+   "end": "2026-09-10T11:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "This Ms. Rachel inspired storytime will have young fans moving, playing, and learning! Sing and dance to some of Ms Rachel's favorite songs like \"Hop Little Bunnies\" and \"Icky Sticky Bubble Gum\", play movement games, and read interactive stories with Starbright Entertainment's...",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19792578",
    "venue": "Recess Cafe",
    "address": "208 S Ashley St, Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -605,6 +639,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "83f3a69fcfe873f5"
   },
@@ -688,16 +723,22 @@
    "id": "0d9f87dbedfa344b"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "83f3a69fcfe873f5"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Homeschool Playdate $3 Off",
-   "start": "2026-09-10T09:00:00-04:00",
+   "start": "2026-09-10T13:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-10T11:00:00-04:00",
+   "end": "2026-09-10T15:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/16677577",
    "venue": "We Rock The Spectrum - Ann Arbor",
    "address": "4370 Varsity Dr suite a, Ann Arbor, MI, 48108",
    "city": "Ann Arbor",
@@ -719,6 +760,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "3e8f2766299f772b"
   },
@@ -1161,16 +1203,22 @@
    "id": "3071ee2a70e32883"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "3e8f2766299f772b"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Sh*tty Craft Club",
-   "start": "2026-09-10T14:00:00-04:00",
+   "start": "2026-09-10T18:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-10T16:00:00-04:00",
+   "end": "2026-09-10T20:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "You know how you watch your kids attempt crafts, and you think to yourself...I wanna do this craft too...but no kids...and better snacks...and good mama energy. Introducing The Mamas Network's Sh\\*tty Craft Club!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/18581341",
    "venue": "",
    "address": "3909 Research Park Drive Suite 300, Ann Arbor, MI, 48108",
    "city": "Ann Arbor",
@@ -1197,6 +1245,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "285d359c74d520a1"
   },
@@ -1840,16 +1889,22 @@
    "id": "83bb28855c9186cd"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "285d359c74d520a1"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Meri Lou Rec Center Grand Re-Opening",
-   "start": "2026-09-11T04:30:00-04:00",
+   "start": "2026-09-11T08:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-11T13:00:00-04:00",
+   "end": "2026-09-11T17:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 4,
    "description": "You're Invited to the Meri Lou Murray Recreation Center's Grand Re-Opening! It's four days of activities, demonstrations, special offers, giveaways, and opportunities to experience everything new at Meri Lou. FREE ENTRY FOR ALL!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19794233",
    "venue": "Meri Lou Murray Recreation Center",
    "address": "2960 Washtenaw, Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -1878,12 +1933,16 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "c85a2a771a851645"
   },
   {
    "title": "Ann Arbor District Library Storytimes",
-   "start": "2026-09-11T05:00:00-04:00",
+   "start": "2026-09-11T09:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
    "end": null,
@@ -1891,7 +1950,7 @@
    "recurring": false,
    "repeat_count": 4,
    "description": "Enjoy fun, engaging storytimes with the Ann Arbor District Library, where songs, stories, and activities spark a love of reading and learning for children and families of all ages.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/18068175",
    "venue": "Various Branches",
    "address": "Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -1920,20 +1979,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "87f9c2b95163ca22"
   },
   {
    "title": "Chow Time at the Farm",
-   "start": "2026-09-11T05:00:00-04:00",
+   "start": "2026-09-11T09:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-11T16:00:00-04:00",
+   "end": "2026-09-11T20:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "Kids can help farm staff feed the animals - pigs, goats, cows, and more. Pregistration required the day before the event Fun for all ages, but geared to ages 3-13. Children must be accompanied by a registered adult.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19873567",
    "venue": "Kensington Metropark, Farm Center",
    "address": "4570 Huron River Pkwy, Milford, MI, 48380",
    "city": "Milford",
@@ -1962,20 +2025,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "8cad218c78a0cefc"
   },
   {
    "title": "Rummage sale",
-   "start": "2026-09-11T05:00:00-04:00",
+   "start": "2026-09-11T09:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-11T13:00:00-04:00",
+   "end": "2026-09-11T17:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 3,
    "description": "Come out to Triumphant Cross Lutheran Church for some cool finds. Items include clothing and accessories, books, home and holiday decor, games, kids and baby items, tech, and much more! Proceeds go toward helping the community such as the MCREST week for the homeless.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19766649",
    "venue": "Triumphant Cross Lutheran Church",
    "address": "22360 E 13 Mile Rd, St. Clair Shores, MI, 48082",
    "city": "St. Clair Shores",
@@ -2000,6 +2067,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "84934c87c6bb3f4c"
   },
@@ -2039,16 +2107,22 @@
    "id": "fbfc9100a5d6376c"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "84934c87c6bb3f4c"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Open Play",
-   "start": "2026-09-11T05:30:00-04:00",
+   "start": "2026-09-11T09:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-11T14:00:00-04:00",
+   "end": "2026-09-11T18:00:00-04:00",
    "all_day": false,
    "recurring": true,
    "repeat_count": 6,
    "description": "",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/17754464",
    "venue": "We Rock The Spectrum - Ann Arbor",
    "address": "4370 Varsity Dr suite a, Ann Arbor, MI, 48108",
    "city": "Ann Arbor",
@@ -2070,6 +2144,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "3acaeac5fa838584"
   },
@@ -2777,16 +2852,22 @@
    "id": "13110438592c39d9"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "3acaeac5fa838584"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Plymouth Fall Festival",
-   "start": "2026-09-11T11:00:00-04:00",
+   "start": "2026-09-11T15:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-11T18:00:00-04:00",
+   "end": "2026-09-11T22:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 3,
    "description": "Celebrate the season at the Plymouth Fall Festival in Downtown Plymouth. This three-day community tradition features carnival rides, a craft show, classic cars, live music and performances, kids’ entertainment, bingo and food served by local nonprofit organizations.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19856130",
    "venue": "Downtown Plymouth",
    "address": "Penniman Avenue and Main Street, Plymouth, MI, 48170",
    "city": "Plymouth",
@@ -2813,6 +2894,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "ebfed9b2fd6ef9f4"
   },
@@ -2990,16 +3072,22 @@
    "id": "025a02577fdd28bf"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "ebfed9b2fd6ef9f4"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Fall Tour at the Clements Library",
-   "start": "2026-09-11T12:00:00-04:00",
+   "start": "2026-09-11T16:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-11T13:00:00-04:00",
+   "end": "2026-09-11T17:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "Guided Tour of the U-M Clements Library. Join us for a guided tour to learn more about the Clements’ early American history collections.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19570323",
    "venue": "William L. Clements Library",
    "address": "909 South University Avenue, Ann Arbor, MI, 4810",
    "city": "Ann Arbor",
@@ -3021,6 +3109,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "d6eb139f1cdff802"
   },
@@ -3162,16 +3251,22 @@
    "id": "959477ed6378e619"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "d6eb139f1cdff802"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "2026 Taste of Generosity: Michigan",
-   "start": "2026-09-11T13:30:00-04:00",
+   "start": "2026-09-11T17:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-11T17:00:00-04:00",
+   "end": "2026-09-11T21:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "The fifth annual MS Taste of Generosity, offers guests a chance to enjoy Michigan-made delights, free kids’ activities, and interactive exhibits about MS and those impacted by it.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19410689",
    "venue": "ROYAL OAK FARMERS MARKET",
    "address": "316 E. 11 MILE RD., Royal Oak, MI, 48067",
    "city": "Royal Oak",
@@ -3200,20 +3295,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "d8db11a2045c27af"
   },
   {
    "title": "Spider-Man Kid Rave",
-   "start": "2026-09-11T14:00:00-04:00",
+   "start": "2026-09-11T18:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-11T16:00:00-04:00",
+   "end": "2026-09-11T20:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "Join Spider-Man and Spider-Gwen for an evening of dancing! Show off your best web-slinging moves as you boogie under the disco ball, take selfies with these superheroes in the 360° Video Booth, and enjoy a night of dance party fun for the whole family!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19708795",
    "venue": "Chelsea Party Loft",
    "address": "1115 S Main St, Chelsea, MI, 48118",
    "city": "Chelsea",
@@ -3242,6 +3341,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "1c2eb77567a47612"
   },
@@ -3434,8 +3534,14 @@
    "id": "c14922bad733dc70"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "1c2eb77567a47612"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Riverside Swings",
-   "start": "2026-09-11T15:15:00-04:00",
+   "start": "2026-09-11T19:15:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
    "end": null,
@@ -3443,7 +3549,7 @@
    "recurring": false,
    "repeat_count": 1,
    "description": "Riverside Swings every Friday 9PM-11:30PMCome swing dance at Riverside! All ages and skill levels welcome. Come alone, with a partner, or in a group, swing is for everyone! 8:00pm-9:00pmFree Beginner lessons9:00pm-11:30pmOpen Dance $5 General Admission$4 Students",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/17635549",
    "venue": "Riverside Arts Center",
    "address": "76 N Huron St, Ypsilanti, MI, 48197",
    "city": "Ypsilanti",
@@ -3472,6 +3578,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "97a422259430eab5"
   },
@@ -4033,16 +4140,22 @@
    "id": "5558d0b6c564cc0b"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "97a422259430eab5"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Plymouth Fall Festival",
-   "start": "2026-09-12T03:00:00-04:00",
+   "start": "2026-09-12T07:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-12T18:00:00-04:00",
+   "end": "2026-09-12T22:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 3,
    "description": "Celebrate the season at the Plymouth Fall Festival in Downtown Plymouth. This three-day community tradition features carnival rides, a craft show, classic cars, live music and performances, kids’ entertainment, bingo and food served by local nonprofit organizations.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19856130",
    "venue": "Downtown Plymouth",
    "address": "Penniman Avenue and Main Street, Plymouth, MI, 48170",
    "city": "Plymouth",
@@ -4069,20 +4182,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "0740470b82d6efa9"
   },
   {
    "title": "Meri Lou Rec Center Grand Re-Opening",
-   "start": "2026-09-12T04:30:00-04:00",
+   "start": "2026-09-12T08:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-12T13:00:00-04:00",
+   "end": "2026-09-12T17:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 4,
    "description": "You're Invited to the Meri Lou Murray Recreation Center's Grand Re-Opening! It's four days of activities, demonstrations, special offers, giveaways, and opportunities to experience everything new at Meri Lou. FREE ENTRY FOR ALL!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19794233",
    "venue": "Meri Lou Murray Recreation Center",
    "address": "2960 Washtenaw, Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -4111,6 +4228,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "0be5aca1ac12129f"
   },
@@ -4236,16 +4354,22 @@
    "id": "8f75cbec3d515680"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "0be5aca1ac12129f"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Growing Hope Ypsilanti Kids Farmers Market",
-   "start": "2026-09-12T05:00:00-04:00",
+   "start": "2026-09-12T09:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-12T09:00:00-04:00",
+   "end": "2026-09-12T13:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "The Kids Market at the Growing Hope Ypsilanti Farmers Market gives young entrepreneurs the opportunity to showcase their products, connect with customers and build confidence in a supportive community setting.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19187445",
    "venue": "Ypsilanti Farmers MarketPlace",
    "address": "16 S. Washington St., Ypsilanti, MI, 48197",
    "city": "Ypsilanti",
@@ -4272,20 +4396,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "a8d019d4457059a2"
   },
   {
    "title": "Guiding Harbor Community Sale & Family Market",
-   "start": "2026-09-12T05:00:00-04:00",
+   "start": "2026-09-12T09:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-12T11:00:00-04:00",
+   "end": "2026-09-12T15:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "Join Guiding Harbor for our Community Sale & Family Market, a fun filled community event benefiting vulnerable children, youth, and families throughout Southeast Michigan.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19058022",
    "venue": "Guiding Harbor",
    "address": "525 E Huron River Dr, Belleville, MI, 48111",
    "city": "Belleville",
@@ -4314,20 +4442,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "d2ee58e19510b9c8"
   },
   {
    "title": "Rummage sale",
-   "start": "2026-09-12T05:00:00-04:00",
+   "start": "2026-09-12T09:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-12T09:00:00-04:00",
+   "end": "2026-09-12T13:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 3,
    "description": "Come out to Triumphant Cross Lutheran Church for some cool finds. Items include clothing and accessories, books, home and holiday decor, games, kids and baby items, tech, and much more! Proceeds go toward helping the community such as the MCREST week for the homeless.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19766649",
    "venue": "Triumphant Cross Lutheran Church",
    "address": "22360 E 13 Mile Rd, St. Clair Shores, MI, 48082",
    "city": "St. Clair Shores",
@@ -4352,20 +4484,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "cb650dc2d1520669"
   },
   {
    "title": "Open Play",
-   "start": "2026-09-12T05:30:00-04:00",
+   "start": "2026-09-12T09:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-12T10:00:00-04:00",
+   "end": "2026-09-12T14:00:00-04:00",
    "all_day": false,
    "recurring": true,
    "repeat_count": 6,
    "description": "",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/17754464",
    "venue": "We Rock The Spectrum - Ann Arbor",
    "address": "4370 Varsity Dr suite a, Ann Arbor, MI, 48108",
    "city": "Ann Arbor",
@@ -4387,6 +4523,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "22167dd4af3e0e66"
   },
@@ -4755,16 +4892,22 @@
    "id": "f938891a0d2935af"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "22167dd4af3e0e66"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Play the Kerrytown Chime",
-   "start": "2026-09-12T06:30:00-04:00",
+   "start": "2026-09-12T10:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-12T07:00:00-04:00",
+   "end": "2026-09-12T11:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "The Kerrytown Chime is open for the public to play 3 times a week: Saturdays at 10:30-11a Wednesdays at noon-12:30p Fridays at noon-12:30p They Kerrytown Chime is a 17-bell, bell tower. But, don't worry it is play by number making it easy and fun for kids \\(and adults too\\).",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19386862",
    "venue": "Kerrytown Market & Shops",
    "address": "407 N 5th Ave, Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -4791,6 +4934,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "b430485161ef920e"
   },
@@ -5089,8 +5233,14 @@
    "id": "cdcbc939cf1aad30"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "b430485161ef920e"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Wiard's Orchards Country Fair Opening Day",
-   "start": "2026-09-12T07:00:00-04:00",
+   "start": "2026-09-12T11:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
    "end": null,
@@ -5098,7 +5248,7 @@
    "recurring": false,
    "repeat_count": 1,
    "description": "OPENING DAY AT WIARDS ORCHARDS! 🍂🎃 Fall is officially here, and we’re kicking off the season with a day packed full of family fun at Wiards Orchards!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19858050",
    "venue": "Wiards Orchards",
    "address": "5565 Merritt Rd, Ypsilanti, MI, 48197",
    "city": "Ypsilanti",
@@ -5120,18 +5270,23 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "7b5ecadcd867a967"
   },
   {
-   "title": "Michigan March for Integrity",
-   "start": "2026-09-12T07:30:00-04:00",
+   "title": "KinderConcert for Ages 5 and Under",
+   "start": "2026-09-12T12:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
    "end": "2026-09-12T12:30:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
+<<<<<<< Updated upstream
    "description": "Protest Against Circumcision 2026 Michigan March for Integrity with Brother K Saturday, September 12th, 2026, 11:30 am until 4:30 pm To protest the genital cutting of children, join us for the 15th annual Michigan March for Integrity!",
    "url": "",
    "venue": "Memorial Park",
@@ -5363,8 +5518,10 @@
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
+=======
+>>>>>>> Stashed changes
    "description": "Children ages five and younger and their caregivers will find that music comes alive during this 30-minute concert.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19700256",
    "venue": "Dexter District Library",
    "address": "3255 Alpine St, Dexter, MI, 48130",
    "city": "Dexter",
@@ -5390,6 +5547,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "b0d2271ca2a985b0"
   },
@@ -6146,16 +6304,22 @@
    "id": "d68699ee6743a1e8"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "b0d2271ca2a985b0"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Ann Arbor Symphony KinderConcert",
-   "start": "2026-09-12T10:30:00-04:00",
+   "start": "2026-09-12T14:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-12T11:00:00-04:00",
+   "end": "2026-09-12T15:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "Music comes alive in KinderConcert, a free concert designed especially for children birth to 7 years old. Presented by members of the Ann Arbor Symphony Orchestra. Ages 0-7. Registration is required.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19792712",
    "venue": "Saline District Library",
    "address": "555 N Maple Rd, Saline, MI, 48176",
    "city": "Saline",
@@ -6182,6 +6346,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "5eb2e62b34a60d51"
   },
@@ -7474,16 +7639,22 @@
    "id": "e8f42672151fd19b"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "5eb2e62b34a60d51"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Plymouth Fall Festival",
-   "start": "2026-09-13T04:00:00-04:00",
+   "start": "2026-09-13T08:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-13T14:00:00-04:00",
+   "end": "2026-09-13T18:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 3,
    "description": "Celebrate the season at the Plymouth Fall Festival in Downtown Plymouth. This three-day community tradition features carnival rides, a craft show, classic cars, live music and performances, kids’ entertainment, bingo and food served by local nonprofit organizations.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19856130",
    "venue": "Downtown Plymouth",
    "address": "Penniman Avenue and Main Street, Plymouth, MI, 48170",
    "city": "Plymouth",
@@ -7510,20 +7681,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "297f2b76bc4beae1"
   },
   {
    "title": "Meri Lou Rec Center Grand Re-Opening",
-   "start": "2026-09-13T04:30:00-04:00",
+   "start": "2026-09-13T08:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-13T13:00:00-04:00",
+   "end": "2026-09-13T17:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 4,
    "description": "You're Invited to the Meri Lou Murray Recreation Center's Grand Re-Opening! It's four days of activities, demonstrations, special offers, giveaways, and opportunities to experience everything new at Meri Lou. FREE ENTRY FOR ALL!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19794233",
    "venue": "Meri Lou Murray Recreation Center",
    "address": "2960 Washtenaw, Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -7552,6 +7727,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "89788832e8cf8fca"
   },
@@ -7626,16 +7802,22 @@
    "id": "41ac9209ab780c4e"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "89788832e8cf8fca"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Open Play",
-   "start": "2026-09-13T05:30:00-04:00",
+   "start": "2026-09-13T09:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-13T10:00:00-04:00",
+   "end": "2026-09-13T14:00:00-04:00",
    "all_day": false,
    "recurring": true,
    "repeat_count": 6,
    "description": "",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/17754464",
    "venue": "We Rock The Spectrum - Ann Arbor",
    "address": "4370 Varsity Dr suite a, Ann Arbor, MI, 48108",
    "city": "Ann Arbor",
@@ -7657,6 +7839,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "a05444e2ddf5267c"
   },
@@ -7864,16 +8047,22 @@
    "id": "1ee10a366973c035"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "a05444e2ddf5267c"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Sundays at the Market",
-   "start": "2026-09-13T06:00:00-04:00",
+   "start": "2026-09-13T10:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-13T12:00:00-04:00",
+   "end": "2026-09-13T16:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "MAUMEE, OH - SEPT 13! We are HEADED BACK for ONE DAY ONLY — don’t miss it! 150+ incredible vendors are coming together for a market you won’t forget. Shop unique finds, sip on adult beverages, snap pictures at the beautiful photo booth, and enjoy a full food truck rally!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19487789",
    "venue": "Lucas County Fairgrounds",
    "address": "1406 Key St., Maumee, OH, 43537",
    "city": "Maumee",
@@ -7901,6 +8090,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "de7d3ada35cea9f2"
   },
@@ -7945,16 +8135,22 @@
    "id": "c25e0a093aac8c09"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "de7d3ada35cea9f2"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Life Is Why™ Giving Sunday at FOUND",
-   "start": "2026-09-13T07:00:00-04:00",
+   "start": "2026-09-13T11:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-13T14:00:00-04:00",
+   "end": "2026-09-13T18:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "Visit Found on Sunday September 13th to support the American Heart Association. Found is proud to support the life-saving efforts of the American Heart Association’s Life Is Why™ Campaign.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19800553",
    "venue": "Found",
    "address": "415 N. 5th Ave, Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -7981,12 +8177,16 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "d324fb2621a34c59"
   },
   {
    "title": "Tales from Detroit Flying Cardboard Theater (for Families)",
-   "start": "2026-09-13T07:00:00-04:00",
+   "start": "2026-09-13T11:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
    "end": null,
@@ -7994,7 +8194,7 @@
    "recurring": false,
    "repeat_count": 1,
    "description": "Join Detroit-based Flying Cardboard Theater for a delightful puppet adventure celebrating the hidden wonders of the Motor City!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19668028",
    "venue": "Ypsilanti Freighthouse",
    "address": "100 Market Place, Ypsilanti, MI, 48197",
    "city": "Ypsilanti",
@@ -8023,6 +8223,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "50e3d71cfbda22ba"
   },
@@ -8199,16 +8400,22 @@
    "id": "e4b48884c487b395"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "50e3d71cfbda22ba"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Monarch Migration Festival 2026",
-   "start": "2026-09-13T09:00:00-04:00",
+   "start": "2026-09-13T13:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-13T12:00:00-04:00",
+   "end": "2026-09-13T16:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "TIckets: aahom.org/monarch Celebrate the 13th Annual Monarch Migration Festival at Leslie Science & Nature Center!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19579840",
    "venue": "Leslie Science and Nature Center",
    "address": "1831 Traver Rd, Ann Arbor, MI, 48105",
    "city": "Ann Arbor",
@@ -8237,6 +8444,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "89812d3a2eaaf161"
   },
@@ -9536,8 +9744,14 @@
    "id": "03f784b87530905c"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "89812d3a2eaaf161"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Ann Arbor District Library Storytimes",
-   "start": "2026-09-14T05:00:00-04:00",
+   "start": "2026-09-14T09:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
    "end": null,
@@ -9545,7 +9759,7 @@
    "recurring": false,
    "repeat_count": 4,
    "description": "Enjoy fun, engaging storytimes with the Ann Arbor District Library, where songs, stories, and activities spark a love of reading and learning for children and families of all ages.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/18068175",
    "venue": "Various Branches",
    "address": "Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -9574,20 +9788,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "a724318db7c23452"
   },
   {
    "title": "Open Play",
-   "start": "2026-09-14T05:30:00-04:00",
+   "start": "2026-09-14T09:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-14T14:00:00-04:00",
+   "end": "2026-09-14T18:00:00-04:00",
    "all_day": false,
    "recurring": true,
    "repeat_count": 6,
    "description": "",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/17754464",
    "venue": "We Rock The Spectrum - Ann Arbor",
    "address": "4370 Varsity Dr suite a, Ann Arbor, MI, 48108",
    "city": "Ann Arbor",
@@ -9609,6 +9827,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "9744a8756d46ee14"
   },
@@ -9807,16 +10026,22 @@
    "id": "56753effa9e022a0"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "9744a8756d46ee14"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Book Babies Storytime",
-   "start": "2026-09-14T06:30:00-04:00",
+   "start": "2026-09-14T10:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-14T07:00:00-04:00",
+   "end": "2026-09-14T11:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 2,
    "description": "Sing, play, read, and enjoy action rhymes with your baby while meeting other caregivers with little ones. Each child needs an adult lap. Registration for this storytime session will include all Mondays between September 14-October 5.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/18329657",
    "venue": "Saline District Library",
    "address": "555 N Maple Rd, Saline, MI, 48176",
    "city": "Saline",
@@ -9839,12 +10064,13 @@
    "age_max": 24,
    "all_ages": false,
    "setting": "indoor",
-   "cost": "free",
-   "price": "Free",
+   "cost": "unknown",
+   "price": "",
    "registration": false,
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "e8d6d2436715350e"
   },
@@ -9889,10 +10115,19 @@
   {
    "title": "Baldwin Public Library in Birmingham",
    "start": "2026-09-14T08:00:00-04:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "e8d6d2436715350e"
+  },
+  {
+   "title": "Walking Yoga",
+   "start": "2026-09-14T12:00:00-04:00",
+>>>>>>> Stashed changes
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
    "end": "2026-09-14T13:00:00-04:00",
    "all_day": false,
+<<<<<<< Updated upstream
    "recurring": true,
    "repeat_count": 5,
    "description": "Baldwin Public Library offers books, storytimes, teen programs, study spaces and family-friendly learning opportunities for all ages. Families can explore the youth area, attend free events and enjoy a welcoming community space year-round.",
@@ -9977,10 +10212,12 @@
    "source_name": "Ann Arbor Family",
    "end": "2026-09-14T09:00:00-04:00",
    "all_day": false,
+=======
+>>>>>>> Stashed changes
    "recurring": false,
    "repeat_count": 1,
    "description": "Join yoga instructor Jo Ann Yates for yoga stretching and a walk. We will meet under the pavilion by the northwest entrance \\(closest to the middle school\\) on Mondays at noon.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/17759652",
    "venue": "Saline District Library",
    "address": "555 N Maple Rd, Saline, MI, 48176",
    "city": "Saline",
@@ -10004,6 +10241,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "e223d135af0b2f90"
   },
@@ -10319,16 +10557,22 @@
    "id": "27de8efd15296dbb"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "e223d135af0b2f90"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "John The Balloon Buffoon",
-   "start": "2026-09-14T13:00:00-04:00",
+   "start": "2026-09-14T17:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-14T16:00:00-04:00",
+   "end": "2026-09-14T20:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "Bring your children in for Kids Movie Night and John The Balloon Buffoon will make them a character balloon! Every Monday - 5-8 pm Balloons are FREE!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/14681792",
    "venue": "Jet's Pizza",
    "address": "506 N Main St, Chelsea, MI, 48118",
    "city": "Chelsea",
@@ -10355,6 +10599,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "cc51ffcd6961ae0e"
   },
@@ -10565,16 +10810,22 @@
    "id": "2fb405c7183d749f"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "cc51ffcd6961ae0e"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Free Play - ShadowDark Roleplaying Game",
-   "start": "2026-09-14T14:00:00-04:00",
+   "start": "2026-09-14T18:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-14T17:00:00-04:00",
+   "end": "2026-09-14T21:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "Explore the ruins of a fallen civilization in search of treasure. Outwit or defeat mythic creatures and other treasure-seekers. Shadowdark is a tabletop roleplaying game in the old school style. If you are a fan or you just want to try it out, come on over!",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19847301",
    "venue": "R U Game",
    "address": "1345 E Michigan Ave, Saline, MI, 48176",
    "city": "Saline",
@@ -10596,6 +10847,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "d3b501400aae813d"
   },
@@ -10918,8 +11170,14 @@
    "id": "339a5e6a8a081566"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "d3b501400aae813d"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "Ann Arbor District Library Storytimes",
-   "start": "2026-09-15T05:00:00-04:00",
+   "start": "2026-09-15T09:00:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
    "end": null,
@@ -10927,7 +11185,7 @@
    "recurring": false,
    "repeat_count": 4,
    "description": "Enjoy fun, engaging storytimes with the Ann Arbor District Library, where songs, stories, and activities spark a love of reading and learning for children and families of all ages.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/18068175",
    "venue": "Various Branches",
    "address": "Ann Arbor, MI, 48104",
    "city": "Ann Arbor",
@@ -10956,20 +11214,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "a3e34c5f720c21c3"
   },
   {
    "title": "Book Babies Storytime",
-   "start": "2026-09-15T05:30:00-04:00",
+   "start": "2026-09-15T09:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-15T06:00:00-04:00",
+   "end": "2026-09-15T10:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 2,
    "description": "Sing, play, read, and enjoy action rhymes with your baby while meeting other caregivers with little ones. Each child needs an adult lap. This storytime session includes all Tuesdays from September 15-October 6. Registration is requested and includes all sessions.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/18329657",
    "venue": "Saline District Library",
    "address": "555 N Maple Rd, Saline, MI, 48176",
    "city": "Saline",
@@ -10998,20 +11260,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "07fbf2ab177668ac"
   },
   {
    "title": "Open Play",
-   "start": "2026-09-15T05:30:00-04:00",
+   "start": "2026-09-15T09:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-15T14:00:00-04:00",
+   "end": "2026-09-15T18:00:00-04:00",
    "all_day": false,
    "recurring": true,
    "repeat_count": 6,
    "description": "",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/17754464",
    "venue": "We Rock The Spectrum - Ann Arbor",
    "address": "4370 Varsity Dr suite a, Ann Arbor, MI, 48108",
    "city": "Ann Arbor",
@@ -11033,20 +11299,24 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+>>>>>>> Stashed changes
    "id": "17a01d80d61e6560"
   },
   {
    "title": "Toddler Tuesdays $3 off kids 5 and under",
-   "start": "2026-09-15T05:30:00-04:00",
+   "start": "2026-09-15T09:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-15T08:00:00-04:00",
+   "end": "2026-09-15T12:00:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/16678772",
    "venue": "We Rock The Spectrum - Ann Arbor",
    "address": "4370 Varsity Dr suite a, Ann Arbor, MI, 48108",
    "city": "Ann Arbor",
@@ -11072,6 +11342,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "59cd20557bfe75c6"
   },
@@ -11158,16 +11429,22 @@
    "id": "43d3255fa56c9895"
   },
   {
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "59cd20557bfe75c6"
+  },
+  {
+>>>>>>> Stashed changes
    "title": "FREE Outdoor Story Time for Kids",
-   "start": "2026-09-15T06:30:00-04:00",
+   "start": "2026-09-15T10:30:00-04:00",
    "source": "cityspark_a2family",
    "source_name": "Ann Arbor Family",
-   "end": "2026-09-15T07:30:00-04:00",
+   "end": "2026-09-15T11:30:00-04:00",
    "all_day": false,
    "recurring": false,
    "repeat_count": 1,
    "description": "Tuesday, September 15, 2026, 10:30 - 11:30am Celebrate the changing seasons with stories, songs and free play. Each week from April-October we will meet at a new park! Dress for the weather. For children 2-5 years of age and an adult. Free. Registration required.",
-   "url": "",
+   "url": "https://annarborfamily.com/Calendar/#!/event/19711554",
    "venue": "",
    "address": "Ann Arbor, MI",
    "city": "Ann Arbor",
@@ -11192,6 +11469,7 @@
    "categories": [],
    "also_seen_on": [],
    "image": "",
+<<<<<<< Updated upstream
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "d2c191e9e4dee8a1"
   },
@@ -48643,6 +48921,10 @@
    "image": "",
    "updated": "2026-09-10T15:28:52+00:00",
    "id": "9644da9ee72d29d5"
+=======
+   "updated": "2026-09-10T17:38:04+00:00",
+   "id": "d2c191e9e4dee8a1"
+>>>>>>> Stashed changes
   }
  ]
 }

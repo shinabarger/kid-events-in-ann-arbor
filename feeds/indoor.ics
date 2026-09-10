@@ -9,6 +9,7 @@ X-WR-TIMEZONE:America/Detroit
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:57d7a0691fab9736@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T040000Z
@@ -31,6 +32,12 @@ UID:1e458ede6e96b6e9@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T090000Z
 DTEND:20260910T090000Z
+=======
+UID:1e458ede6e96b6e9@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260910T130000Z
+DTEND:20260910T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -38,15 +45,22 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
- \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
- ?event=1e458ede6e96b6e9\n\nDouble check the time with the organizer befor
- e you go.
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=1e
+ 458ede6e96b6e9\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:430774188a12583a@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T090000Z
 DTEND:20260910T170000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260910T130000Z
+DTEND:20260910T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Rummage sale
 LOCATION:Triumphant Cross Lutheran Church\, 22360 E 13 Mile Rd\, St. Clair
   Shores\, MI\, 48082
@@ -57,6 +71,7 @@ DESCRIPTION:Come out to Triumphant Cross Lutheran Church for some cool fin
  rd helping the community such as the MCREST week for the homeless.\n\nWhe
  re: 22360 E 13 Mile Rd\, St. Clair Shores\, MI\, 48082\nDrive: about 6 mi
  nutes from downtown Ann Arbor\nCost: Free\nSignup: Drop in\, no signup ne
+<<<<<<< Updated upstream
  eded\nIndoors\nListed by: Ann Arbor Family\nFound on: https://kideventsin
  annarbor.com/?event=430774188a12583a\n\nDouble check the time with the or
  ganizer before you go.
@@ -117,6 +132,19 @@ UID:83f3a69fcfe873f5@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T103000Z
 DTEND:20260910T110000Z
+=======
+ eded\nIndoors\nListed by: Ann Arbor Family\nDetails: https://annarborfami
+ ly.com/Calendar/#!/event/19766649\nFound on: https://kideventsinannarbor.
+ com/?event=430774188a12583a\n\nDouble check the time with the organizer b
+ efore you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19766649
+END:VEVENT
+BEGIN:VEVENT
+UID:83f3a69fcfe873f5@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260910T143000Z
+DTEND:20260910T150000Z
+>>>>>>> Stashed changes
 SUMMARY:Ms. Rachel Storytime
 LOCATION:Recess Cafe\, 208 S Ashley St\, Ann Arbor\, MI\, 48104
 GEO:42.280199;-83.750056
@@ -125,6 +153,7 @@ DESCRIPTION:This Ms. Rachel inspired storytime will have young fans moving
   songs like "Hop Little Bunnies" and "Icky Sticky Bubble Gum"\, play move
  ment games\, and read interactive stories with Starbright Entertainment's
  ...\n\nWhere: 208 S Ashley St\, Ann Arbor\, MI\, 48104\nCost: $10\nSignup
+<<<<<<< Updated upstream
  : Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Family\nFound
   on: https://kideventsinannarbor.com/?event=83f3a69fcfe873f5\n\nDouble ch
  eck the time with the organizer before you go.
@@ -257,6 +286,19 @@ UID:285d359c74d520a1@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T180000Z
 DTEND:20260910T200000Z
+=======
+ : Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Family\nDetai
+ ls: https://annarborfamily.com/Calendar/#!/event/19792578\nFound on: http
+ s://kideventsinannarbor.com/?event=83f3a69fcfe873f5\n\nDouble check the t
+ ime with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19792578
+END:VEVENT
+BEGIN:VEVENT
+UID:285d359c74d520a1@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260910T220000Z
+DTEND:20260911T000000Z
+>>>>>>> Stashed changes
 SUMMARY:Sh*tty Craft Club
 LOCATION:3909 Research Park Drive Suite 300\, Ann Arbor\, MI\, 48108
 GEO:42.236371;-83.733976
@@ -265,6 +307,7 @@ DESCRIPTION:You know how you watch your kids attempt crafts\, and you thin
  ks...and good mama energy. Introducing The Mamas Network's Sh\\*tty Craft
   Club!\n\nWhere: 3909 Research Park Drive Suite 300\, Ann Arbor\, MI\, 48
  108\nCost: $10\nSignup: Drop in\, no signup needed\nIndoors\nListed by: A
+<<<<<<< Updated upstream
  nn Arbor Family\nFound on: https://kideventsinannarbor.com/?event=285d359
  c74d520a1\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -446,6 +489,18 @@ UID:87f9c2b95163ca22@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T090000Z
 DTEND:20260911T090000Z
+=======
+ nn Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event/18
+ 581341\nFound on: https://kideventsinannarbor.com/?event=285d359c74d520a1
+ \n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18581341
+END:VEVENT
+BEGIN:VEVENT
+UID:87f9c2b95163ca22@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T130000Z
+DTEND:20260911T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -453,15 +508,22 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
- \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
- ?event=87f9c2b95163ca22\n\nDouble check the time with the organizer befor
- e you go.
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=87
+ f9c2b95163ca22\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:84934c87c6bb3f4c@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T090000Z
 DTEND:20260911T170000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T130000Z
+DTEND:20260911T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Rummage sale
 LOCATION:Triumphant Cross Lutheran Church\, 22360 E 13 Mile Rd\, St. Clair
   Shores\, MI\, 48082
@@ -472,6 +534,7 @@ DESCRIPTION:Come out to Triumphant Cross Lutheran Church for some cool fin
  rd helping the community such as the MCREST week for the homeless.\n\nWhe
  re: 22360 E 13 Mile Rd\, St. Clair Shores\, MI\, 48082\nDrive: about 6 mi
  nutes from downtown Ann Arbor\nCost: Free\nSignup: Drop in\, no signup ne
+<<<<<<< Updated upstream
  eded\nIndoors\nListed by: Ann Arbor Family\nFound on: https://kideventsin
  annarbor.com/?event=84934c87c6bb3f4c\n\nDouble check the time with the or
  ganizer before you go.
@@ -819,6 +882,19 @@ UID:d6eb139f1cdff802@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T160000Z
 DTEND:20260911T170000Z
+=======
+ eded\nIndoors\nListed by: Ann Arbor Family\nDetails: https://annarborfami
+ ly.com/Calendar/#!/event/19766649\nFound on: https://kideventsinannarbor.
+ com/?event=84934c87c6bb3f4c\n\nDouble check the time with the organizer b
+ efore you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19766649
+END:VEVENT
+BEGIN:VEVENT
+UID:d6eb139f1cdff802@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T200000Z
+DTEND:20260911T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Fall Tour at the Clements Library
 LOCATION:William L. Clements Library\, 909 South University Avenue\, Ann A
  rbor\, MI\, 4810
@@ -827,6 +903,7 @@ DESCRIPTION:Guided Tour of the U-M Clements Library. Join us for a guided
  tour to learn more about the Clements’ early American history collections
  .\n\nWhere: 909 South University Avenue\, Ann Arbor\, MI\, 4810\nCost: Fr
  ee\nSignup: Registration required\, book before you go\nIndoors\nListed b
+<<<<<<< Updated upstream
  y: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/?event=d6e
  b139f1cdff802\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -907,6 +984,18 @@ UID:1c2eb77567a47612@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T180000Z
 DTEND:20260911T200000Z
+=======
+ y: Ann Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/even
+ t/19570323\nFound on: https://kideventsinannarbor.com/?event=d6eb139f1cdf
+ f802\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19570323
+END:VEVENT
+BEGIN:VEVENT
+UID:1c2eb77567a47612@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T220000Z
+DTEND:20260912T000000Z
+>>>>>>> Stashed changes
 SUMMARY:Spider-Man Kid Rave
 LOCATION:Chelsea Party Loft\, 1115 S Main St\, Chelsea\, MI\, 48118
 GEO:42.304941;-84.020135
@@ -916,6 +1005,7 @@ DESCRIPTION:Join Spider-Man and Spider-Gwen for an evening of dancing! Sho
  night of dance party fun for the whole family!\n\nWhere: 1115 S Main St\,
   Chelsea\, MI\, 48118\nDrive: about 29 minutes from downtown Ann Arbor\nA
  ges: all ages\nCost: $3\nSignup: Drop in\, no signup needed\nListed by: A
+<<<<<<< Updated upstream
  nn Arbor Family\nFound on: https://kideventsinannarbor.com/?event=1c2eb77
  567a47612\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -1098,6 +1188,18 @@ UID:cb650dc2d1520669@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260912T090000Z
 DTEND:20260912T130000Z
+=======
+ nn Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event/19
+ 708795\nFound on: https://kideventsinannarbor.com/?event=1c2eb77567a47612
+ \n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19708795
+END:VEVENT
+BEGIN:VEVENT
+UID:cb650dc2d1520669@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260912T130000Z
+DTEND:20260912T170000Z
+>>>>>>> Stashed changes
 SUMMARY:Rummage sale
 LOCATION:Triumphant Cross Lutheran Church\, 22360 E 13 Mile Rd\, St. Clair
   Shores\, MI\, 48082
@@ -1108,6 +1210,7 @@ DESCRIPTION:Come out to Triumphant Cross Lutheran Church for some cool fin
  rd helping the community such as the MCREST week for the homeless.\n\nWhe
  re: 22360 E 13 Mile Rd\, St. Clair Shores\, MI\, 48082\nDrive: about 6 mi
  nutes from downtown Ann Arbor\nCost: Free\nSignup: Drop in\, no signup ne
+<<<<<<< Updated upstream
  eded\nIndoors\nListed by: Ann Arbor Family\nFound on: https://kideventsin
  annarbor.com/?event=cb650dc2d1520669\n\nDouble check the time with the or
  ganizer before you go.
@@ -1276,6 +1379,19 @@ UID:b0d2271ca2a985b0@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260912T120000Z
 DTEND:20260912T123000Z
+=======
+ eded\nIndoors\nListed by: Ann Arbor Family\nDetails: https://annarborfami
+ ly.com/Calendar/#!/event/19766649\nFound on: https://kideventsinannarbor.
+ com/?event=cb650dc2d1520669\n\nDouble check the time with the organizer b
+ efore you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19766649
+END:VEVENT
+BEGIN:VEVENT
+UID:b0d2271ca2a985b0@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260912T160000Z
+DTEND:20260912T163000Z
+>>>>>>> Stashed changes
 SUMMARY:KinderConcert for Ages 5 and Under
 LOCATION:Dexter District Library\, 3255 Alpine St\, Dexter\, MI\, 48130
 GEO:42.3402671814;-83.888999939
@@ -1283,6 +1399,7 @@ DESCRIPTION:Children ages five and younger and their caregivers will find
  that music comes alive during this 30-minute concert.\n\nWhere: 3255 Alpi
  ne St\, Dexter\, MI\, 48130\nDrive: about 18 minutes from downtown Ann Ar
  bor\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nListed by: 
+<<<<<<< Updated upstream
  Ann Arbor Family\nFound on: https://kideventsinannarbor.com/?event=b0d227
  1ca2a985b0\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -1516,6 +1633,18 @@ UID:5eb2e62b34a60d51@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260912T143000Z
 DTEND:20260912T150000Z
+=======
+ Ann Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event/1
+ 9700256\nFound on: https://kideventsinannarbor.com/?event=b0d2271ca2a985b
+ 0\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19700256
+END:VEVENT
+BEGIN:VEVENT
+UID:5eb2e62b34a60d51@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260912T183000Z
+DTEND:20260912T190000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor Symphony KinderConcert
 LOCATION:Saline District Library\, 555 N Maple Rd\, Saline\, MI\, 48176
 GEO:42.1773262024;-83.7757339478
@@ -1524,6 +1653,7 @@ DESCRIPTION:Music comes alive in KinderConcert\, a free concert designed e
  Ann Arbor Symphony Orchestra. Ages 0-7. Registration is required.\n\nWher
  e: 555 N Maple Rd\, Saline\, MI\, 48176\nDrive: about 18 minutes from dow
  ntown Ann Arbor\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\
+<<<<<<< Updated upstream
  nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/?
  event=5eb2e62b34a60d51\n\nDouble check the time with the organizer before
   you go.
@@ -2081,6 +2211,18 @@ UID:50e3d71cfbda22ba@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260913T110000Z
 DTEND:20260913T110000Z
+=======
+ nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calenda
+ r/#!/event/19792712\nFound on: https://kideventsinannarbor.com/?event=5eb
+ 2e62b34a60d51\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19792712
+END:VEVENT
+BEGIN:VEVENT
+UID:50e3d71cfbda22ba@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260913T150000Z
+DTEND:20260913T150000Z
+>>>>>>> Stashed changes
 SUMMARY:Tales from Detroit Flying Cardboard Theater (for Families)
 LOCATION:Ypsilanti Freighthouse\, 100 Market Place\, Ypsilanti\, MI\, 4819
  7
@@ -2089,6 +2231,7 @@ DESCRIPTION:Join Detroit-based Flying Cardboard Theater for a delightful p
  uppet adventure celebrating the hidden wonders of the Motor City!\n\nWher
  e: 100 Market Place\, Ypsilanti\, MI\, 48197\nDrive: about 23 minutes fro
  m downtown Ann Arbor\nAges: all ages\nCost: 5\nSignup: Drop in\, no signu
+<<<<<<< Updated upstream
  p needed\nIndoors\nListed by: Ann Arbor Family\nFound on: https://kideven
  tsinannarbor.com/?event=50e3d71cfbda22ba\n\nDouble check the time with th
  e organizer before you go.
@@ -2413,6 +2556,19 @@ UID:a724318db7c23452@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260914T090000Z
 DTEND:20260914T090000Z
+=======
+ p needed\nIndoors\nListed by: Ann Arbor Family\nDetails: https://annarbor
+ family.com/Calendar/#!/event/19668028\nFound on: https://kideventsinannar
+ bor.com/?event=50e3d71cfbda22ba\n\nDouble check the time with the organiz
+ er before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19668028
+END:VEVENT
+BEGIN:VEVENT
+UID:a724318db7c23452@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260914T130000Z
+DTEND:20260914T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -2420,6 +2576,7 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
+<<<<<<< Updated upstream
  \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
  ?event=a724318db7c23452\n\nDouble check the time with the organizer befor
  e you go.
@@ -2496,6 +2653,18 @@ UID:e8d6d2436715350e@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260914T103000Z
 DTEND:20260914T110000Z
+=======
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=a7
+ 24318db7c23452\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d6d2436715350e@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260914T143000Z
+DTEND:20260914T150000Z
+>>>>>>> Stashed changes
 SUMMARY:Book Babies Storytime
 LOCATION:Saline District Library\, 555 N Maple Rd\, Saline\, MI\, 48176
 GEO:42.1773262024;-83.7757339478
@@ -2503,6 +2672,7 @@ DESCRIPTION:Sing\, play\, read\, and enjoy action rhymes with your baby wh
  ile meeting other caregivers with little ones. Each child needs an adult 
  lap. Registration for this storytime session will include all Mondays bet
  ween September 14-October 5.\n\nWhere: 555 N Maple Rd\, Saline\, MI\, 481
+<<<<<<< Updated upstream
  76\nDrive: about 18 minutes from downtown Ann Arbor\nCost: Free\nSignup: 
  Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Family\nFound o
  n: https://kideventsinannarbor.com/?event=e8d6d2436715350e\n\nDouble chec
@@ -2531,6 +2701,20 @@ UID:e223d135af0b2f90@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260914T120000Z
 DTEND:20260914T130000Z
+=======
+ 76\nDrive: about 18 minutes from downtown Ann Arbor\nCost: Not listed\nSi
+ gnup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Family\nD
+ etails: https://annarborfamily.com/Calendar/#!/event/18329657\nFound on: 
+ https://kideventsinannarbor.com/?event=e8d6d2436715350e\n\nDouble check t
+ he time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18329657
+END:VEVENT
+BEGIN:VEVENT
+UID:e223d135af0b2f90@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260914T160000Z
+DTEND:20260914T170000Z
+>>>>>>> Stashed changes
 SUMMARY:Walking Yoga
 LOCATION:Saline District Library\, 555 N Maple Rd\, Saline\, MI\, 48176
 GEO:42.1773262024;-83.7757339478
@@ -2539,6 +2723,7 @@ DESCRIPTION:Join yoga instructor Jo Ann Yates for yoga stretching and a wa
  to the middle school\\) on Mondays at noon.\n\nWhere: 555 N Maple Rd\, Sa
  line\, MI\, 48176\nDrive: about 18 minutes from downtown Ann Arbor\nCost:
   Not listed\nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann 
+<<<<<<< Updated upstream
  Arbor Family\nFound on: https://kideventsinannarbor.com/?event=e223d135af
  0b2f90\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -2908,6 +3093,18 @@ UID:a3e34c5f720c21c3@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260915T090000Z
 DTEND:20260915T090000Z
+=======
+ Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event/17759
+ 652\nFound on: https://kideventsinannarbor.com/?event=e223d135af0b2f90\n\
+ nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/17759652
+END:VEVENT
+BEGIN:VEVENT
+UID:a3e34c5f720c21c3@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260915T130000Z
+DTEND:20260915T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -2915,15 +3112,22 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
- \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
- ?event=a3e34c5f720c21c3\n\nDouble check the time with the organizer befor
- e you go.
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=a3
+ e34c5f720c21c3\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:07fbf2ab177668ac@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260915T093000Z
 DTEND:20260915T100000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260915T133000Z
+DTEND:20260915T140000Z
+>>>>>>> Stashed changes
 SUMMARY:Book Babies Storytime
 LOCATION:Saline District Library\, 555 N Maple Rd\, Saline\, MI\, 48176
 GEO:42.1773262024;-83.7757339478
@@ -2933,6 +3137,7 @@ DESCRIPTION:Sing\, play\, read\, and enjoy action rhymes with your baby wh
  er 6. Registration is requested and includes all sessions.\n\nWhere: 555 
  N Maple Rd\, Saline\, MI\, 48176\nDrive: about 18 minutes from downtown A
  nn Arbor\nCost: Not listed\nSignup: Drop in\, no signup needed\nIndoors\n
+<<<<<<< Updated upstream
  Listed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/?e
  vent=07fbf2ab177668ac\n\nDouble check the time with the organizer before 
  you go.
@@ -2975,6 +3180,18 @@ UID:d2c191e9e4dee8a1@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260915T103000Z
 DTEND:20260915T113000Z
+=======
+ Listed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calendar
+ /#!/event/18329657\nFound on: https://kideventsinannarbor.com/?event=07fb
+ f2ab177668ac\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18329657
+END:VEVENT
+BEGIN:VEVENT
+UID:d2c191e9e4dee8a1@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260915T143000Z
+DTEND:20260915T153000Z
+>>>>>>> Stashed changes
 SUMMARY:FREE Outdoor Story Time for Kids
 LOCATION:Ann Arbor\, MI
 GEO:42.27087;-83.72633
@@ -2983,6 +3200,7 @@ DESCRIPTION:Tuesday\, September 15\, 2026\, 10:30 - 11:30am Celebrate the
  -October we will meet at a new park! Dress for the weather. For children 
  2-5 years of age and an adult. Free. Registration required.\n\nWhere: Ann
   Arbor\, MI\nCost: Free\nSignup: Registration required\, book before you 
+<<<<<<< Updated upstream
  go\nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.co
  m/?event=d2c191e9e4dee8a1\n\nDouble check the time with the organizer bef
  ore you go.
@@ -17162,5 +17380,12 @@ DESCRIPTION:Saturday morning playgroup for dads and their little ones. Dro
  e time with the organizer before you go.
 URL:https://themamasnetwork.org/events
 CATEGORIES:Playgroup
+=======
+ go\nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Cale
+ ndar/#!/event/19711554\nFound on: https://kideventsinannarbor.com/?event=
+ d2c191e9e4dee8a1\n\nDouble check the time with the organizer before you g
+ o.
+URL:https://annarborfamily.com/Calendar/#!/event/19711554
+>>>>>>> Stashed changes
 END:VEVENT
 END:VCALENDAR

@@ -89,31 +89,50 @@ def _strip_html(text: str) -> str:
 def _normalize_dt(iso_str: str) -> str:
     """Turn the API's ISO datetime into our offset-aware format.
 
-    The API returns UTC times like "2026-09-10T18:00:00Z". Convert to
-    Eastern with a rough DST rule (same approach as every other adapter).
+    Despite the trailing Z, the CitySpark API returns local Eastern times,
+    not UTC. An AADL storytime at 10:30am Eastern comes back as
+    "2026-09-10T10:30:00Z". Treating that as real UTC shifts every event
+    four hours into the pre-dawn. So strip the Z and stamp the Eastern
+    offset directly.
     """
     if not iso_str:
         return ""
     iso_str = iso_str.strip()
+
+    # Already has a real offset like -04:00 -> keep it
+    if iso_str[-1] != "Z" and ("+" in iso_str[10:] or iso_str[10:].count("-") > 1):
+        try:
+            dt = datetime.fromisoformat(iso_str)
+            offset_str = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+            return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset_str
+        except (ValueError, TypeError):
+            return ""
+
+    # Strip the fake Z and treat the time as Eastern
+    bare = iso_str.rstrip("Z")
     try:
-        dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
+        dt = datetime.fromisoformat(bare)
     except (ValueError, TypeError):
         return ""
-    # Convert to Eastern
-    eastern_offset = timedelta(hours=-4) if 3 <= dt.month <= 11 else timedelta(hours=-5)
-    dt_eastern = dt.astimezone(timezone(eastern_offset))
-    offset_str = "-04:00" if 3 <= dt_eastern.month <= 11 else "-05:00"
-    return dt_eastern.strftime("%Y-%m-%dT%H:%M:%S") + offset_str
+    offset_str = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+    return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset_str
 
 
 def _event_url(row: dict) -> str:
-    """Build the full event URL from the API's path."""
+    """Build the full event URL from the event's PId.
+
+    The API does not return a Url field. The calendar site uses hash routing,
+    so the link to an individual event is #!/event/<PId>.
+    """
     path = row.get("Url") or ""
-    if not path:
-        return ""
-    if path.startswith("http"):
+    if path and path.startswith("http"):
         return path
-    return f"https://annarborfamily.com{path}"
+    if path and not path.startswith("http"):
+        return f"https://annarborfamily.com{path}"
+    pid = row.get("PId")
+    if pid:
+        return f"https://annarborfamily.com/Calendar/#!/event/{pid}"
+    return ""
 
 
 def event_from_row(row: dict) -> Event | None:

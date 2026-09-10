@@ -9,6 +9,7 @@ X-WR-TIMEZONE:America/Detroit
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:57d7a0691fab9736@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T040000Z
@@ -31,6 +32,12 @@ UID:bb765e2eddcc6de6@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T083000Z
 DTEND:20260910T170000Z
+=======
+UID:bb765e2eddcc6de6@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260910T123000Z
+DTEND:20260910T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Meri Lou Rec Center Grand Re-Opening
 LOCATION:Meri Lou Murray Recreation Center\, 2960 Washtenaw\, Ann Arbor\, 
  MI\, 48104
@@ -41,14 +48,22 @@ DESCRIPTION:You're Invited to the Meri Lou Murray Recreation Center's Gran
  Lou. FREE ENTRY FOR ALL!\n\nWhere: 2960 Washtenaw\, Ann Arbor\, MI\, 4810
  4\nAges: all ages\nCost: Free\nSignup: Registration required\, book befor
  e you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\n
- Found on: https://kideventsinannarbor.com/?event=bb765e2eddcc6de6\n\nDoub
- le check the time with the organizer before you go.
+ Details: https://annarborfamily.com/Calendar/#!/event/19794233\nFound on:
+  https://kideventsinannarbor.com/?event=bb765e2eddcc6de6\n\nDouble check 
+ the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19794233
 END:VEVENT
 BEGIN:VEVENT
 UID:1e458ede6e96b6e9@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T090000Z
 DTEND:20260910T090000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260910T130000Z
+DTEND:20260910T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -56,15 +71,22 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
- \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
- ?event=1e458ede6e96b6e9\n\nDouble check the time with the organizer befor
- e you go.
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=1e
+ 458ede6e96b6e9\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:83f3a69fcfe873f5@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T103000Z
 DTEND:20260910T110000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260910T143000Z
+DTEND:20260910T150000Z
+>>>>>>> Stashed changes
 SUMMARY:Ms. Rachel Storytime
 LOCATION:Recess Cafe\, 208 S Ashley St\, Ann Arbor\, MI\, 48104
 GEO:42.280199;-83.750056
@@ -73,6 +95,7 @@ DESCRIPTION:This Ms. Rachel inspired storytime will have young fans moving
   songs like "Hop Little Bunnies" and "Icky Sticky Bubble Gum"\, play move
  ment games\, and read interactive stories with Starbright Entertainment's
  ...\n\nWhere: 208 S Ashley St\, Ann Arbor\, MI\, 48104\nCost: $10\nSignup
+<<<<<<< Updated upstream
  : Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Family\nFound
   on: https://kideventsinannarbor.com/?event=83f3a69fcfe873f5\n\nDouble ch
  eck the time with the organizer before you go.
@@ -169,6 +192,19 @@ UID:285d359c74d520a1@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260910T180000Z
 DTEND:20260910T200000Z
+=======
+ : Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Family\nDetai
+ ls: https://annarborfamily.com/Calendar/#!/event/19792578\nFound on: http
+ s://kideventsinannarbor.com/?event=83f3a69fcfe873f5\n\nDouble check the t
+ ime with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19792578
+END:VEVENT
+BEGIN:VEVENT
+UID:285d359c74d520a1@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260910T220000Z
+DTEND:20260911T000000Z
+>>>>>>> Stashed changes
 SUMMARY:Sh*tty Craft Club
 LOCATION:3909 Research Park Drive Suite 300\, Ann Arbor\, MI\, 48108
 GEO:42.236371;-83.733976
@@ -177,6 +213,7 @@ DESCRIPTION:You know how you watch your kids attempt crafts\, and you thin
  ks...and good mama energy. Introducing The Mamas Network's Sh\\*tty Craft
   Club!\n\nWhere: 3909 Research Park Drive Suite 300\, Ann Arbor\, MI\, 48
  108\nCost: $10\nSignup: Drop in\, no signup needed\nIndoors\nListed by: A
+<<<<<<< Updated upstream
  nn Arbor Family\nFound on: https://kideventsinannarbor.com/?event=285d359
  c74d520a1\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -301,6 +338,18 @@ UID:c85a2a771a851645@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T083000Z
 DTEND:20260911T170000Z
+=======
+ nn Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event/18
+ 581341\nFound on: https://kideventsinannarbor.com/?event=285d359c74d520a1
+ \n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18581341
+END:VEVENT
+BEGIN:VEVENT
+UID:c85a2a771a851645@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T123000Z
+DTEND:20260911T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Meri Lou Rec Center Grand Re-Opening
 LOCATION:Meri Lou Murray Recreation Center\, 2960 Washtenaw\, Ann Arbor\, 
  MI\, 48104
@@ -311,14 +360,22 @@ DESCRIPTION:You're Invited to the Meri Lou Murray Recreation Center's Gran
  Lou. FREE ENTRY FOR ALL!\n\nWhere: 2960 Washtenaw\, Ann Arbor\, MI\, 4810
  4\nAges: all ages\nCost: Free\nSignup: Registration required\, book befor
  e you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\n
- Found on: https://kideventsinannarbor.com/?event=c85a2a771a851645\n\nDoub
- le check the time with the organizer before you go.
+ Details: https://annarborfamily.com/Calendar/#!/event/19794233\nFound on:
+  https://kideventsinannarbor.com/?event=c85a2a771a851645\n\nDouble check 
+ the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19794233
 END:VEVENT
 BEGIN:VEVENT
 UID:87f9c2b95163ca22@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T090000Z
 DTEND:20260911T090000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T130000Z
+DTEND:20260911T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -326,6 +383,7 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
+<<<<<<< Updated upstream
  \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
  ?event=87f9c2b95163ca22\n\nDouble check the time with the organizer befor
  e you go.
@@ -514,6 +572,18 @@ UID:d6eb139f1cdff802@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260911T160000Z
 DTEND:20260911T170000Z
+=======
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=87
+ f9c2b95163ca22\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
+END:VEVENT
+BEGIN:VEVENT
+UID:d6eb139f1cdff802@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260911T200000Z
+DTEND:20260911T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Fall Tour at the Clements Library
 LOCATION:William L. Clements Library\, 909 South University Avenue\, Ann A
  rbor\, MI\, 4810
@@ -522,6 +592,7 @@ DESCRIPTION:Guided Tour of the U-M Clements Library. Join us for a guided
  tour to learn more about the Clements’ early American history collections
  .\n\nWhere: 909 South University Avenue\, Ann Arbor\, MI\, 4810\nCost: Fr
  ee\nSignup: Registration required\, book before you go\nIndoors\nListed b
+<<<<<<< Updated upstream
  y: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/?event=d6e
  b139f1cdff802\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -714,6 +785,18 @@ UID:0be5aca1ac12129f@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260912T083000Z
 DTEND:20260912T170000Z
+=======
+ y: Ann Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/even
+ t/19570323\nFound on: https://kideventsinannarbor.com/?event=d6eb139f1cdf
+ f802\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19570323
+END:VEVENT
+BEGIN:VEVENT
+UID:0be5aca1ac12129f@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260912T123000Z
+DTEND:20260912T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Meri Lou Rec Center Grand Re-Opening
 LOCATION:Meri Lou Murray Recreation Center\, 2960 Washtenaw\, Ann Arbor\, 
  MI\, 48104
@@ -724,14 +807,22 @@ DESCRIPTION:You're Invited to the Meri Lou Murray Recreation Center's Gran
  Lou. FREE ENTRY FOR ALL!\n\nWhere: 2960 Washtenaw\, Ann Arbor\, MI\, 4810
  4\nAges: all ages\nCost: Free\nSignup: Registration required\, book befor
  e you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\n
- Found on: https://kideventsinannarbor.com/?event=0be5aca1ac12129f\n\nDoub
- le check the time with the organizer before you go.
+ Details: https://annarborfamily.com/Calendar/#!/event/19794233\nFound on:
+  https://kideventsinannarbor.com/?event=0be5aca1ac12129f\n\nDouble check 
+ the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19794233
 END:VEVENT
 BEGIN:VEVENT
 UID:b430485161ef920e@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260912T103000Z
 DTEND:20260912T110000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260912T143000Z
+DTEND:20260912T150000Z
+>>>>>>> Stashed changes
 SUMMARY:Play the Kerrytown Chime
 LOCATION:Kerrytown Market & Shops\, 407 N 5th Ave\, Ann Arbor\, MI\, 48104
 GEO:42.2843156755;-83.7459267676
@@ -741,6 +832,7 @@ DESCRIPTION:The Kerrytown Chime is open for the public to play 3 times a w
  is play by number making it easy and fun for kids \\(and adults too\\).\n
  \nWhere: 407 N 5th Ave\, Ann Arbor\, MI\, 48104\nCost: Not listed\nSignup
  : Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed by
+<<<<<<< Updated upstream
  : Ann Arbor Family\nFound on: https://kideventsinannarbor.com/?event=b430
  485161ef920e\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -1166,6 +1258,18 @@ UID:89788832e8cf8fca@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260913T083000Z
 DTEND:20260913T170000Z
+=======
+ : Ann Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event
+ /19386862\nFound on: https://kideventsinannarbor.com/?event=b430485161ef9
+ 20e\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19386862
+END:VEVENT
+BEGIN:VEVENT
+UID:89788832e8cf8fca@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260913T123000Z
+DTEND:20260913T210000Z
+>>>>>>> Stashed changes
 SUMMARY:Meri Lou Rec Center Grand Re-Opening
 LOCATION:Meri Lou Murray Recreation Center\, 2960 Washtenaw\, Ann Arbor\, 
  MI\, 48104
@@ -1176,14 +1280,22 @@ DESCRIPTION:You're Invited to the Meri Lou Murray Recreation Center's Gran
  Lou. FREE ENTRY FOR ALL!\n\nWhere: 2960 Washtenaw\, Ann Arbor\, MI\, 4810
  4\nAges: all ages\nCost: Free\nSignup: Registration required\, book befor
  e you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\n
- Found on: https://kideventsinannarbor.com/?event=89788832e8cf8fca\n\nDoub
- le check the time with the organizer before you go.
+ Details: https://annarborfamily.com/Calendar/#!/event/19794233\nFound on:
+  https://kideventsinannarbor.com/?event=89788832e8cf8fca\n\nDouble check 
+ the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19794233
 END:VEVENT
 BEGIN:VEVENT
 UID:d324fb2621a34c59@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260913T110000Z
 DTEND:20260913T180000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260913T150000Z
+DTEND:20260913T220000Z
+>>>>>>> Stashed changes
 SUMMARY:Life Is Why™ Giving Sunday at FOUND
 LOCATION:Found\, 415 N. 5th Ave\, Ann Arbor\, MI\, 48104
 GEO:42.284623;-83.746207
@@ -1191,6 +1303,7 @@ DESCRIPTION:Visit Found on Sunday September 13th to support the American H
  eart Association. Found is proud to support the life-saving efforts of th
  e American Heart Association’s Life Is Why™ Campaign.\n\nWhere: 415 N. 5t
  h Ave\, Ann Arbor\, MI\, 48104\nCost: Free\nSignup: Drop in\, no signup n
+<<<<<<< Updated upstream
  eeded\nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor
  .com/?event=d324fb2621a34c59\n\nDouble check the time with the organizer 
  before you go.
@@ -1225,6 +1338,19 @@ UID:89812d3a2eaaf161@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260913T130000Z
 DTEND:20260913T160000Z
+=======
+ eeded\nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/C
+ alendar/#!/event/19800553\nFound on: https://kideventsinannarbor.com/?eve
+ nt=d324fb2621a34c59\n\nDouble check the time with the organizer before yo
+ u go.
+URL:https://annarborfamily.com/Calendar/#!/event/19800553
+END:VEVENT
+BEGIN:VEVENT
+UID:89812d3a2eaaf161@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+>>>>>>> Stashed changes
 SUMMARY:Monarch Migration Festival 2026
 LOCATION:Leslie Science and Nature Center\, 1831 Traver Rd\, Ann Arbor\, M
  I\, 48105
@@ -1233,6 +1359,7 @@ DESCRIPTION:TIckets: aahom.org/monarch Celebrate the 13th Annual Monarch M
  igration Festival at Leslie Science & Nature Center!\n\nWhere: 1831 Trave
  r Rd\, Ann Arbor\, MI\, 48105\nAges: all ages\nCost: Not listed\nSignup: 
  Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed by: 
+<<<<<<< Updated upstream
  Ann Arbor Family\nFound on: https://kideventsinannarbor.com/?event=89812d
  3a2eaaf161\n\nDouble check the time with the organizer before you go.
 END:VEVENT
@@ -1548,6 +1675,18 @@ UID:a724318db7c23452@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260914T090000Z
 DTEND:20260914T090000Z
+=======
+ Ann Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/event/1
+ 9579840\nFound on: https://kideventsinannarbor.com/?event=89812d3a2eaaf16
+ 1\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19579840
+END:VEVENT
+BEGIN:VEVENT
+UID:a724318db7c23452@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260914T130000Z
+DTEND:20260914T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -1555,6 +1694,7 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
+<<<<<<< Updated upstream
  \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
  ?event=a724318db7c23452\n\nDouble check the time with the organizer befor
  e you go.
@@ -1766,6 +1906,18 @@ UID:a3e34c5f720c21c3@kid-events-in-ann-arbor
 DTSTAMP:20260910T152854Z
 DTSTART:20260915T090000Z
 DTEND:20260915T090000Z
+=======
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=a7
+ 24318db7c23452\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
+END:VEVENT
+BEGIN:VEVENT
+UID:a3e34c5f720c21c3@kid-events-in-ann-arbor
+DTSTAMP:20260910T173804Z
+DTSTART:20260915T130000Z
+DTEND:20260915T130000Z
+>>>>>>> Stashed changes
 SUMMARY:Ann Arbor District Library Storytimes
 LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
 GEO:42.27087;-83.72633
@@ -1773,15 +1925,22 @@ DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
  brary\, where songs\, stories\, and activities spark a love of reading an
  d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
  I\, 48104\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed
- \nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.com/
- ?event=a3e34c5f720c21c3\n\nDouble check the time with the organizer befor
- e you go.
+ \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
+ ar/#!/event/18068175\nFound on: https://kideventsinannarbor.com/?event=a3
+ e34c5f720c21c3\n\nDouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:d2c191e9e4dee8a1@kid-events-in-ann-arbor
+<<<<<<< Updated upstream
 DTSTAMP:20260910T152854Z
 DTSTART:20260915T103000Z
 DTEND:20260915T113000Z
+=======
+DTSTAMP:20260910T173804Z
+DTSTART:20260915T143000Z
+DTEND:20260915T153000Z
+>>>>>>> Stashed changes
 SUMMARY:FREE Outdoor Story Time for Kids
 LOCATION:Ann Arbor\, MI
 GEO:42.27087;-83.72633
@@ -1790,6 +1949,7 @@ DESCRIPTION:Tuesday\, September 15\, 2026\, 10:30 - 11:30am Celebrate the
  -October we will meet at a new park! Dress for the weather. For children 
  2-5 years of age and an adult. Free. Registration required.\n\nWhere: Ann
   Arbor\, MI\nCost: Free\nSignup: Registration required\, book before you 
+<<<<<<< Updated upstream
  go\nListed by: Ann Arbor Family\nFound on: https://kideventsinannarbor.co
  m/?event=d2c191e9e4dee8a1\n\nDouble check the time with the organizer bef
  ore you go.
@@ -13293,5 +13453,12 @@ DESCRIPTION:Saturday morning playgroup for dads and their little ones. Dro
  e time with the organizer before you go.
 URL:https://themamasnetwork.org/events
 CATEGORIES:Playgroup
+=======
+ go\nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Cale
+ ndar/#!/event/19711554\nFound on: https://kideventsinannarbor.com/?event=
+ d2c191e9e4dee8a1\n\nDouble check the time with the organizer before you g
+ o.
+URL:https://annarborfamily.com/Calendar/#!/event/19711554
+>>>>>>> Stashed changes
 END:VEVENT
 END:VCALENDAR

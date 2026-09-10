@@ -194,6 +194,11 @@ def normalize(events: list) -> list:
         geo.locate(event)
         classify.enrich(event)
 
+        # Hard cap: nothing more than 39 drive minutes from downtown,
+        # regardless of source. Toledo and Detroit are not local.
+        if event.drive_minutes is not None and event.drive_minutes > 39:
+            continue
+
         if event.zone == "outside" and event.lat is None and event.source in LOCAL_SOURCES:
             event.zone = "county"
             event.washtenaw = True
