@@ -56,14 +56,14 @@ sites:
 
   - key: discover_science
     audience: mixed
-    access: crawl       # schema.org markup on their own event pages
-    name: Hands-On Museum & Leslie Science
-    strategy: jsonld
-    listings:
-      - https://discoverscienceandnature.org/calendars
-      - https://discoverscienceandnature.org/events/
-    detail_pattern: "discoverscienceandnature\\.org/(event|events|calendars)/[^/]+/?$"
-    max_details: 120
+    access: feed        # public Google Calendar iCal feeds
+    name: Hands On Museum + Leslie Science & Nature Center
+    strategy: ical
+    url: https://discoverscienceandnature.org/calendars
+    feeds:
+      - https://calendar.google.com/calendar/ical/aahom220%40gmail.com/public/basic.ics
+      - https://calendar.google.com/calendar/ical/hrfuigti6d3vslecct3llhcfi8%40group.calendar.google.com/public/basic.ics
+      - https://calendar.google.com/calendar/ical/l8akbc7f4jkmob00pgmqt8d2ro%40group.calendar.google.com/public/basic.ics
 
   - key: metroparks
     audience: mixed
@@ -223,17 +223,3 @@ sites:
   #                       Theater already reaches us another way.
   # facebook.com          Needs a logged in session. See the note at the top.
 
-  # The museums publish a shared Google Calendar with three separate feeds:
-  # the main AAHOM calendar, Leslie Science & Nature Center, and a combined
-  # one. The iCal feeds carry real dates, times and descriptions straight
-  # from the organizer.
-  - key: discover_science_gcal
-    audience: mixed
-    access: feed        # public Google Calendar iCal feeds
-    name: Leslie & Hands-On Museum (Google Cal)
-    strategy: ical
-    url: https://discoverscienceandnature.org/calendars
-    feeds:
-      - https://calendar.google.com/calendar/ical/aahom220%40gmail.com/public/basic.ics
-      - https://calendar.google.com/calendar/ical/hrfuigti6d3vslecct3llhcfi8%40group.calendar.google.com/public/basic.ics
-      - https://calendar.google.com/calendar/ical/l8akbc7f4jkmob00pgmqt8d2ro%40group.calendar.google.com/public/basic.ics

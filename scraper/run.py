@@ -24,7 +24,7 @@ from . import classify, courtesy, geo, icsbuild, kidfilter, notevents, seo, venu
 from .dedupe import dedupe
 from .models import AGE_BANDS, AGE_BAND_LABELS, ZONE_LABELS
 from .sources import (aadl, annarborwithkids, generic, manual, observer,
-                      recurring, umich)
+                      recurring)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # The repo root is the published site. The scraper's own settings live in
@@ -91,7 +91,6 @@ def collect(only: str | None = None) -> tuple:
             (lambda s: lambda: recurring.fetch_series(s, days=HORIZON_DAYS))(series))
     run("aadl", "Ann Arbor District Library", aadl.fetch)
     run("aawk", "Ann Arbor with Kids", annarborwithkids.fetch)
-    run("umich", "U-M Happening", umich.fetch)
     run("a2observer_kids", "Ann Arbor Observer Kids Calendar", observer.fetch)
 
     for site in load_sites():
@@ -170,7 +169,7 @@ LOCAL_SOURCES = {
     "reced", "a2_parks_rec", "washtenaw_parks", "ypsi_library", "chelsea_library",
     "mamas_network", "mamas_network_repeat",
     "saline_library", "dexter_library", "a2sf",
-    "discover_science", "discover_science_gcal",
+    "discover_science",
 }
 
 
@@ -197,13 +196,6 @@ def normalize(events: list) -> list:
         # Whether you could get here on TheRide. Has to come after locate,
         # because it reads the zone and the drive time it works out.
         event.bus = geo.reachable_by_bus(event)
-
-        # U-M is the whole university and is not in sources.yaml, so it keeps
-        # its own gate. Everything else marked audience: mixed goes through
-        # kidfilter further down, in one place.
-        if event.source == "umich" and not umich.is_family_sponsored(event):
-            if not classify.is_kid_relevant(event):
-                continue
 
         if not event.updated:
             event.updated = datetime.now(timezone.utc).isoformat(timespec="seconds")
@@ -271,7 +263,6 @@ LISTING_URLS = {
     "https://annarborobserver.com/kids-calendar/",
     "https://annarborobserver.com/events/",
     "https://www.annarbor.org/events/",
-    "https://events.umich.edu/",
     "https://discoverscienceandnature.org/",
     "https://discoverscienceandnature.org/events/",
     "https://discoverscienceandnature.org/calendars",

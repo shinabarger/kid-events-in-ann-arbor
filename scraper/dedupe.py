@@ -23,9 +23,7 @@ SOURCE_PRIORITY = {
     "mamas_network_repeat": 8,   # a projection, so it loses to the real thing
     "aadl": 1,
     "a2observer_kids": 1,
-    "umich": 2,
-    "discover_science": 2,
-    "discover_science_gcal": 1,
+    "discover_science": 1,
     "metroparks": 2,
     "ypsi_library": 2,
     "reced": 2,
