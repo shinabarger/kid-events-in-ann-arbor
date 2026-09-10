@@ -1,95 +1,95 @@
 {
- "generated": "2026-09-10T02:47:22+00:00",
+ "generated": "2026-09-10T11:03:02+00:00",
  "feeds": [
   {
    "file": "all.ics",
    "name": "Kid Events in Ann Arbor",
    "description": "Everything on the calendar",
-   "count": 943
+   "count": 145
   },
   {
    "file": "free.ics",
    "name": "Kid Events in Ann Arbor: Free",
    "description": "Free events only",
-   "count": 649
+   "count": 66
   },
   {
    "file": "drop-in.ics",
    "name": "Kid Events in Ann Arbor: Drop-in",
    "description": "No registration needed",
-   "count": 731
+   "count": 127
   },
   {
    "file": "outdoor.ics",
    "name": "Kid Events in Ann Arbor: Outdoor",
    "description": "Outdoor events",
-   "count": 243
+   "count": 54
   },
   {
    "file": "indoor.ics",
    "name": "Kid Events in Ann Arbor: Indoor",
    "description": "Indoor events",
-   "count": 706
+   "count": 75
   },
   {
    "file": "ann-arbor-city.ics",
    "name": "Kid Events: Ann Arbor city limits",
    "description": "Inside the Ann Arbor city limits",
-   "count": 587
+   "count": 16
   },
   {
    "file": "within-30-minutes.ics",
    "name": "Kid Events: within a 30 minute drive",
    "description": "About a 30 minute drive from downtown or less",
-   "count": 835
+   "count": 42
   },
   {
    "file": "bus-reachable.ics",
    "name": "Kid Events: within an hour bus ride",
    "description": "Plausibly an hour or less on TheRide, walking included",
-   "count": 810
+   "count": 28
   },
   {
    "file": "washtenaw-county.ics",
    "name": "Kid Events: Washtenaw County",
    "description": "Anywhere in Washtenaw County",
-   "count": 931
+   "count": 40
   },
   {
    "file": "age-baby.ics",
    "name": "Kid Events: Babies (0-2)",
    "description": "Events suitable for babies (0-2)",
-   "count": 354
+   "count": 71
   },
   {
    "file": "age-toddler.ics",
    "name": "Kid Events: Toddlers (1-3)",
    "description": "Events suitable for toddlers (1-3)",
-   "count": 440
+   "count": 105
   },
   {
    "file": "age-preschool.ics",
    "name": "Kid Events: Preschool (3-5)",
    "description": "Events suitable for preschool (3-5)",
-   "count": 407
+   "count": 107
   },
   {
    "file": "age-elementary.ics",
    "name": "Kid Events: Elementary (5-10)",
    "description": "Events suitable for elementary (5-10)",
-   "count": 503
+   "count": 99
   },
   {
    "file": "age-tween.ics",
    "name": "Kid Events: Tweens (10-13)",
    "description": "Events suitable for tweens (10-13)",
-   "count": 526
+   "count": 97
   },
   {
    "file": "age-teen.ics",
    "name": "Kid Events: Teens (13-18)",
    "description": "Events suitable for teens (13-18)",
-   "count": 487
+   "count": 63
   }
  ]
 }

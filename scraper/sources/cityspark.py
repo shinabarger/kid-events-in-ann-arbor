@@ -25,7 +25,7 @@ import requests
 from ..models import Event
 
 SOURCE = "cityspark_a2family"
-SOURCE_NAME = "Ann Arbor Family (CitySpark)"
+SOURCE_NAME = "Ann Arbor Family"
 
 API_URL = "https://portal.cityspark.com/api/events/GetEvents/AnnArborFamily"
 PPID = 8349
@@ -153,7 +153,7 @@ def event_from_row(row: dict) -> Event | None:
 
     # Cost
     cost = "unknown"
-    price = (row.get("Price") or "").strip()
+    price = str(row.get("Price") or "").strip()
     if row.get("Free"):
         cost = "free"
         price = price or "Free"

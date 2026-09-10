@@ -95,7 +95,7 @@ def collect(only: str | None = None) -> tuple:
     run("aadl", "Ann Arbor District Library", aadl.fetch)
     run("aawk", "Ann Arbor with Kids", annarborwithkids.fetch)
     run("a2observer_kids", "Ann Arbor Observer Kids Calendar", observer.fetch)
-    run("cityspark_a2family", "Ann Arbor Family (CitySpark)", cityspark.fetch)
+    run("cityspark_a2family", "Ann Arbor Family", cityspark.fetch)
 
     for site in load_sites():
         run(site["key"], site["name"], (lambda s: lambda: generic.fetch(s))(site))
@@ -327,6 +327,27 @@ def build_payload(events: list, report: list) -> dict:
         key = row.get("source")
         published[key] = published.get(key, 0) + 1
     report = [dict(entry, kept=published.get(entry["key"], 0)) for entry in report]
+
+    # Merge sources that share a display name into one row. The a2family
+    # JSON-LD crawl and the cityspark_a2family API pull are separate fetches
+    # of the same calendar, so the about page should show one "Ann Arbor
+    # Family" line with their totals combined.
+    merged = []
+    seen_names = {}
+    for entry in report:
+        name = entry["name"]
+        if name in seen_names:
+            prev = seen_names[name]
+            prev["count"] += entry["count"]
+            prev["kept"] += entry["kept"]
+            prev["ok"] = prev["ok"] and entry["ok"]
+            if entry.get("error"):
+                prev["error"] = (prev.get("error") or "") + "; " + entry["error"] if prev.get("error") else entry["error"]
+        else:
+            row = dict(entry)
+            seen_names[name] = row
+            merged.append(row)
+    report = merged
 
     return {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
