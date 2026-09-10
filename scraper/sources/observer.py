@@ -45,7 +45,7 @@ MONTHS = {
 # "Sept. 14 & 16 (10:30-11 a.m.)" or just "12, 22, & 29 (3-4 p.m.)"
 DATE_GROUP_RE = re.compile(
     r"(?:(?P<month>[A-Z][a-z]{2,4})\.?\s+)?"
-    r"(?P<days>\d{1,2}(?:(?:\s*[,&]\s*|\s+and\s+)+\d{1,2})*)\s*"
+    r"(?<!\$)(?P<days>\d{1,2}(?:(?:\s*[,&]\s*|\s+and\s+)+\d{1,2})*)\s*"
     r"\((?P<time>[^)]{2,40})\)",
 )
 
@@ -176,7 +176,14 @@ def parse_paragraph(text: str, month: int, year: int) -> list:
     if re.match(r"^every\b", body, re.IGNORECASE):
         return []
 
-    groups = list(DATE_GROUP_RE.finditer(body))
+    # A real time window always carries a meridiem (a.m./p.m.) or 'noon'.
+    # Phone numbers like '(734) 764-9304' and parenthetical asides like
+    # 'ages 4-8 (accompanied by an adult)' match the regex shape but have
+    # no meridiem, so drop them before computing the tail.
+    groups = [
+        g for g in DATE_GROUP_RE.finditer(body)
+        if re.search(r'a\.?m\.?|p\.?m\.?|noon', g.group('time'), re.IGNORECASE)
+    ]
     if not groups:
         return []
 
@@ -187,6 +194,11 @@ def parse_paragraph(text: str, month: int, year: int) -> list:
 
     title, venue, description = split_title_venue(tail)
     if not title:
+        return []
+
+    # A real title starts with a letter, digit, or opening quote. Anything
+    # else is debris from a date group landing inside a description.
+    if not re.match(r'^[A-Za-z0-9"“‘'']', title):
         return []
 
     money = MONEY_RE.search(body)
