@@ -14,3 +14,4 @@ __pycache__/
 # belong in it.
 preview.html
 README.md
+.DS_Store
