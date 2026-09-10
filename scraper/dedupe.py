@@ -25,6 +25,7 @@ SOURCE_PRIORITY = {
     "a2observer_kids": 1,
     "umich": 2,
     "discover_science": 2,
+    "discover_science_gcal": 1,
     "metroparks": 2,
     "ypsi_library": 2,
     "reced": 2,

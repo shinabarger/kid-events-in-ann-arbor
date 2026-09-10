@@ -170,6 +170,7 @@ LOCAL_SOURCES = {
     "reced", "a2_parks_rec", "washtenaw_parks", "ypsi_library", "chelsea_library",
     "mamas_network", "mamas_network_repeat",
     "saline_library", "dexter_library", "a2sf",
+    "discover_science", "discover_science_gcal",
 }
 
 
@@ -273,6 +274,7 @@ LISTING_URLS = {
     "https://events.umich.edu/",
     "https://discoverscienceandnature.org/",
     "https://discoverscienceandnature.org/events/",
+    "https://discoverscienceandnature.org/calendars",
     "https://www.metroparks.com/",
     "https://www.metroparks.com/events/",
     "https://www.washtenaw.org/",
