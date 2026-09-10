@@ -39,13 +39,27 @@ def _parser(url: str):
         return _cache[host]
 
     parser = urllib.robotparser.RobotFileParser()
-    parser.set_url(f"{scheme}://{host}/robots.txt")
+    robots_url = f"{scheme}://{host}/robots.txt"
+    parser.set_url(robots_url)
     try:
-        parser.read()
+        # Do not use parser.read(). It fetches with bare urllib and no
+        # headers, which gets a 403 from sites behind a WAF or CDN.
+        # Python treats a 403 on robots.txt as "disallow everything"
+        # without raising, so every URL on that host silently fails.
+        # Fetch it ourselves with the same polite headers http.py uses.
+        import requests as _req
+        from .http import HEADERS, TIMEOUT
+        resp = _req.get(robots_url, headers=HEADERS, timeout=TIMEOUT)
+        if resp.status_code in (401, 403):
+            # The site actively refused us. Respect that.
+            parser.disallow_all = True
+        elif resp.status_code >= 400:
+            # No robots.txt found (404, etc.). Convention: everything allowed.
+            parser.allow_all = True
+        else:
+            parser.parse(resp.text.splitlines())
     except Exception:  # noqa: BLE001
-        # No robots.txt, or it would not load. The convention is that silence
-        # means allowed, and we are not going to invent a stricter rule than
-        # the site itself publishes.
+        # Network error fetching robots.txt. Silence means allowed.
         parser = None
     _cache[host] = parser
     return parser
