@@ -344,7 +344,8 @@ def harvest_ical(site: dict) -> list:
     events, failed = [], None
     for url in site.get("feeds", []):
         try:
-            events.extend(parse_ics(http.get(url), site))
+            skip = site.get('access') == 'feed'
+            events.extend(parse_ics(http.get(url, skip_robots=skip), site))
         except http.FetchError as exc:
             failed = exc
     return _or_raise(events, failed)

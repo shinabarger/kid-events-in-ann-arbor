@@ -55,7 +55,7 @@ def _cache_path(url: str) -> str:
     return os.path.join(CACHE_DIR, hashlib.sha1(url.encode("utf-8")).hexdigest() + ".txt")
 
 
-def get(url: str, *, retries: int = 2) -> str:
+def get(url: str, *, retries: int = 2, skip_robots: bool = False) -> str:
     os.makedirs(CACHE_DIR, exist_ok=True)
     path = _cache_path(url)
 
@@ -70,7 +70,7 @@ def get(url: str, *, retries: int = 2) -> str:
 
     # Ask permission before every single request, not once per site, because a
     # site can disallow one path and welcome another.
-    if not robots.allowed(url):
+    if not skip_robots and not robots.allowed(url):
         raise Disallowed(f"robots.txt disallows {url}")
 
     last_error = None
