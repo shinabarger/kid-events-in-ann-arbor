@@ -37,6 +37,7 @@ SOURCE_PRIORITY = {
     "a2observer": 5,
     "aawk": 6,
     "a2family": 7,
+    "cityspark_a2family": 7,
 }
 
 

@@ -23,8 +23,8 @@ import yaml
 from . import classify, courtesy, geo, icsbuild, kidfilter, notevents, seo, venuegate
 from .dedupe import dedupe
 from .models import AGE_BANDS, AGE_BAND_LABELS, ZONE_LABELS
-from .sources import (aadl, annarborwithkids, generic, manual, observer,
-                      recurring)
+from .sources import (aadl, annarborwithkids, cityspark, generic, manual,
+                      observer, recurring)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # The repo root is the published site. The scraper's own settings live in
@@ -44,7 +44,10 @@ def load_sites() -> list:
 
 def mixed_sources() -> set:
     """Sources that publish for everybody, so every event has to be judged."""
-    return {site["key"] for site in load_sites() if site.get("audience") == "mixed"}
+    from_yaml = {site["key"] for site in load_sites() if site.get("audience") == "mixed"}
+    # Hardcoded sources that are also general calendars.
+    from_yaml.add("cityspark_a2family")
+    return from_yaml
 
 
 # The footer shows this text in a tooltip on the public site, so it must not
@@ -92,6 +95,7 @@ def collect(only: str | None = None) -> tuple:
     run("aadl", "Ann Arbor District Library", aadl.fetch)
     run("aawk", "Ann Arbor with Kids", annarborwithkids.fetch)
     run("a2observer_kids", "Ann Arbor Observer Kids Calendar", observer.fetch)
+    run("cityspark_a2family", "Ann Arbor Family (CitySpark)", cityspark.fetch)
 
     for site in load_sites():
         run(site["key"], site["name"], (lambda s: lambda: generic.fetch(s))(site))
@@ -167,6 +171,7 @@ LOCAL_SOURCES = {
     "manual", "aadl", "aawk", "a2family", "a2observer", "a2observer_kids",
     "destination_a2",
     "reced", "a2_parks_rec", "washtenaw_parks", "ypsi_library", "chelsea_library",
+    "cityspark_a2family",
     "mamas_network", "mamas_network_repeat",
     "saline_library", "dexter_library", "a2sf",
     "discover_science",
@@ -272,6 +277,7 @@ LISTING_URLS = {
     "https://reced.a2schools.org/",
     "https://www.a2gov.org/",
     "https://www.annarborfamily.com/events/",
+    "https://annarborfamily.com/Calendar/",
     "https://www.ypsilibrary.org/events/",
 }
 
