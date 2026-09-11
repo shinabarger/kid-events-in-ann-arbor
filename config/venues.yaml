@@ -157,7 +157,7 @@ venues:
     setting: outdoor
 
   - name: Kerrytown / Ann Arbor Farmers Market
-    match: ["kerrytown", "farmers market", "ann arbor farmers"]
+    match: ["kerrytown", "ann arbor farmers market", "ann arbor farmers"]
     city: Ann Arbor
     address: 315 Detroit St, Ann Arbor, MI 48104
     lat: 42.2852
