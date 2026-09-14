@@ -27,8 +27,20 @@
       return (b.kept || 0) - (a.kept || 0) || a.name.localeCompare(b.name);
     });
 
-    var tbody = document.createElement("tbody");
+    var active = [];
+    var empty = [];
     sources.forEach(function (source) {
+      var kept = source.kept || 0;
+      var found = source.count || 0;
+      if (found === 0 && kept === 0) {
+        empty.push(source);
+      } else {
+        active.push(source);
+      }
+    });
+
+    var tbody = document.createElement("tbody");
+    active.forEach(function (source) {
       var row = document.createElement("tr");
       var kept = source.kept || 0;
       var found = source.count || 0;
@@ -37,9 +49,6 @@
       cell(row, source.ok ? String(found) : "Unknown", "num");
       cell(row, String(kept), "num");
 
-      // The two numbers already say it. A fetch that fell over reads "failed"
-      // rather than a count, and a source losing everything to duplicates
-      // shows a healthy found next to a nought.
       if (!source.ok || (found > 0 && kept === 0)) row.className = "needs-a-look";
       tbody.appendChild(row);
     });
@@ -62,6 +71,27 @@
       + (payload.horizon_days || 120) + " days.";
 
     table.replaceChildren(caption, head, tbody);
+
+    // If any sources came back with 0, list them separately below the table.
+    if (empty.length > 0) {
+      var section = document.createElement("div");
+      section.className = "empty-sources";
+
+      var heading = document.createElement("h3");
+      heading.textContent = "Data Sources Currently Returning 0 Events";
+      section.appendChild(heading);
+
+      var list = document.createElement("ul");
+      empty.forEach(function (source) {
+        var li = document.createElement("li");
+        li.textContent = source.name;
+        if (!source.ok) li.textContent += " (failed)";
+        list.appendChild(li);
+      });
+      section.appendChild(list);
+
+      table.parentNode.insertBefore(section, table.nextSibling);
+    }
   }
 
   // Same cache dodge the calendar uses: the data changes every morning and
