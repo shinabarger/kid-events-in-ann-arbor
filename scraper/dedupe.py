@@ -72,6 +72,15 @@ def merge(keep, drop):
         if not getattr(keep, field, None) and getattr(drop, field, None):
             setattr(keep, field, getattr(drop, field))
 
+    # A specific time always beats all_day. If the winner was stamped at
+    # midnight because the feed only carried a date, and the loser has a real
+    # start time, adopt it. This is how an AADL event at 5:30pm stops showing
+    # as "all day" when Destination Ann Arbor published only the date.
+    if getattr(keep, "all_day", False) and not getattr(drop, "all_day", False):
+        keep.start = drop.start
+        keep.end = drop.end or keep.end
+        keep.all_day = False
+
     if keep.lat is None and drop.lat is not None:
         keep.lat, keep.lon = drop.lat, drop.lon
     if keep.cost == "unknown" and drop.cost != "unknown":
@@ -120,5 +129,34 @@ def dedupe(events: list, threshold: float = 0.82) -> list:
                 winners.append(candidate)
         kept.extend(winners)
 
+    # Second pass: match all_day events against timed events on the same date.
+    # A feed that only carries a date produces a midnight/all_day copy that
+    # lands in a different hour bucket from the real copy, so the first pass
+    # never compares them.
+    kept = _merge_allday(kept, threshold)
+
     kept.sort(key=lambda e: (e.start or "", e.title))
     return kept
+
+
+def _merge_allday(events: list, threshold: float) -> list:
+    by_date = {}
+    for event in events:
+        date = (event.start or "")[:10]
+        by_date.setdefault(date, []).append(event)
+
+    merged_out = set()
+    for date, group in by_date.items():
+        allday = [e for e in group if getattr(e, "all_day", False)]
+        timed = [e for e in group if not getattr(e, "all_day", False)]
+        if not allday or not timed:
+            continue
+        for ad in allday:
+            name = normalize_title(ad.title)
+            for tm in timed:
+                if similar(name, normalize_title(tm.title)) >= threshold:
+                    merge(tm, ad)
+                    merged_out.add(id(ad))
+                    break
+
+    return [e for e in events if id(e) not in merged_out]

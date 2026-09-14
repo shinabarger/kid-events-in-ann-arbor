@@ -93,6 +93,7 @@ VETO = [
     r"\bburlesque\b", r"\bdrag brunch\b",
     r"\bnightclub\b", r"\bafter dark\b", r"\bspeed dating\b", r"\bsingles\b",
     r"\beuchre\b", r"\bpoetry slam\b",
+    r"\bgolf\b",
     # Professional and academic
     r"\bnetworking\b", r"\bjob fair\b", r"\bcareer fair\b", r"\bhiring event\b",
     r"\bprofessional development\b", r"\bcontinuing education\b",
@@ -121,6 +122,7 @@ SOFT_VETO_RE = [re.compile(p, re.I) for p in SOFT_VETO]
 TITLE_VETO_RE = [re.compile(p, re.I) for p in (
     r"\badults?\b", r"\bgrown[- ]ups?\b", r"\bseniors?\b", r"\b55\+",
     r"\bmeeting\b", r"\bwebinar\b", r"\bopen house\b", r"\bforum\b",
+    r"\bauthor event\b",
 )]
 
 # "Family" on its own is the weakest possible signal. A brewery calls itself
@@ -212,6 +214,15 @@ def filter_mixed(events: list, mixed_sources: set) -> tuple:
     """
     kept, dropped = [], []
     for event in events:
+        # Title vetoes apply to every source. "Author Event" is an adult
+        # format whether a kid calendar republished it or not.
+        title = str(getattr(event, "title", "") or "")
+        titled = next((p.pattern for p in TITLE_VETO_RE if p.search(title)), None)
+        if titled:
+            event.drop_reason = f"title says who it is for: {titled}"
+            dropped.append(event)
+            continue
+
         if getattr(event, "source", "") not in mixed_sources:
             kept.append(event)
             continue
