@@ -71,3 +71,141 @@ series:
         description: >-
           For anyone pregnant or in the first months with a new baby. Bring the
           baby, or come before they arrive.
+
+  - key: ypsi_library
+    name: Ypsilanti District Library
+    # The storytimes page states the schedule in words. The events listing
+    # (scraped by the generic adapter) carries individual event pages, but
+    # storytimes do not always get one, so these rules fill the gap.
+    # defer_to is the same key because the generic crawl and these rules
+    # share the source name. Where the crawl already has a storytime on a
+    # given day, it wins.
+    defer_to: ypsi_library
+    url: https://www.ypsilibrary.org/services/early-literacy/storytimes/
+    checked: 2026-09-14
+    city: Ypsilanti
+    setting: indoor
+    cost: free
+    registration: false
+    events:
+      - title: "Baby Time"
+        rule: every tuesday
+        time: "10:30-11:00"
+        venue: Ypsilanti District Library (Superior)
+        address: 1900 Harris Rd, Ypsilanti, MI 48198
+        ages_text: Pre-walkers
+        categories: [Storytime]
+        description: >-
+          Hear a book and learn fun songs during a short lapsit storytime,
+          then chat with other caregivers while your little one plays.
+        until: 2026-11-20
+
+      - title: "Baby Time"
+        rule: every wednesday
+        time: "10:30-11:00"
+        venue: Ypsilanti District Library (Whittaker)
+        address: 5577 Whittaker Rd, Ypsilanti, MI 48197
+        ages_text: Pre-walkers
+        categories: [Storytime]
+        description: >-
+          Hear a book and learn fun songs during a short lapsit storytime,
+          then chat with other caregivers while your little one plays.
+        until: 2026-11-20
+
+      - title: "Little Ones Storytime"
+        rule: every monday
+        time: "10:30-11:00"
+        venue: Ypsilanti District Library (Michigan Ave)
+        address: 229 W Michigan Ave, Ypsilanti, MI 48197
+        ages_text: Ages 0-3
+        categories: [Storytime]
+        description: >-
+          Sing, dance, read, and play together to build early literacy
+          skills, with dedicated pre-walker space.
+        until: 2026-11-20
+
+      - title: "Read Sing Play"
+        rule: every wednesday
+        time: "10:30-11:00"
+        venue: Ypsilanti District Library (Superior)
+        address: 1900 Harris Rd, Ypsilanti, MI 48198
+        ages_text: Ages 1-3
+        categories: [Storytime]
+        description: >-
+          Learn colors, shapes, and numbers through music and movement.
+          Each week includes a book and lots of songs, then parents can
+          stay and chat while kids play nearby.
+        until: 2026-11-20
+
+      - title: "Read Sing Play"
+        rule: every thursday
+        time: "10:30-11:00"
+        venue: Ypsilanti District Library (Whittaker)
+        address: 5577 Whittaker Rd, Ypsilanti, MI 48197
+        ages_text: Ages 1-3
+        categories: [Storytime]
+        description: >-
+          Learn colors, shapes, and numbers through music and movement.
+          Each week includes a book and lots of songs, then parents can
+          stay and chat while kids play nearby.
+        until: 2026-11-20
+
+      - title: "Discovery Time"
+        rule: every tuesday
+        time: "10:30-11:00"
+        venue: Ypsilanti District Library (Whittaker)
+        address: 5577 Whittaker Rd, Ypsilanti, MI 48197
+        ages_text: Ages 2-4
+        categories: [Storytime]
+        description: >-
+          Fast-paced storytimes with music, movement, fingerplays, and
+          exploratory learning.
+        until: 2026-11-20
+
+      - title: "Discovery Time"
+        rule: every thursday
+        time: "10:30-11:00"
+        venue: Ypsilanti District Library (Superior)
+        address: 1900 Harris Rd, Ypsilanti, MI 48198
+        ages_text: Ages 2-4
+        categories: [Storytime]
+        description: >-
+          Fast-paced storytimes with music, movement, fingerplays, and
+          exploratory learning.
+        until: 2026-11-20
+
+      - title: "Jumpstart Kindergarten"
+        rule: every monday
+        time: "10:30-11:00"
+        venue: Ypsilanti District Library (Whittaker)
+        address: 5577 Whittaker Rd, Ypsilanti, MI 48197
+        ages_text: Ages 4-6
+        categories: [Storytime]
+        description: >-
+          Action packed experience that weaves early literacy fun with a
+          sprinkling of math, science and art.
+        until: 2026-11-20
+
+      - title: "Jumpstart Kindergarten"
+        rule: every tuesday
+        time: "13:00-13:30"
+        venue: Ypsilanti District Library (Whittaker)
+        address: 5577 Whittaker Rd, Ypsilanti, MI 48197
+        ages_text: Ages 4-6
+        categories: [Storytime]
+        description: >-
+          Action packed experience that weaves early literacy fun with a
+          sprinkling of math, science and art.
+        until: 2026-11-20
+
+      - title: "Jumpstart Kindergarten"
+        rule: every friday
+        time: "13:00-13:30"
+        venue: Ypsilanti District Library (Michigan Ave)
+        address: 229 W Michigan Ave, Ypsilanti, MI 48197
+        ages_text: Ages 4-6
+        categories: [Storytime]
+        description: >-
+          Action packed experience that weaves early literacy fun with a
+          sprinkling of math, science and art.
+        until: 2026-11-20

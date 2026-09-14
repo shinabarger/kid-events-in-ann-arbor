@@ -23,8 +23,8 @@ import yaml
 from . import classify, courtesy, geo, icsbuild, kidfilter, notevents, seo, venuegate
 from .dedupe import dedupe
 from .models import AGE_BANDS, AGE_BAND_LABELS, ZONE_LABELS
-from .sources import (aadl, annarborwithkids, cityspark, generic, manual,
-                      observer, recurring)
+from .sources import (aadl, annarborwithkids, bluesky, cityspark, generic,
+                      manual, observer, recurring)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # The repo root is the published site. The scraper's own settings live in
@@ -96,6 +96,7 @@ def collect(only: str | None = None) -> tuple:
     run("aawk", "Ann Arbor with Kids", annarborwithkids.fetch)
     run("a2observer_kids", "Ann Arbor Observer Kids Calendar", observer.fetch)
     run("cityspark_a2family", "Ann Arbor Family", cityspark.fetch)
+    run("ypsi_library", "Ypsilanti District Library", bluesky.fetch)
 
     for site in load_sites():
         run(site["key"], site["name"], (lambda s: lambda: generic.fetch(s))(site))

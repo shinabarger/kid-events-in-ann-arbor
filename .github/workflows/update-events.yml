@@ -12,6 +12,7 @@ on:
       - "config/manual_events.yaml"
       - "config/sources.yaml"
       - "config/venues.yaml"
+      - "config/recurring.yaml"
       - "scraper/**"
 
 env:

@@ -313,7 +313,7 @@ venues:
 
   # --- Ypsilanti and the rest of the county -------------------------------
   - name: Ypsilanti District Library (Whittaker)
-    match: ["ypsilanti district library", "whittaker road library", "ydl"]
+    match: ["ypsilanti district library", "whittaker road library", "ydl-whittaker", "ydl whittaker", "ydl"]
     city: Ypsilanti
     address: 5577 Whittaker Rd, Ypsilanti, MI 48197
     lat: 42.1919
@@ -322,12 +322,21 @@ venues:
     setting: indoor
 
   - name: Ypsilanti District Library (Michigan Ave)
-    match: ["michigan ave branch", "michigan avenue branch"]
+    match: ["michigan ave branch", "michigan avenue branch", "ydl-michigan", "ydl michigan"]
     city: Ypsilanti
     address: 229 W Michigan Ave, Ypsilanti, MI 48197
     lat: 42.2412
     lon: -83.6165
     drive_minutes: 15
+    setting: indoor
+
+  - name: Ypsilanti District Library (Superior)
+    match: ["ydl-superior", "ydl superior", "superior branch", "1900 harris"]
+    city: Ypsilanti
+    address: 1900 Harris Rd, Ypsilanti, MI 48198
+    lat: 42.2585
+    lon: -83.6049
+    drive_minutes: 19
     setting: indoor
 
   - name: Riverside Park Ypsilanti
