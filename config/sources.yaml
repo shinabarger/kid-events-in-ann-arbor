@@ -119,15 +119,17 @@ sites:
     max_details: 80
     enabled: true
 
+  # Washtenaw County Parks publishes two calendars. The parks & rec one
+  # runs CivicPlus Evolve: a public guest token is on the page, and the
+  # content API returns structured JSON. The special events page is a
+  # plain HTML table. Both are handled by scraper/sources/washtenaw.py.
   - key: washtenaw_parks
     audience: mixed
-    access: crawl       # a county government page, public record
+    access: public-api  # CivicPlus content API, documented and open
     name: Washtenaw County Parks
-    strategy: jsonld
-    listings:
-      - https://www.washtenaw.org/calendar.aspx
-    detail_pattern: "washtenaw\\.org/Calendar\\.aspx\\?EID="
-    max_details: 100
+    strategy: washtenaw
+    calendar_page: https://www.washtenaw.org/parks-and-recreation-events
+    special_events_url: https://www.washtenaw.org/special-events
     enabled: true
 
   - key: a2_summer_fest

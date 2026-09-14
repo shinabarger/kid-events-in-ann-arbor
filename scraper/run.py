@@ -280,6 +280,8 @@ LISTING_URLS = {
     "https://www.metroparks.com/",
     "https://www.metroparks.com/events/",
     "https://www.washtenaw.org/",
+    "https://www.washtenaw.org/parks-and-recreation-events",
+    "https://www.washtenaw.org/special-events",
     "https://reced.a2schools.org/",
     "https://www.a2gov.org/",
     "https://www.annarborfamily.com/events/",

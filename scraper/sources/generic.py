@@ -493,6 +493,12 @@ def harvest_trumba(site: dict) -> list:
     return trumba.harvest(site)
 
 
+def harvest_washtenaw(site: dict) -> list:
+    from . import washtenaw
+
+    return washtenaw.fetch(site)
+
+
 STRATEGIES = {
     "tribe": harvest_tribe,
     "jsonld": harvest_jsonld,
@@ -500,6 +506,7 @@ STRATEGIES = {
     "rss": harvest_rss,
     "trumba": harvest_trumba,
     "canva": harvest_canva,
+    "washtenaw": harvest_washtenaw,
 }
 
 
