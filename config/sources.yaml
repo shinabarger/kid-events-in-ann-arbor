@@ -46,7 +46,7 @@ sites:
   - key: a2observer
     audience: mixed
     access: public-api  # The Events Calendar REST API, documented and open
-    name: Ann Arbor Observer
+    name: Ann Arbor Observer Kids Calendar
     # They run The Events Calendar, so the REST API gives us everything with no
     # scraping at all. The hand written kids calendar is a separate module.
     strategy: tribe
