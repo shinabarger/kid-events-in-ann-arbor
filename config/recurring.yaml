@@ -72,7 +72,7 @@ series:
           For anyone pregnant or in the first months with a new baby. Bring the
           baby, or come before they arrive.
 
-  - key: ypsi_library
+  - key: ypsi_library_repeat
     name: Ypsilanti District Library
     # The storytimes page states the schedule in words. The events listing
     # (scraped by the generic adapter) carries individual event pages, but
