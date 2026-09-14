@@ -2,10 +2,10 @@ name: Update events
 
 on:
   schedule:
-    # 5:30am Eastern, so the day's listings are ready before anybody looks.
+    # 1am Eastern, so the day's listings are ready well before anyone wakes up.
     # Cron is UTC, and GitHub does not do daylight saving, so this runs at
-    # 5:30 in the summer and 4:30 in the winter. Close enough.
-    - cron: "30 9 * * *"
+    # 1:00 in the summer and midnight in the winter. Close enough.
+    - cron: "0 5 * * *"
   workflow_dispatch:
   push:
     paths:

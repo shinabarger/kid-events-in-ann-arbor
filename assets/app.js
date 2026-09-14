@@ -1850,8 +1850,7 @@
             { month: "long", day: "numeric", year: "numeric" })
         : "an earlier date";
       return "These are sample listings captured on " + when +
-        ", not live data, so most of them have already happened. " +
-        "Run the Update events job to replace them.";
+        ", not live data, so most of them have already happened.";
     }
 
     var built = parseDate(meta.generated);
