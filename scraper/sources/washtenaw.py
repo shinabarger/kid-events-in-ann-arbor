@@ -71,7 +71,12 @@ def _strip_html(text: str) -> str:
 def _token_from_page(html_text: str) -> str:
     """Pull the guest bearer token from window.hcmsClientToken."""
     match = re.search(r'window\.hcmsClientToken\s*=\s*["\']([^"\']+)', html_text)
-    return match.group(1) if match else ""
+    if not match:
+        return ""
+    token = match.group(1)
+    if token.startswith("Bearer "):
+        token = token[len("Bearer "):]
+    return token
 
 
 def _build_address(addr: dict) -> tuple[str, str]:
