@@ -156,13 +156,11 @@ sites:
 
   - key: saline_library
     audience: mixed
-    access: crawl       # schema.org markup on their own event pages
+    access: public-api  # LocalHop Parse REST API, public application ID
     name: Saline District Library
-    strategy: jsonld
-    listings:
-      - https://salinelibrary.org/events/
-    detail_pattern: "salinelibrary\\.org/event"
-    max_details: 80
+    strategy: localhop
+    organization_id: "2vn5mz3Q89"
+    days: 120
     enabled: true
 
   - key: dexter_library
