@@ -90,6 +90,10 @@
   // What the page opens on. Most people are looking for today, then tomorrow.
   var DEFAULT_WHEN = "next2";
 
+  // An event stays in the main list until this long after it started, so
+  // checking at 3pm does not still surface a 10am storytime that is over.
+  var PAST_TODAY_GRACE_HOURS = 3;
+
   var AGE_LABELS = {
     baby: "Babies", toddler: "Toddlers", preschool: "Preschool",
     elementary: "Elementary", tween: "Tweens", teen: "Teens"
@@ -113,6 +117,7 @@
     },
     timeOfDay: "",
     date: "",
+    showPastToday: false,
     understood: [],
     qTyping: false,
     shared: "",
@@ -192,6 +197,13 @@
 
   function todayKey() {
     return new Date().toLocaleDateString("en-CA", { timeZone: TZ });
+  }
+
+  function isPastToday(event) {
+    if (event.all_day || dayKey(event.start) !== todayKey()) return false;
+    var start = parseDate(event.start);
+    if (!start) return false;
+    return start.getTime() + PAST_TODAY_GRACE_HOURS * 3600000 < Date.now();
   }
 
   function fromKey(key) {
@@ -895,7 +907,7 @@
     done(ok ? "Link copied" : "Press Ctrl+C");
   }
 
-  function renderList(events) {
+  function renderList(events, pastToday) {
     var groups = {};
     events.forEach(function (e) {
       var key = dayKey(e.start);
@@ -921,7 +933,42 @@
       frag.appendChild(section);
     });
 
+    if (pastToday && pastToday.length) {
+      frag.insertBefore(pastTodayBand(pastToday, buildCard), frag.firstChild);
+    }
+
     el.list.replaceChildren(frag);
+  }
+
+  /* A collapsed, grayed strip for events that already ran today. Hidden
+     behind a toggle so a mid-afternoon check is not cluttered with the
+     morning that is already over. */
+  function pastTodayBand(events, buildRow) {
+    var band = document.createElement("section");
+    band.className = "past-today";
+    if (state.showPastToday) band.classList.add("is-open");
+
+    var toggle = document.createElement("button");
+    toggle.type = "button";
+    toggle.className = "past-toggle";
+    toggle.setAttribute("aria-expanded", state.showPastToday ? "true" : "false");
+    toggle.textContent = (state.showPastToday ? "Hide" : "Show") +
+      " past events today (" + events.length + ")";
+    toggle.addEventListener("click", function () {
+      state.showPastToday = !state.showPastToday;
+      render();
+    });
+    band.appendChild(toggle);
+
+    if (state.showPastToday) {
+      var wrap = document.createElement("div");
+      wrap.className = "past-list";
+      events.slice()
+        .sort(function (a, b) { return (a.start || "").localeCompare(b.start || ""); })
+        .forEach(function (e) { wrap.appendChild(buildRow(e)); });
+      band.appendChild(wrap);
+    }
+    return band;
   }
 
   /* ---------- day and week --------------------------------------------- */
@@ -1060,9 +1107,19 @@
     var events = inRange(pool, key, key)
       .sort(function (a, b) { return (a.start || "").localeCompare(b.start || ""); });
 
+    var pastToday = [];
+    if (key === todayKey()) {
+      pastToday = events.filter(isPastToday);
+      events = events.filter(function (e) { return !isPastToday(e); });
+    }
+
     var wrap = document.createElement("section");
     wrap.className = "day-view";
     wrap.setAttribute("aria-label", "Events on " + fmtDayLong(key));
+
+    if (pastToday.length) {
+      wrap.appendChild(pastTodayBand(pastToday, function (e) { return inlineRow(e); }));
+    }
 
     if (!events.length) {
       wrap.appendChild(emptyDayNote(
@@ -1295,9 +1352,11 @@
     var count;
 
     if (isList) {
-      var events = visible();
-      count = events.length;
-      renderList(events);
+      var matched = visible();
+      var pastToday = matched.filter(isPastToday);
+      var current = matched.filter(function (e) { return !isPastToday(e); });
+      count = current.length;
+      renderList(current, pastToday);
     } else {
       var pool = calendarPool();
       count = state.view === "day" ? renderDay(pool)
@@ -1548,8 +1607,27 @@
       state.understood.push("matching \u201c" + parsed.keywords.join(" ") + "\u201d");
     }
 
+    if (text && (state.understood.length || state.keywords.length ||
+        state.timeOfDay || state.date || state.when !== "all")) {
+      selectListView();
+    }
+
     syncCheckboxes();
     apply();
+  }
+
+  /* A natural-language search asks a question the list answers: it honors
+     the When chips and the time of day, which the calendar views leave to
+     their own navigation. Switching here is what makes "tomorrow morning"
+     actually move to tomorrow. */
+  function selectListView() {
+    if (state.view === "list") return;
+    state.view = "list";
+    document.querySelectorAll("[data-view]").forEach(function (b) {
+      var on = b.dataset.view === "list";
+      b.classList.toggle("is-active", on);
+      b.setAttribute("aria-pressed", on ? "true" : "false");
+    });
   }
 
   /* The search box mirrors state.q, except while it has focus, because

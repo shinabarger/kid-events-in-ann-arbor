@@ -190,3 +190,26 @@ test("plain Ann Arbor still means the city limits", () => {
     new Date("2026-09-05T09:00:00-04:00"));
   assert.deepEqual(parsed.where, ["city"]);
 });
+
+/* --- the acceptance criteria for the search fix --------------------------- */
+
+test("a five year old in Saline reads as age plus a place keyword", () => {
+  const r = parse("events for my 5 year old in Saline");
+  assert.deepEqual(r.age, ["preschool", "elementary"]);
+  assert.deepEqual(r.keywords, ["saline"]);
+});
+
+test("a bare time of day means today", () => {
+  const r = parse("toddler activities this afternoon");
+  assert.deepEqual(r.age, ["toddler"]);
+  assert.equal(r.timeOfDay, "afternoon");
+  assert.equal(r.when, "today", "this afternoon is about today, not every day");
+  assert.deepEqual(r.keywords, [], "'activities' is filler, not a keyword");
+});
+
+test("what's happening tomorrow morning keeps the day and the time", () => {
+  const r = parse("what's happening tomorrow morning");
+  assert.equal(r.when, "tomorrow");
+  assert.equal(r.timeOfDay, "morning");
+  assert.deepEqual(r.keywords, [], "'happening' is filler, not a keyword");
+});

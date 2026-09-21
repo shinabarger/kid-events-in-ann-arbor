@@ -1661,3 +1661,43 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
 @media (max-width: 560px) {
   .source-table { font-size: .78rem; }
 }
+
+/* Past events today: a collapsed, grayed strip above the list so a check-in
+   later in the day is not cluttered with the morning that is already over. */
+.past-today {
+  margin: 0 0 18px;
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius-sm);
+  background: var(--surface-2);
+}
+
+.past-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 10px 13px;
+  font-family: var(--font);
+  font-size: .86rem;
+  font-weight: 600;
+  color: var(--text-soft);
+  background: none;
+  border: 0;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  text-align: left;
+}
+.past-toggle:hover { color: var(--text); }
+.past-toggle::before {
+  content: "\25B8"; /* right-pointing triangle, rotates when open */
+  font-size: .8rem;
+  transition: transform .15s ease;
+}
+.past-today.is-open .past-toggle::before { transform: rotate(90deg); }
+
+.past-list {
+  padding: 2px 13px 12px;
+  opacity: .55;
+  filter: grayscale(0.4);
+}
+.past-list .card { box-shadow: none; }

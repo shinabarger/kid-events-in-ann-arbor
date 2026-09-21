@@ -40,7 +40,9 @@
     "get go going good have here i i'm im in into is it kid kids child children " +
     "looking me my near of old on or our out show some something stuff take the there " +
     "these things this to today's up want we what where which who with year years yr " +
-    "yrs yo month months old olds please would like need got does day"
+    "yrs yo month months old olds please would like need got does day " +
+    "activities activity happening happenings scheduled fun what's whats " +
+    "where's wheres here's"
   ).split(" "));
 
   function bandsForAge(age) {
@@ -149,6 +151,10 @@
       else if (eat(/\b(afternoons?|midday|after\s*lunch|after\s*nap)\b/, "afternoon")) result.timeOfDay = "afternoon";
       else if (eat(/\b(evenings?|nights?|after\s*dinner)\b/, "evening")) result.timeOfDay = "evening";
     }
+
+    // A time of day with no day named means today. "Something in the
+    // morning" is this morning, not every morning on the calendar.
+    if (!result.when && result.timeOfDay) result.when = "today";
 
     /* --- where ------------------------------------------------------------ */
 
