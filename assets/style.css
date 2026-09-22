@@ -1776,3 +1776,9 @@ dialog::backdrop { background: rgba(10, 26, 20, .6); }
   #results.is-searching > #list-view,
   #results.is-searching > #month-view { opacity: 1; }
 }
+
+/* The search-feedback block above introduces .active-bar.just-searched
+   .active-chip, which then becomes the last mention of the chip and leaves its
+   44px tap target (WCAG 2.5.8) defined only earlier in the file. Restate it
+   here so the requirement stays with the chip. */
+.active-chip { min-height: 44px; }
