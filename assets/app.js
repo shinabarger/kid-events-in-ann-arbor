@@ -1817,6 +1817,76 @@
       " would show " + counts[0].n + (counts[0].n === 1 ? " event." : " events.");
   }
 
+  /* Searching used to snap straight to the results, which read as a jolt.
+     The state still updates synchronously, so the results are in the page at
+     once, but a brief brand-colored spinner covers them, the page eases down
+     to them, and the filter chips pulse so it is clear the search set them. */
+  var SEARCH_ANIM_MS = 450;
+
+  function prefersReducedMotion() {
+    return !!(window.matchMedia &&
+      window.matchMedia("(prefers-reduced-motion: reduce)").matches);
+  }
+
+  function runSearchWithFeedback(text) {
+    runAsk(text);
+    if (!text || prefersReducedMotion()) {
+      el.results.focus({ preventScroll: true });
+      return;
+    }
+    showSearchLoading();
+    el.results.focus({ preventScroll: true });
+    el.results.scrollIntoView({ behavior: "smooth", block: "start" });
+    window.setTimeout(function () {
+      hideSearchLoading();
+      riseResults();
+      flashFiltersUpdated();
+    }, SEARCH_ANIM_MS);
+  }
+
+  function showSearchLoading() {
+    hideSearchLoading();
+    var overlay = document.createElement("div");
+    overlay.className = "search-loading";
+    overlay.id = "search-loading";
+    overlay.setAttribute("aria-hidden", "true");
+    var spinner = document.createElement("div");
+    spinner.className = "search-spinner";
+    overlay.appendChild(spinner);
+    var label = document.createElement("p");
+    label.className = "search-loading-text";
+    label.textContent = "Finding events\u2026";
+    overlay.appendChild(label);
+    el.results.appendChild(overlay);
+    el.results.classList.add("is-searching");
+  }
+
+  function hideSearchLoading() {
+    var overlay = el.results.querySelector("#search-loading");
+    if (overlay) overlay.remove();
+    el.results.classList.remove("is-searching");
+  }
+
+  /* Re-add the class after a reflow so the animation replays on every search,
+     not just the first. */
+  function riseResults() {
+    var pane = state.view === "list" ? el.list : el.month;
+    if (!pane) return;
+    pane.classList.remove("just-searched");
+    void pane.offsetWidth;
+    pane.classList.add("just-searched");
+    window.setTimeout(function () { pane.classList.remove("just-searched"); }, 500);
+  }
+
+  function flashFiltersUpdated() {
+    var bar = el.active;
+    if (!bar || !bar.childNodes.length) return;
+    bar.classList.remove("just-searched");
+    void bar.offsetWidth;
+    bar.classList.add("just-searched");
+    window.setTimeout(function () { bar.classList.remove("just-searched"); }, 1200);
+  }
+
   /* ---------- URL state -------------------------------------------------- */
 
   function writeUrl() {
@@ -2190,8 +2260,7 @@
     el.askForm.addEventListener("submit", function (e) {
       e.preventDefault();
       endTypingRun();
-      runAsk(el.ask.value.trim());
-      el.results.focus();
+      runSearchWithFeedback(el.ask.value.trim());
     });
 
     // Typing without hitting the button should still work, just calmly.

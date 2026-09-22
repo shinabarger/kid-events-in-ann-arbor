@@ -126,7 +126,7 @@ def test_spreading_woodchips_under_a_playground_is_not_a_playground_visit(events
     event = events["Playground Maintenance at Kilburn Park"]
     keep, why = kidfilter.verdict(event)
     assert keep is False
-    assert "volunteer" in why
+    assert "veto" in why  # dropped as grounds work, not kept for the word playground
 
 
 def test_a_kids_zone_staffed_by_volunteers_is_still_a_volunteer_shift(events):
@@ -155,3 +155,14 @@ def test_the_ages_come_out_of_the_parks_and_rec_phrasing(events):
     assert set(events["FREE Nature Play for Kids"].ages) >= {"baby", "toddler", "preschool"}
     assert (events["FREE Outdoor Story Time for Kids"].age_min,
             events["FREE Outdoor Story Time for Kids"].age_max) == (2, 5)
+
+
+def test_a_family_event_run_by_volunteers_still_gets_through(events):
+    """Trick or Treat on the River is a public event families paddle through,
+    posted with a volunteerhub signup because it also needs volunteers. The
+    signup link is not a reason to hide it from parents, so it stays on the
+    calendar while the Kid's Zone volunteer shift and the workdays do not."""
+    assert kidfilter.verdict(events["Trick or Treat on the River"])[0] is True
+    surviving = kept(events)
+    assert "Trick or Treat on the River" in surviving
+    assert not any("Volunteers" in t for t in surviving)

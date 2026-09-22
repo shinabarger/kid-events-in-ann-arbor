@@ -67,9 +67,13 @@ SOFT_VETO = [
 # "Kids Eat Free at the Brewery" is not what somebody with a toddler is after
 # and "Kid's Zone Volunteers" is a shift, not an outing.
 VETO = [
-    # Volunteer and stewardship work. The city files these on the same
-    # calendar as its family programming, and they are the bulk of it.
-    r"\bvolunteers?\b", r"\bworkday\b", r"\bstewardship\b", r"\bwork ?party\b",
+    # Stewardship and grounds work. The city files these on the same calendar
+    # as its family programming, and they are the bulk of it. The bare word
+    # "volunteer" is deliberately not here: a public family event like Trick or
+    # Treat on the River is run by volunteers and says so in its body, so it is
+    # judged only in the title (see TITLE_VETO_RE), while the work words here
+    # still catch the actual labor.
+    r"\bworkday\b", r"\bstewardship\b", r"\bwork ?party\b",
     r"\binvasive\b", r"\bshrub cutting\b", r"\blitter cleanup\b",
     r"\briver cleanup\b", r"\badopt[- ]a[- ]park\b", r"\blove a park\b",
     r"\bmaintenance\b", r"\btrail work\b", r"\bgardening at\b",
@@ -118,9 +122,13 @@ SOFT_VETO_RE = [re.compile(p, re.I) for p in SOFT_VETO]
 
 # Checked against the title only. "For children 2-5 years of age and an adult"
 # means a grown-up has to come with them, which is the opposite of an adults
-# only event, so this word can never be judged from the description.
+# only event, so these words can never be judged from the description. The same
+# goes for "volunteers": a title that recruits volunteers is a staffing shift
+# ("Green Fair Kid's Zone Volunteers"), but a family event merely run by
+# volunteers only says so in its body, so that word stays out of the copy veto.
 TITLE_VETO_RE = [re.compile(p, re.I) for p in (
     r"\badults?\b", r"\bgrown[- ]ups?\b", r"\bseniors?\b", r"\b55\+",
+    r"\bvolunteers?\b",
     r"\bmeeting\b", r"\bwebinar\b", r"\bopen house\b", r"\bforum\b",
     r"\bauthor event\b",
 )]
@@ -164,12 +172,6 @@ def verdict(event) -> tuple:
     text = blob(event)
     venue = str(getattr(event, "venue", "") or "")
 
-    # Signing up to spread woodchips at a playground is a different activity
-    # from taking a four year old to the playground, and only one of them has
-    # a "Choose Your Shift" section.
-    if getattr(event, "volunteer", False):
-        return False, "volunteer signup, not an outing"
-
     title = str(getattr(event, "title", "") or "")
     titled = next((p.pattern for p in TITLE_VETO_RE if p.search(title)), None)
     if titled:
@@ -190,6 +192,13 @@ def verdict(event) -> tuple:
     strong = next((p.pattern for p in STRONG_RE if p.search(text)), None)
     if strong:
         return True, f"kid programming: {strong}"
+
+    # No stated age and no kid programming. A volunteer signup here (a
+    # volunteerhub link the work words above did not already catch) is a shift,
+    # not an outing. A real children's event with a signup link has already been
+    # kept by the age or strong checks, link and all.
+    if getattr(event, "volunteer", False):
+        return False, "volunteer signup with no kid signal"
 
     soft = next((p.pattern for p in SOFT_VETO_RE if p.search(text)), None)
     if soft:
