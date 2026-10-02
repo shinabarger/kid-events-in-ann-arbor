@@ -9,138 +9,8 @@ X-WR-TIMEZONE:America/Detroit
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:7ee24e968e338652@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
-DTSTART:20261001T130000Z
-DTEND:20261001T130000Z
-SUMMARY:Ann Arbor District Library Storytimes
-LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
-GEO:42.27087;-83.72633
-DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
- brary\, where songs\, stories\, and activities spark a love of reading an
- d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
- I\, 48104\nAges: Ann Arbor District Library offers storytimes at various 
- branches\, using songs\, stories\, and activities to foster early literac
- y and a love of reading for families.\nCost: Free\nSignup: Drop in\, no s
- ignup needed\nListed by: Ann Arbor Family\nDetails: https://annarborfamil
- y.com/Calendar/#!/event/18068175\nFound on: https://kideventsinannarbor.c
- om/?event=7ee24e968e338652\n\nDouble check the time with the organizer be
- fore you go.
-URL:https://annarborfamily.com/Calendar/#!/event/18068175
-END:VEVENT
-BEGIN:VEVENT
-UID:5943e0be7385f1c7@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
-DTSTART:20261001T150000Z
-DTEND:20261001T220000Z
-SUMMARY:Country Fair: Wiard’s Orchards
-LOCATION:Ann Arbor\, MI
-DESCRIPTION:Every Wed.–Sun. A carnival atmosphere with a variety of family
- -oriented fall activities on this family farm\, including wagon rides\, a
-  petting farm\, a corn maze\, and more. For an extra charge on Sat.\n\nCo
- st: $27.50\nSignup: Drop in\, no signup needed\nListed by: Ann Arbor Obse
- rver Kids Calendar\nDetails: https://annarborobserver.com/event/country-f
- air-wiards-orchards-2/2026-10-01/\nFound on: https://kideventsinannarbor.
- com/?event=5943e0be7385f1c7\n\nDouble check the time with the organizer b
- efore you go.
-URL:https://annarborobserver.com/event/country-fair-wiards-orchards-2/2026
- -10-01/
-CATEGORIES:Observer Editor
-END:VEVENT
-BEGIN:VEVENT
-UID:90e480bf4ce7770c@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
-DTSTART:20261001T180000Z
-DTEND:20261001T220000Z
-SUMMARY:Pittsfield Township Farmers Market
-LOCATION:Pittsfield Charter Township Administration Building\, Pittsfield 
- Charter Township Administration Building\, 6201 W. Michigan Ave\, Ann Arb
- or\, MI\, 48108\, Pittsfield\, United States
-GEO:42.19763529999999;-83.70159590000003
-DESCRIPTION:Support your local farmer\, food producer\, and maker by shopp
- ing at the Pittsfield Township Farmers Market! Bridge Cards and Double Up
-  Food Bucks accepted. See you at the Market! Walk\, park or ride (AAATA\,
-  route 67) to get to the Farmers Market. Free parking available.\n\nWhere
- : Pittsfield Charter Township Administration Building\, 6201 W. Michigan 
- Ave\, Ann Arbor\, MI\, 48108\, Pittsfield\, United States\nDrive: about 1
- 9 minutes from downtown Ann Arbor\nAges: Babies\, Elementary\, HighSchool
- ers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop
-  in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann 
- Arbor with Kids\nDetails: https://annarborwithkids.com/events/farmers-mar
- ket-2-2026-10-01/\nFound on: https://kideventsinannarbor.com/?event=90e48
- 0bf4ce7770c\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/farmers-market-2-2026-10-01/
-CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:eb64e3791dc6e39d@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
-DTSTART:20261001T190000Z
-DTEND:20261002T000000Z
-SUMMARY:Mom to Mom Fall Sale
-LOCATION:Lucas County Fairgrounds\, 1406 Key St.\, Maumee\, OH\, 43537
-GEO:41.58079;-83.644304
-DESCRIPTION:Outfitting Littles is Toledo’s best kids’ and baby consignment
-  pop up sale! Outfitting Littles is a highly anticipated event. We offer 
- families the opportunity to shop for gently used\, high-quality clothing\
- , toys\, and gear at unbeatable prices.\n\nWhere: 1406 Key St.\, Maumee\,
-  OH\, 43537\nDrive: about 14 minutes from downtown Ann Arbor\nAges: Consi
- gnment pop-up sale for gently used kids' clothing\, toys\, and baby gear\
- , offering budget-friendly shopping.\nCost: Not listed\nSignup: Drop in\,
-  no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor
-  Family\nDetails: https://annarborfamily.com/Calendar/#!/event/19875409\n
- Found on: https://kideventsinannarbor.com/?event=eb64e3791dc6e39d\n\nDoub
- le check the time with the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/19875409
-END:VEVENT
-BEGIN:VEVENT
-UID:e4bdeeb404f49c25@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
-DTSTART:20261001T213000Z
-DTEND:20261002T010000Z
-SUMMARY:Manchester Homecoming Parade\, Powder Puff\, Pandemonium
-LOCATION:Downtown Manchester\, Downtown Manchester\, Main Street\, Manches
- ter\, Michigan\, 48158\, Manchester\, United States
-GEO:42.1524845;-84.03259609999998
-DESCRIPTION:Celebrate Manchester's 2026 homecoming with a full evening of 
- traditions. Parade lineup starts at 5:30p at Emmanuel Church (but they do
- n't say when the parade starts). The Powder Puff Playoffs is at the athle
- tic complex at 7:30p.\n\nWhere: Downtown Manchester\, Main Street\, Manch
- ester\, Michigan\, 48158\, Manchester\, United States\nDrive: about 34 mi
- nutes from downtown Ann Arbor\nAges: Elementary\, HighSchoolers\, MiddleS
- choolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\, no signu
- p needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor with Kid
- s\nDetails: https://annarborwithkids.com/events/manchester-homecoming-par
- ade/\nFound on: https://kideventsinannarbor.com/?event=e4bdeeb404f49c25\n
- \nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/manchester-homecoming-parade/
-CATEGORIES:Elementary\,Food\,Free\,HighSchoolers\,Homecoming\,MiddleSchool
- ers
-END:VEVENT
-BEGIN:VEVENT
-UID:25ddb1de0ea842ab@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
-DTSTART:20261001T220000Z
-DTEND:20261001T220000Z
-SUMMARY:Totally Awesome Fest XXII
-LOCATION:Riverside Park\, 5 E. Cross\, Ypsilanti\, MI\, 48197
-GEO:42.2459694743;-83.6111933738
-DESCRIPTION:TOTALLY AWESOME FEST XXII SEPT 30-OCT 3 FREE\, ALL AGES\, ALL 
- SPECIES ALL MUSIC GENRES\, WORKSHOPS\, THEATER\, DIY IN COLLABORATION WIT
- H BREAD & PUPPET\, FREAK FEST\, PUPPET PARADE\, + MORE MORE INFO TBA\n\nW
- here: 5 E. Cross\, Ypsilanti\, MI\, 48197\nDrive: about 15 minutes from d
- owntown Ann Arbor\nAges: A free\, all-ages\, multi-day festival featuring
-  music across genres\, workshops\, theater\, DIY performance\, and puppet
- ry in collaboration with local arts groups.\nCost: Free\nSignup: Drop in\
- , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
- r Family\nDetails: https://annarborfamily.com/Calendar/#!/event/20034398\
- nFound on: https://kideventsinannarbor.com/?event=25ddb1de0ea842ab\n\nDou
- ble check the time with the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/20034398
-END:VEVENT
-BEGIN:VEVENT
 UID:e3b482f5d91906d9@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261002T130000Z
 DTEND:20261002T130000Z
 SUMMARY:Ann Arbor District Library Storytimes
@@ -160,7 +30,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:2afc0db0d00b4c93@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261002T130000Z
 DTEND:20261002T230000Z
 SUMMARY:Mom to Mom Fall Sale
@@ -181,7 +51,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/19875409
 END:VEVENT
 BEGIN:VEVENT
 UID:93e23d3cc61da3b0@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261002T150000Z
 DTEND:20261002T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -200,7 +70,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:b8ab711659439fd5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261002T160000Z
 DTEND:20261002T163000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -222,7 +92,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:f65a01635b5d8d5b@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261002T190000Z
 DTEND:20261002T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -249,8 +119,31 @@ URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-05-2
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
+UID:fe05990addfc465e@kid-events-in-ann-arbor
+DTSTAMP:20261002T111054Z
+DTSTART:20261002T200000Z
+DTEND:20261002T230000Z
+SUMMARY:Pumpkins on the Patio
+LOCATION:Maiz Mexican Cantina\, Maiz Mexican Cantina\, 36 East Cross St\, 
+ Ypsilanti\, Michigan\, 48197\, United States
+GEO:42.245752;-83.609773
+DESCRIPTION:Join Maiz and SCRAP for the Pumpkins on the Patio during Pleas
+ e leave your pumpkin carving tools at home\, as this is an all ages event
+  & they want to keep everyone safe!\n\nWhere: Maiz Mexican Cantina\, 36 E
+ ast Cross St\, Ypsilanti\, Michigan\, 48197\, United States\nDrive: about
+  23 minutes from downtown Ann Arbor\nAges: Elementary\, High Schoolers\, 
+ MiddleSchoolers\, Preschoolers\nCost: $6\nSignup: Registration required\,
+  book before you go\nOutdoors\, dress for the weather\nListed by: Ann Arb
+ or with Kids\nDetails: https://annarborwithkids.com/events/pumpkins-on-th
+ e-patio/\nFound on: https://kideventsinannarbor.com/?event=fe05990addfc46
+ 5e\n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/pumpkins-on-the-patio/
+CATEGORIES:Advance Registration\,Crafts\,Elementary\,Halloween\,High Schoo
+ lers\,MiddleSchoolers
+END:VEVENT
+BEGIN:VEVENT
 UID:e1c4f5b946fdc1de@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261002T210000Z
 DTEND:20261003T010000Z
 SUMMARY:Blast Corn Maze: Nixon Farms
@@ -270,7 +163,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:62b402cb1207df04@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261002T210000Z
 DTEND:20261002T230000Z
 SUMMARY:First Fridays: FrankenToys
@@ -296,7 +189,7 @@ CATEGORIES:Crafts\,Elementary\,Free\,Halloween\,HighSchoolers\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f683ddd7b6fe1b@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261002T210000Z
 DTEND:20261002T223000Z
 SUMMARY:Lincoln Homecoming Parade
@@ -321,7 +214,7 @@ CATEGORIES:Elementary\,Free\,HighSchoolers\,Homecoming\,MiddleSchoolers\,O
 END:VEVENT
 BEGIN:VEVENT
 UID:d0255f7f9e912c02@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261002T220000Z
 DTEND:20261002T233000Z
 SUMMARY:Drop-In Line Dancing
@@ -339,7 +232,7 @@ CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
 UID:db2d87041396f582@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261002T231500Z
 DTEND:20261003T033000Z
 SUMMARY:“Night Terrors”: Wiard’s Orchards
@@ -359,7 +252,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:e91b39e1461e11b6@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T040000Z
 DTEND:20261003T040000Z
 SUMMARY:Autumn River Roundup 2026
@@ -381,7 +274,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/19029275
 END:VEVENT
 BEGIN:VEVENT
 UID:f7f946d60eb3600e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T110000Z
 DTEND:20261003T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -410,7 +303,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:1f667aa8a31404ef@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T120000Z
 DTEND:20261003T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -439,7 +332,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:3d290d8197901999@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T120000Z
 DTEND:20261003T170000Z
 SUMMARY:Dexter Farmers Market
@@ -463,7 +356,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:7ce644ae956a118a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T120000Z
 DTEND:20261003T160000Z
 SUMMARY:Saline Famers Market
@@ -491,7 +384,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:88d5ead95e22d166@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T130000Z
 DTEND:20261003T200000Z
 SUMMARY:Annual Indian Art & Frontier Antique Show: Frontier Antique Collec
@@ -512,7 +405,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:e9df5b4158cee23b@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T130000Z
 DTEND:20261003T210000Z
 SUMMARY:Fiber Expo
@@ -530,7 +423,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0150712b7974e9@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T130000Z
 DTEND:20261003T190000Z
 SUMMARY:Mom to Mom Fall Sale
@@ -551,7 +444,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/19875409
 END:VEVENT
 BEGIN:VEVENT
 UID:a9350fcbc987f3af@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T130000Z
 DTEND:20261003T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -575,7 +468,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:55721af3488716be@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T130000Z
 DTEND:20261003T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -602,7 +495,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:d23fa010828d3c07@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T133000Z
 DTEND:20261003T153000Z
 SUMMARY:25th Birthday Fall Festival
@@ -619,8 +512,32 @@ DESCRIPTION:All kids invited to ride their stroller\, scooter\, trike\, or
 CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
+UID:351a5c616bed0edc@kid-events-in-ann-arbor
+DTSTAMP:20261002T111054Z
+DTSTART:20261003T133000Z
+DTEND:20261003T153000Z
+SUMMARY:First Steps Fall Festival 25th Birthday Party
+LOCATION:Westerman Preschool & Family Center\, 2775 Boardwalk Dr\, Ann Arb
+ or\, MI\, 48104
+GEO:42.247525;-83.734053
+DESCRIPTION:**First Steps Fall Festival 25th Birthday Party is a First Ste
+ ps PTO sponsored family event to raise scholarship funds for First Steps.
+  The event is FREE - donations are appreciated.** The **2026 First Steps 
+ Fall Festival Birthday Party\\*** is fun for the whole family.\n\nWhere: 
+ 2775 Boardwalk Dr\, Ann Arbor\, MI\, 48104\nAges: A free family festival 
+ celebrating 25 years of First Steps\, with bike rides\, activities\, comm
+ unity partners\, and cake.\nCost: Free\nSignup: Drop in\, no signup neede
+ d\nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\nDetails
+ : https://annarborfamily.com/Calendar/#!/event/20060624\nFound on: https:
+ //kideventsinannarbor.com/?event=351a5c616bed0edc\n\nDouble check the tim
+ e with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/20060624
+CATEGORIES:Babies\,Bicycles\,CharitableEvent\,Display Image\,Food\,Prescho
+ olers
+END:VEVENT
+BEGIN:VEVENT
 UID:fc8854403d9c2dff@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T133000Z
 DTEND:20261003T150000Z
 SUMMARY:Pawtober
@@ -645,7 +562,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,Halloween\,H
 END:VEVENT
 BEGIN:VEVENT
 UID:8da8925ccbd8c1bf@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T140000Z
 DTEND:20261003T220000Z
 SUMMARY:3rd Annual Fairly Odd Finds Festival: Goblins n Ghouls
@@ -669,7 +586,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:fc8194dbb62a4f8c@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T140000Z
 DTEND:20261003T200000Z
 SUMMARY:Autumn Days at the Petting Farm - Harvest Kickoff
@@ -693,7 +610,7 @@ CATEGORIES:Animals\,Crafts\,Elementary\,FallFun\,Food\,High Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:2637b2d507517d78@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T140000Z
 DTEND:20261003T200000Z
 SUMMARY:Autumn Days: Harvest Kickoff
@@ -714,7 +631,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20024464
 END:VEVENT
 BEGIN:VEVENT
 UID:99bdcb2b8a87bd4e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T140000Z
 DTEND:20261003T160000Z
 SUMMARY:Critter Investigators: Foxes
@@ -738,7 +655,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,Gardening\,H
 END:VEVENT
 BEGIN:VEVENT
 UID:1bf5ed5cc3218c74@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T140000Z
 DTEND:20261003T170000Z
 SUMMARY:Quilting Bee at Parker Mill
@@ -756,7 +673,7 @@ DESCRIPTION:Gather around for stitches\, stories\, and shared handiwork wh
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe277c17bd5028a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T140000Z
 DTEND:20261003T150000Z
 SUMMARY:Tadpoles: Inside Your Outside
@@ -779,7 +696,7 @@ CATEGORIES:Advance Registration\,Crafts\,Frugal\,IndoorActivities\,Nature\
 END:VEVENT
 BEGIN:VEVENT
 UID:10ddd245a971b31a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T140000Z
 DTEND:20261003T210000Z
 SUMMARY:“Apple Daze”: Dexter Lions Club
@@ -798,7 +715,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:02b74c3b63cdda8c@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T140000Z
 DTEND:20261003T170000Z
 SUMMARY:“Quilting Bee”: Washtenaw County Parks & Recreation Commission
@@ -818,7 +735,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:475c8c661f60062a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T143000Z
 DTEND:20261003T150000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -840,7 +757,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:9ce3a88866e8aa28@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T150000Z
 DTEND:20261004T010000Z
 SUMMARY:Blast Corn Maze: Nixon Farms
@@ -860,7 +777,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:3d755d3dc22e82ac@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T150000Z
 DTEND:20261003T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -879,7 +796,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:20aed3a1e698b766@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T150000Z
 DTEND:20261003T160000Z
 SUMMARY:Grow Your Garden: End of Season
@@ -902,7 +819,7 @@ CATEGORIES:Elementary\,Environmental\,Food\,Free\,Gardening\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:6c673473c88fccd3@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T150000Z
 DTEND:20261003T190000Z
 SUMMARY:Horning Farms Fall Fest
@@ -925,7 +842,7 @@ CATEGORIES:Animals\,Elementary\,FallFun\,Free\,Middle Schoolers\,Nature
 END:VEVENT
 BEGIN:VEVENT
 UID:c6452ba0004b0f8b@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T150000Z
 DTEND:20261003T180000Z
 SUMMARY:Trek or Treat
@@ -951,7 +868,7 @@ CATEGORIES:Advance Registration\,Babies\,Elementary\,Frugal\,Halloween\,Mi
 END:VEVENT
 BEGIN:VEVENT
 UID:4dcc3107cd4d6bba@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T160000Z
 DTEND:20261003T180000Z
 SUMMARY:Bartlett 200
@@ -963,18 +880,18 @@ DESCRIPTION:Get ready to rev your engines! The Bartlett 200 returns to the
  vited to this family-friendly event featuring meet and greets with ARCA r
  ace car driver Brad Smith and stock car driver Doug Litogot\, plus plenty
  ...\n\nWhere: 46000 Summit Pkwy\, Canton\, MI\, 48188\nDrive: about 27 mi
- nutes from downtown Ann Arbor\nAges: Family-friendly racing event with dr
- iver meet-and-greets\, autograph chances\, and a pedal car race for kids 
- 7 and up.\nCost: Free\nSignup: Registration required\, book before you go
- \nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\nDetails:
-  https://annarborfamily.com/Calendar/#!/event/19964902\nFound on: https:/
- /kideventsinannarbor.com/?event=4dcc3107cd4d6bba\n\nDouble check the time
-  with the organizer before you go.
+ nutes from downtown Ann Arbor\nAges: A family-friendly racing event with 
+ meet-and-greets with pro drivers\, plus pedal car races for kids and food
+  available.\nCost: Free\nSignup: Registration required\, book before you 
+ go\nOutdoors\, dress for the weather\nListed by: Ann Arbor Family\nDetail
+ s: https://annarborfamily.com/Calendar/#!/event/19964902\nFound on: https
+ ://kideventsinannarbor.com/?event=4dcc3107cd4d6bba\n\nDouble check the ti
+ me with the organizer before you go.
 URL:https://annarborfamily.com/Calendar/#!/event/19964902
 END:VEVENT
 BEGIN:VEVENT
 UID:4d33ae84e3363687@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T160000Z
 DTEND:20261003T200000Z
 SUMMARY:MOO-nster Mash Fall Celebration
@@ -998,7 +915,7 @@ CATEGORIES:Advance Registration\,Animals\,Crafts\,Elementary\,Food\,Hallow
 END:VEVENT
 BEGIN:VEVENT
 UID:6f6e529deb958beb@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T160000Z
 DTEND:20261003T173000Z
 SUMMARY:Wild-n-Crafty: History of Jack-O-Lanterns
@@ -1023,7 +940,7 @@ CATEGORIES:Advance Registration\,Crafts\,Elementary\,Fall Fun\,Gardening\,
 END:VEVENT
 BEGIN:VEVENT
 UID:fe20230c212e4366@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T160000Z
 DTEND:20261003T200000Z
 SUMMARY:“MOOnster Mash”: Barn Sanctuary
@@ -1042,7 +959,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:fb24386512d3c484@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T170000Z
 DTEND:20261003T200000Z
 SUMMARY:Community Clothing & Costume Swap: Argus Farm Stop
@@ -1061,7 +978,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:f8ef31a2b7c17b70@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T190000Z
 DTEND:20261003T203000Z
 SUMMARY:Gemini
@@ -1078,7 +995,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:bdf60e6e2ddb2edc@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T210000Z
 DTEND:20261004T003000Z
 SUMMARY:Haunted Chelsea
@@ -1101,7 +1018,7 @@ CATEGORIES:Advance Registration\,Halloween\,HighSchoolers\,Outdoor\,Regist
 END:VEVENT
 BEGIN:VEVENT
 UID:25d95106caf1c5da@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261003T231500Z
 DTEND:20261004T033000Z
 SUMMARY:“Night Terrors”: Wiard’s Orchards
@@ -1121,7 +1038,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:34a724e5b35d706b@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T120000Z
 DTEND:20261004T180000Z
 SUMMARY:Ann Arbor Marathon
@@ -1145,7 +1062,7 @@ CATEGORIES:Advance Registration\,Elementary\,Fitness/Health\,High Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:041ac63663213a12@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T140000Z
 DTEND:20261004T200000Z
 SUMMARY:Autumn Days at the Petting Farm - Harvest Kickoff
@@ -1170,7 +1087,7 @@ CATEGORIES:Animals\,Crafts\,Elementary\,FallFun\,Food\,High Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a552a87f82513bff@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T140000Z
 DTEND:20261004T200000Z
 SUMMARY:Autumn Days: Harvest Kickoff
@@ -1191,7 +1108,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20024464
 END:VEVENT
 BEGIN:VEVENT
 UID:9f3e66f50165ab23@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T140000Z
 DTEND:20261004T200000Z
 SUMMARY:Fiber Expo
@@ -1209,7 +1126,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:1504c0120bd13408@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T140000Z
 DTEND:20261004T200000Z
 SUMMARY:Wicked Pickin' by The Vintage Market
@@ -1232,7 +1149,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/19875771
 END:VEVENT
 BEGIN:VEVENT
 UID:6501fc8260af7008@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T150000Z
 DTEND:20261004T230000Z
 SUMMARY:Blast Corn Maze: Nixon Farms
@@ -1252,7 +1169,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:f8d031f04b3c1c89@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T150000Z
 DTEND:20261004T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -1271,7 +1188,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:a678ab868f4242fc@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T160000Z
 DTEND:20261004T210000Z
 SUMMARY:Climate Week: Refugia Festival
@@ -1295,7 +1212,7 @@ CATEGORIES:CommunityResources\,Elementary\,Environmental\,High Schoolers\,
 END:VEVENT
 BEGIN:VEVENT
 UID:fe31470129dc894b@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T160000Z
 DTEND:20261004T190000Z
 SUMMARY:Scio Township Sustainability Fair
@@ -1318,7 +1235,7 @@ CATEGORIES:Elementary\,Environmental\,Free\,High Schoolers\,MiddleSchooler
 END:VEVENT
 BEGIN:VEVENT
 UID:c56b3589be8bf0ed@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T160000Z
 DTEND:20261004T193000Z
 SUMMARY:Sustainability Fair: Scio Township
@@ -1337,7 +1254,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:e635784d5f48e41f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T160000Z
 DTEND:20261004T190000Z
 SUMMARY:“Harvest Time at the Farm”: Saline Area Historical Society
@@ -1357,7 +1274,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:e6a3d78e5da7d848@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T160000Z
 DTEND:20261004T220000Z
 SUMMARY:“Refugia Festival”: U-M Matthaei Botanical Gardens/Nichols Arboret
@@ -1381,7 +1298,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:090dc0ae4ee27029@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T180000Z
 DTEND:20261004T193000Z
 SUMMARY:Wild Rehab
@@ -1405,7 +1322,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:a69c0a52224a3202@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T200000Z
 DTEND:20261004T220000Z
 SUMMARY:Panda Camp Fall Fest & Trunk or Treat
@@ -1428,7 +1345,7 @@ CATEGORIES:CharitableEvent\,Elementary\,Fitness/Health\,Food\,Free\,Outdoo
 END:VEVENT
 BEGIN:VEVENT
 UID:ad318a4b86a99b3a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261004T231500Z
 DTEND:20261005T033000Z
 SUMMARY:“Night Terrors”: Wiard’s Orchards
@@ -1448,7 +1365,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:f667dbc9074c4596@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261005T130000Z
 DTEND:20261005T130000Z
 SUMMARY:Ann Arbor District Library Storytimes
@@ -1468,7 +1385,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:573482871d6e97e2@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261006T130000Z
 DTEND:20261006T130000Z
 SUMMARY:Ann Arbor District Library Storytimes
@@ -1488,7 +1405,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:56a4eb71d4018077@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261006T143000Z
 DTEND:20261006T153000Z
 SUMMARY:Nature Storytime: Ducks
@@ -1512,7 +1429,7 @@ CATEGORIES:Advance Registration\,Crafts\,Free\,Nature\,Outdoor\,Preschoole
 END:VEVENT
 BEGIN:VEVENT
 UID:2aec65488f86a776@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261006T223000Z
 DTEND:20261007T003000Z
 SUMMARY:Hands-On Mozzarella Making
@@ -1533,7 +1450,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/18902183
 END:VEVENT
 BEGIN:VEVENT
 UID:a1a8be74bb0c11cc@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261007T110000Z
 DTEND:20261007T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -1561,8 +1478,28 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
  eSchoolers
 END:VEVENT
 BEGIN:VEVENT
+UID:6788d9060c2a1d71@kid-events-in-ann-arbor
+DTSTAMP:20261002T111054Z
+DTSTART:20261007T130000Z
+DTEND:20261007T130000Z
+SUMMARY:Ann Arbor District Library Storytimes
+LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
+GEO:42.27087;-83.72633
+DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
+ brary\, where songs\, stories\, and activities spark a love of reading an
+ d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
+ I\, 48104\nAges: Ann Arbor District Library offers storytimes at various 
+ branches\, using songs\, stories\, and activities to foster early literac
+ y and a love of reading for families.\nCost: Free\nSignup: Drop in\, no s
+ ignup needed\nListed by: Ann Arbor Family\nDetails: https://annarborfamil
+ y.com/Calendar/#!/event/18068175\nFound on: https://kideventsinannarbor.c
+ om/?event=6788d9060c2a1d71\n\nDouble check the time with the organizer be
+ fore you go.
+URL:https://annarborfamily.com/Calendar/#!/event/18068175
+END:VEVENT
+BEGIN:VEVENT
 UID:f0141d1fecebb604@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261007T130000Z
 DTEND:20261007T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -1587,7 +1524,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:45bda4ea073a9a68@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261007T140000Z
 DTEND:20261007T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -1616,7 +1553,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:7e07078096dcedd3@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261007T143000Z
 DTEND:20261007T153000Z
 SUMMARY:Nature Play
@@ -1637,8 +1574,30 @@ URL:https://annarborwithkids.com/events/nature-play-3-2026-10-07/
 CATEGORIES:Advance Registration\,Babies\,Free\,Nature\,Outdoor\,Playgroup
 END:VEVENT
 BEGIN:VEVENT
+UID:0a81ef0aae4a2969@kid-events-in-ann-arbor
+DTSTAMP:20261002T111054Z
+DTSTART:20261007T150000Z
+DTEND:20261007T163000Z
+SUMMARY:A2ZERO Eats! Guided Tour: Farmers Market Skills Tour
+LOCATION:Ann Arbor\, MI
+GEO:42.27087;-83.72633
+DESCRIPTION:Wednesday\, October 7\, 2026\, 11am - 12:30pm Join us for a to
+ ur of the Ann Arbor Farmers Market! Learn about the history\, get tips fo
+ r smart shopping\, and connect with local farmers.\n\nWhere: Ann Arbor\, 
+ MI\nAges: A guided farmers market tour sharing Ann Arbor history\, smart 
+ shopping tips\, and nutrition incentive programs like Double Up Food Buck
+ s\, plus direct connections with local farms.\nCost: Free\nSignup: Drop i
+ n\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Ar
+ bor Family\nDetails: https://annarborfamily.com/Calendar/#!/event/1995627
+ 8\nFound on: https://kideventsinannarbor.com/?event=0a81ef0aae4a2969\n\nD
+ ouble check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19956278
+CATEGORIES:Babies\,Elementary\,Food\,IndoorActivities\,Preschoolers\,Toddl
+ er
+END:VEVENT
+BEGIN:VEVENT
 UID:35f83fe55c9a78cf@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261007T150000Z
 DTEND:20261007T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -1657,7 +1616,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:971e3ccbd81d6a63@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261007T160000Z
 DTEND:20261007T163000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -1678,29 +1637,8 @@ URL:https://annarborobserver.com/event/chime-concert-kerrytown-market-shop
 CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
-UID:447a5c4caf879bb0@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
-DTSTART:20261007T190000Z
-DTEND:20261007T210000Z
-SUMMARY:“Bastard”: Purple Rose Theatre Company
-LOCATION:Ann Arbor\, MI
-DESCRIPTION:Every Wed.–Sun.\, Sept. 24–Dec. 20. Rhiannon Ragland directs r
- etired Detroit newscaster and playwright Devin Scillian’s family comedy-d
- rama about a conflict between brothers—an aging country rocker and a butt
- oned-down finance guy—after their mother’s death.\n\nAges: Babies\, Eleme
- ntary\, Preschoolers\, Toddler\nCost: $31.50\nSignup: Drop in\, no signup
-  needed\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://an
- narborobserver.com/event/bastard-purple-rose-theatre-company-2/2026-10-07
- /\nFound on: https://kideventsinannarbor.com/?event=447a5c4caf879bb0\n\nD
- ouble check the time with the organizer before you go.
-URL:https://annarborobserver.com/event/bastard-purple-rose-theatre-company
- -2/2026-10-07/
-CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
- eschoolers
-END:VEVENT
-BEGIN:VEVENT
 UID:2523952c5e7e581b@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261007T210000Z
 DTEND:20261007T223000Z
 SUMMARY:Wonder Walk: Bird Migration Behavior and Climate Change
@@ -1724,7 +1662,7 @@ CATEGORIES:Animals\,Elementary\,Environmental\,FallFun\,Free\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:9c8e6bdf7df19ff5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261007T220000Z
 DTEND:20261007T230000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -1743,7 +1681,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:971326cf93d0f62f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261007T220000Z
 DTEND:20261008T000000Z
 SUMMARY:Glow Show
@@ -1765,7 +1703,7 @@ CATEGORIES:Elementary\,Free\,High Schoolers\,MiddleSchoolers\,Music/Concer
 END:VEVENT
 BEGIN:VEVENT
 UID:9c8e6bdf7df19ff5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261007T230000Z
 DTEND:20261008T000000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -1784,7 +1722,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:9c8e6bdf7df19ff5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261008T000000Z
 DTEND:20261008T010000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -1803,7 +1741,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:9c8e6bdf7df19ff5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261008T010000Z
 DTEND:20261008T020000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -1822,7 +1760,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:9c8e6bdf7df19ff5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261008T020000Z
 DTEND:20261008T030000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -1841,7 +1779,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2cdbff1db9073f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261008T140000Z
 DTEND:20261008T150000Z
 SUMMARY:Fun on the Farm
@@ -1858,16 +1796,16 @@ DESCRIPTION:Fun on the Farm is an outdoor children’s series that focuses o
  ok before you go\nOutdoors\, dress for the weather\nListed by: Ann Arbor 
  with Kids\nDetails: https://annarborwithkids.com/events/fun-on-the-farm-2
  026-07-09-2026-07-23-2026-08-06-2026-08-20-2026-09-03-2026-09-17-2026-10-
- 01-2/\nFound on: https://kideventsinannarbor.com/?event=2e2cdbff1db9073f\
- n\nDouble check the time with the organizer before you go.
+ 01/\nFound on: https://kideventsinannarbor.com/?event=2e2cdbff1db9073f\n\
+ nDouble check the time with the organizer before you go.
 URL:https://annarborwithkids.com/events/fun-on-the-farm-2026-07-09-2026-07
- -23-2026-08-06-2026-08-20-2026-09-03-2026-09-17-2026-10-01-2/
+ -23-2026-08-06-2026-08-20-2026-09-03-2026-09-17-2026-10-01/
 CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,Nature\,Pres
  choolers
 END:VEVENT
 BEGIN:VEVENT
 UID:2f349622ec109f0a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261008T140000Z
 DTEND:20261008T143000Z
 SUMMARY:Preschool Fire Truck Visit
@@ -1889,7 +1827,7 @@ CATEGORIES:Free\,Outdoor\,Preschoolers\,PublicSafety\,Toddler\,Vehicles
 END:VEVENT
 BEGIN:VEVENT
 UID:c6e2216739a94709@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261008T150000Z
 DTEND:20261008T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -1908,7 +1846,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:3612bd600be42551@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261008T180000Z
 DTEND:20261008T220000Z
 SUMMARY:Pittsfield Township Farmers Market
@@ -1933,7 +1871,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:fb6373c14cc7b613@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261008T210000Z
 DTEND:20261008T220000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -1954,7 +1892,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:fb6373c14cc7b613@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261008T230000Z
 DTEND:20261009T000000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -1975,7 +1913,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:fb6373c14cc7b613@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T000000Z
 DTEND:20261009T010000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -1996,7 +1934,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:fb6373c14cc7b613@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T010000Z
 DTEND:20261009T020000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2017,7 +1955,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:fb6373c14cc7b613@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T020000Z
 DTEND:20261009T030000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2038,7 +1976,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:907ab7cc00d05e1f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T150000Z
 DTEND:20261009T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -2057,7 +1995,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:844010fccb2c260d@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T160000Z
 DTEND:20261009T163000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -2079,7 +2017,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:212ca2de682e20de@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T170000Z
 DTEND:20261009T190000Z
 SUMMARY:Make + Believe Fairy Houses
@@ -2101,7 +2039,7 @@ CATEGORIES:Advance Registration\,Crafts\,Elementary\,Fairy\,Frugal\,Nature
 END:VEVENT
 BEGIN:VEVENT
 UID:547fca1e11ab0510@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T190000Z
 DTEND:20261009T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -2129,7 +2067,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:2e86058d8b923e14@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T210000Z
 DTEND:20261010T010000Z
 SUMMARY:Blast Corn Maze: Nixon Farms
@@ -2149,7 +2087,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:899fe7cfea8d580e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T220000Z
 DTEND:20261009T230000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2171,7 +2109,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:899fe7cfea8d580e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T230000Z
 DTEND:20261010T000000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2193,7 +2131,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:a8ecbb36c6e82e6d@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T230000Z
 DTEND:20261010T011500Z
 SUMMARY:Owl Prowl
@@ -2217,7 +2155,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Fall Fun\,High Schoo
 END:VEVENT
 BEGIN:VEVENT
 UID:3b0db6c354c8b928@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T230000Z
 DTEND:20261010T003000Z
 SUMMARY:“New Moon Hike”: Leslie Science & Nature Center
@@ -2239,7 +2177,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:f4904ece9b785351@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261009T231500Z
 DTEND:20261010T033000Z
 SUMMARY:“Night Terrors”: Wiard’s Orchards
@@ -2259,7 +2197,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:899fe7cfea8d580e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T000000Z
 DTEND:20261010T010000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2281,7 +2219,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:899fe7cfea8d580e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T010000Z
 DTEND:20261010T020000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2303,7 +2241,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:899fe7cfea8d580e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T020000Z
 DTEND:20261010T030000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2325,7 +2263,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:e6d54323ea04765d@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T070000Z
 DTEND:20261010T070000Z
 SUMMARY:Tie-Dye with Dawn Henry
@@ -2340,7 +2278,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:15697c8e2782b0a2@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T110000Z
 DTEND:20261010T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -2369,7 +2307,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:2948a696e874312c@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T120000Z
 DTEND:20261010T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -2398,7 +2336,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:03356e0cbc9a9a90@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T120000Z
 DTEND:20261010T170000Z
 SUMMARY:Dexter Farmers Market
@@ -2422,7 +2360,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:6a35259e2351b7d0@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T120000Z
 DTEND:20261010T160000Z
 SUMMARY:Saline Famers Market
@@ -2450,7 +2388,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:57bcaa9a6f8b10bf@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T130000Z
 DTEND:20261010T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -2474,7 +2412,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:61d3e6daf2bf571b@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T130000Z
 DTEND:20261010T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -2501,7 +2439,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:1ae51b6a4ff70702@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T140000Z
 DTEND:20261010T200000Z
 SUMMARY:Autumn Days at the Petting Farm - Animals & Hayrides
@@ -2526,7 +2464,7 @@ CATEGORIES:Animals\,Crafts\,Elementary\,FallFun\,Food\,High Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:2cb6e81bc83a46b2@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T140000Z
 DTEND:20261010T210000Z
 SUMMARY:Great Fall Festival
@@ -2547,7 +2485,7 @@ CATEGORIES:Advance Registration\,Animals\,Crafts\,Elementary\,Fall Fun\,Fo
 END:VEVENT
 BEGIN:VEVENT
 UID:2316cd1cea0f99ad@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T140000Z
 DTEND:20261010T160000Z
 SUMMARY:The Art of Nature: Bat Studies
@@ -2571,7 +2509,7 @@ CATEGORIES:Advance Registration\,Animals\,Art\,Crafts\,High Schoolers\,Hik
 END:VEVENT
 BEGIN:VEVENT
 UID:b238622dbc897dab@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T143000Z
 DTEND:20261010T150000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -2593,7 +2531,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:4a2078e9f84a4893@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T150000Z
 DTEND:20261011T010000Z
 SUMMARY:Blast Corn Maze: Nixon Farms
@@ -2613,7 +2551,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:a8bdd6f746273ad6@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T150000Z
 DTEND:20261010T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -2632,7 +2570,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:328804a08ecc28cf@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T150000Z
 DTEND:20261010T200000Z
 SUMMARY:Fall Festival at County Farm Park
@@ -2650,7 +2588,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:9b81663e54923aea@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T160000Z
 DTEND:20261010T180000Z
 SUMMARY:Beaver Stroll
@@ -2674,7 +2612,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:a6376a1d76bf02aa@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T160000Z
 DTEND:20261010T200000Z
 SUMMARY:“Fall Fest”: SASHA Farm Fundraiser
@@ -2693,7 +2631,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:87cae8ea36b41058@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T180000Z
 DTEND:20261010T190000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2712,7 +2650,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:87cae8ea36b41058@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T190000Z
 DTEND:20261010T200000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2731,7 +2669,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:87cae8ea36b41058@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T200000Z
 DTEND:20261010T210000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2750,7 +2688,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:78628de5df7c8463@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T210000Z
 DTEND:20261011T003000Z
 SUMMARY:Haunted Chelsea
@@ -2772,7 +2710,7 @@ CATEGORIES:Advance Registration\,Halloween\,HighSchoolers\,Outdoor
 END:VEVENT
 BEGIN:VEVENT
 UID:5f7eab0e3c6484a1@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T220000Z
 DTEND:20261010T233000Z
 SUMMARY:Backwater Bonfire: Fall
@@ -2796,7 +2734,7 @@ CATEGORIES:Advance Registration\,FallFun\,Food\,Frugal\,High Schoolers\,Mi
 END:VEVENT
 BEGIN:VEVENT
 UID:17fd6db726a5aa30@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T220000Z
 DTEND:20261010T230000Z
 SUMMARY:Tie Dye with Dawn Henry
@@ -2819,7 +2757,7 @@ CATEGORIES:Crafts\,Elementary\,Free\,HighSchoolers\,Middle Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:5e3f68eb7c72867f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T231500Z
 DTEND:20261011T033000Z
 SUMMARY:“Night Terrors”: Wiard’s Orchards
@@ -2839,7 +2777,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:87cae8ea36b41058@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261010T233000Z
 DTEND:20261011T003000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2858,7 +2796,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:87cae8ea36b41058@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261011T003000Z
 DTEND:20261011T013000Z
 SUMMARY:30th Annual Edgefest: Kerrytown Concert House
@@ -2877,7 +2815,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:b8da1c40fc523bce@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261011T130000Z
 DTEND:20261011T143000Z
 SUMMARY:All-Girls Skate Instruction
@@ -2902,7 +2840,7 @@ CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:ce0a6a9877b9af1f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261011T150000Z
 DTEND:20261011T230000Z
 SUMMARY:Blast Corn Maze: Nixon Farms
@@ -2922,7 +2860,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:000843045f694592@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261011T150000Z
 DTEND:20261011T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -2941,7 +2879,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:c0df16cf7b0079f4@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261011T153000Z
 DTEND:20261011T210000Z
 SUMMARY:Trick or Treat on the River
@@ -2964,7 +2902,7 @@ CATEGORIES:Parks and Recreation\,Babies\,Elementary\,Food\,IndoorActivitie
 END:VEVENT
 BEGIN:VEVENT
 UID:7953ed950b59758a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261011T160000Z
 DTEND:20261011T200000Z
 SUMMARY:Trick or Treat on the River
@@ -2988,7 +2926,7 @@ CATEGORIES:Age Range\,Elementary\,FallFun\,Halloween\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:dd5cc6142b7ba461@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261011T180000Z
 DTEND:20261011T210000Z
 SUMMARY:“Walk a Mile in My Shoes”: Jewish Family Services
@@ -3008,7 +2946,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:b091eb95b1800cac@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261011T231500Z
 DTEND:20261012T033000Z
 SUMMARY:“Night Terrors”: Wiard’s Orchards
@@ -3028,7 +2966,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:633910378b00a72a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261013T143000Z
 DTEND:20261013T153000Z
 SUMMARY:Nature Storytime: Animal Tracks
@@ -3053,7 +2991,7 @@ CATEGORIES:Advance Registration\,Crafts\,Free\,Nature\,Outdoor\,Preschoole
 END:VEVENT
 BEGIN:VEVENT
 UID:f14929c6cbada81c@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261014T110000Z
 DTEND:20261014T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3082,7 +3020,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:8238fca074ccf528@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261014T130000Z
 DTEND:20261014T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -3107,7 +3045,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:571aa8d3085c2470@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261014T140000Z
 DTEND:20261014T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -3136,7 +3074,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:623f133b2e1b4c11@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261014T140000Z
 DTEND:20261014T150000Z
 SUMMARY:Preschool Pumpkin Hunt
@@ -3160,7 +3098,7 @@ CATEGORIES:Advance Registration\,Crafts\,FallFun\,Halloween\,Indoor Activi
 END:VEVENT
 BEGIN:VEVENT
 UID:a0515b4fdb93d820@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261014T143000Z
 DTEND:20261014T153000Z
 SUMMARY:Nature Play
@@ -3182,7 +3120,7 @@ CATEGORIES:Advance Registration\,Babies\,Free\,Nature\,Outdoor\,Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:df5b6b8541bdb6d2@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261014T150000Z
 DTEND:20261014T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -3201,7 +3139,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:aa4cc27c8c0a1269@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261014T160000Z
 DTEND:20261014T163000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -3222,30 +3160,29 @@ URL:https://annarborobserver.com/event/chime-concert-kerrytown-market-shop
 CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
-UID:1b183ada85bdda31@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
-DTSTART:20261014T233000Z
-DTEND:20261015T013000Z
-SUMMARY:“Come from Away”: U-M Musical Theatre Department
+UID:68f73291ac25d9e7@kid-events-in-ann-arbor
+DTSTAMP:20261002T111054Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:“Bastard”: Purple Rose Theatre Company
 LOCATION:Ann Arbor\, MI
-DESCRIPTION:Oct. 8–11 & 14–18. Vincent Cardinal directs musical theater st
- udents in Irene Sankoff & David Hein’s award-winning 2017 upbeat musical 
- set in the week following the September 11 attacks\, when 38 planes\, car
- rying thousands of people from around the world\, were diverted to the ti
- ny...\n\nAges: Babies\, Elementary\, Preschoolers\, Toddler\nCost: $34\nS
- ignup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Cal
- endar\nDetails: https://annarborobserver.com/event/come-from-away-u-m-mus
- ical-theatre-department/2026-10-14/\nFound on: https://kideventsinannarbo
- r.com/?event=1b183ada85bdda31\n\nDouble check the time with the organizer
-  before you go.
-URL:https://annarborobserver.com/event/come-from-away-u-m-musical-theatre-
- department/2026-10-14/
+DESCRIPTION:Every Wed.–Sun.\, Sept. 24–Dec. 20. Rhiannon Ragland directs r
+ etired Detroit newscaster and playwright Devin Scillian’s family comedy-d
+ rama about a conflict between brothers—an aging country rocker and a butt
+ oned-down finance guy—after their mother’s death.\n\nAges: Babies\, Eleme
+ ntary\, Preschoolers\, Toddler\nCost: $31.50\nSignup: Drop in\, no signup
+  needed\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://an
+ narborobserver.com/event/bastard-purple-rose-theatre-company-2/2026-10-14
+ /\nFound on: https://kideventsinannarbor.com/?event=68f73291ac25d9e7\n\nD
+ ouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/bastard-purple-rose-theatre-company
+ -2/2026-10-14/
 CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
  eschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:36a115f4f5a193e0@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261015T150000Z
 DTEND:20261015T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -3264,7 +3201,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:d45788c0b8e91277@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T090000Z
 DTEND:20261016T090000Z
 SUMMARY:Creatures of the Night
@@ -3282,7 +3219,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:8891bf9e4edd0f5a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T150000Z
 DTEND:20261016T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -3301,7 +3238,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:83bc51c629134cb0@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T160000Z
 DTEND:20261016T163000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -3323,7 +3260,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:7a76ac117061f8e2@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T190000Z
 DTEND:20261016T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -3351,7 +3288,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:b2afdc8d0ae51a1c@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T210000Z
 DTEND:20261017T010000Z
 SUMMARY:Blast Corn Maze: Nixon Farms
@@ -3371,7 +3308,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:7d1ada31576b646e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T210000Z
 DTEND:20261016T220000Z
 SUMMARY:Creatures of the Night
@@ -3394,7 +3331,7 @@ CATEGORIES:Advance Registration\,Animals\,Crafts\,Elementary\,Fall Fun\,Ha
 END:VEVENT
 BEGIN:VEVENT
 UID:48f4a3b3bc180195@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T220000Z
 DTEND:20261016T233000Z
 SUMMARY:Drop-in Line Dancing
@@ -3413,7 +3350,7 @@ CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
 UID:6aae1c54333de1c5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T220000Z
 DTEND:20261017T010000Z
 SUMMARY:Michigan Marching Band Open Stadium Practice
@@ -3437,7 +3374,7 @@ CATEGORIES:Concert\,Elementary\,Free\,HighSchoolers\,Homecoming\,MiddleSch
 END:VEVENT
 BEGIN:VEVENT
 UID:4bd6a4f24fbf1c7e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T220000Z
 DTEND:20261017T003000Z
 SUMMARY:Self-Guided Lantern Lit Trail
@@ -3463,7 +3400,7 @@ CATEGORIES:Advance Registration\,Elementary\,Food\,High Schoolers\,Hikes/W
 END:VEVENT
 BEGIN:VEVENT
 UID:7d1ada31576b646e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T230000Z
 DTEND:20261017T000000Z
 SUMMARY:Creatures of the Night
@@ -3485,7 +3422,7 @@ CATEGORIES:Advance Registration\,Animals\,Crafts\,Elementary\,Fall Fun\,Ha
 END:VEVENT
 BEGIN:VEVENT
 UID:12f163b3419fe0ee@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261016T231500Z
 DTEND:20261017T033000Z
 SUMMARY:“Night Terrors”: Wiard’s Orchards
@@ -3505,7 +3442,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:d26ca7e790df4ba0@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T110000Z
 DTEND:20261017T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3534,7 +3471,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:fc190ba2f3b634c5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T120000Z
 DTEND:20261017T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -3563,7 +3500,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:ebbb00eaba0b2139@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T120000Z
 DTEND:20261017T170000Z
 SUMMARY:Dexter Farmers Market
@@ -3587,7 +3524,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:16feb395c35735b4@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T120000Z
 DTEND:20261017T160000Z
 SUMMARY:Saline Famers Market
@@ -3614,8 +3551,27 @@ URL:https://annarborwithkids.com/events/saline-famers-market-2026-05-02-20
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
+UID:a28c48cbe941333c@kid-events-in-ann-arbor
+DTSTAMP:20261002T111054Z
+DTSTART:20261017T130000Z
+DTEND:20261017T200000Z
+SUMMARY:Huron Gun Collectors
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Oct. 17 & 18. About 100 dealers and collectors offer guns\, kn
+ ives\, ammunition\, and other hunting equipment for sale\, including anti
+ ques and collectibles. Youth age 17 & under must be accompanied by an adu
+ lt. 9 a.m.–4 p.m. (Sat.) & 10 a.m.–3 p.m.\n\nCost: $5\nSignup: Drop in\, 
+ no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor 
+ Observer Kids Calendar\nDetails: https://annarborobserver.com/event/huron
+ -gun-collectors/2026-10-17/\nFound on: https://kideventsinannarbor.com/?e
+ vent=a28c48cbe941333c\n\nDouble check the time with the organizer before 
+ you go.
+URL:https://annarborobserver.com/event/huron-gun-collectors/2026-10-17/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:bedffd6e59f5af62@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T130000Z
 DTEND:20261017T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -3639,7 +3595,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:68791fb15d69ad2e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T130000Z
 DTEND:20261017T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -3666,7 +3622,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4ae7fcd4b168538f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T140000Z
 DTEND:20261017T160000Z
 SUMMARY:Autumn Color Hike
@@ -3692,7 +3648,7 @@ CATEGORIES:Advance Registration\,Elementary\,FallFun\,Fitness/Health\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:32fca61665bf40b9@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T140000Z
 DTEND:20261017T200000Z
 SUMMARY:Autumn Days at the Petting Farm - Crafter's & Little Crafter's Mar
@@ -3718,7 +3674,7 @@ CATEGORIES:Animals\,Craft/Vendor\,Crafts\,Elementary\,Fall Fun\,Food
 END:VEVENT
 BEGIN:VEVENT
 UID:b9221d5a90510245@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T140000Z
 DTEND:20261017T190000Z
 SUMMARY:Michigan Folk School's Folk Festival
@@ -3736,7 +3692,7 @@ DESCRIPTION:NEW DATE: Saturday\, October 17!! A folksy good time! The thir
 END:VEVENT
 BEGIN:VEVENT
 UID:37de18124f405484@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T140000Z
 DTEND:20261017T190000Z
 SUMMARY:RESCHEDULED - 2026 Michigan Folk Festival
@@ -3760,7 +3716,7 @@ CATEGORIES:Classes\,Elementary\,Food\,Free\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:d5c50db29bd660b6@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T140000Z
 DTEND:20261017T153000Z
 SUMMARY:What's It Like to Be: An Ecologist
@@ -3784,7 +3740,7 @@ CATEGORIES:Advance Registration\,Elementary\,IndoorActivities\,Nature\,Reg
 END:VEVENT
 BEGIN:VEVENT
 UID:73741793c0b17c4b@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T143000Z
 DTEND:20261017T150000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -3806,7 +3762,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:635bd0ca1c3af7e2@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T150000Z
 DTEND:20261018T010000Z
 SUMMARY:Blast Corn Maze: Nixon Farms
@@ -3826,7 +3782,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:8461ec14184f6f32@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T150000Z
 DTEND:20261017T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -3845,7 +3801,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:13a93990f17a669e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T163000Z
 DTEND:20261017T193000Z
 SUMMARY:Trick-or-Treat Along the Trail
@@ -3870,7 +3826,7 @@ CATEGORIES:Advance Registration\,Elementary\,FallFun\,Frugal\,Halloween\,H
 END:VEVENT
 BEGIN:VEVENT
 UID:105de43cb102c4b5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T170000Z
 DTEND:20261017T180000Z
 SUMMARY:RESCHEDULED - Meet Your Parks | The Anishnaabek and Niibi: The Imp
@@ -3898,7 +3854,7 @@ CATEGORIES:BIPOC\,Elementary\,Free\,HighSchoolers\,History\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:b159289b575c298a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261017T231500Z
 DTEND:20261018T033000Z
 SUMMARY:“Night Terrors”: Wiard’s Orchards
@@ -3918,7 +3874,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:1929cba2d2f36dc8@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261018T000000Z
 DTEND:20261018T020000Z
 SUMMARY:Carbon Leaf.
@@ -3935,8 +3891,27 @@ URL:https://annarborobserver.com/event/carbon-leaf/
 CATEGORIES:Nightspots
 END:VEVENT
 BEGIN:VEVENT
+UID:12fa7611ae9b02cd@kid-events-in-ann-arbor
+DTSTAMP:20261002T111054Z
+DTSTART:20261018T140000Z
+DTEND:20261018T190000Z
+SUMMARY:Huron Gun Collectors
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Oct. 17 & 18. About 100 dealers and collectors offer guns\, kn
+ ives\, ammunition\, and other hunting equipment for sale\, including anti
+ ques and collectibles. Youth age 17 & under must be accompanied by an adu
+ lt. 9 a.m.–4 p.m. (Sat.) & 10 a.m.–3 p.m.\n\nCost: $5\nSignup: Drop in\, 
+ no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor 
+ Observer Kids Calendar\nDetails: https://annarborobserver.com/event/huron
+ -gun-collectors/2026-10-18/\nFound on: https://kideventsinannarbor.com/?e
+ vent=12fa7611ae9b02cd\n\nDouble check the time with the organizer before 
+ you go.
+URL:https://annarborobserver.com/event/huron-gun-collectors/2026-10-18/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:6b50356ab2701409@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261018T150000Z
 DTEND:20261018T230000Z
 SUMMARY:Blast Corn Maze: Nixon Farms
@@ -3956,7 +3931,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:7bef9a7d99aedcc7@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261018T150000Z
 DTEND:20261018T200000Z
 SUMMARY:Cars & Critters - A Halloween Car Show & Farm Day
@@ -3981,7 +3956,7 @@ CATEGORIES:Animals\,CarShow\,Elementary\,Food\,Halloween\,MiddleSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:646ce1319fffc739@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261018T150000Z
 DTEND:20261018T220000Z
 SUMMARY:Country Fair: Wiard’s Orchards
@@ -4000,7 +3975,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:1eea3d2dcc892e0d@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261018T160000Z
 DTEND:20261018T200000Z
 SUMMARY:Buhr Park Boo Bash
@@ -4024,7 +3999,7 @@ CATEGORIES:Advance Registration\,Craft/Vendor\,Crafts\,Elementary\,Free\,H
 END:VEVENT
 BEGIN:VEVENT
 UID:96d607b9bbd79c13@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261018T160000Z
 DTEND:20261018T193000Z
 SUMMARY:Fall Gathering: Many Hands Lifesharing Community
@@ -4043,7 +4018,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:308d36881404c94a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261018T231500Z
 DTEND:20261019T033000Z
 SUMMARY:“Night Terrors”: Wiard’s Orchards
@@ -4063,7 +4038,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:034ae3cfa0027950@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261020T143000Z
 DTEND:20261020T153000Z
 SUMMARY:Nature Storytime: Beavers
@@ -4087,7 +4062,7 @@ CATEGORIES:Advance Registration\,Crafts\,Free\,Nature\,Outdoor\,Preschoole
 END:VEVENT
 BEGIN:VEVENT
 UID:4f7e9aba35eababb@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261021T110000Z
 DTEND:20261021T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -4116,7 +4091,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:05808e6442fee541@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261021T130000Z
 DTEND:20261021T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -4141,7 +4116,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:08cfff6e27d3121f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261021T140000Z
 DTEND:20261021T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -4170,7 +4145,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:e99118eb00209a92@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261021T143000Z
 DTEND:20261021T153000Z
 SUMMARY:Nature Play
@@ -4192,7 +4167,7 @@ CATEGORIES:Advance Registration\,Babies\,Free\,Nature\,Outdoor\,Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:d7b17c595321a78f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261021T210000Z
 DTEND:20261022T000000Z
 SUMMARY:Ann Arbor Farmers Market Food Truck Rally!
@@ -4213,7 +4188,7 @@ CATEGORIES:Farmers Market
 END:VEVENT
 BEGIN:VEVENT
 UID:497ca6624f3dfdee@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261021T210000Z
 DTEND:20261022T000000Z
 SUMMARY:Third Wednesday Food Truck Rally
@@ -4238,7 +4213,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,HighSchoolers\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:4991edc998032ee4@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261022T140000Z
 DTEND:20261022T150000Z
 SUMMARY:Kids on the Farm: "Spooky" Fall on the Farm
@@ -4263,7 +4238,7 @@ CATEGORIES:Advance Registration\,Animals\,Classes\,Fall Fun\,Halloween\,Ou
 END:VEVENT
 BEGIN:VEVENT
 UID:4c648ba1a373a65e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261022T233000Z
 DTEND:20261023T013000Z
 SUMMARY:Evening Lantern Tours
@@ -4286,7 +4261,7 @@ CATEGORIES:Advance Registration\,FallFun\,Halloween\,High Schoolers\,Hikes
 END:VEVENT
 BEGIN:VEVENT
 UID:80f84738bf0ec021@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261023T190000Z
 DTEND:20261023T220000Z
 SUMMARY:Dixboro Farmers Market
@@ -4313,8 +4288,33 @@ URL:https://annarborwithkids.com/events/dixboro-farmers-market-2-2026-05-2
 CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
+UID:0dccf7333b2fce12@kid-events-in-ann-arbor
+DTSTAMP:20261002T111054Z
+DTSTART:20261023T213000Z
+DTEND:20261023T230000Z
+SUMMARY:Halloween Downtown
+LOCATION:Ypsilanti District Library - Michigan Ave Branch\, Ypsilanti Dist
+ rict Library - Michigan Ave Branch\, 229 West Michigan Avenue\, Ypsilanti
+ \, Michigan\, 48197\, Ypsilanti\, United States
+GEO:42.240746;-83.61565
+DESCRIPTION:Join Ypsilanti District Library for a spook-tacular time at YD
+ L-Michigan! Trick or treat in the Library parking lot\, meet and engage w
+ ith local community organizations\, and check out the BOO-kmobile!\n\nWhe
+ re: Ypsilanti District Library - Michigan Ave Branch\, 229 West Michigan 
+ Avenue\, Ypsilanti\, Michigan\, 48197\, Ypsilanti\, United States\nDrive:
+  about 17 minutes from downtown Ann Arbor\nAges: Elementary\, HighSchoole
+ rs\, Middle Schoolers\, Preschoolers\, Toddler\nCost: Free\nSignup: Drop 
+ in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann A
+ rbor with Kids\nDetails: https://annarborwithkids.com/events/halloween-do
+ wntown/\nFound on: https://kideventsinannarbor.com/?event=0dccf7333b2fce1
+ 2\n\nDouble check the time with the organizer before you go.
+URL:https://annarborwithkids.com/events/halloween-downtown/
+CATEGORIES:Elementary\,Free\,Games\,Halloween\,HighSchoolers\,Middle Schoo
+ lers
+END:VEVENT
+BEGIN:VEVENT
 UID:700ee4928db1ed1e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261023T220000Z
 DTEND:20261024T000000Z
 SUMMARY:Calling all Owls
@@ -4338,7 +4338,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:d05480017773dc78@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261023T220000Z
 DTEND:20261024T003000Z
 SUMMARY:Self-Guided Lantern Lit Trail
@@ -4363,7 +4363,7 @@ CATEGORIES:Advance Registration\,Elementary\,Food\,Halloween\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:81d66b361988d418@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261023T233000Z
 DTEND:20261024T013000Z
 SUMMARY:Evening Lantern Tours
@@ -4386,7 +4386,7 @@ CATEGORIES:Advance Registration\,Fall Fun\,HighSchoolers\,Hikes/Walks\,His
 END:VEVENT
 BEGIN:VEVENT
 UID:099b0e802b04a9e1@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T110000Z
 DTEND:20261024T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -4415,7 +4415,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfc89a3320231b5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T120000Z
 DTEND:20261024T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -4444,7 +4444,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:c9782bb1d4fba175@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T120000Z
 DTEND:20261024T170000Z
 SUMMARY:Dexter Farmers Market
@@ -4468,7 +4468,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4207f3d4b512e357@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T120000Z
 DTEND:20261024T160000Z
 SUMMARY:Saline Famers Market
@@ -4496,7 +4496,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:399562db0cce2079@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T130000Z
 DTEND:20261024T180000Z
 SUMMARY:Michigan Monster Dash
@@ -4520,7 +4520,7 @@ CATEGORIES:Advance Registration\,Elementary\,Halloween\,High Schoolers\,Mi
 END:VEVENT
 BEGIN:VEVENT
 UID:0d9c229eee1f1496@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T130000Z
 DTEND:20261024T160000Z
 SUMMARY:Spooky Sprint
@@ -4546,7 +4546,7 @@ CATEGORIES:Advance Registration\,Elementary\,Food\,Halloween\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:4ec7a14d3add89ae@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T130000Z
 DTEND:20261024T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -4570,7 +4570,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:c6fc596448d8ca22@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T130000Z
 DTEND:20261024T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -4597,7 +4597,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:dfbcc8559cccde17@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T140000Z
 DTEND:20261024T200000Z
 SUMMARY:Autumn Days at the Petting Farm - Music & Fall Fun
@@ -4622,7 +4622,7 @@ CATEGORIES:Animals\,Crafts\,Elementary\,FallFun\,Food\,High Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:45f8d1e06a2d7c7e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
 SUMMARY:Trunk or Treat
@@ -4646,7 +4646,7 @@ CATEGORIES:Babies\,CharitableEvent\,Elementary\,Food\,Free\,Halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:c6a8969811a0c8a2@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 SUMMARY:Hallowe
@@ -4665,7 +4665,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:ce6ae9734c26f72d@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T200000Z
 DTEND:20261025T003000Z
 SUMMARY:Animal Haunts
@@ -4688,7 +4688,7 @@ CATEGORIES:Advance Registration\,Age Range\,Animals\,Elementary\,Fall Fun\
 END:VEVENT
 BEGIN:VEVENT
 UID:b8e728489aaf2b10@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T220000Z
 DTEND:20261025T000000Z
 SUMMARY:Calling all Owls
@@ -4712,7 +4712,7 @@ CATEGORIES:Advance Registration\,Elementary\,Frugal\,High Schoolers\,Hikes
 END:VEVENT
 BEGIN:VEVENT
 UID:00e546beea99e0dc@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T233000Z
 DTEND:20261025T013000Z
 SUMMARY:Evening Lantern Tours
@@ -4735,7 +4735,7 @@ CATEGORIES:Advance Registration\,FallFun\,Halloween\,High Schoolers\,Hikes
 END:VEVENT
 BEGIN:VEVENT
 UID:92570a08bb80dde0@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261024T200000Z
 DTEND:20261025T003000Z
 SUMMARY:Animal Haunts 2026 🎃
@@ -4754,7 +4754,7 @@ DESCRIPTION:<a href="http://discoverscienceandnature.com/animal-haunts">Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:e13c4f6f78b7a81f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261025T130000Z
 DTEND:20261025T143000Z
 SUMMARY:All-Girls Skate Instruction
@@ -4778,31 +4778,8 @@ CATEGORIES:Classes\,Elementary\,Fitness\,Fitness/Health\,Free\,HighSchoole
  rs
 END:VEVENT
 BEGIN:VEVENT
-UID:1121ad17187df6da@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
-DTSTART:20261025T140000Z
-DTEND:20261025T180000Z
-SUMMARY:Prescribed Fire Festival
-LOCATION:Matthaei Botanical Gardens\, Matthaei Botanical Gardens\, 1800 N.
-  Dixboro Rd\, Ann Arbor\, Michigan\, 48105\, Northeast\, United States
-GEO:42.2997476;-83.66274469999996
-DESCRIPTION:The Michigan Prescribed Fire Council and Matthaei Botanical Ga
- rdens are teaming up to launch Michigan’s first Prescribed Fire Festival.
- \n\nWhere: Matthaei Botanical Gardens\, 1800 N. Dixboro Rd\, Ann Arbor\, 
- Michigan\, 48105\, Northeast\, United States\nDrive: about 15 minutes fro
- m downtown Ann Arbor\nAges: Elementary\, High Schoolers\, MiddleSchoolers
- \, Preschoolers\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors
- \, dress for the weather\nListed by: Ann Arbor with Kids\nDetails: https:
- //annarborwithkids.com/events/prescribed-fire-festival/\nFound on: https:
- //kideventsinannarbor.com/?event=1121ad17187df6da\n\nDouble check the tim
- e with the organizer before you go.
-URL:https://annarborwithkids.com/events/prescribed-fire-festival/
-CATEGORIES:CommunityResources\,Elementary\,Environmental\,Free\,High Schoo
- lers\,MiddleSchoolers
-END:VEVENT
-BEGIN:VEVENT
 UID:9bfe64e3006113b0@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261025T153000Z
 DTEND:20261025T190000Z
 SUMMARY:AADL Costume Contest
@@ -4825,7 +4802,7 @@ CATEGORIES:Babies\,Elementary\,Free\,Halloween\,HighSchoolers\,Middle Scho
 END:VEVENT
 BEGIN:VEVENT
 UID:175e3a866b13deae@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261025T153000Z
 DTEND:20261025T190000Z
 SUMMARY:Halloween Downtown Trick or Treat
@@ -4849,7 +4826,7 @@ CATEGORIES:Babies\,DisplayImage\,Elementary\,Free\,Halloween\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:5fe4756be8337c68@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261025T153000Z
 DTEND:20261025T190000Z
 SUMMARY:Halloween Parade
@@ -4865,8 +4842,33 @@ DESCRIPTION:All costumed kids\, accompanied by a caregiver\, are invited t
 CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
+UID:1e3a6a32e3c1fda1@kid-events-in-ann-arbor
+DTSTAMP:20261002T111054Z
+DTSTART:20261025T160000Z
+DTEND:20261025T190000Z
+SUMMARY:RESCHEDULED Girls in Aviation Day
+LOCATION:Pittsfield Township Community Center\, Pittsfield Township Commun
+ ity Center\, 701 W. Ellsworth Rd\, Ann Arbor \, Michigan\, 48108\, Pittsf
+ ield\, United States
+GEO:42.2288146;-83.73947780000003
+DESCRIPTION:This event was rescheduled from September 19 due to rain that 
+ day. Join the Ann Arbor Women in Aviation Chapter at Pittsfield Township 
+ Park for a special open house style event celebrating women in all corner
+ s of the aviation industry!\n\nWhere: Pittsfield Township Community Cente
+ r\, 701 W. Ellsworth Rd\, Ann Arbor \, Michigan\, 48108\, Pittsfield\, Un
+ ited States\nAges: Elementary\, High Schoolers\, MiddleSchoolers\nCost: F
+ ree\nSignup: Registration required\, book before you go\nOutdoors\, dress
+  for the weather\nListed by: Ann Arbor with Kids\nDetails: https://annarb
+ orwithkids.com/events/girls-in-aviation-day/\nFound on: https://kidevents
+ inannarbor.com/?event=1e3a6a32e3c1fda1\n\nDouble check the time with the 
+ organizer before you go.
+URL:https://annarborwithkids.com/events/girls-in-aviation-day/
+CATEGORIES:Advance Registration\,Elementary\,Free\,High Schoolers\,MiddleS
+ choolers\,Outdoor
+END:VEVENT
+BEGIN:VEVENT
 UID:4402373ec318fa10@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261025T170000Z
 DTEND:20261025T190000Z
 SUMMARY:Ypsilanti Township Trunk or Treat
@@ -4890,7 +4892,7 @@ CATEGORIES:Elementary\,Food\,Free\,Halloween\,Outdoor\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:f061412c7e556915@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261027T143000Z
 DTEND:20261027T153000Z
 SUMMARY:Nature Storytime: Squirrels
@@ -4912,7 +4914,7 @@ CATEGORIES:Advance Registration\,Animals\,Crafts\,Fall Fun\,Free\,Nature
 END:VEVENT
 BEGIN:VEVENT
 UID:cb1b856a32804c1e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261028T110000Z
 DTEND:20261028T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -4941,7 +4943,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:a807f12d6b60b501@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261028T130000Z
 DTEND:20261028T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -4967,7 +4969,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:edd5ec8dd5046471@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261028T140000Z
 DTEND:20261028T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -4996,7 +4998,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:108542557a47a7e5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261028T143000Z
 DTEND:20261028T153000Z
 SUMMARY:Nature Play
@@ -5018,7 +5020,7 @@ CATEGORIES:Advance Registration\,Babies\,Free\,Nature\,Outdoor\,Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:1537f11fa5feb691@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261030T080000Z
 DTEND:20261030T080000Z
 SUMMARY:Halloween Character Immersion Trick-or-Treat
@@ -5035,7 +5037,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:10a7849614c74663@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261030T140000Z
 DTEND:20261030T150000Z
 SUMMARY:Preschool Explorers at the Mills
@@ -5059,7 +5061,7 @@ CATEGORIES:Advance Registration\,Animals\,IndoorActivities\,Nature\,Outdoo
 END:VEVENT
 BEGIN:VEVENT
 UID:72a3390da7a7b4a6@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261030T160000Z
 DTEND:20261030T200000Z
 SUMMARY:Downtown Dexter Trick or Treat
@@ -5082,7 +5084,7 @@ CATEGORIES:Babies\,Free\,Halloween\,Preschoolers\,Toddler\,Trick or Treat
 END:VEVENT
 BEGIN:VEVENT
 UID:cd7bc4a96e07d499@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261030T170000Z
 DTEND:20261030T190000Z
 SUMMARY:Make + Believe Nature Masks
@@ -5104,7 +5106,7 @@ CATEGORIES:Advance Registration\,Crafts\,Elementary\,Fairy\,Frugal\,Indoor
 END:VEVENT
 BEGIN:VEVENT
 UID:de970a8d14421bb1@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261030T190000Z
 DTEND:20261030T220000Z
 SUMMARY:All Hallows Eve at Parker Mill
@@ -5122,7 +5124,7 @@ DESCRIPTION:Join us at historic Parker Mill for a family-friendly evening
 END:VEVENT
 BEGIN:VEVENT
 UID:1d1f3c05c55885cb@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261030T223000Z
 DTEND:20261031T003000Z
 SUMMARY:Fireside Fun – A Good Old-fashioned Campfire Circle
@@ -5148,7 +5150,7 @@ CATEGORIES:Animals\,Elementary\,Food\,Free\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:59f4127bcd6fb32b@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261031T110000Z
 DTEND:20261031T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -5177,7 +5179,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:789df771b9fdd081@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261031T120000Z
 DTEND:20261031T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -5206,7 +5208,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:ce1c9c5937f30507@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261031T120000Z
 DTEND:20261031T170000Z
 SUMMARY:Dexter Farmers Market
@@ -5230,7 +5232,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:47e567e43736ce45@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261031T120000Z
 DTEND:20261031T160000Z
 SUMMARY:Saline Famers Market
@@ -5258,7 +5260,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:3d53e1932043e2be@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261031T121500Z
 DTEND:20261031T144500Z
 SUMMARY:Run Scream Run
@@ -5283,7 +5285,7 @@ CATEGORIES:CharitableEvent\,Elementary\,Fitness/Health\,Halloween\,High Sc
 END:VEVENT
 BEGIN:VEVENT
 UID:031417cbc90a3d69@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261031T130000Z
 DTEND:20261031T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -5307,7 +5309,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4da9fdea982952a5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261031T130000Z
 DTEND:20261031T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -5334,7 +5336,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4e95066190c0ca18@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261031T140000Z
 DTEND:20261031T200000Z
 SUMMARY:Autumn Days at the Petting Farm - Halloween Finale
@@ -5359,7 +5361,7 @@ CATEGORIES:Animals\,Crafts\,Elementary\,FallFun\,Food\,Halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:3d7aaaf0972b953d@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261031T170000Z
 DTEND:20261031T193000Z
 SUMMARY:Thrills at the Mills
@@ -5384,7 +5386,7 @@ CATEGORIES:Advance Registration\,Elementary\,Free\,Halloween\,MiddleSchool
 END:VEVENT
 BEGIN:VEVENT
 UID:7925373ff057bb45@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261101T130000Z
 DTEND:20261101T150000Z
 SUMMARY:Donut Dash
@@ -5407,7 +5409,7 @@ CATEGORIES:Advance Registration\,CharitableEvent\,Elementary\,Fitness/Heal
 END:VEVENT
 BEGIN:VEVENT
 UID:36840a41d299e4cf@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261101T160000Z
 DTEND:20261101T190000Z
 SUMMARY:Quilting Bee at Sharon Mills
@@ -5426,7 +5428,7 @@ DESCRIPTION:Gather around for a few hours of stitches\, stories\, and shar
 END:VEVENT
 BEGIN:VEVENT
 UID:2fc5ae5aa3422636@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261101T180000Z
 DTEND:20261101T193000Z
 SUMMARY:Fall Birding at Waterloo
@@ -5451,7 +5453,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:768385dcd28c556e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261103T150000Z
 DTEND:20261103T180000Z
 SUMMARY:Discovery Day at Sharon Mills
@@ -5470,7 +5472,7 @@ DESCRIPTION:Join us at historic Sharon Mills to discover the people\, stor
 END:VEVENT
 BEGIN:VEVENT
 UID:3df272dd167d121e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261103T170000Z
 DTEND:20261103T190000Z
 SUMMARY:Fire Building
@@ -5494,7 +5496,7 @@ CATEGORIES:Advance Registration\,Elementary\,Frugal\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:0592168afcc83c6d@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261104T110000Z
 DTEND:20261104T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -5523,7 +5525,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:e0289f4107a895c8@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261104T130000Z
 DTEND:20261104T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -5549,7 +5551,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:908b392e6f50be31@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261106T220000Z
 DTEND:20261107T003000Z
 SUMMARY:Night Hike for Food Gatherers
@@ -5572,7 +5574,7 @@ CATEGORIES:Charitable Event\,Elementary\,Food\,HighSchoolers\,Hikes/Walks\
 END:VEVENT
 BEGIN:VEVENT
 UID:3e88cb4e13159127@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261107T110000Z
 DTEND:20261107T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -5601,7 +5603,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe19ecf93a0f623@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261107T120000Z
 DTEND:20261107T160000Z
 SUMMARY:Saline Famers Market
@@ -5629,7 +5631,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:8a56f08b07e60cc1@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261107T130000Z
 DTEND:20261107T170000Z
 SUMMARY:Mini-Market
@@ -5651,7 +5653,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,HighSchoolers\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:00111ec12374a07d@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261107T140000Z
 DTEND:20261107T190000Z
 SUMMARY:Bonfyre Trail Fest
@@ -5675,7 +5677,7 @@ CATEGORIES:Advance Registration\,HighSchoolers\,Hikes/Walks\,Middle School
 END:VEVENT
 BEGIN:VEVENT
 UID:2feba017607e6a39@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261107T160000Z
 DTEND:20261107T210000Z
 SUMMARY:New Harvest Corn Maze
@@ -5698,7 +5700,7 @@ CATEGORIES:Elementary\,Fall Fun\,Halloween\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:10d602e63a9ef7a2@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261108T114500Z
 DTEND:20261108T150000Z
 SUMMARY:A2 Turkey Trot
@@ -5722,7 +5724,7 @@ CATEGORIES:Advance Registration\,Elementary\,HighSchoolers\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:d3db39e871a9191a@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261108T180000Z
 DTEND:20261108T203000Z
 SUMMARY:Sandhill Crane Tour
@@ -5746,7 +5748,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:a4aadbb63c27a9ea@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261110T150000Z
 DTEND:20261110T180000Z
 SUMMARY:Quilting Bee at Sharon Mills
@@ -5765,7 +5767,7 @@ DESCRIPTION:Gather around for a few hours of stitches\, stories\, and shar
 END:VEVENT
 BEGIN:VEVENT
 UID:54d6c4dfeee04a7f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261111T110000Z
 DTEND:20261111T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -5794,7 +5796,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:6796f1f68ecd0f2f@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261111T130000Z
 DTEND:20261111T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -5820,7 +5822,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:7503cdc0b7e82e6e@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261113T190000Z
 DTEND:20261113T200000Z
 SUMMARY:Chow Time at the Farm
@@ -5845,7 +5847,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:d2e004fe632a0a99@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261113T220000Z
 DTEND:20261114T003000Z
 SUMMARY:Night Hike for Food Gatherers
@@ -5869,7 +5871,7 @@ CATEGORIES:Charitable Event\,Elementary\,HighSchoolers\,Hikes/Walks\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:2e90cc3c1db2c488@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261114T110000Z
 DTEND:20261114T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -5898,7 +5900,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:d3e5ba14af8a81b0@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261114T130000Z
 DTEND:20261114T170000Z
 SUMMARY:County Clean-Up Day Recycling Event - Scio Township
@@ -5916,7 +5918,7 @@ CATEGORIES:Environmental\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:3d6a82e496b4b6ab@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261114T160000Z
 DTEND:20261114T210000Z
 SUMMARY:New Harvest Corn Maze
@@ -5940,7 +5942,7 @@ CATEGORIES:Elementary\,Fall Fun\,Halloween\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:2ea694cffe6f6915@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261114T170000Z
 DTEND:20261114T183000Z
 SUMMARY:The Art of a Leaf
@@ -5965,7 +5967,7 @@ CATEGORIES:Advance Registration\,Art\,Crafts\,Elementary\,Fall Fun\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:3e2f8297b393ea14@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261114T183000Z
 DTEND:20261114T203000Z
 SUMMARY:Family Folk Dance
@@ -5990,7 +5992,7 @@ CATEGORIES:Age Range\,Babies\,Dance\,Elementary\,HighSchoolers\,Middle Sch
 END:VEVENT
 BEGIN:VEVENT
 UID:a9d4d39d88db6555@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261115T180000Z
 DTEND:20261115T193000Z
 SUMMARY:Environmental Adaptation
@@ -6013,7 +6015,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Frugal\,High Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:88ab7eb4b796ddde@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261118T110000Z
 DTEND:20261118T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -6042,7 +6044,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:7341097685465cdd@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261118T130000Z
 DTEND:20261118T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -6069,7 +6071,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:833d428d19720af9@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261120T220000Z
 DTEND:20261121T003000Z
 SUMMARY:Night Hike for Food Gatherers
@@ -6094,7 +6096,7 @@ CATEGORIES:Charitable Event\,Elementary\,Food\,HighSchoolers\,Hikes/Walks\
 END:VEVENT
 BEGIN:VEVENT
 UID:dae6fa59011559c8@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261121T110000Z
 DTEND:20261121T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -6123,7 +6125,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:7ce2c690a0eecc58@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261121T160000Z
 DTEND:20261121T210000Z
 SUMMARY:New Harvest Corn Maze
@@ -6147,7 +6149,7 @@ CATEGORIES:Elementary\,Fall Fun\,Halloween\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:b03f50dcc97eccd7@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261122T160000Z
 DTEND:20261122T190000Z
 SUMMARY:Quilting Bee at Sharon Mills
@@ -6166,7 +6168,7 @@ DESCRIPTION:Gather around for a few hours of stitches\, stories\, and shar
 END:VEVENT
 BEGIN:VEVENT
 UID:230e2475ed0b89f1@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261125T110000Z
 DTEND:20261125T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -6195,7 +6197,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:df801e408d6f5da5@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261125T130000Z
 DTEND:20261125T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -6222,7 +6224,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:0de556d64ada1984@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261128T110000Z
 DTEND:20261128T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -6251,7 +6253,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:08c681f57d548282@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261128T120000Z
 DTEND:20261128T150000Z
 SUMMARY:Turkey Trails- Ann Arbor
@@ -6275,7 +6277,7 @@ CATEGORIES:Advance Registration\,Elementary\,Expecting Parents\,Fitness/He
 END:VEVENT
 BEGIN:VEVENT
 UID:3ac34ac81a421112@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261128T160000Z
 DTEND:20261128T210000Z
 SUMMARY:New Harvest Corn Maze
@@ -6299,7 +6301,7 @@ CATEGORIES:Elementary\,Fall Fun\,Halloween\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:11b7b7a3b21fb2ab@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261129T133000Z
 DTEND:20261129T133000Z
 SUMMARY:Leftovers Run
@@ -6323,7 +6325,7 @@ CATEGORIES:Advance Registration\,HighSchoolers\,Middle Schoolers\,Outdoor\
 END:VEVENT
 BEGIN:VEVENT
 UID:7e4bfc32b0959c67@kid-events-in-ann-arbor
-DTSTAMP:20261001T114026Z
+DTSTAMP:20261002T111054Z
 DTSTART:20261204T220000Z
 DTEND:20261204T233000Z
 SUMMARY:Free Family Trivia Night
