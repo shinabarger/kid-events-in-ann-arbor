@@ -9,412 +9,8 @@ X-WR-TIMEZONE:America/Detroit
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:5fe4756be8337c68@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261025T153000Z
-DTEND:20261025T190000Z
-SUMMARY:Halloween Parade
-LOCATION:Main Street Area Association
-DESCRIPTION:All costumed kids\, accompanied by a caregiver\, are invited t
- o join a costume parade (lineup begins at 11:30 a.m.) led by AADL staff f
- rom the AADL down Liberty to Main. This is followed by trick-or-treating 
- (12–2 p.m.) at businesses displaying black & orange balloons.\n\nWhere: M
- ain Street Area Association\nCost: Free\nSignup: Drop in\, no signup need
- ed\nOutdoors\, dress for the weather\nListed by: Ann Arbor Observer Kids 
- Calendar\nFound on: https://kideventsinannarbor.com/?event=5fe4756be8337c
- 68\n\nDouble check the time with the organizer before you go.
-CATEGORIES:Observer pick
-END:VEVENT
-BEGIN:VEVENT
-UID:cabf1c5fc4903003@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261025T190000Z
-DTEND:20261025T200000Z
-SUMMARY:Wicked Meet & Greet
-LOCATION:Starbright Entertainment
-DESCRIPTION:Kids 12 & under with adult accompaniment invited to meet and t
- ake photos with Elphaba and Glinda from Wicked. Costumes encouraged. Milk
- shake Factory\, 326 S. Maple\, ste. 326. Free. starbrightentertainmenta2.
- com.\n\nWhere: Starbright Entertainment\nCost: Free\nSignup: Drop in\, no
-  signup needed\nListed by: Ann Arbor Observer Kids Calendar\nFound on: ht
- tps://kideventsinannarbor.com/?event=cabf1c5fc4903003\n\nDouble check the
-  time with the organizer before you go.
-CATEGORIES:Observer pick
-END:VEVENT
-BEGIN:VEVENT
-UID:44a4b0a07918f03a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261025T210000Z
-DTEND:20261025T223000Z
-SUMMARY:‘Spooky Species for Families
-LOCATION:The Creature Conservancy
-DESCRIPTION:Kids age 6 & up\, with accompanying adults\, invited to check 
- out and learn about animals associated with the season (possibly owls\, v
- ultures\, ravens\, snakes\, tarantulas\, and rats)\, and hear Halloween l
- egends tailored to families. Cider and donuts.\n\nWhere: The Creature Con
- servancy\nAges: all ages\nCost: $25\nSignup: Registration required\, book
-  before you go\nListed by: Ann Arbor Observer Kids Calendar\nFound on: ht
- tps://kideventsinannarbor.com/?event=44a4b0a07918f03a\n\nDouble check the
-  time with the organizer before you go.
-CATEGORIES:Observer pick
-END:VEVENT
-BEGIN:VEVENT
-UID:54fc5c085e477c7f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T124500Z
-DTEND:20261026T133000Z
-SUMMARY:Pre-School Playtime
-LOCATION:Gym America\, Gym America\, 5555 Hines Dr\, Ann Arbor\, Michigan\
- , 48108\, Pittsfield\, United States
-GEO:42.2054297;-83.73231870000001
-DESCRIPTION:Gym America offers Preschool Playtime durig the school year Pr
- eschool Playtime is for walkers through 4 years old with parent/guardian 
- supervision.\n\nWhere: Gym America\, 5555 Hines Dr\, Ann Arbor\, Michigan
- \, 48108\, Pittsfield\, United States\nDrive: about 17 minutes from downt
- own Ann Arbor\nAges: Preschoolers\, Toddler\nCost: Not listed\nSignup: Re
- gistration required\, book before you go\nIndoors\nListed by: Ann Arbor w
- ith Kids\nDetails: https://annarborwithkids.com/events/pre-school-playtim
- e-2026-10-26/\nFound on: https://kideventsinannarbor.com/?event=54fc5c085
- e477c7f\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/pre-school-playtime-2026-10-26/
-CATEGORIES:Advance Registration\,Fitness/Health\,IndoorActivities\,Playgro
- up\,Preschoolers\,Registration Required
-END:VEVENT
-BEGIN:VEVENT
-UID:d848013cd812cdf2@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T130000Z
-DTEND:20261026T130000Z
-SUMMARY:Ann Arbor District Library Storytimes
-LOCATION:Various Branches\, Ann Arbor\, MI\, 48104
-GEO:42.27087;-83.72633
-DESCRIPTION:Enjoy fun\, engaging storytimes with the Ann Arbor District Li
- brary\, where songs\, stories\, and activities spark a love of reading an
- d learning for children and families of all ages.\n\nWhere: Ann Arbor\, M
- I\, 48104\nAges: Ann Arbor District Library offers storytimes at various 
- branches\, using songs\, stories\, and activities to foster early literac
- y and a love of reading for families.\nCost: Free\nSignup: Drop in\, no s
- ignup needed\nListed by: Ann Arbor Family\nDetails: https://annarborfamil
- y.com/Calendar/#!/event/18068175\nFound on: https://kideventsinannarbor.c
- om/?event=d848013cd812cdf2\n\nDouble check the time with the organizer be
- fore you go.
-URL:https://annarborfamily.com/Calendar/#!/event/18068175
-END:VEVENT
-BEGIN:VEVENT
-UID:03a1c4922eb3baa5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T130000Z
-DTEND:20261026T151500Z
-SUMMARY:Open Swim
-LOCATION:Meri Lou Murray Recreation Center\, Meri Lou Murray Recreation Ce
- nter\, 2960 Washtenaw Avenue\, Ann Arbor\, Michigan\, 48104\, South Ann A
- rbor\, United States
-GEO:42.2573731;-83.70123769999998
-DESCRIPTION:Join the Meri Lou Murray Rec Center for Open Swim. During open
-  swim at least 2 lap lanes will be available for lap swim.\n\nWhere: Meri
-  Lou Murray Recreation Center\, 2960 Washtenaw Avenue\, Ann Arbor\, Michi
- gan\, 48104\, South Ann Arbor\, United States\nAges: Elementary\, High Sc
- hoolers\, MiddleSchoolers\, Preschoolers\, Toddler\nCost: Not listed\nSig
- nup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor with Kids\
- nDetails: https://annarborwithkids.com/events/open-swim-14-2026-09-14-202
- 6-09-21-2026-09-28-2026-10-05-2026-10-12-2026-10-19-2026-10-26/\nFound on
- : https://kideventsinannarbor.com/?event=03a1c4922eb3baa5\n\nDouble check
-  the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/open-swim-14-2026-09-14-2026-09-21
- -2026-09-28-2026-10-05-2026-10-12-2026-10-19-2026-10-26/
-CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
- ,Preschoolers\,Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:b2c58b09ab1c3df1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T143000Z
-DTEND:20261026T153000Z
-SUMMARY:Jumpstart Storytime
-LOCATION:Ypsilanti District Library - Whittaker Rd\, Ypsilanti District Li
- brary - Whittaker Rd\, 5577 Whittaker Rd\, Ypsilanti\, Michigan\, 48197\,
-  Ypsilanti\, United States
-GEO:42.208097;-83.61557
-DESCRIPTION:Jumpstart is an engaging blend of stories\, movement\, arts an
- d crafts\, early literacy\, and STEM activities. This storytime is geared
-  for 4-6\, although some 3's might enjoy it as well. Held Mondays at 10:3
- 0a and Tuesdays at 1p\n\nWhere: Ypsilanti District Library - Whittaker Rd
- \, 5577 Whittaker Rd\, Ypsilanti\, Michigan\, 48197\, Ypsilanti\, United 
- States\nDrive: about 17 minutes from downtown Ann Arbor\nAges: Preschoole
- rs\, Toddler\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nLi
- sted by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/event
- s/jumpstart-kindergarten-2-2026-09-21-2026-09-28-2026-10-05-2026-10-12-20
- 26-10-19-2026-10-26/\nFound on: https://kideventsinannarbor.com/?event=b2
- c58b09ab1c3df1\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/jumpstart-kindergarten-2-2026-09-2
- 1-2026-09-28-2026-10-05-2026-10-12-2026-10-19-2026-10-26/
-CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
-END:VEVENT
-BEGIN:VEVENT
-UID:3df28f92c452e021@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T143000Z
-DTEND:20261026T153000Z
-SUMMARY:Little Ones Storytime
-LOCATION:Ypsilanti District Library - Michigan Ave Branch\, Ypsilanti Dist
- rict Library - Michigan Ave Branch\, 229 West Michigan Avenue\, Ypsilanti
- \, Michigan\, 48197\, Ypsilanti\, United States
-GEO:42.240746;-83.61565
-DESCRIPTION:A time for caregivers and kiddos to read\, sing\, play\, and l
- earn together! Space for wiggly toddlers and tummy-time babies will be av
- ailable along with tips and tricks for extending learning at home.\n\nWhe
- re: Ypsilanti District Library - Michigan Ave Branch\, 229 West Michigan 
- Avenue\, Ypsilanti\, Michigan\, 48197\, Ypsilanti\, United States\nDrive:
-  about 17 minutes from downtown Ann Arbor\nAges: Babies\, Preschoolers\, 
- Toddler\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nListed 
- by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/rea
- d-sing-play-3-2026-09-21-2026-09-28-2026-10-05-2026-10-12-2026-10-19-2026
- -10-26/\nFound on: https://kideventsinannarbor.com/?event=3df28f92c452e02
- 1\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/read-sing-play-3-2026-09-21-2026-0
- 9-28-2026-10-05-2026-10-12-2026-10-19-2026-10-26/
-CATEGORIES:Babies\,Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,S
- torytime
-END:VEVENT
-BEGIN:VEVENT
-UID:653f83800d3eedc8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T143000Z
-DTEND:20261026T150000Z
-SUMMARY:Preschool Storytimes
-LOCATION:Pittsfield Branch: Program Room\, 2359 Oak Valley Dr\, Ann Arbor\
- , MI 48103
-GEO:42.2451;-83.7877
-DESCRIPTION:Join us for stories and songs for listeners age 2 to 5 years\,
-  accompanied by an adult. Siblings are welcome. Join us for stories and s
- ongs for listeners age 2 to 5 years\, accompanied by an adult. Siblings a
- re welcome.\n\nWhere: 2359 Oak Valley Dr\, Ann Arbor\, MI 48103\nAges: Ag
- e 2–5 Years\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nLis
- ted by: Ann Arbor District Library\nDetails: https://aadl.org/node/646337
- \nFound on: https://kideventsinannarbor.com/?event=653f83800d3eedc8\n\nDo
- uble check the time with the organizer before you go.
-URL:https://aadl.org/node/646337
-CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
- orytime\,Toddler
-END:VEVENT
-BEGIN:VEVENT
-UID:b6cef23c14f5c6bd@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T150000Z
-DTEND:20261026T153000Z
-SUMMARY:Drop-In Story Time
-LOCATION:Dexter District Library\, Dexter District Library\, 3255 Alpine S
- t\, Dexter\, Michigan\, 48130\, Dexter\, United States
-GEO:42.340266;-83.88900000000001
-DESCRIPTION:Join Dexter District Library for Drop-In Storytime Story time 
- sessions are offered at 11a on Mondays and Thursdays from September 21-No
- vember 12 Story times will include picture\, pop-up and interactive books
- \, flannel-board stories\, songs\, puppets\, finger plays and other...\n\
- nWhere: Dexter District Library\, 3255 Alpine St\, Dexter\, Michigan\, 48
- 130\, Dexter\, United States\nDrive: about 18 minutes from downtown Ann A
- rbor\nAges: Preschoolers\, Toddler\nCost: Free\nSignup: Drop in\, no sign
- up needed\nIndoors\nListed by: Ann Arbor with Kids\nDetails: https://anna
- rborwithkids.com/events/story-time-2026-09-21-2026-09-24-2026-09-28-2026-
- 10-01-2026-10-05-2026-10-08-2026-10-12-2026-10-15-2026-10-19-2026-10-22-2
- 026-10-26/\nFound on: https://kideventsinannarbor.com/?event=b6cef23c14f5
- c6bd\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/story-time-2026-09-21-2026-09-24-2
- 026-09-28-2026-10-01-2026-10-05-2026-10-08-2026-10-12-2026-10-15-2026-10-
- 19-2026-10-22-2026-10-26/
-CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
-END:VEVENT
-BEGIN:VEVENT
-UID:8e5d54525ef3fdd8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T150000Z
-DTEND:20261026T163000Z
-SUMMARY:Preschool/Toddler Swim
-LOCATION:Beach Middle School\, Beach Middle School\, 445 Mayer Drive\, Che
- lsea\, Michigan\, 48118\, United States
-GEO:42.318239;-84.009637
-DESCRIPTION:Cameron Pool is located in Chelsea's Beach Middle School. This
-  fall\, they are offering Preschool/Toddler Swim on weekdays from 11a-12:
- 30p. Preschool/Toddler swim is only held on days school is in session.\n\
- nWhere: Beach Middle School\, 445 Mayer Drive\, Chelsea\, Michigan\, 4811
- 8\, United States\nDrive: about 28 minutes from downtown Ann Arbor\nAges:
-  Babies\, Preschoolers\, Toddler\nCost: Not listed\nSignup: Drop in\, no 
- signup needed\nIndoors\nListed by: Ann Arbor with Kids\nDetails: https://
- annarborwithkids.com/events/preschool-swim-2026-08-31-2026-09-01-2026-09-
- 02-2026-09-03-2026-09-04-2026-09-07-2026-09-08-2026-09-09-2026-09-10-2026
- -09-11-2026-09-14-2026-09-15-2026-09-16-2026-09-17-2026-09-18-2026-0-23-2
- 026-10-26/\nFound on: https://kideventsinannarbor.com/?event=8e5d54525ef3
- fdd8\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/preschool-swim-2026-08-31-2026-09-
- 01-2026-09-02-2026-09-03-2026-09-04-2026-09-07-2026-09-08-2026-09-09-2026
- -09-10-2026-09-11-2026-09-14-2026-09-15-2026-09-16-2026-09-17-2026-09-18-
- 2026-0-23-2026-10-26/
-CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
-END:VEVENT
-BEGIN:VEVENT
-UID:95d1e7474497e351@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T150000Z
-DTEND:20261026T160000Z
-SUMMARY:Tot Time
-LOCATION:PAX Gymnastics\, PAX Gymnastics\, 375 E North St\, Suite #101\, C
- helsea\, Michigan\, 48118\, Chelsea\, United States
-DESCRIPTION:Join Chelsea's PAX Gymanstics for Tot Time - non-instructional
-  playtime in the gym. Tot Time gives parents a place to play indoors with
-  their preschool-aged toddlers in a safe\, clean environment.\n\nWhere: P
- AX Gymnastics\, 375 E North St\, Suite #101\, Chelsea\, Michigan\, 48118\
- , Chelsea\, United States\nAges: Preschoolers\, Toddler\nCost: $5\nSignup
- : Registration required\, book before you go\nIndoors\nListed by: Ann Arb
- or with Kids\nDetails: https://annarborwithkids.com/events/tot-time-2026-
- 10-26/\nFound on: https://kideventsinannarbor.com/?event=95d1e7474497e351
- \n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/tot-time-2026-10-26/
-CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
- \,Sport\,Toddler
-END:VEVENT
-BEGIN:VEVENT
-UID:ec7ae81da4ed9e11@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T163000Z
-DTEND:20261026T200000Z
-SUMMARY:Open Swim
-LOCATION:Mack Pool\, Mack Pool\, 715 Brooks St\, Ann Arbor\, Michigan\, 48
- 103\, West Ann Arbor\, United States
-GEO:42.2873396;-83.75966879999999
-DESCRIPTION:Mack Pool is the City of Ann Arbor's indoor pool. They are ope
- n from the Tuesday after Labor Day through the Friday before Memorial Day
-  each year.\n\nWhere: Mack Pool\, 715 Brooks St\, Ann Arbor\, Michigan\, 
- 48103\, West Ann Arbor\, United States\nAges: Babies\, Elementary\, High 
- Schoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: $8\nSignup: 
- Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor with Kids\nDeta
- ils: https://annarborwithkids.com/events/open-swim-20-2026-09-28-2026-09-
- 29-2026-09-30-2026-10-01-2026-10-02-2026-10-05-2026-10-06-2026-10-07-2026
- -10-08-2026-10-09-2026-10-12-2026-10-13-2026-10-14-2026-10-15-2026-10-16-
- 2026-10-23-2026-10-26/\nFound on: https://kideventsinannarbor.com/?event=
- ec7ae81da4ed9e11\n\nDouble check the time with the organizer before you g
- o.
-URL:https://annarborwithkids.com/events/open-swim-20-2026-09-28-2026-09-29
- -2026-09-30-2026-10-01-2026-10-02-2026-10-05-2026-10-06-2026-10-07-2026-1
- 0-08-2026-10-09-2026-10-12-2026-10-13-2026-10-14-2026-10-15-2026-10-16-20
- 26-10-23-2026-10-26/
-CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
- ities\,Middle Schoolers
-END:VEVENT
-BEGIN:VEVENT
-UID:03a1c4922eb3baa5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T170000Z
-DTEND:20261026T200000Z
-SUMMARY:Open Swim
-LOCATION:Meri Lou Murray Recreation Center\, Meri Lou Murray Recreation Ce
- nter\, 2960 Washtenaw Avenue\, Ann Arbor\, Michigan\, 48104\, South Ann A
- rbor\, United States
-GEO:42.2573731;-83.70123769999998
-DESCRIPTION:Join the Meri Lou Murray Rec Center for Open Swim. During open
-  swim at least 2 lap lanes will be available for lap swim.\n\nWhere: Meri
-  Lou Murray Recreation Center\, 2960 Washtenaw Avenue\, Ann Arbor\, Michi
- gan\, 48104\, South Ann Arbor\, United States\nAges: Elementary\, High Sc
- hoolers\, MiddleSchoolers\, Preschoolers\, Toddler\nCost: Not listed\nSig
- nup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor with Kids\
- nDetails: https://annarborwithkids.com/events/open-swim-14-2026-09-11-202
- 6-09-14-2026-09-18-2026-09-21-2026-09-25-2026-09-28-2026-10-02-2026-10-05
- -2026-10-09-2026-10-12-2026-10-16-2026-10-19-2026-10-23-2026-10-26/\nFoun
- d on: https://kideventsinannarbor.com/?event=03a1c4922eb3baa5\n\nDouble c
- heck the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/open-swim-14-2026-09-11-2026-09-14
- -2026-09-18-2026-09-21-2026-09-25-2026-09-28-2026-10-02-2026-10-05-2026-1
- 0-09-2026-10-12-2026-10-16-2026-10-19-2026-10-23-2026-10-26/
-CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
- ,Preschoolers\,Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:dde2c68518fcb255@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T170000Z
-DTEND:20261026T200000Z
-SUMMARY:“Spooky Mini Paintings”: Ann Arbor District Library
-LOCATION:Ann Arbor\, MI
-DESCRIPTION:Adults and kids grade K & up invited to use stencils and paint
-  to create images on a mini canvas. 1–4 p.m.\, AADL Pittsfield. Free. (73
- 4) 327–4200.\n\nCost: Free\nSignup: Drop in\, no signup needed\nListed by
- : Ann Arbor Observer Kids Calendar\nDetails: https://annarborobserver.com
- /event/spooky-mini-paintings-ann-arbor-district-library/\nFound on: https
- ://kideventsinannarbor.com/?event=dde2c68518fcb255\n\nDouble check the ti
- me with the organizer before you go.
-URL:https://annarborobserver.com/event/spooky-mini-paintings-ann-arbor-dis
- trict-library/
-CATEGORIES:Free\,Observer Editor
-END:VEVENT
-BEGIN:VEVENT
-UID:437a720bc57f1eab@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T210000Z
-DTEND:20261027T000000Z
-SUMMARY:John The Balloon Buffoon
-LOCATION:Jet's Pizza\, 506 N Main St\, Chelsea\, MI\, 48118
-GEO:42.321354;-84.020176
-DESCRIPTION:Bring your children in for Kids Movie Night and John The Ballo
- on Buffoon will make them a character balloon! Every Monday - 5-8 pm Ball
- oons are FREE!\n\nWhere: 506 N Main St\, Chelsea\, MI\, 48118\nDrive: abo
- ut 29 minutes from downtown Ann Arbor\nAges: Weekly kids movie night at a
-  local pizza spot\, with balloon artist John the Balloon Buffoon making f
- ree character balloons for children. A low-key Monday outing for families
- .\nCost: Free\nSignup: Drop in\, no signup needed\nListed by: Ann Arbor F
- amily\nDetails: https://annarborfamily.com/Calendar/#!/event/14681792\nFo
- und on: https://kideventsinannarbor.com/?event=437a720bc57f1eab\n\nDouble
-  check the time with the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/14681792
-END:VEVENT
-BEGIN:VEVENT
-UID:07f723a2f4c851e9@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T213000Z
-DTEND:20261026T233000Z
-SUMMARY:Trunk or Treat
-LOCATION:Ann Arbor City Club\, Ann Arbor City Club\, 1830 Washtenaw Ave\, 
- Ann Arbor\, Michigan\, 48104\, Campus\, United States
-GEO:42.2688356;-83.72442219999999
-DESCRIPTION:Join the University of Michigan’s Fraternity and Sorority Life
-  for Trunk or Treat. The event is Fraternity and Sorority Life's way of g
- iving back to the community\, with candy\, fun games\, face painting\, ho
- t drinks\, food\, sweets and more.\n\nWhere: Ann Arbor City Club\, 1830 W
- ashtenaw Ave\, Ann Arbor\, Michigan\, 48104\, Campus\, United States\nAge
- s: Elementary\, MiddleSchoolers\, Preschoolers\, Toddler\nCost: Free\nSig
- nup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed
-  by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com/events/tr
- unk-or-treat-23/\nFound on: https://kideventsinannarbor.com/?event=07f723
- a2f4c851e9\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/trunk-or-treat-23/
-CATEGORIES:Crafts\,Elementary\,Food\,Free\,Games\,Halloween
-END:VEVENT
-BEGIN:VEVENT
-UID:ec7ae81da4ed9e11@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261026T233000Z
-DTEND:20261027T010000Z
-SUMMARY:Open Swim
-LOCATION:Mack Pool\, Mack Pool\, 715 Brooks St\, Ann Arbor\, Michigan\, 48
- 103\, West Ann Arbor\, United States
-GEO:42.2873396;-83.75966879999999
-DESCRIPTION:Mack Pool is the City of Ann Arbor's indoor pool. They are ope
- n from the Tuesday after Labor Day through the Friday before Memorial Day
-  each year.\n\nWhere: Mack Pool\, 715 Brooks St\, Ann Arbor\, Michigan\, 
- 48103\, West Ann Arbor\, United States\nAges: Babies\, Elementary\, High 
- Schoolers\, Middle Schoolers\, Preschoolers\, Toddler\nCost: $8\nSignup: 
- Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor with Kids\nDeta
- ils: https://annarborwithkids.com/events/open-swim-20-2026-09-28-2026-09-
- 30-2026-10-02-2026-10-05-2026-10-07-2026-10-09-2026-10-12-2026-10-14-2026
- -10-16-2026-10-19-2026-10-21-2026-10-23-2026-10-26/\nFound on: https://ki
- deventsinannarbor.com/?event=ec7ae81da4ed9e11\n\nDouble check the time wi
- th the organizer before you go.
-URL:https://annarborwithkids.com/events/open-swim-20-2026-09-28-2026-09-30
- -2026-10-02-2026-10-05-2026-10-07-2026-10-09-2026-10-12-2026-10-14-2026-1
- 0-16-2026-10-19-2026-10-21-2026-10-23-2026-10-26/
-CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
- ities\,Middle Schoolers
-END:VEVENT
-BEGIN:VEVENT
 UID:0c042446e2e9c580@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T130000Z
 DTEND:20261027T143000Z
 SUMMARY:A Special Visit with Caring Santa
@@ -435,7 +31,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20264091
 END:VEVENT
 BEGIN:VEVENT
 UID:ba7ec20d8c8b52ea@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T130000Z
 DTEND:20261027T130000Z
 SUMMARY:Ann Arbor District Library Storytimes
@@ -455,7 +51,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:7020d153ef2fcb78@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T133000Z
 DTEND:20261027T160000Z
 SUMMARY:Toddler Tuesdays $3 off kids 5 and under
@@ -477,7 +73,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20226822
 END:VEVENT
 BEGIN:VEVENT
 UID:bfedb5d62ae5dc8d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T143000Z
 DTEND:20261027T153000Z
 SUMMARY:Discovery Time
@@ -500,7 +96,7 @@ CATEGORIES:Crafts\,Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:f061412c7e556915@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T143000Z
 DTEND:20261027T153000Z
 SUMMARY:Nature Storytime: Squirrels
@@ -522,7 +118,7 @@ CATEGORIES:Advance Registration\,Animals\,Crafts\,Fall Fun\,Free\,Nature
 END:VEVENT
 BEGIN:VEVENT
 UID:ad4a4b6929f2e16a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T150000Z
 DTEND:20261027T153000Z
 SUMMARY:CANCELED Preschool Storytimes
@@ -543,7 +139,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:d3810711b34157bc@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T150000Z
 DTEND:20261027T153000Z
 SUMMARY:Drop-In Preschool Story Time
@@ -568,7 +164,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler\,Pres
 END:VEVENT
 BEGIN:VEVENT
 UID:63b4b018bb438c04@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T150000Z
 DTEND:20261027T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -595,7 +191,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:b6419e3cc2348d26@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T150000Z
 DTEND:20261027T160000Z
 SUMMARY:Tot Time
@@ -616,7 +212,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:e2846dabb4d94c59@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T163000Z
 DTEND:20261027T200000Z
 SUMMARY:Open Swim
@@ -644,7 +240,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:a1e45694b9247c4e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T170000Z
 DTEND:20261027T180000Z
 SUMMARY:Jumpstart Storytime
@@ -669,7 +265,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:a89143fe584d8b1b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T170000Z
 DTEND:20261027T190000Z
 SUMMARY:Open Swim
@@ -698,7 +294,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:44e1eb2d55ec725a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T210000Z
 DTEND:20261027T223000Z
 SUMMARY:Trunk or Treat
@@ -720,7 +316,7 @@ CATEGORIES:Elementary\,Free\,Halloween\,Outdoor\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:211eeb8d3f8705bb@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T220000Z
 DTEND:20261028T000000Z
 SUMMARY:Skelementary
@@ -742,7 +338,7 @@ CATEGORIES:Crafts\,Elementary\,Food\,Free\,Games\,Halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:b40a3c44f0924932@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T223000Z
 DTEND:20261027T230000Z
 SUMMARY:Halloween Storytime
@@ -762,7 +358,7 @@ CATEGORIES:Library\,Free\,Storytime\,Advance Registration\,Elementary\,Hal
 END:VEVENT
 BEGIN:VEVENT
 UID:199ce05b7736196d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T223000Z
 DTEND:20261028T003000Z
 SUMMARY:Hands-On Mozzarella Making
@@ -783,7 +379,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/18902183
 END:VEVENT
 BEGIN:VEVENT
 UID:d6f5262643492edf@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T230000Z
 DTEND:20261028T010000Z
 SUMMARY:Huron Valley Harmonizers Chapter of the Barbershop Harmony Society
@@ -803,7 +399,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:827b0c3bd74b8e76@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T230000Z
 DTEND:20261028T013000Z
 SUMMARY:Tuesday English Country Dance: Ann Arbor Community of Traditional 
@@ -824,7 +420,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:a89143fe584d8b1b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261027T234500Z
 DTEND:20261028T003000Z
 SUMMARY:Open Swim
@@ -851,7 +447,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:cb1b856a32804c1e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T110000Z
 DTEND:20261028T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -880,7 +476,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:8a66187b97a8b004@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T130000Z
 DTEND:20261028T130000Z
 SUMMARY:Ann Arbor District Library Storytimes
@@ -900,7 +496,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:a807f12d6b60b501@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T130000Z
 DTEND:20261028T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -926,7 +522,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:201d162fc6d27a13@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T133000Z
 DTEND:20261028T160000Z
 SUMMARY:Nanny Wednesday from 9:30-12noon
@@ -946,7 +542,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20226823
 END:VEVENT
 BEGIN:VEVENT
 UID:edd5ec8dd5046471@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T140000Z
 DTEND:20261028T190000Z
 SUMMARY:Chelsea Farmers Market
@@ -975,7 +571,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:47cfa76d9bf84e06@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T140000Z
 DTEND:20261028T150000Z
 SUMMARY:Open Swim
@@ -1000,7 +596,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:7444bfea924a9591@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T140000Z
 DTEND:20261028T150000Z
 SUMMARY:Tot Swim
@@ -1026,7 +622,7 @@ CATEGORIES:Babies\,Fitness/Health\,IndoorActivities\,Preschoolers\,Swimmin
 END:VEVENT
 BEGIN:VEVENT
 UID:f5e9088d17cd2bf3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T143000Z
 DTEND:20261028T150000Z
 SUMMARY:CANCELED Preschool Storytimes
@@ -1047,7 +643,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:abb6b7401e199d30@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T143000Z
 DTEND:20261028T150000Z
 SUMMARY:Free Kindermotion Ann Arbor Introductory Class
@@ -1070,7 +666,7 @@ CATEGORIES:Advance Registration\,DisplayImage\,Elementary\,Fitness/Health\
 END:VEVENT
 BEGIN:VEVENT
 UID:108542557a47a7e5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T143000Z
 DTEND:20261028T153000Z
 SUMMARY:Nature Play
@@ -1092,7 +688,7 @@ CATEGORIES:Advance Registration\,Babies\,Free\,Nature\,Outdoor\,Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:fb622c26fcd76836@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T143000Z
 DTEND:20261028T153000Z
 SUMMARY:Read Sing Play
@@ -1117,7 +713,7 @@ CATEGORIES:Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:d8fa29c6d0319f7d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T150000Z
 DTEND:20261028T180000Z
 SUMMARY:Education: Theatre Arts Club Meetup
@@ -1137,7 +733,7 @@ CATEGORIES:Babies\,Elementary\,Food\,IndoorActivities\,Preschoolers\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:1fddd058c541225e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T150000Z
 DTEND:20261028T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1164,7 +760,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:d07019a731268e8e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T150000Z
 DTEND:20261028T160000Z
 SUMMARY:Tot Time
@@ -1185,7 +781,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:6c7f60351b9db5c6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T160000Z
 DTEND:20261028T163000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -1207,7 +803,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:c274e578291703a6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T163000Z
 DTEND:20261028T200000Z
 SUMMARY:Open Swim
@@ -1235,7 +831,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:47cfa76d9bf84e06@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T170000Z
 DTEND:20261028T190000Z
 SUMMARY:Open Swim
@@ -1263,30 +859,30 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
  ,Preschoolers\,Sport
 END:VEVENT
 BEGIN:VEVENT
-UID:2d4775ccbabf8db5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+UID:239807f590b60092@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:My Turn: Sensory Friendly Hours
-LOCATION:Ann Arbor Hands-On Museum\, Ann Arbor Hands-On Museum\, 220 E Ann
-  St\, Ann Arbor\, MI\, 48104\, United States
-GEO:42.281722;-83.746557
-DESCRIPTION:The Ann Arbor Hands-On Museum has brought back their My Turn p
- rogram that provides Sensory Friendly Hours to visit the Museum. My Turn 
- hours are 3-5p. The next date is October 28.\n\nWhere: Ann Arbor Hands-On
-  Museum\, 220 E Ann St\, Ann Arbor\, MI\, 48104\, United States\nAges: El
- ementary\, High Schoolers\, Middle Schoolers\, Preschoolers\nCost: Free\n
- Signup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor with Ki
- ds\nDetails: https://annarborwithkids.com/events/my-turn-sensory-friendly
- -hours-2/\nFound on: https://kideventsinannarbor.com/?event=2d4775ccbabf8
- db5\n\nDouble check the time with the organizer before you go.
-URL:https://annarborwithkids.com/events/my-turn-sensory-friendly-hours-2/
+LOCATION:Ann Arbor Hands-On Museum\, 220 E Ann St\, Ann Arbor\, MI\, 48104
+GEO:42.282004099999995;-83.7465101
+DESCRIPTION:Hosted by trained Museum educators\, My Turn offers a calmer\,
+  more accessible time to explore the Ann Arbor Hands-On Museum alongside 
+ other families seeking a less stimulating environment.\n\nWhere: 220 E An
+ n St\, Ann Arbor\, MI\, 48104\nAges: A calmer museum hours experience for
+  families needing a sensory-friendly setting\, with limited attendance\, 
+ break areas\, sensory bags\, and supportive staff.\nCost: Free\nSignup: R
+ egistration required\, book before you go\nIndoors\nListed by: Ann Arbor 
+ Family\nDetails: https://annarborfamily.com/Calendar/#!/event/20276639\nF
+ ound on: https://kideventsinannarbor.com/?event=239807f590b60092\n\nDoubl
+ e check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/20276639
 CATEGORIES:Elementary\,Free\,High Schoolers\,IndoorActivities\,Middle Scho
  olers\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:8f119ed72e0dba9c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T210000Z
 DTEND:20261028T230000Z
 SUMMARY:Behavior Frontiers Canton Sensory-Friendly Trunk-or-Treat
@@ -1309,7 +905,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20082942
 END:VEVENT
 BEGIN:VEVENT
 UID:4de9bb9f18490520@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T230000Z
 DTEND:20261029T010000Z
 SUMMARY:Depot Town Halloween Pet Parade
@@ -1334,7 +930,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,Free\,Halloween\,Hig
 END:VEVENT
 BEGIN:VEVENT
 UID:c274e578291703a6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261028T233000Z
 DTEND:20261029T010000Z
 SUMMARY:Open Swim
@@ -1359,28 +955,30 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
  ities\,Middle Schoolers
 END:VEVENT
 BEGIN:VEVENT
-UID:520485f954b43742@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+UID:0406dfa9c79263fe@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T040000Z
 DTEND:20261029T040000Z
-SUMMARY:Ypsilanti Half Day
-LOCATION:We Rock The Spectrum - Ann Arbor\, 4370 Varsity Dr suite a\, Ann 
- Arbor\, MI\, 48108
-GEO:42.222992268415126;-83.72459545276105
-DESCRIPTION:A half-day program for kids\, offering supervised play and act
- ivities in an indoor play space.\n\nWhere: 4370 Varsity Dr suite a\, Ann 
- Arbor\, MI\, 48108\nDrive: about 14 minutes from downtown Ann Arbor\nAges
- : A half-day program for kids\, offering supervised play and activities i
- n an indoor play space.\nCost: Not listed\nSignup: Drop in\, no signup ne
- eded\nIndoors\nListed by: Ann Arbor Family\nDetails: https://annarborfami
- ly.com/Calendar/#!/event/19901482\nFound on: https://kideventsinannarbor.
- com/?event=520485f954b43742\n\nDouble check the time with the organizer b
- efore you go.
-URL:https://annarborfamily.com/Calendar/#!/event/19901482
+SUMMARY:Free Concert: Things that Go Bump
+LOCATION:Washtenaw Community College\, 4800 E. Huron River Drive\, Ann Arb
+ or\, MI\, 48105
+GEO:42.2637691;-83.6655487
+DESCRIPTION:What lurks in the shadows? Find out at this spooktacular conce
+ rt as we journey from haunted mountains and ghostly carousels to eerie ma
+ gic\, cinematic thrills\, and a trip to the scaffold.\n\nWhere: 4800 E. H
+ uron River Drive\, Ann Arbor\, MI\, 48105\nDrive: about 15 minutes from d
+ owntown Ann Arbor\nAges: all ages\nCost: Free\nSignup: Drop in\, no signu
+ p needed\nOutdoors\, dress for the weather\nListed by: Destination Ann Ar
+ bor\nDetails: https://www.annarbor.org/event/free-concert%3a-things-that-
+ go-bump/25960/\nFound on: https://kideventsinannarbor.com/?event=0406dfa9
+ c79263fe\n\nDouble check the time with the organizer before you go.
+URL:https://www.annarbor.org/event/free-concert%3a-things-that-go-bump/259
+ 60/
+CATEGORIES:Concerts & Music\, Halloween\, One-Time Event
 END:VEVENT
 BEGIN:VEVENT
 UID:93ef655a13b8a1af@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T130000Z
 DTEND:20261029T130000Z
 SUMMARY:Ann Arbor District Library Storytimes
@@ -1400,7 +998,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:f20c1970a476e3b0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T133000Z
 DTEND:20261029T140000Z
 SUMMARY:Sound Beginnings Demo Class
@@ -1425,7 +1023,7 @@ CATEGORIES:Advance Registration\,Babies\,DisplayImage\,Free\,Indoor Activi
 END:VEVENT
 BEGIN:VEVENT
 UID:0c5b988c843704c8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T143000Z
 DTEND:20261029T153000Z
 SUMMARY:Discovery Time
@@ -1448,7 +1046,7 @@ CATEGORIES:Crafts\,Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:63a8697091c9c0c1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T143000Z
 DTEND:20261029T153000Z
 SUMMARY:Little Paws Storytime
@@ -1472,7 +1070,7 @@ CATEGORIES:Advance Registration\,Animals\,Frugal\,IndoorActivities\,Presch
 END:VEVENT
 BEGIN:VEVENT
 UID:313efcab31e46fe3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T143000Z
 DTEND:20261029T153000Z
 SUMMARY:Read Sing Play
@@ -1499,7 +1097,7 @@ CATEGORIES:Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:f20c1970a476e3b0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T143000Z
 DTEND:20261029T150000Z
 SUMMARY:Sound Beginnings Demo Class
@@ -1524,7 +1122,7 @@ CATEGORIES:Advance Registration\,Babies\,DisplayImage\,Free\,Indoor Activi
 END:VEVENT
 BEGIN:VEVENT
 UID:34a97982cce1e848@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T150000Z
 DTEND:20261029T153000Z
 SUMMARY:Drop-In Story Time
@@ -1551,7 +1149,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:f03d609cb3557207@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T150000Z
 DTEND:20261029T153000Z
 SUMMARY:Preschool Storytimes
@@ -1572,7 +1170,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:b73f7618da067107@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T150000Z
 DTEND:20261029T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1599,7 +1197,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:e5e9578c2715bc5a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T150000Z
 DTEND:20261029T160000Z
 SUMMARY:Tot Time
@@ -1620,7 +1218,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a5eebd3b0ffb111e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T151500Z
 DTEND:20261029T161500Z
 SUMMARY:Docent Pop-up Cart
@@ -1641,7 +1239,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/19907741
 END:VEVENT
 BEGIN:VEVENT
 UID:d286635056595506@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T163000Z
 DTEND:20261029T200000Z
 SUMMARY:Open Swim
@@ -1669,7 +1267,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:5f4367b6b682e67b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T170000Z
 DTEND:20261029T190000Z
 SUMMARY:Open Swim
@@ -1698,7 +1296,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:c732e74c313d1368@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T200000Z
 DTEND:20261029T220000Z
 SUMMARY:Trick or Treat in Depot Town
@@ -1721,7 +1319,7 @@ CATEGORIES:Elementary\,Free\,Halloween\,MiddleSchoolers\,Outdoor\,Preschoo
 END:VEVENT
 BEGIN:VEVENT
 UID:2d6f7bfdb27fc1ce@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T210000Z
 DTEND:20261029T230000Z
 SUMMARY:Boo Bash at Briarwood Mall
@@ -1741,7 +1339,7 @@ CATEGORIES:Babies\,Crafts\,Elementary\,Free\,Halloween\,High Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:c60cfbdde922ec68@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T210000Z
 DTEND:20261029T230000Z
 SUMMARY:Chelsea's Best FREE Trunk or Treat
@@ -1765,7 +1363,7 @@ CATEGORIES:Elementary\,Free\,Halloween\,MiddleSchoolers\,Outdoor\,Preschoo
 END:VEVENT
 BEGIN:VEVENT
 UID:8b8033f0aaad805f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T220000Z
 DTEND:20261030T000000Z
 SUMMARY:Howl-O-Ween Party
@@ -1787,7 +1385,7 @@ CATEGORIES:Animals\,Food\,Halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:c8fc3a7ce2c604e6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T220000Z
 DTEND:20261030T000000Z
 SUMMARY:Trunk or Treat
@@ -1810,7 +1408,7 @@ CATEGORIES:Elementary\,Food\,Halloween\,Movies\,Outdoor\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:5d172836a8594d27@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T223000Z
 DTEND:20261029T230000Z
 SUMMARY:Family Fun Storytime at Brecon Park
@@ -1832,7 +1430,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:b7e99eb3a02de362@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T230000Z
 DTEND:20261030T000000Z
 SUMMARY:Dual Identities with Arthur Horwitz: Ann Arbor Jewish Book Series
@@ -1850,7 +1448,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:d503d4dd74c44081@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T233000Z
 DTEND:20261029T233000Z
 SUMMARY:Things That Go Bump - Washtenaw Community Concert Band
@@ -1873,7 +1471,7 @@ CATEGORIES:Concert\,Elementary\,Free\,Halloween\,HighSchoolers\,Indoor Act
 END:VEVENT
 BEGIN:VEVENT
 UID:5f4367b6b682e67b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261029T234500Z
 DTEND:20261030T003000Z
 SUMMARY:Open Swim
@@ -1901,7 +1499,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:f8c813317c012705@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T040000Z
 DTEND:20261030T040000Z
 SUMMARY:Ypsilanti Fall BreK
@@ -1922,7 +1520,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/19734676
 END:VEVENT
 BEGIN:VEVENT
 UID:1537f11fa5feb691@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T080000Z
 DTEND:20261030T080000Z
 SUMMARY:Halloween Character Immersion Trick-or-Treat
@@ -1939,7 +1537,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:935578466f13876f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T124500Z
 DTEND:20261030T133000Z
 SUMMARY:Pre-School Playtime
@@ -1961,7 +1559,7 @@ CATEGORIES:Advance Registration\,Fitness/Health\,IndoorActivities\,Playgro
 END:VEVENT
 BEGIN:VEVENT
 UID:971e4a9340649f9c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T130000Z
 DTEND:20261030T130000Z
 SUMMARY:Ann Arbor District Library Storytimes
@@ -1981,7 +1579,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/18068175
 END:VEVENT
 BEGIN:VEVENT
 UID:b563e1414ccff721@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T130000Z
 DTEND:20261030T141500Z
 SUMMARY:Open Swim
@@ -2006,7 +1604,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:10a7849614c74663@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T140000Z
 DTEND:20261030T150000Z
 SUMMARY:Preschool Explorers at the Mills
@@ -2030,7 +1628,7 @@ CATEGORIES:Advance Registration\,Animals\,IndoorActivities\,Nature\,Outdoo
 END:VEVENT
 BEGIN:VEVENT
 UID:4654f12b8eeec830@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T140000Z
 DTEND:20261030T160000Z
 SUMMARY:Toddler Time at Launch Trampoline
@@ -2053,7 +1651,7 @@ CATEGORIES:Fitness/Health\,Indoor Activities\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:af3364d7e42b2e44@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T143000Z
 DTEND:20261030T150000Z
 SUMMARY:Family Fun Storytime
@@ -2076,7 +1674,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler\,Fami
 END:VEVENT
 BEGIN:VEVENT
 UID:9d57fdbba5286cbf@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T143000Z
 DTEND:20261030T150000Z
 SUMMARY:The Halloween Show!
@@ -2098,7 +1696,7 @@ CATEGORIES:Public Event\,Babies\,Elementary\,Free\,Halloween\,IndoorActivi
 END:VEVENT
 BEGIN:VEVENT
 UID:dc869835a0abf15d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T150000Z
 DTEND:20261030T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -2125,7 +1723,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:150efd6f16f5a8c2@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T150000Z
 DTEND:20261030T160000Z
 SUMMARY:Tot Time
@@ -2146,7 +1744,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:3905537eb9043ed5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T153000Z
 DTEND:20261030T160000Z
 SUMMARY:The Halloween Show!
@@ -2169,7 +1767,7 @@ CATEGORIES:Babies\,Elementary\,Free\,Halloween\,IndoorActivities\,Preschoo
 END:VEVENT
 BEGIN:VEVENT
 UID:6341f0e0474df1af@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T160000Z
 DTEND:20261030T163000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -2191,7 +1789,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:72a3390da7a7b4a6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T160000Z
 DTEND:20261030T200000Z
 SUMMARY:Downtown Dexter Trick or Treat
@@ -2214,7 +1812,7 @@ CATEGORIES:Babies\,Free\,Halloween\,Preschoolers\,Toddler\,Trick or Treat
 END:VEVENT
 BEGIN:VEVENT
 UID:629a0f591950e93d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T160000Z
 DTEND:20261030T190000Z
 SUMMARY:Homeschool Jump
@@ -2238,7 +1836,7 @@ CATEGORIES:Elementary\,Fitness/Health\,High Schoolers\,Home SchoolProgram\
 END:VEVENT
 BEGIN:VEVENT
 UID:94b2c371755dfac2@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T160000Z
 DTEND:20261030T200000Z
 SUMMARY:Trick or Treat at Washtenaw County Trial Court
@@ -2262,7 +1860,7 @@ CATEGORIES:Elementary\,Free\,Halloween\,IndoorActivities\,Preschoolers\,To
 END:VEVENT
 BEGIN:VEVENT
 UID:feb8face5113f093@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T163000Z
 DTEND:20261030T200000Z
 SUMMARY:Open Swim
@@ -2290,7 +1888,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:f03a5f3766eca1c5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T170000Z
 DTEND:20261030T173000Z
 SUMMARY:CANCELED Preschool Storytimes
@@ -2311,7 +1909,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Outdoor\,Preschoolers\,Storytime\,T
 END:VEVENT
 BEGIN:VEVENT
 UID:593ef28f1056ea47@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T170000Z
 DTEND:20261030T190000Z
 SUMMARY:Community Trick or Treat
@@ -2335,7 +1933,7 @@ CATEGORIES:Free\,Halloween\,Preschoolers\,Toddler\,Trick or Treat\,Babies
 END:VEVENT
 BEGIN:VEVENT
 UID:1a9ee12ff77ddae7@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T170000Z
 DTEND:20261030T180000Z
 SUMMARY:Jumpstart Kindergarten
@@ -2360,7 +1958,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:b563e1414ccff721@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T170000Z
 DTEND:20261030T200000Z
 SUMMARY:Open Swim
@@ -2387,7 +1985,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:785a64e091d02487@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T170000Z
 DTEND:20261030T200000Z
 SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
@@ -2409,7 +2007,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:98bf321c6a7abc15@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T190000Z
 DTEND:20261030T220000Z
 SUMMARY:All Hallows Eve at Parker Mill
@@ -2431,7 +2029,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:0a416a496a5c9682@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T200000Z
 DTEND:20261030T220000Z
 SUMMARY:Traver Village Trick or Treat
@@ -2454,7 +2052,7 @@ CATEGORIES:Elementary\,Free\,Halloween\,MiddleSchoolers\,Preschoolers\,Sho
 END:VEVENT
 BEGIN:VEVENT
 UID:fe3edb0333075d8b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T213000Z
 DTEND:20261030T230000Z
 SUMMARY:Downtown Trick or Treat
@@ -2477,7 +2075,7 @@ CATEGORIES:Babies\,Elementary\,Free\,Halloween\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:5ef5e0d8f7a5185b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T213000Z
 DTEND:20261030T233000Z
 SUMMARY:Family Splash Night
@@ -2503,7 +2101,7 @@ CATEGORIES:Elementary\,Fitness/Health\,High Schoolers\,IndoorActivities\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:f41da792b4dfc2b9@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T213000Z
 DTEND:20261030T230000Z
 SUMMARY:Trunk or Treat at The Neighborhood Collaborative: Powered by the
@@ -2523,7 +2121,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20207784
 END:VEVENT
 BEGIN:VEVENT
 UID:c2beeccf8b68c234@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T220000Z
 DTEND:20261031T020000Z
 SUMMARY:D&D Adventurers League: Sylvan Factory
@@ -2543,7 +2141,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:6cdf1baf31a21361@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T220000Z
 DTEND:20261030T233000Z
 SUMMARY:Trunk or Treat
@@ -2569,7 +2167,7 @@ CATEGORIES:Elementary\,Free\,Halloween\,MiddleSchoolers\,Outdoor\,Preschoo
 END:VEVENT
 BEGIN:VEVENT
 UID:1d1f3c05c55885cb@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T223000Z
 DTEND:20261031T003000Z
 SUMMARY:Fireside Fun – A Good Old-fashioned Campfire Circle
@@ -2595,7 +2193,7 @@ CATEGORIES:Animals\,Elementary\,Food\,Free\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:04a8daa8ddf34bf4@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T223000Z
 DTEND:20261030T230000Z
 SUMMARY:Reflejos Latinos: Ann Arbor District Library
@@ -2613,7 +2211,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:12f29dd25d0b60c5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T230000Z
 DTEND:20261031T003000Z
 SUMMARY:Trunk or Treat
@@ -2636,7 +2234,7 @@ CATEGORIES:Advance Registration\,Elementary\,Free\,Halloween\,IndoorActivi
 END:VEVENT
 BEGIN:VEVENT
 UID:feb8face5113f093@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261030T233000Z
 DTEND:20261031T010000Z
 SUMMARY:Open Swim
@@ -2662,7 +2260,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:0aca3ec83ae8358d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T010000Z
 DTEND:20261031T033000Z
 SUMMARY:Lilyisthatyou.
@@ -2679,8 +2277,29 @@ URL:https://annarborobserver.com/event/lilyisthatyou/
 CATEGORIES:Nightspots
 END:VEVENT
 BEGIN:VEVENT
+UID:58dc649febdf3c18@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
+DTSTART:20261031T040000Z
+DTEND:20261031T040000Z
+SUMMARY:Ypsilanti Fall BreK
+LOCATION:We Rock The Spectrum - Ann Arbor\, 4370 Varsity Dr suite a\, Ann 
+ Arbor\, MI\, 48108
+GEO:42.222992268415126;-83.72459545276105
+DESCRIPTION:A fall break program for kids at an indoor play and activity c
+ enter\, giving families in the Ypsilanti area a place for active play.\n\
+ nWhere: 4370 Varsity Dr suite a\, Ann Arbor\, MI\, 48108\nDrive: about 14
+  minutes from downtown Ann Arbor\nAges: A fall break program for kids at 
+ an indoor play and activity center\, giving families in the Ypsilanti are
+ a a place for active play.\nCost: Not listed\nSignup: Drop in\, no signup
+  needed\nIndoors\nListed by: Ann Arbor Family\nDetails: https://annarborf
+ amily.com/Calendar/#!/event/19734676\nFound on: https://kideventsinannarb
+ or.com/?event=58dc649febdf3c18\n\nDouble check the time with the organize
+ r before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/19734676
+END:VEVENT
+BEGIN:VEVENT
 UID:59f4127bcd6fb32b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T110000Z
 DTEND:20261031T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -2709,7 +2328,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:789df771b9fdd081@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T120000Z
 DTEND:20261031T170000Z
 SUMMARY:Chelsea Farmers Market
@@ -2738,7 +2357,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,Free\,High Schoolers\,MiddleS
 END:VEVENT
 BEGIN:VEVENT
 UID:ce1c9c5937f30507@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T120000Z
 DTEND:20261031T170000Z
 SUMMARY:Dexter Farmers Market
@@ -2762,7 +2381,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:47e567e43736ce45@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T120000Z
 DTEND:20261031T160000Z
 SUMMARY:Saline Famers Market
@@ -2790,7 +2409,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:5779007300c4aaa3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T130000Z
 DTEND:20261031T190000Z
 SUMMARY:Halloween at Wasem
@@ -2812,7 +2431,7 @@ CATEGORIES:Animals\,Elementary\,FallFun\,Food\,Halloween\,High Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:5d6b123b5142ecc1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T130000Z
 DTEND:20261031T160000Z
 SUMMARY:Making Strides Against Breast Cancer of Ann Arbor
@@ -2840,7 +2459,7 @@ CATEGORIES:Advance Registration\,CharitableEvent\,Elementary\,Free\,High S
 END:VEVENT
 BEGIN:VEVENT
 UID:410c7173a6565e1e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T130000Z
 DTEND:20261031T150000Z
 SUMMARY:Toddler Time Boo Bash
@@ -2860,7 +2479,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20055202
 END:VEVENT
 BEGIN:VEVENT
 UID:5e827022061dc929@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T130000Z
 DTEND:20261031T140000Z
 SUMMARY:Toddler Time at Launch Trampoline
@@ -2883,7 +2502,7 @@ CATEGORIES:Fitness/Health\,Indoor Activities\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:d8ad504037bcfedc@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T130000Z
 DTEND:20261031T160000Z
 SUMMARY:Trick-or-Treat at Hide and Seek!
@@ -2905,7 +2524,7 @@ CATEGORIES:Advance Registration\,Babies\,DisplayImage\,Halloween\,Indoor A
 END:VEVENT
 BEGIN:VEVENT
 UID:031417cbc90a3d69@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T130000Z
 DTEND:20261031T170000Z
 SUMMARY:White Lotus Farms Farmers Market
@@ -2929,7 +2548,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4da9fdea982952a5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T130000Z
 DTEND:20261031T170000Z
 SUMMARY:Ypsilanti Farmers Market
@@ -2956,7 +2575,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4e95066190c0ca18@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T140000Z
 DTEND:20261031T200000Z
 SUMMARY:Autumn Days at the Petting Farm - Halloween Finale
@@ -2980,8 +2599,31 @@ URL:https://annarborwithkids.com/events/autumn-days-at-the-petting-farm-20
 CATEGORIES:Animals\,Crafts\,Elementary\,FallFun\,Food\,Halloween
 END:VEVENT
 BEGIN:VEVENT
+UID:9ffe87cc136763c9@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
+DTSTART:20261031T140000Z
+DTEND:20261031T170000Z
+SUMMARY:Free Kid's Halloween Cookie Decorating
+LOCATION:Baker\\'s Nook\, Baker\\'s Nook\, 901 West Michigan Ave\, Saline\
+ , Michigan\, 48176\, United States
+GEO:42.160536;-83.795375
+DESCRIPTION:Get your costumes ready! Join Baker's Nook for a fun\, family-
+ friendly Halloween event on Saturday\, October 31st. Bring the kids dress
+ ed up in their Halloween costumes to show off their spooky gear and get a
+  special treat\, plus decorate a cookie to take home.\n\nWhere: Baker\\'s
+  Nook\, 901 West Michigan Ave\, Saline\, Michigan\, 48176\, United States
+ \nDrive: about 26 minutes from downtown Ann Arbor\nAges: Elementary\, Hig
+ h Schoolers\, MiddleSchoolers\, Preschoolers\, Toddler\nCost: Free\nSignu
+ p: Drop in\, no signup needed\nListed by: Ann Arbor with Kids\nDetails: h
+ ttps://annarborwithkids.com/events/fall-family-fun/\nFound on: https://ki
+ deventsinannarbor.com/?event=9ffe87cc136763c9\n\nDouble check the time wi
+ th the organizer before you go.
+URL:https://annarborwithkids.com/events/fall-family-fun/
+CATEGORIES:Crafts\,Elementary\,FallFun\,Food\,Free\,Halloween
+END:VEVENT
+BEGIN:VEVENT
 UID:3254d2b9dd076dc9@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T140000Z
 DTEND:20261031T200000Z
 SUMMARY:Friendly Frights Fun-House
@@ -3004,8 +2646,29 @@ CATEGORIES:Crafts\,Elementary\,Halloween\,IndoorActivities\,Preschoolers\,
  Toddler
 END:VEVENT
 BEGIN:VEVENT
+UID:43ce2c644701ce59@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
+DTSTART:20261031T140000Z
+DTEND:20261031T180000Z
+SUMMARY:Pre-Game Trunk or Treat
+LOCATION:Varsity Ford\, Varsity Ford\, 3480 Jackson Rd\, Ann Arbor\, Michi
+ gan\, 48103\, United States
+DESCRIPTION:Join Varsity Ford on October 31 from 10a=2p for some Halloween
+  fun! Bring the family\, wear your best costumes\, and enjoy some treats 
+ with the Varsity Ford team! (Note the UM Football game is an away game at
+  12:30p)\n\nWhere: Varsity Ford\, 3480 Jackson Rd\, Ann Arbor\, Michigan\
+ , 48103\, United States\nAges: Elementary\, Preschoolers\, Toddler\nCost:
+  Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weath
+ er\nListed by: Ann Arbor with Kids\nDetails: https://annarborwithkids.com
+ /events/pre-game-trunk-or-treat/\nFound on: https://kideventsinannarbor.c
+ om/?event=43ce2c644701ce59\n\nDouble check the time with the organizer be
+ fore you go.
+URL:https://annarborwithkids.com/events/pre-game-trunk-or-treat/
+CATEGORIES:Elementary\,Free\,Halloween\,Outdoor\,Preschoolers\,Toddler
+END:VEVENT
+BEGIN:VEVENT
 UID:426d757300c6b2ca@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T140000Z
 DTEND:20261031T200000Z
 SUMMARY:Trick or Treat Yourself to $1 Off
@@ -3027,7 +2690,7 @@ CATEGORIES:Elementary\,Halloween\,IndoorActivities\,Middle Schoolers\,Pres
 END:VEVENT
 BEGIN:VEVENT
 UID:fc60fd2246eb65d2@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T143000Z
 DTEND:20261031T150000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -3049,7 +2712,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:b6fb25aa0e6f8de7@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T143000Z
 DTEND:20261031T153000Z
 SUMMARY:Little Paws Toddler Time–Special Halloween Program!
@@ -3075,7 +2738,7 @@ CATEGORIES:Advance Registration\,Animals\,Crafts\,Frugal\,Halloween\,Indoo
 END:VEVENT
 BEGIN:VEVENT
 UID:5fec6bfecbd55bbb@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T143000Z
 DTEND:20261031T153000Z
 SUMMARY:Little Paws: Halloween
@@ -3092,7 +2755,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:74abe62be6a368c7@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T150000Z
 DTEND:20261031T160000Z
 SUMMARY:Halloween Storytime
@@ -3116,7 +2779,7 @@ CATEGORIES:Elementary\,Free\,Halloween\,IndoorActivities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:634c5349c47fa615@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T150000Z
 DTEND:20261031T190000Z
 SUMMARY:Halloween at Harvest Market
@@ -3138,7 +2801,7 @@ CATEGORIES:Elementary\,Free\,Halloween\,IndoorActivities\,Middle Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:543d824d8b06f956@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Critter House Open Hours
@@ -3163,7 +2826,7 @@ CATEGORIES:Animals\,Elementary\,HighSchoolers\,Indoor Activities\,Middle S
 END:VEVENT
 BEGIN:VEVENT
 UID:f452271baf218b7f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Critters Up Close
@@ -3185,7 +2848,7 @@ CATEGORIES:Animals\,Elementary\,Preschoolers\,STEM\,Toddler\,Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:08e0ed10e855da5c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T160000Z
 DTEND:20261031T200000Z
 SUMMARY:Healthy Halloween - Wellness Fair & Kids Indoor Trick or Treat
@@ -3207,7 +2870,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20140033
 END:VEVENT
 BEGIN:VEVENT
 UID:3a68d5c70b16abbe@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Open Swim
@@ -3231,8 +2894,30 @@ CATEGORIES:Babies\,Elementary\,Frugal\,High Schoolers\,IndoorActivities\,M
  iddle Schoolers
 END:VEVENT
 BEGIN:VEVENT
+UID:41661c324a964633@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
+DTSTART:20261031T170000Z
+DTEND:20261031T200000Z
+SUMMARY:Southwest Hallowfest
+LOCATION:Boyer Playground Park\, 6203 Vernor Hwy\, Dexter\, MI\, 48209
+GEO:42.33837;-83.88856
+DESCRIPTION:Celebrate Halloween at the Annual Southwest Hallowfest at Boye
+ r Playground in Detroit! Hosted by Detroit Enrichment Group\, this free\,
+  family-friendly celebration invites kids to dress up in their favorite c
+ ostumes and enjoy an afternoon of treats\, games\, activities and communi
+ ty...\n\nWhere: 6203 Vernor Hwy\, Dexter\, MI\, 48209\nDrive: about 25 mi
+ nutes from downtown Ann Arbor\nAges: A free community Halloween celebrati
+ on at a neighborhood park\, with treats\, games\, and activities for kids
+ .\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for t
+ he weather\nListed by: Ann Arbor Family\nDetails: https://annarborfamily.
+ com/Calendar/#!/event/20270696\nFound on: https://kideventsinannarbor.com
+ /?event=41661c324a964633\n\nDouble check the time with the organizer befo
+ re you go.
+URL:https://annarborfamily.com/Calendar/#!/event/20270696
+END:VEVENT
+BEGIN:VEVENT
 UID:3d7aaaf0972b953d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T170000Z
 DTEND:20261031T193000Z
 SUMMARY:Thrills at the Mills
@@ -3257,7 +2942,7 @@ CATEGORIES:Advance Registration\,Elementary\,Free\,Halloween\,MiddleSchool
 END:VEVENT
 BEGIN:VEVENT
 UID:29c791302cc49f5a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
 SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
@@ -3279,7 +2964,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:96043bdc93decc49@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T171500Z
 DTEND:20261031T194500Z
 SUMMARY:Open Swim
@@ -3304,7 +2989,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:97bf55b3580ffd3a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T180000Z
 DTEND:20261031T220000Z
 SUMMARY:Open Swim
@@ -3329,7 +3014,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:967d8f642f0bf9f7@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T183000Z
 DTEND:20261031T193000Z
 SUMMARY:Read to a Dog
@@ -3348,8 +3033,29 @@ URL:https://events.getlocalhop.com/read-to-a-dog/event/aCssstpfHU/
 CATEGORIES:Animals\,Educational\,Family Friendly
 END:VEVENT
 BEGIN:VEVENT
+UID:0336aad4e5cbbc37@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
+DTSTART:20261031T190000Z
+DTEND:20261031T220000Z
+SUMMARY:Fresh Start Trunk-or-Treat
+LOCATION:3879 Packard Street\, Unit B\, Ann Arbor\, MI\, 48108
+GEO:42.246075;-83.684535
+DESCRIPTION:Time & Location Oct 31\, 2026\, 3:00 PM - 6:00 PM Fresh Start 
+ Clubhouse\, 3879 Packard St\, Ann Arbor\, MI 48104\, USA About the Event 
+ Please join the Fresh Start Clubhouse for a Community Trunk or Treat\, an
+  exciting and festive event designed to bring together families\, friends
+ \, and...\n\nWhere: 3879 Packard Street\, Unit B\, Ann Arbor\, MI\, 48108
+ \nAges: A community trunk-or-treat with decorated cars\, games\, face pai
+ nting\, a costume contest\, and music in a safe\, welcoming setting.\nCos
+ t: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann Arbor F
+ amily\nDetails: https://annarborfamily.com/Calendar/#!/event/20271777\nFo
+ und on: https://kideventsinannarbor.com/?event=0336aad4e5cbbc37\n\nDouble
+  check the time with the organizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/20271777
+END:VEVENT
+BEGIN:VEVENT
 UID:c75c21ffbf6afc26@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T200000Z
 DTEND:20261031T210000Z
 SUMMARY:Know Obstacles Open Mic & Comedy Hour: Oz’s Music Environment
@@ -3369,7 +3075,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:5e29729bf5a2c0be@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261031T230000Z
 DTEND:20261031T230000Z
 SUMMARY:Costume Party with Michigan Volleyball
@@ -3393,7 +3099,7 @@ CATEGORIES:Advance Registration\,Elementary\,Halloween\,Indoor Activities\
 END:VEVENT
 BEGIN:VEVENT
 UID:2cebcd2631d4a2ec@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261101T160000Z
 DTEND:20261101T170000Z
 SUMMARY:Family Swim
@@ -3417,7 +3123,7 @@ CATEGORIES:Elementary\,Fitness/Health\,IndoorActivities\,Preschoolers\,Swi
 END:VEVENT
 BEGIN:VEVENT
 UID:36840a41d299e4cf@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261101T160000Z
 DTEND:20261101T190000Z
 SUMMARY:Quilting Bee at Sharon Mills
@@ -3436,7 +3142,7 @@ DESCRIPTION:Gather around for a few hours of stitches\, stories\, and shar
 END:VEVENT
 BEGIN:VEVENT
 UID:02cc9046a27d53d8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261101T170000Z
 DTEND:20261101T183000Z
 SUMMARY:Native American Dance and Cultural Program with Reg Pettibone
@@ -3452,11 +3158,11 @@ DESCRIPTION:Champion powwow dancer and full-blooded Native American from t
  or.com/?event=02cc9046a27d53d8\n\nDouble check the time with the organize
  r before you go.
 URL:https://aadl.org/node/669584
-CATEGORIES:Performers
+CATEGORIES:Performers\,BIPOC\,CulturalCelebration\,Dance\,Elementary\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:8453649a77cf707e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261101T173000Z
 DTEND:20261101T200000Z
 SUMMARY:Open Swim
@@ -3481,7 +3187,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:acd17db36d185c19@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261101T180000Z
 DTEND:20261101T200000Z
 SUMMARY:Apollo’s Troupe Theatre
@@ -3501,7 +3207,7 @@ CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:54097c802005a08d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261101T180000Z
 DTEND:20261101T220000Z
 SUMMARY:Open Swim
@@ -3526,7 +3232,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:fc46d4f539b924bf@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261101T220000Z
 DTEND:20261102T010000Z
 SUMMARY:All Hallows Illumination
@@ -3551,7 +3257,7 @@ CATEGORIES:Elementary\,FallFun\,Free\,Halloween\,High Schoolers\,Middle Sc
 END:VEVENT
 BEGIN:VEVENT
 UID:d19b7453c1222d4a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T124500Z
 DTEND:20261102T133000Z
 SUMMARY:Pre-School Playtime
@@ -3573,7 +3279,7 @@ CATEGORIES:Advance Registration\,Fitness/Health\,IndoorActivities\,Playgro
 END:VEVENT
 BEGIN:VEVENT
 UID:431db3039fd0cbc0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T130000Z
 DTEND:20261102T151500Z
 SUMMARY:Open Swim
@@ -3598,7 +3304,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:3e3e79f7dceb0ca5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T143000Z
 DTEND:20261102T153000Z
 SUMMARY:Jumpstart Storytime
@@ -3624,7 +3330,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:1c51c4cd72d2507b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T143000Z
 DTEND:20261102T153000Z
 SUMMARY:Little Ones Storytime
@@ -3650,7 +3356,7 @@ CATEGORIES:Babies\,Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,S
 END:VEVENT
 BEGIN:VEVENT
 UID:bab568eda1510b45@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T143000Z
 DTEND:20261102T150000Z
 SUMMARY:Preschool Storytimes
@@ -3671,7 +3377,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:9398efebe0fc6ccd@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T153000Z
 DTEND:20261102T160000Z
 SUMMARY:Jumpstart Kindergarten
@@ -3691,7 +3397,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:1477fcaf17c275b3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T150000Z
 DTEND:20261102T153000Z
 SUMMARY:Drop-In Story Time
@@ -3718,7 +3424,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:92b22d9ef48a4278@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T150000Z
 DTEND:20261102T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -3745,7 +3451,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:a532f17b15392183@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T150000Z
 DTEND:20261102T160000Z
 SUMMARY:Tot Time
@@ -3766,7 +3472,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:de6aa9074c6581d3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T163000Z
 DTEND:20261102T200000Z
 SUMMARY:Open Swim
@@ -3794,7 +3500,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:431db3039fd0cbc0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T170000Z
 DTEND:20261102T200000Z
 SUMMARY:Open Swim
@@ -3822,7 +3528,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:de6aa9074c6581d3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261102T233000Z
 DTEND:20261103T010000Z
 SUMMARY:Open Swim
@@ -3849,7 +3555,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:8dbe79d82131ee55@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T143000Z
 DTEND:20261103T153000Z
 SUMMARY:Discovery Time
@@ -3872,7 +3578,7 @@ CATEGORIES:Crafts\,Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:768385dcd28c556e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T150000Z
 DTEND:20261103T180000Z
 SUMMARY:Discovery Day at Sharon Mills
@@ -3891,7 +3597,7 @@ DESCRIPTION:Join us at historic Sharon Mills to discover the people\, stor
 END:VEVENT
 BEGIN:VEVENT
 UID:69e51ad6051bbb50@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T150000Z
 DTEND:20261103T153000Z
 SUMMARY:Drop-In Preschool Story Time
@@ -3916,7 +3622,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler\,Pres
 END:VEVENT
 BEGIN:VEVENT
 UID:a0c263ab533cf644@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T150000Z
 DTEND:20261103T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -3943,7 +3649,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:d8b6e993272554e6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T150000Z
 DTEND:20261103T160000Z
 SUMMARY:Tot Time
@@ -3964,7 +3670,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:88813d973ef3f596@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T163000Z
 DTEND:20261103T200000Z
 SUMMARY:Open Swim
@@ -3992,7 +3698,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:926d9ea7b68a2013@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T170000Z
 DTEND:20261103T180000Z
 SUMMARY:Jumpstart Storytime
@@ -4018,7 +3724,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:721749d580100613@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T170000Z
 DTEND:20261103T190000Z
 SUMMARY:Open Swim
@@ -4047,7 +3753,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:bb9c1ff984700674@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T180000Z
 DTEND:20261103T183000Z
 SUMMARY:Jumpstart Kindergarten
@@ -4067,7 +3773,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ddc77e48d195f6b0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T180000Z
 DTEND:20261103T190000Z
 SUMMARY:Magic Sponge Painting
@@ -4088,7 +3794,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:15511e0b6ee0bce1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T180000Z
 DTEND:20261103T200000Z
 SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
@@ -4108,7 +3814,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:3028dea3847bba35@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T213000Z
 DTEND:20261103T223000Z
 SUMMARY:Books to Art: It's Corn Picking Time!
@@ -4131,7 +3837,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Crafts\,Arts & Culture\,Book Cl
 END:VEVENT
 BEGIN:VEVENT
 UID:827148ecd5ed22e4@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T220000Z
 DTEND:20261103T233000Z
 SUMMARY:Folk Song Jam Along
@@ -4152,7 +3858,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:721749d580100613@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261103T234500Z
 DTEND:20261104T003000Z
 SUMMARY:Open Swim
@@ -4181,7 +3887,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:0592168afcc83c6d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T110000Z
 DTEND:20261104T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -4210,7 +3916,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:e0289f4107a895c8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T130000Z
 DTEND:20261104T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -4236,7 +3942,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:c4dea0f4bcfa19cf@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T140000Z
 DTEND:20261104T150000Z
 SUMMARY:Open Swim
@@ -4262,7 +3968,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:bceb105edb1ee8ba@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T140000Z
 DTEND:20261104T150000Z
 SUMMARY:Tot Swim
@@ -4288,7 +3994,7 @@ CATEGORIES:Babies\,Fitness/Health\,IndoorActivities\,Preschoolers\,Swimmin
 END:VEVENT
 BEGIN:VEVENT
 UID:b8366d52ed3445bc@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T143000Z
 DTEND:20261104T150000Z
 SUMMARY:Preschool Storytimes
@@ -4309,7 +4015,7 @@ CATEGORIES:Preschool Storytimes\,Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:9a66692da52038d1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T143000Z
 DTEND:20261104T153000Z
 SUMMARY:Read Sing Play
@@ -4334,7 +4040,7 @@ CATEGORIES:Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:e1939e5bdbbedd5f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T150000Z
 DTEND:20261104T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -4361,7 +4067,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:f353eededfb2f3d8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T150000Z
 DTEND:20261104T160000Z
 SUMMARY:Tot Time
@@ -4382,7 +4088,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:2ff60141a1fd8d0b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T163000Z
 DTEND:20261104T200000Z
 SUMMARY:Open Swim
@@ -4410,7 +4116,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:12ff31c01f6ece1f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T170000Z
 DTEND:20261104T180000Z
 SUMMARY:Literati Presents | Lucy Ruth Cummins: Love Bug
@@ -4429,7 +4135,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:c4dea0f4bcfa19cf@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T170000Z
 DTEND:20261104T190000Z
 SUMMARY:Open Swim
@@ -4458,7 +4164,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:a5c8f4253eb42bc2@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T190000Z
 DTEND:20261104T210000Z
 SUMMARY:“Bastard”: Purple Rose Theatre Company
@@ -4479,7 +4185,7 @@ CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:407d3b0f507dfda0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T200000Z
 DTEND:20261105T000000Z
 SUMMARY:Sensory Friendly Jump
@@ -4504,7 +4210,7 @@ CATEGORIES:Advance Registration\,Elementary\,Fitness/Health\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:2ff60141a1fd8d0b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261104T233000Z
 DTEND:20261105T010000Z
 SUMMARY:Open Swim
@@ -4532,7 +4238,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:b588bee1cf052d0e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T143000Z
 DTEND:20261105T153000Z
 SUMMARY:Discovery Time
@@ -4555,7 +4261,7 @@ CATEGORIES:Crafts\,Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:4816cd5a581da818@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T143000Z
 DTEND:20261105T153000Z
 SUMMARY:Read Sing Play
@@ -4582,7 +4288,7 @@ CATEGORIES:Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:fbe7e864681a96ce@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T150000Z
 DTEND:20261105T153000Z
 SUMMARY:Drop-In Story Time
@@ -4609,7 +4315,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:0fff8008a04114c1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T150000Z
 DTEND:20261105T153000Z
 SUMMARY:Preschool Storytimes
@@ -4630,7 +4336,7 @@ CATEGORIES:Preschool Storytimes\,Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:19e4fe66291de638@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T150000Z
 DTEND:20261105T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -4657,7 +4363,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:74929693a1c87eac@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T150000Z
 DTEND:20261105T160000Z
 SUMMARY:Tot Time
@@ -4678,7 +4384,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:63813e15f705301f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T163000Z
 DTEND:20261105T200000Z
 SUMMARY:Open Swim
@@ -4706,7 +4412,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:796bb713d43b492a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T170000Z
 DTEND:20261105T190000Z
 SUMMARY:Open Swim
@@ -4735,7 +4441,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:07477669c0f3903d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T220000Z
 DTEND:20261106T003000Z
 SUMMARY:Murder for a Mission!
@@ -4752,7 +4458,7 @@ CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
 UID:392e68a6d026244f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T230000Z
 DTEND:20261106T010000Z
 SUMMARY:Apollo’s Troupe Theatre
@@ -4770,7 +4476,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:796bb713d43b492a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261105T234500Z
 DTEND:20261106T003000Z
 SUMMARY:Open Swim
@@ -4799,7 +4505,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:1d7f34259db75c46@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T124500Z
 DTEND:20261106T133000Z
 SUMMARY:Pre-School Playtime
@@ -4821,7 +4527,7 @@ CATEGORIES:Advance Registration\,Fitness/Health\,IndoorActivities\,Playgro
 END:VEVENT
 BEGIN:VEVENT
 UID:14f9bd8d3884bf3d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T130000Z
 DTEND:20261106T141500Z
 SUMMARY:Open Swim
@@ -4847,7 +4553,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:9404ac2764ebb807@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T140000Z
 DTEND:20261106T160000Z
 SUMMARY:Toddler Time at Launch Trampoline
@@ -4870,7 +4576,7 @@ CATEGORIES:Fitness/Health\,Indoor Activities\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:0044f613c1aa28cc@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T143000Z
 DTEND:20261106T150000Z
 SUMMARY:Family Fun Storytime
@@ -4892,7 +4598,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:918474efa9332c69@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T143000Z
 DTEND:20261106T150000Z
 SUMMARY:Moana Storytime
@@ -4915,7 +4621,7 @@ CATEGORIES:Advance Registration\,Babies\,Elementary\,Indoor Activities\,Po
 END:VEVENT
 BEGIN:VEVENT
 UID:219d0b1d545e1f9d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T150000Z
 DTEND:20261106T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -4942,7 +4648,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:2e4147d738f61440@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T150000Z
 DTEND:20261106T160000Z
 SUMMARY:Tot Time
@@ -4963,7 +4669,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:db108f8566fcdd3c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T160000Z
 DTEND:20261106T190000Z
 SUMMARY:Homeschool Jump
@@ -4988,7 +4694,7 @@ CATEGORIES:Elementary\,Fitness/Health\,High Schoolers\,Home SchoolProgram\
 END:VEVENT
 BEGIN:VEVENT
 UID:3d4ec1e12aef31f1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T163000Z
 DTEND:20261106T200000Z
 SUMMARY:Open Swim
@@ -5016,7 +4722,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:5cafc236a860422d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T170000Z
 DTEND:20261106T180000Z
 SUMMARY:Jumpstart Kindergarten
@@ -5041,7 +4747,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:14f9bd8d3884bf3d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T170000Z
 DTEND:20261106T200000Z
 SUMMARY:Open Swim
@@ -5070,7 +4776,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:3bae343a7e90e6b7@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T170000Z
 DTEND:20261106T173000Z
 SUMMARY:Preschool Storytimes
@@ -5091,7 +4797,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Outdoor\,Preschoolers\,Storytime\,T
 END:VEVENT
 BEGIN:VEVENT
 UID:5c4a8c07b1e5a5fe@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T200000Z
 DTEND:20261107T020000Z
 SUMMARY:First Friday Ypsilanti
@@ -5117,7 +4823,7 @@ CATEGORIES:Babies\,Elementary\,Free\,HighSchoolers\,MiddleSchoolers\,Music
 END:VEVENT
 BEGIN:VEVENT
 UID:2a78dfb360d8b301@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T213000Z
 DTEND:20261106T233000Z
 SUMMARY:Family Splash Night
@@ -5144,7 +4850,7 @@ CATEGORIES:Elementary\,Fitness/Health\,High Schoolers\,IndoorActivities\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:4aa917b2777d8d35@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T220000Z
 DTEND:20261106T233000Z
 SUMMARY:Drop-in Line Dancing
@@ -5163,7 +4869,7 @@ CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
 UID:60f90b67d8301826@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T220000Z
 DTEND:20261107T000000Z
 SUMMARY:Glow Swim
@@ -5187,7 +4893,7 @@ CATEGORIES:Advance Registration\,Crafts\,Elementary\,Food\,High Schoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:908b392e6f50be31@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T220000Z
 DTEND:20261107T003000Z
 SUMMARY:Night Hike for Food Gatherers
@@ -5210,7 +4916,7 @@ CATEGORIES:Charitable Event\,Elementary\,Food\,HighSchoolers\,Hikes/Walks\
 END:VEVENT
 BEGIN:VEVENT
 UID:3d4ec1e12aef31f1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261106T233000Z
 DTEND:20261107T010000Z
 SUMMARY:Open Swim
@@ -5238,7 +4944,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:f9692a279f58282a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T000000Z
 DTEND:20261107T020000Z
 SUMMARY:“Bastard”: Purple Rose Theatre Company
@@ -5259,7 +4965,7 @@ CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:3e88cb4e13159127@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T110000Z
 DTEND:20261107T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -5288,7 +4994,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe19ecf93a0f623@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T120000Z
 DTEND:20261107T160000Z
 SUMMARY:Saline Famers Market
@@ -5316,7 +5022,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Food\,Free\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:0b8479bd30f50a12@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T130000Z
 DTEND:20261107T150000Z
 SUMMARY:The Great Pumpkin Roll
@@ -5339,7 +5045,7 @@ CATEGORIES:Age Range\,Elementary\,FallFun\,Free\,Halloween\,High Schoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:a65118c89a05d77f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T130000Z
 DTEND:20261107T140000Z
 SUMMARY:Toddler Time at Launch Trampoline
@@ -5362,7 +5068,7 @@ CATEGORIES:Fitness/Health\,Indoor Activities\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:c48e5ee64b9014ea@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T133000Z
 DTEND:20261107T143000Z
 SUMMARY:CLAYplaytime - Pumpkin/Gourd Hands
@@ -5386,7 +5092,7 @@ CATEGORIES:Advance Registration\,Crafts\,IndoorActivities\,Preschoolers\,R
 END:VEVENT
 BEGIN:VEVENT
 UID:ccbac9cdb4d72fd8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T140000Z
 DTEND:20261107T150000Z
 SUMMARY:"Mommy" and Me Thanksgiving Turkey Fun!
@@ -5410,7 +5116,7 @@ CATEGORIES:Advance Registration\,Art\,Crafts\,Elementary\,Indoor Activitie
 END:VEVENT
 BEGIN:VEVENT
 UID:fb8b3bcb17a4f186@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T140000Z
 DTEND:20261107T190000Z
 SUMMARY:Pineview Craft Show
@@ -5432,7 +5138,7 @@ CATEGORIES:Babies\,Craft/Vendor\,Crafts\,Elementary\,Food\,HighSchoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:07428da7f69623a2@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T150000Z
 DTEND:20261107T160000Z
 SUMMARY:Chinese Storytime
@@ -5453,7 +5159,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:5220f44a56db2a7c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T150000Z
 DTEND:20261107T160000Z
 SUMMARY:Drop-in Wooden Spoon Puppet Craft
@@ -5476,7 +5182,7 @@ CATEGORIES:Crafts\,Elementary\,Free\,HighSchoolers\,Indoor Activities\,Mid
 END:VEVENT
 BEGIN:VEVENT
 UID:cee0f08245cc5226@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T150000Z
 DTEND:20261107T153000Z
 SUMMARY:French Storytime
@@ -5497,7 +5203,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:6ee644e42954144d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T160000Z
 DTEND:20261107T170000Z
 SUMMARY:100 Years of Winnie-the-Pooh Tea Party
@@ -5520,7 +5226,7 @@ CATEGORIES:Crafts\,Family Friendly\,Food & Beverage\,Free\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:2feba017607e6a39@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T160000Z
 DTEND:20261107T210000Z
 SUMMARY:New Harvest Corn Maze
@@ -5543,7 +5249,7 @@ CATEGORIES:Elementary\,Fall Fun\,Halloween\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:3cf968793831a8da@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T160000Z
 DTEND:20261107T190000Z
 SUMMARY:Open Swim
@@ -5568,7 +5274,7 @@ CATEGORIES:Babies\,Elementary\,Frugal\,High Schoolers\,IndoorActivities\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:4f24a1c8e883eb41@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T171500Z
 DTEND:20261107T194500Z
 SUMMARY:Open Swim
@@ -5594,7 +5300,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:7027a646f464e05a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T180000Z
 DTEND:20261107T200000Z
 SUMMARY:Cold Weather Gear Swap
@@ -5614,7 +5320,7 @@ CATEGORIES:Public Event\,Babies\,Elementary\,Food\,IndoorActivities\,Presc
 END:VEVENT
 BEGIN:VEVENT
 UID:52f4608453f56313@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261107T180000Z
 DTEND:20261107T220000Z
 SUMMARY:Open Swim
@@ -5640,7 +5346,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:10d602e63a9ef7a2@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T114500Z
 DTEND:20261108T150000Z
 SUMMARY:A2 Turkey Trot
@@ -5664,7 +5370,7 @@ CATEGORIES:Advance Registration\,Elementary\,HighSchoolers\,Middle Schoole
 END:VEVENT
 BEGIN:VEVENT
 UID:30cb19ef180ea17d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T140000Z
 DTEND:20261108T144500Z
 SUMMARY:Dancing Babies with Momo Kajiwara
@@ -5685,7 +5391,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:1a7d60bf6b4b7282@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T150000Z
 DTEND:20261108T153000Z
 SUMMARY:Arabic Storytime
@@ -5705,7 +5411,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:bf4a021cb678d2cf@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T153000Z
 DTEND:20261108T160000Z
 SUMMARY:Sound Beginnings Demo Class
@@ -5727,7 +5433,7 @@ CATEGORIES:Advance Registration\,Babies\,DisplayImage\,Free\,Indoor Activi
 END:VEVENT
 BEGIN:VEVENT
 UID:c07b3bfad378ee4e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T160000Z
 DTEND:20261108T170000Z
 SUMMARY:Family Swim
@@ -5751,7 +5457,7 @@ CATEGORIES:Elementary\,Fitness/Health\,IndoorActivities\,Preschoolers\,Swi
 END:VEVENT
 BEGIN:VEVENT
 UID:04086c673746c680@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T170000Z
 DTEND:20261108T190000Z
 SUMMARY:Chesstastic
@@ -5771,7 +5477,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:af79ec2a304dfe55@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T173000Z
 DTEND:20261108T200000Z
 SUMMARY:Open Swim
@@ -5797,7 +5503,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:14e5c00cef44d673@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T180000Z
 DTEND:20261108T190000Z
 SUMMARY:Drag Bingo
@@ -5818,7 +5524,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:fa00a7a887048a3a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T180000Z
 DTEND:20261108T220000Z
 SUMMARY:Open Swim
@@ -5844,7 +5550,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:164be38286bc5afe@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T180000Z
 DTEND:20261108T200000Z
 SUMMARY:“Bastard”: Purple Rose Theatre Company
@@ -5865,7 +5571,7 @@ CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:bf4a021cb678d2cf@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261108T193000Z
 DTEND:20261108T200000Z
 SUMMARY:Sound Beginnings Demo Class
@@ -5887,7 +5593,7 @@ CATEGORIES:Advance Registration\,Babies\,DisplayImage\,Free\,Indoor Activi
 END:VEVENT
 BEGIN:VEVENT
 UID:11f875ad99ff7aac@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T124500Z
 DTEND:20261109T133000Z
 SUMMARY:Pre-School Playtime
@@ -5909,7 +5615,7 @@ CATEGORIES:Advance Registration\,Fitness/Health\,IndoorActivities\,Playgro
 END:VEVENT
 BEGIN:VEVENT
 UID:9123d945e87c885e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T130000Z
 DTEND:20261109T151500Z
 SUMMARY:Open Swim
@@ -5935,7 +5641,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:da9118ebea8904ee@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T143000Z
 DTEND:20261109T153000Z
 SUMMARY:Jumpstart Storytime
@@ -5962,7 +5668,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:52bceadddb293126@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T143000Z
 DTEND:20261109T153000Z
 SUMMARY:Little Ones Storytime
@@ -5989,7 +5695,7 @@ CATEGORIES:Babies\,Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,S
 END:VEVENT
 BEGIN:VEVENT
 UID:92fd8ec99e80f94d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T143000Z
 DTEND:20261109T150000Z
 SUMMARY:Preschool ArtStart
@@ -6010,7 +5716,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:1be84c6fe4133238@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T143000Z
 DTEND:20261109T150000Z
 SUMMARY:Preschool Storytimes
@@ -6031,7 +5737,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:2fd4ab1313e8418d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T153000Z
 DTEND:20261109T160000Z
 SUMMARY:Jumpstart Kindergarten
@@ -6051,7 +5757,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:155faafe78ee60ac@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T150000Z
 DTEND:20261109T153000Z
 SUMMARY:Drop-In Story Time
@@ -6078,7 +5784,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:46fae748dfeb6138@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T150000Z
 DTEND:20261109T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -6105,7 +5811,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:88d10832686bba72@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T150000Z
 DTEND:20261109T160000Z
 SUMMARY:Tot Time
@@ -6126,7 +5832,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:21e0c06a141029b4@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T163000Z
 DTEND:20261109T200000Z
 SUMMARY:Open Swim
@@ -6154,7 +5860,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:9123d945e87c885e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T170000Z
 DTEND:20261109T200000Z
 SUMMARY:Open Swim
@@ -6183,7 +5889,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:e31379ed32f8e7e6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T213000Z
 DTEND:20261109T221500Z
 SUMMARY:Adventures in Bookland Book Club: Dawn of the Axolotl
@@ -6205,7 +5911,7 @@ CATEGORIES:Educational\,Library\,Free\,Book Club
 END:VEVENT
 BEGIN:VEVENT
 UID:21e0c06a141029b4@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261109T233000Z
 DTEND:20261110T010000Z
 SUMMARY:Open Swim
@@ -6233,7 +5939,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:89500e7f361da5d0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T143000Z
 DTEND:20261110T153000Z
 SUMMARY:Discovery Time
@@ -6256,7 +5962,7 @@ CATEGORIES:Crafts\,Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:8376e6205c111fcc@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T150000Z
 DTEND:20261110T153000Z
 SUMMARY:Drop-In Preschool Story Time
@@ -6282,7 +5988,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler\,Pres
 END:VEVENT
 BEGIN:VEVENT
 UID:0a4fce35a8ccacce@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T150000Z
 DTEND:20261110T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -6309,7 +6015,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:a4aadbb63c27a9ea@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T150000Z
 DTEND:20261110T180000Z
 SUMMARY:Quilting Bee at Sharon Mills
@@ -6328,7 +6034,7 @@ DESCRIPTION:Gather around for a few hours of stitches\, stories\, and shar
 END:VEVENT
 BEGIN:VEVENT
 UID:44953cf93c1a8838@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T150000Z
 DTEND:20261110T160000Z
 SUMMARY:Tot Time
@@ -6349,7 +6055,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:9bbfdfd175ee9b61@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T163000Z
 DTEND:20261110T200000Z
 SUMMARY:Open Swim
@@ -6377,7 +6083,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:229de2e7542cad79@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T170000Z
 DTEND:20261110T180000Z
 SUMMARY:Jumpstart Storytime
@@ -6404,7 +6110,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:e53912f91d6dd0ae@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T170000Z
 DTEND:20261110T190000Z
 SUMMARY:Open Swim
@@ -6433,7 +6139,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:aaee4c196f4ad581@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T180000Z
 DTEND:20261110T183000Z
 SUMMARY:Jumpstart Kindergarten
@@ -6453,7 +6159,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:c8a7c26ec3773eff@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T213000Z
 DTEND:20261110T221500Z
 SUMMARY:Time Travelers
@@ -6473,7 +6179,7 @@ CATEGORIES:Free\,History\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:e53912f91d6dd0ae@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261110T234500Z
 DTEND:20261111T003000Z
 SUMMARY:Open Swim
@@ -6502,7 +6208,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:54d6c4dfeee04a7f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T110000Z
 DTEND:20261111T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -6531,7 +6237,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:6796f1f68ecd0f2f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T130000Z
 DTEND:20261111T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -6557,7 +6263,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:e84750dd91a3c35e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T140000Z
 DTEND:20261111T150000Z
 SUMMARY:Open Swim
@@ -6584,7 +6290,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:df092cc03c1c1770@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T140000Z
 DTEND:20261111T150000Z
 SUMMARY:Tot Swim
@@ -6611,7 +6317,7 @@ CATEGORIES:Babies\,Fitness/Health\,IndoorActivities\,Preschoolers\,Swimmin
 END:VEVENT
 BEGIN:VEVENT
 UID:5c41492ab10bdf8d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T143000Z
 DTEND:20261111T150000Z
 SUMMARY:Preschool Storytimes
@@ -6632,7 +6338,7 @@ CATEGORIES:Preschool Storytimes\,Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:43f6c69547d2364f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T150000Z
 DTEND:20261111T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -6659,7 +6365,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:ccdcabcdb6810abe@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T150000Z
 DTEND:20261111T160000Z
 SUMMARY:Tot Time
@@ -6680,7 +6386,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:ab0b908955d34ae8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T163000Z
 DTEND:20261111T200000Z
 SUMMARY:Open Swim
@@ -6708,7 +6414,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:e84750dd91a3c35e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T170000Z
 DTEND:20261111T190000Z
 SUMMARY:Open Swim
@@ -6737,7 +6443,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:31e0c1291f4a58e6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T173000Z
 DTEND:20261111T180000Z
 SUMMARY:Preschool ArtStart
@@ -6758,7 +6464,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:4687d905fa3f42f6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T213000Z
 DTEND:20261111T223000Z
 SUMMARY:Wild Readers Book Club: The Unlikely Tale of Chase and Finnegan
@@ -6780,7 +6486,7 @@ CATEGORIES:Library\,Educational\,Free\,Book Club
 END:VEVENT
 BEGIN:VEVENT
 UID:ab0b908955d34ae8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261111T233000Z
 DTEND:20261112T010000Z
 SUMMARY:Open Swim
@@ -6808,7 +6514,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:e0fcbce5ccebc468@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T143000Z
 DTEND:20261112T153000Z
 SUMMARY:Discovery Time
@@ -6831,7 +6537,7 @@ CATEGORIES:Crafts\,Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:4220568a3b578c7e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T143000Z
 DTEND:20261112T153000Z
 SUMMARY:Korean Storytime
@@ -6852,7 +6558,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:1d7d0a606c412179@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T143000Z
 DTEND:20261112T150000Z
 SUMMARY:Preschool ArtStart
@@ -6873,7 +6579,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:3f4ef9ec3f7d6eb0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T143000Z
 DTEND:20261112T153000Z
 SUMMARY:Read Sing Play
@@ -6900,7 +6606,7 @@ CATEGORIES:Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:901ca5b9bc8cdbef@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T150000Z
 DTEND:20261112T153000Z
 SUMMARY:Drop-In Story Time
@@ -6928,7 +6634,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:38b7ab19e589fe3e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T150000Z
 DTEND:20261112T153000Z
 SUMMARY:Preschool Storytimes
@@ -6949,7 +6655,7 @@ CATEGORIES:Preschool Storytimes\,Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:69fc24c37289c632@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T150000Z
 DTEND:20261112T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -6976,7 +6682,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:b999eaeb2ab807cb@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T150000Z
 DTEND:20261112T160000Z
 SUMMARY:Tot Time
@@ -6997,7 +6703,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:db0256cea7bc51b5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T163000Z
 DTEND:20261112T200000Z
 SUMMARY:Open Swim
@@ -7025,7 +6731,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:de2466d035809916@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T170000Z
 DTEND:20261113T010000Z
 SUMMARY:Just Between Friends PreSale
@@ -7049,7 +6755,7 @@ CATEGORIES:Mom2Mom\,Resale/Thrifting\,Shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:a9527b74b840a141@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T170000Z
 DTEND:20261112T190000Z
 SUMMARY:Open Swim
@@ -7078,7 +6784,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:a9527b74b840a141@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261112T234500Z
 DTEND:20261113T003000Z
 SUMMARY:Open Swim
@@ -7107,7 +6813,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:7abc5f65f7af94eb@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T050000Z
 DTEND:20261114T045900Z
 SUMMARY:Library Closed
@@ -7127,7 +6833,7 @@ CATEGORIES:Library
 END:VEVENT
 BEGIN:VEVENT
 UID:d01a8c71b962735b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T124500Z
 DTEND:20261113T133000Z
 SUMMARY:Pre-School Playtime
@@ -7149,7 +6855,7 @@ CATEGORIES:Advance Registration\,Fitness/Health\,IndoorActivities\,Playgro
 END:VEVENT
 BEGIN:VEVENT
 UID:4892472cd990c3d5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T130000Z
 DTEND:20261113T230000Z
 SUMMARY:Just Between Friends Consignment Sale
@@ -7174,7 +6880,7 @@ CATEGORIES:Free\,Mom2Mom\,Resale/Thrifting\,Shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:5179538f7da24f5d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T130000Z
 DTEND:20261113T141500Z
 SUMMARY:Open Swim
@@ -7201,7 +6907,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:bf75901b990af460@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T140000Z
 DTEND:20261113T160000Z
 SUMMARY:Toddler Time at Launch Trampoline
@@ -7224,7 +6930,7 @@ CATEGORIES:Fitness/Health\,Indoor Activities\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:8bfeca4895677cb7@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T150000Z
 DTEND:20261113T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -7251,7 +6957,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:efb3e779654275d8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T150000Z
 DTEND:20261113T160000Z
 SUMMARY:Tot Time
@@ -7272,7 +6978,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:b533f1cb94ba00b8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T160000Z
 DTEND:20261113T190000Z
 SUMMARY:Homeschool Jump
@@ -7297,7 +7003,7 @@ CATEGORIES:Elementary\,Fitness/Health\,High Schoolers\,Home SchoolProgram\
 END:VEVENT
 BEGIN:VEVENT
 UID:1fdcb5605c3f8072@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T163000Z
 DTEND:20261113T200000Z
 SUMMARY:Open Swim
@@ -7325,7 +7031,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:c972863cb41d2154@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T170000Z
 DTEND:20261113T180000Z
 SUMMARY:Jumpstart Kindergarten
@@ -7351,7 +7057,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:5179538f7da24f5d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T170000Z
 DTEND:20261113T200000Z
 SUMMARY:Open Swim
@@ -7380,7 +7086,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:1585c9cb2107a6ff@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T170000Z
 DTEND:20261113T173000Z
 SUMMARY:Preschool Storytimes
@@ -7401,7 +7107,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Outdoor\,Preschoolers\,Storytime\,T
 END:VEVENT
 BEGIN:VEVENT
 UID:7503cdc0b7e82e6e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T190000Z
 DTEND:20261113T200000Z
 SUMMARY:Chow Time at the Farm
@@ -7426,7 +7132,7 @@ CATEGORIES:Advance Registration\,Animals\,Elementary\,High Schoolers\,Midd
 END:VEVENT
 BEGIN:VEVENT
 UID:630fe188585cecc0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T213000Z
 DTEND:20261113T233000Z
 SUMMARY:Family Splash Night
@@ -7453,7 +7159,7 @@ CATEGORIES:Elementary\,Fitness/Health\,High Schoolers\,IndoorActivities\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:d2e004fe632a0a99@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T220000Z
 DTEND:20261114T003000Z
 SUMMARY:Night Hike for Food Gatherers
@@ -7477,7 +7183,7 @@ CATEGORIES:Charitable Event\,Elementary\,HighSchoolers\,Hikes/Walks\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:31f1bd799679ebc3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T220000Z
 DTEND:20261113T223000Z
 SUMMARY:Rapunzel Storytime
@@ -7500,7 +7206,7 @@ CATEGORIES:Advance Registration\,Babies\,Elementary\,Indoor Activities\,Po
 END:VEVENT
 BEGIN:VEVENT
 UID:31f1bd799679ebc3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T230000Z
 DTEND:20261113T233000Z
 SUMMARY:Rapunzel Storytime
@@ -7523,7 +7229,7 @@ CATEGORIES:Advance Registration\,Babies\,Elementary\,Indoor Activities\,Po
 END:VEVENT
 BEGIN:VEVENT
 UID:1fdcb5605c3f8072@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261113T233000Z
 DTEND:20261114T010000Z
 SUMMARY:Open Swim
@@ -7551,7 +7257,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:2e90cc3c1db2c488@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T110000Z
 DTEND:20261114T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -7580,7 +7286,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:2de7f079042e4a36@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T120000Z
 DTEND:20261114T193000Z
 SUMMARY:39th Annual Saline Craft Show
@@ -7599,7 +7305,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:2d3a4b1fe804d34a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T130000Z
 DTEND:20261114T140000Z
 SUMMARY:Toddler Time at Launch Trampoline
@@ -7622,7 +7328,7 @@ CATEGORIES:Fitness/Health\,Indoor Activities\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:e444d93908b0dca6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T140000Z
 DTEND:20261114T190000Z
 SUMMARY:Holiday Craft Show: The Guardian Guild of Livingston Classical Aca
@@ -7642,7 +7348,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:82e0901bacca84df@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T143000Z
 DTEND:20261114T150000Z
 SUMMARY:Sound Beginnings Demo Class
@@ -7667,7 +7373,7 @@ CATEGORIES:Advance Registration\,Babies\,DisplayImage\,Free\,Indoor Activi
 END:VEVENT
 BEGIN:VEVENT
 UID:3d6a82e496b4b6ab@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T160000Z
 DTEND:20261114T210000Z
 SUMMARY:New Harvest Corn Maze
@@ -7691,7 +7397,7 @@ CATEGORIES:Elementary\,Fall Fun\,Halloween\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:1dc39b39e2b739f0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T160000Z
 DTEND:20261114T190000Z
 SUMMARY:Open Swim
@@ -7716,7 +7422,7 @@ CATEGORIES:Babies\,Elementary\,Frugal\,High Schoolers\,IndoorActivities\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:2ea694cffe6f6915@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T170000Z
 DTEND:20261114T183000Z
 SUMMARY:The Art of a Leaf
@@ -7741,7 +7447,7 @@ CATEGORIES:Advance Registration\,Art\,Crafts\,Elementary\,Fall Fun\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:6881ed236b111bbb@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T171500Z
 DTEND:20261114T194500Z
 SUMMARY:Open Swim
@@ -7768,7 +7474,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:feffe9a0a6e5a635@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T180000Z
 DTEND:20261114T220000Z
 SUMMARY:Open Swim
@@ -7794,7 +7500,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:3e2f8297b393ea14@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T183000Z
 DTEND:20261114T203000Z
 SUMMARY:Family Folk Dance
@@ -7819,7 +7525,7 @@ CATEGORIES:Age Range\,Babies\,Dance\,Elementary\,HighSchoolers\,Middle Sch
 END:VEVENT
 BEGIN:VEVENT
 UID:11f4d3cc4087640c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261114T190000Z
 DTEND:20261114T210000Z
 SUMMARY:“Bastard”: Purple Rose Theatre Company
@@ -7839,8 +7545,31 @@ CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
  eschoolers
 END:VEVENT
 BEGIN:VEVENT
+UID:3081386110b72f2c@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
+DTSTART:20261115T140000Z
+DTEND:20261115T200000Z
+SUMMARY:A2 Community Bookfest (formerly Kerrytown BookFest): Ann Arbor Dis
+ trict Library
+LOCATION:315 Detroit St\, Ann Arbor\, MI 48104
+GEO:42.2852;-83.7442
+DESCRIPTION:This bustling\, lively festival—the largest 1-day book festiva
+ l in Michigan—celebrates books and bookmaking with a variety of demos\, t
+ alks\, signings\, displays\, and sale tables by local bookstores\, bookse
+ llers\, and publishers.\n\nWhere: 315 Detroit St\, Ann Arbor\, MI 48104\n
+ Cost: Free\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the 
+ weather\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://an
+ narborobserver.com/event/a2-community-bookfest-formerly-kerrytown-bookfes
+ t-ann-arbor-district-library/\nFound on: https://kideventsinannarbor.com/
+ ?event=3081386110b72f2c\n\nDouble check the time with the organizer befor
+ e you go.
+URL:https://annarborobserver.com/event/a2-community-bookfest-formerly-kerr
+ ytown-bookfest-ann-arbor-district-library/
+CATEGORIES:Free\,Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:05f9d9a85cb4b9c8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261115T143000Z
 DTEND:20261115T163000Z
 SUMMARY:AADL Welcomes | Jewish Storytime and Activities
@@ -7860,7 +7589,7 @@ CATEGORIES:Public Event\,CulturalCelebration\,Elementary\,Free\,Indoor Act
 END:VEVENT
 BEGIN:VEVENT
 UID:01c7288180144a4c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261115T160000Z
 DTEND:20261115T170000Z
 SUMMARY:Family Swim
@@ -7884,7 +7613,7 @@ CATEGORIES:Elementary\,Fitness/Health\,IndoorActivities\,Preschoolers\,Swi
 END:VEVENT
 BEGIN:VEVENT
 UID:15fcb3b0a9614f26@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261115T173000Z
 DTEND:20261115T200000Z
 SUMMARY:Open Swim
@@ -7911,7 +7640,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:aa001fc3b74c6008@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261115T180000Z
 DTEND:20261115T220000Z
 SUMMARY:Open Swim
@@ -7937,7 +7666,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:a4f3ac1ed0c183da@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261115T180000Z
 DTEND:20261115T200000Z
 SUMMARY:“Bastard”: Purple Rose Theatre Company
@@ -7958,7 +7687,7 @@ CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:71c4062cc14ea620@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261115T193000Z
 DTEND:20261115T200000Z
 SUMMARY:Sound Beginnings Demo Class
@@ -7980,7 +7709,7 @@ CATEGORIES:Advance Registration\,Babies\,DisplayImage\,Free\,Indoor Activi
 END:VEVENT
 BEGIN:VEVENT
 UID:f4d4c5d89cc46451@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T124500Z
 DTEND:20261116T133000Z
 SUMMARY:Pre-School Playtime
@@ -8002,7 +7731,7 @@ CATEGORIES:Advance Registration\,Fitness/Health\,IndoorActivities\,Playgro
 END:VEVENT
 BEGIN:VEVENT
 UID:b64d310c90734e5a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T130000Z
 DTEND:20261116T151500Z
 SUMMARY:Open Swim
@@ -8029,7 +7758,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:ae8d5e8b93a49bd8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T143000Z
 DTEND:20261116T153000Z
 SUMMARY:Jumpstart Storytime
@@ -8056,7 +7785,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:8acd646580442be3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T143000Z
 DTEND:20261116T153000Z
 SUMMARY:Little Ones Storytime
@@ -8084,7 +7813,7 @@ CATEGORIES:Babies\,Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,S
 END:VEVENT
 BEGIN:VEVENT
 UID:6375f8bf7a4b7f01@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T143000Z
 DTEND:20261116T150000Z
 SUMMARY:Preschool Storytimes
@@ -8105,7 +7834,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:0fde6eac86c35d35@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T153000Z
 DTEND:20261116T160000Z
 SUMMARY:Jumpstart Kindergarten
@@ -8125,7 +7854,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:7e4c0b0371044812@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T150000Z
 DTEND:20261116T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -8152,7 +7881,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:c206985c0ba71acc@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T150000Z
 DTEND:20261116T160000Z
 SUMMARY:Tot Time
@@ -8173,7 +7902,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:c7539ef902403dc9@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T163000Z
 DTEND:20261116T200000Z
 SUMMARY:Open Swim
@@ -8201,7 +7930,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:b64d310c90734e5a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T170000Z
 DTEND:20261116T200000Z
 SUMMARY:Open Swim
@@ -8230,7 +7959,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:13ed782e130b357d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T203000Z
 DTEND:20261116T213000Z
 SUMMARY:Drop-In Harvest Crafts
@@ -8252,7 +7981,7 @@ CATEGORIES:Crafts\,Elementary\,Fall Fun\,Free\,IndoorActivities\,Preschool
 END:VEVENT
 BEGIN:VEVENT
 UID:c7539ef902403dc9@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T233000Z
 DTEND:20261117T010000Z
 SUMMARY:Open Swim
@@ -8280,7 +8009,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:74205e92bb724843@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261116T233000Z
 DTEND:20261117T003000Z
 SUMMARY:Young Writers Club
@@ -8299,7 +8028,7 @@ CATEGORIES:Arts & Culture\,Writing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:2bda1f616c111746@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T143000Z
 DTEND:20261117T153000Z
 SUMMARY:Discovery Time
@@ -8322,7 +8051,7 @@ CATEGORIES:Crafts\,Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:e8b56f9a07c16661@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T150000Z
 DTEND:20261117T154500Z
 SUMMARY:Preschool Dance Party
@@ -8343,7 +8072,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:d82fa4bd224c22aa@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T150000Z
 DTEND:20261117T153000Z
 SUMMARY:Preschool Storytimes
@@ -8364,7 +8093,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:8bc9aac0519191e3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T150000Z
 DTEND:20261117T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -8391,7 +8120,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:1a1083602363030d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T150000Z
 DTEND:20261117T160000Z
 SUMMARY:Tot Time
@@ -8412,7 +8141,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:b0668931bfd1976d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T163000Z
 DTEND:20261117T200000Z
 SUMMARY:Open Swim
@@ -8440,7 +8169,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:94facd88f64b4e6a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T170000Z
 DTEND:20261117T180000Z
 SUMMARY:Jumpstart Storytime
@@ -8467,7 +8196,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:060b5b7a055d4f1d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T170000Z
 DTEND:20261117T190000Z
 SUMMARY:Open Swim
@@ -8496,7 +8225,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:5fa06fd218e5da78@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T170000Z
 DTEND:20261117T174500Z
 SUMMARY:Young Scientists!
@@ -8516,7 +8245,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:5cfb3d4e5f9332be@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T180000Z
 DTEND:20261117T183000Z
 SUMMARY:Jumpstart Kindergarten
@@ -8535,8 +8264,28 @@ URL:https://www.ypsilibrary.org/services/early-literacy/storytimes/
 CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
+UID:bb6a29b820d92ac1@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
+DTSTART:20261117T233000Z
+DTEND:20261118T013000Z
+SUMMARY:“O Christmas Tea: A British Comedy”: Live Nation
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:David MacMurray Smith directs the absurdist British comedy duo
+  James & Jamesy (aka Aaron Malkin and Alastair Knowles) in a show that us
+ es physical comedy\, imaginative writing\, and audience participation in 
+ the tradition of classic British Christmas pantos\, which combine familia
+ r...\n\nAges: all ages\nCost: $45\nSignup: Drop in\, no signup needed\nIn
+ doors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://anna
+ rborobserver.com/event/o-christmas-tea-a-british-comedy-live-nation/\nFou
+ nd on: https://kideventsinannarbor.com/?event=bb6a29b820d92ac1\n\nDouble 
+ check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/o-christmas-tea-a-british-comedy-li
+ ve-nation/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:060b5b7a055d4f1d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261117T234500Z
 DTEND:20261118T003000Z
 SUMMARY:Open Swim
@@ -8565,7 +8314,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:88ab7eb4b796ddde@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T110000Z
 DTEND:20261118T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -8594,7 +8343,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:7341097685465cdd@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T130000Z
 DTEND:20261118T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -8621,7 +8370,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:44d87316d2bba3ea@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T140000Z
 DTEND:20261118T150000Z
 SUMMARY:Open Swim
@@ -8648,7 +8397,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:4b0c97822735ce11@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T140000Z
 DTEND:20261118T150000Z
 SUMMARY:Tot Swim
@@ -8675,7 +8424,7 @@ CATEGORIES:Babies\,Fitness/Health\,IndoorActivities\,Preschoolers\,Swimmin
 END:VEVENT
 BEGIN:VEVENT
 UID:bd90275771938404@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T143000Z
 DTEND:20261118T150000Z
 SUMMARY:Preschool Storytimes
@@ -8696,7 +8445,7 @@ CATEGORIES:Preschool Storytimes\,Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:bb7065775953b6bf@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T143000Z
 DTEND:20261118T153000Z
 SUMMARY:Read Sing Play
@@ -8721,7 +8470,7 @@ CATEGORIES:Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:a8d2c63b775f6470@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T150000Z
 DTEND:20261118T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -8748,7 +8497,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:8d66e6d39c530ad8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T150000Z
 DTEND:20261118T160000Z
 SUMMARY:Tot Time
@@ -8769,7 +8518,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:19d91aaf62b863f1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T163000Z
 DTEND:20261118T200000Z
 SUMMARY:Open Swim
@@ -8797,7 +8546,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:44d87316d2bba3ea@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T170000Z
 DTEND:20261118T190000Z
 SUMMARY:Open Swim
@@ -8826,7 +8575,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:301ca284e82d2e20@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T180000Z
 DTEND:20261118T200000Z
 SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
@@ -8846,7 +8595,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:9bc148c094dfdc56@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T190000Z
 DTEND:20261118T210000Z
 SUMMARY:“Bastard”: Purple Rose Theatre Company
@@ -8867,7 +8616,7 @@ CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:cec12d5cc5f816d1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T213000Z
 DTEND:20261118T223000Z
 SUMMARY:Science Club Jr
@@ -8887,7 +8636,7 @@ CATEGORIES:Free\,Library\,STEAM\,Community Content
 END:VEVENT
 BEGIN:VEVENT
 UID:19d91aaf62b863f1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T233000Z
 DTEND:20261119T010000Z
 SUMMARY:Open Swim
@@ -8915,7 +8664,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:f5f4183658270f64@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261118T233000Z
 DTEND:20261119T003000Z
 SUMMARY:Science Club: Robotics
@@ -8936,7 +8685,7 @@ CATEGORIES:Community Content
 END:VEVENT
 BEGIN:VEVENT
 UID:f767ac649f881c1a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T143000Z
 DTEND:20261119T153000Z
 SUMMARY:Discovery Time
@@ -8959,7 +8708,7 @@ CATEGORIES:Crafts\,Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:a77e2bd4a43c2b69@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T143000Z
 DTEND:20261119T153000Z
 SUMMARY:Little Play Date!
@@ -8980,7 +8729,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:9fcd2584de25facc@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T143000Z
 DTEND:20261119T153000Z
 SUMMARY:Read Sing Play
@@ -9008,7 +8757,7 @@ CATEGORIES:Free\,IndoorActivities\,Music/Concerts\,Preschoolers\,Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:cfc3a1b783d163f8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T143000Z
 DTEND:20261119T153000Z
 SUMMARY:Sensation Stations
@@ -9028,7 +8777,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:d16a31d3daf959af@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T150000Z
 DTEND:20261119T153000Z
 SUMMARY:Preschool Storytimes
@@ -9049,7 +8798,7 @@ CATEGORIES:Preschool Storytimes\,Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:f453d6a01cc7a789@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T150000Z
 DTEND:20261119T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -9076,7 +8825,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:fff6ae7cca7e883d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T150000Z
 DTEND:20261119T160000Z
 SUMMARY:Tot Time
@@ -9097,7 +8846,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:9363e67d842ead10@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T163000Z
 DTEND:20261119T200000Z
 SUMMARY:Open Swim
@@ -9125,7 +8874,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:f5d1aed3938c4ca6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T170000Z
 DTEND:20261119T190000Z
 SUMMARY:Open Swim
@@ -9153,8 +8902,28 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
  ,Preschoolers\,Sport
 END:VEVENT
 BEGIN:VEVENT
+UID:2fd955288f29478b@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
+DTSTART:20261119T170000Z
+DTEND:20261119T183000Z
+SUMMARY:Thanksgiving Celebrations: International Neighbors
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Area women invited to a Thanksgiving gathering\, while also le
+ arning about this organization and its many special interest\, language\,
+  and hobby groups. Tea and light snacks. Supervised kids welcome. 1–2:30 
+ p.m.\, Zion Lutheran Church\, 1501 W. Liberty. Free. inannarbor.org.\n\nC
+ ost: Free\nSignup: Drop in\, no signup needed\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/thanksgivi
+ ng-celebrations-international-neighbors/\nFound on: https://kideventsinan
+ narbor.com/?event=2fd955288f29478b\n\nDouble check the time with the orga
+ nizer before you go.
+URL:https://annarborobserver.com/event/thanksgiving-celebrations-internati
+ onal-neighbors/
+CATEGORIES:Free\,Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:26f0fb2d925d46be@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T193000Z
 DTEND:20261119T203000Z
 SUMMARY:Escape Room
@@ -9173,7 +8942,7 @@ CATEGORIES:Free\,Games\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:c0fa9edaee4f6802@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T223000Z
 DTEND:20261119T233000Z
 SUMMARY:Land Acknowledgement Plaques Reception
@@ -9194,7 +8963,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:f5d1aed3938c4ca6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261119T234500Z
 DTEND:20261120T003000Z
 SUMMARY:Open Swim
@@ -9223,7 +8992,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:12bbca48f9fc86c8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T124500Z
 DTEND:20261120T133000Z
 SUMMARY:Pre-School Playtime
@@ -9245,7 +9014,7 @@ CATEGORIES:Advance Registration\,Fitness/Health\,IndoorActivities\,Playgro
 END:VEVENT
 BEGIN:VEVENT
 UID:4c854f0613535cd1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T130000Z
 DTEND:20261120T141500Z
 SUMMARY:Open Swim
@@ -9272,7 +9041,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:544ff4737e8bb45a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T140000Z
 DTEND:20261120T160000Z
 SUMMARY:Toddler Time at Launch Trampoline
@@ -9295,7 +9064,7 @@ CATEGORIES:Fitness/Health\,Indoor Activities\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:b3e185bffb05e319@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T143000Z
 DTEND:20261120T150000Z
 SUMMARY:Family Fun Storytime
@@ -9317,7 +9086,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:f1a99889704d9e2d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T143000Z
 DTEND:20261120T150000Z
 SUMMARY:Spider-Man Storytime
@@ -9340,7 +9109,7 @@ CATEGORIES:Advance Registration\,Babies\,Elementary\,Indoor Activities\,Po
 END:VEVENT
 BEGIN:VEVENT
 UID:d7b43bd009e7d9df@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T150000Z
 DTEND:20261120T160000Z
 SUMMARY:Make a Busy Book of Colors
@@ -9360,7 +9129,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:5a6e94fdc0e37be0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T150000Z
 DTEND:20261120T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -9387,7 +9156,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8c2cd9a562af32@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T150000Z
 DTEND:20261120T160000Z
 SUMMARY:Tot Time
@@ -9408,7 +9177,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:02dcd77f2c21dc2b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T160000Z
 DTEND:20261120T190000Z
 SUMMARY:Homeschool Jump
@@ -9433,7 +9202,7 @@ CATEGORIES:Elementary\,Fitness/Health\,High Schoolers\,Home SchoolProgram\
 END:VEVENT
 BEGIN:VEVENT
 UID:4b87fb4abc239b99@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T163000Z
 DTEND:20261120T200000Z
 SUMMARY:Open Swim
@@ -9461,7 +9230,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:6062468459848b19@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T170000Z
 DTEND:20261120T180000Z
 SUMMARY:Jumpstart Kindergarten
@@ -9487,7 +9256,7 @@ CATEGORIES:Free\,Indoor Activities\,Preschoolers\,Storytime\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:4c854f0613535cd1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T170000Z
 DTEND:20261120T200000Z
 SUMMARY:Open Swim
@@ -9516,7 +9285,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:54bd3cfbc84b0f84@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T170000Z
 DTEND:20261120T173000Z
 SUMMARY:Preschool Storytimes
@@ -9537,7 +9306,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Outdoor\,Preschoolers\,Storytime\,T
 END:VEVENT
 BEGIN:VEVENT
 UID:9001da01813e7172@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T190000Z
 DTEND:20261120T200000Z
 SUMMARY:Lego at the Library
@@ -9556,7 +9325,7 @@ CATEGORIES:Free\,Library\,STEAM
 END:VEVENT
 BEGIN:VEVENT
 UID:68c7e372600289e0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T213000Z
 DTEND:20261120T233000Z
 SUMMARY:Family Splash Night
@@ -9583,7 +9352,7 @@ CATEGORIES:Elementary\,Fitness/Health\,High Schoolers\,IndoorActivities\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:55ff6c63e62ab577@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T220000Z
 DTEND:20261120T233000Z
 SUMMARY:Drop-in Line Dancing
@@ -9602,7 +9371,7 @@ CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
 UID:833d428d19720af9@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T220000Z
 DTEND:20261121T003000Z
 SUMMARY:Night Hike for Food Gatherers
@@ -9627,7 +9396,7 @@ CATEGORIES:Charitable Event\,Elementary\,Food\,HighSchoolers\,Hikes/Walks\
 END:VEVENT
 BEGIN:VEVENT
 UID:a9ae6ce8e2a739a0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T220000Z
 DTEND:20261121T000000Z
 SUMMARY:“Open Mic Extravaganza”: Groundcover News
@@ -9645,7 +9414,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:4b87fb4abc239b99@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T233000Z
 DTEND:20261121T010000Z
 SUMMARY:Open Swim
@@ -9673,7 +9442,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:2a81f67ba8149ed3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261120T233000Z
 DTEND:20261121T023000Z
 SUMMARY:“West Side Story”: U-M MUSKET
@@ -9696,7 +9465,7 @@ CATEGORIES:Observer Editor\,Advance Registration\,IndoorActivities\,Regist
 END:VEVENT
 BEGIN:VEVENT
 UID:dae6fa59011559c8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T110000Z
 DTEND:20261121T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -9725,7 +9494,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:ee40124bf68109c5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T130000Z
 DTEND:20261121T140000Z
 SUMMARY:Toddler Time at Launch Trampoline
@@ -9748,7 +9517,7 @@ CATEGORIES:Fitness/Health\,Indoor Activities\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:ee22e0464df47668@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T130000Z
 DTEND:20261121T150000Z
 SUMMARY:“The Power of Color Composition”: Greater Ann Arbor Quilt Guild Qu
@@ -9771,7 +9540,7 @@ CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:8c992cc4cab0757c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T140000Z
 DTEND:20261121T190000Z
 SUMMARY:Chelsea Farmers Market Holiday Pop Up
@@ -9795,7 +9564,7 @@ CATEGORIES:Christmas\,Craft/Vendor\,Elementary\,Farmers Market\,Free\,High
 END:VEVENT
 BEGIN:VEVENT
 UID:3421f776ab23e8d0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T150000Z
 DTEND:20261121T190000Z
 SUMMARY:Crafty Chaos: Fall Wreath Leaves
@@ -9809,7 +9578,7 @@ DESCRIPTION:<p>Get ready to crunch\, crinkle\, and create! Join us for a H
 END:VEVENT
 BEGIN:VEVENT
 UID:7ce2c690a0eecc58@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T160000Z
 DTEND:20261121T210000Z
 SUMMARY:New Harvest Corn Maze
@@ -9833,7 +9602,7 @@ CATEGORIES:Elementary\,Fall Fun\,Halloween\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:0bee69f24b3853aa@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T160000Z
 DTEND:20261121T190000Z
 SUMMARY:Open Swim
@@ -9858,7 +9627,7 @@ CATEGORIES:Babies\,Elementary\,Frugal\,High Schoolers\,IndoorActivities\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:0d81bc987d405681@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T171500Z
 DTEND:20261121T194500Z
 SUMMARY:Open Swim
@@ -9885,7 +9654,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:31c49d21add82153@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T180000Z
 DTEND:20261121T220000Z
 SUMMARY:Open Swim
@@ -9911,7 +9680,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:c93d774f8d1f87ba@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T203000Z
 DTEND:20261121T223000Z
 SUMMARY:Ariel Storytime with Free Family Swim
@@ -9935,7 +9704,7 @@ CATEGORIES:Advance Registration\,Babies\,Elementary\,Fitness/Health\,Indoo
 END:VEVENT
 BEGIN:VEVENT
 UID:e30e1e2885be9787@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T230000Z
 DTEND:20261122T000000Z
 SUMMARY:“Drummunity!”
@@ -9953,7 +9722,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:71bc3a22049c465d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T230000Z
 DTEND:20261122T010000Z
 SUMMARY:“Pop Dreams and Screams”: The Michigan Pops Orchestra
@@ -9973,7 +9742,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:4372f92b08cd2b4f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261121T233000Z
 DTEND:20261122T023000Z
 SUMMARY:“West Side Story”: U-M MUSKET
@@ -9996,7 +9765,7 @@ CATEGORIES:Observer Editor\,Advance Registration\,IndoorActivities\,Regist
 END:VEVENT
 BEGIN:VEVENT
 UID:b8e430af7939dd44@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261122T160000Z
 DTEND:20261122T170000Z
 SUMMARY:Family Swim
@@ -10020,7 +9789,7 @@ CATEGORIES:Elementary\,Fitness/Health\,IndoorActivities\,Preschoolers\,Swi
 END:VEVENT
 BEGIN:VEVENT
 UID:b03f50dcc97eccd7@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261122T160000Z
 DTEND:20261122T190000Z
 SUMMARY:Quilting Bee at Sharon Mills
@@ -10039,7 +9808,7 @@ DESCRIPTION:Gather around for a few hours of stitches\, stories\, and shar
 END:VEVENT
 BEGIN:VEVENT
 UID:5c1af9bed5785159@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261122T173000Z
 DTEND:20261122T200000Z
 SUMMARY:Open Swim
@@ -10066,7 +9835,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:27261ee43170d804@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261122T180000Z
 DTEND:20261122T220000Z
 SUMMARY:Open Swim
@@ -10092,29 +9861,8 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
  ities\,Middle Schoolers
 END:VEVENT
 BEGIN:VEVENT
-UID:1e52006afe4a8357@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
-DTSTART:20261122T180000Z
-DTEND:20261122T200000Z
-SUMMARY:“Bastard”: Purple Rose Theatre Company
-LOCATION:Ann Arbor\, MI
-DESCRIPTION:Every Wed.–Sun.\, Sept. 24–Dec. 20. Rhiannon Ragland directs r
- etired Detroit newscaster and playwright Devin Scillian’s family comedy-d
- rama about a conflict between brothers—an aging country rocker and a butt
- oned-down finance guy—after their mother’s death.\n\nAges: Babies\, Eleme
- ntary\, Preschoolers\, Toddler\nCost: $31.50\nSignup: Drop in\, no signup
-  needed\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://an
- narborobserver.com/event/bastard-purple-rose-theatre-company-2/2026-11-22
- /\nFound on: https://kideventsinannarbor.com/?event=1e52006afe4a8357\n\nD
- ouble check the time with the organizer before you go.
-URL:https://annarborobserver.com/event/bastard-purple-rose-theatre-company
- -2/2026-11-22/
-CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
- eschoolers
-END:VEVENT
-BEGIN:VEVENT
 UID:7c71842c0dc0d780@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:“West Side Story”: U-M MUSKET
@@ -10137,7 +9885,7 @@ CATEGORIES:Observer Editor\,Advance Registration\,IndoorActivities\,Regist
 END:VEVENT
 BEGIN:VEVENT
 UID:dcaf609188380f52@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261122T190000Z
 DTEND:20261122T210000Z
 SUMMARY:Symphonic Band and Wind Symphony Concerts: EMU Music Department
@@ -10159,7 +9907,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa819fee82cae2d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261123T124500Z
 DTEND:20261123T133000Z
 SUMMARY:Pre-School Playtime
@@ -10181,7 +9929,7 @@ CATEGORIES:Advance Registration\,Fitness/Health\,IndoorActivities\,Playgro
 END:VEVENT
 BEGIN:VEVENT
 UID:d3dc021f1a73a706@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261123T130000Z
 DTEND:20261123T151500Z
 SUMMARY:Open Swim
@@ -10208,7 +9956,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:3e62c442dff62540@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261123T143000Z
 DTEND:20261123T150000Z
 SUMMARY:Preschool Storytimes
@@ -10229,7 +9977,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:eeb2614640072b74@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261123T150000Z
 DTEND:20261123T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -10256,7 +10004,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:203ad8e4fd836baf@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261123T150000Z
 DTEND:20261123T160000Z
 SUMMARY:Tot Time
@@ -10277,7 +10025,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8ecab742c5bf28@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261123T163000Z
 DTEND:20261123T200000Z
 SUMMARY:Open Swim
@@ -10305,7 +10053,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:d3dc021f1a73a706@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261123T170000Z
 DTEND:20261123T200000Z
 SUMMARY:Open Swim
@@ -10334,7 +10082,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:4f7079de2a643242@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261123T190000Z
 DTEND:20261123T200000Z
 SUMMARY:Book Bingo
@@ -10353,7 +10101,7 @@ CATEGORIES:Free\,Games\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:559a6e211a15fb6b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261123T203000Z
 DTEND:20261123T213000Z
 SUMMARY:Make Your Own Thanksgiving Break Craft Bag
@@ -10377,7 +10125,7 @@ CATEGORIES:Crafts\,Elementary\,Free\,HighSchoolers\,Indoor Activities\,Mid
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8ecab742c5bf28@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261123T233000Z
 DTEND:20261124T010000Z
 SUMMARY:Open Swim
@@ -10405,7 +10153,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:58d3c73dec424441@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261124T000000Z
 DTEND:20261124T020000Z
 SUMMARY:“For All”: U-M Concert Band
@@ -10424,7 +10172,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:700c2b01c0fcad2b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261124T150000Z
 DTEND:20261124T153000Z
 SUMMARY:Preschool Storytimes
@@ -10445,7 +10193,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:ce3ecc1086804134@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261124T150000Z
 DTEND:20261124T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -10472,7 +10220,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:1544048ffd729c09@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261124T150000Z
 DTEND:20261124T160000Z
 SUMMARY:Tot Time
@@ -10493,7 +10241,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:8fb670cfc4557eb1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261124T163000Z
 DTEND:20261124T200000Z
 SUMMARY:Open Swim
@@ -10521,7 +10269,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:93aee8a951bec38f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261124T170000Z
 DTEND:20261124T190000Z
 SUMMARY:Open Swim
@@ -10550,7 +10298,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:93aee8a951bec38f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261124T234500Z
 DTEND:20261125T003000Z
 SUMMARY:Open Swim
@@ -10579,7 +10327,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:08263d37906f6c73@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T050000Z
 DTEND:20261126T045900Z
 SUMMARY:Library Closes at 5 pm
@@ -10599,7 +10347,7 @@ CATEGORIES:Free\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:230e2475ed0b89f1@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T110000Z
 DTEND:20261125T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -10628,7 +10376,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:df801e408d6f5da5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T130000Z
 DTEND:20261125T190000Z
 SUMMARY:Larcher Bakery at the Farmer's Market
@@ -10655,7 +10403,7 @@ CATEGORIES:Elementary\,Farmers Market\,Food\,High Schoolers\,MiddleSchoole
 END:VEVENT
 BEGIN:VEVENT
 UID:9cc948fa48f0b58d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T140000Z
 DTEND:20261125T150000Z
 SUMMARY:Open Swim
@@ -10682,7 +10430,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:7074ae0fb9dac536@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T140000Z
 DTEND:20261125T150000Z
 SUMMARY:Tot Swim
@@ -10709,7 +10457,7 @@ CATEGORIES:Babies\,Fitness/Health\,IndoorActivities\,Preschoolers\,Swimmin
 END:VEVENT
 BEGIN:VEVENT
 UID:0d44b12bd2f37dbe@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T143000Z
 DTEND:20261125T150000Z
 SUMMARY:Preschool Storytimes
@@ -10730,7 +10478,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:a5b25d58640224a9@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T150000Z
 DTEND:20261125T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -10757,7 +10505,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:87518402dd0b9f6a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T150000Z
 DTEND:20261125T160000Z
 SUMMARY:Tot Time
@@ -10778,7 +10526,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:b9db7046c1da0879@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T163000Z
 DTEND:20261125T200000Z
 SUMMARY:Open Swim
@@ -10806,7 +10554,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:9cc948fa48f0b58d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T170000Z
 DTEND:20261125T190000Z
 SUMMARY:Open Swim
@@ -10835,7 +10583,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:209829c270f5b4f2@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T190000Z
 DTEND:20261125T203000Z
 SUMMARY:Family Movie: Annie (1982)
@@ -10856,7 +10604,7 @@ CATEGORIES:Family Friendly\,Free\,Library\,Movies/Film
 END:VEVENT
 BEGIN:VEVENT
 UID:2901921ea06bb78d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T160000Z
 DTEND:20261125T200000Z
 SUMMARY:Crafty Chaos: Fall Wreath Leaves
@@ -10873,7 +10621,7 @@ CATEGORIES:Babies\,Elementary\,Food\,IndoorActivities\,Preschoolers\,Toddl
 END:VEVENT
 BEGIN:VEVENT
 UID:b9db7046c1da0879@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261125T233000Z
 DTEND:20261126T010000Z
 SUMMARY:Open Swim
@@ -10901,7 +10649,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:e083f2aaae0d7fbb@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261126T050000Z
 DTEND:20261127T045900Z
 SUMMARY:Library Closed
@@ -10920,7 +10668,7 @@ CATEGORIES:Free\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:540dc493dc72ca65@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261126T110000Z
 DTEND:20261126T140000Z
 SUMMARY:Ann Arbor Turkey Trot - Thanksgiving Day
@@ -10944,7 +10692,7 @@ CATEGORIES:Advance Registration\,CharitableEvent\,Elementary\,Fall Fun\,Fr
 END:VEVENT
 BEGIN:VEVENT
 UID:f56b2d5e04793f20@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261126T121500Z
 DTEND:20261126T150000Z
 SUMMARY:Ann Arbor Turkey Trot: RF Events
@@ -10962,7 +10710,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:eb14d09393078b65@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T050000Z
 DTEND:20261128T045900Z
 SUMMARY:Library Closed
@@ -10981,7 +10729,7 @@ CATEGORIES:Free\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:7938ce08af1cff75@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T130000Z
 DTEND:20261127T141500Z
 SUMMARY:Open Swim
@@ -11008,7 +10756,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:2727cee02333cb2c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T140000Z
 DTEND:20261127T160000Z
 SUMMARY:Toddler Time at Launch Trampoline
@@ -11031,7 +10779,7 @@ CATEGORIES:Fitness/Health\,Indoor Activities\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:ebeefc2a0b189b68@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T150000Z
 DTEND:20261127T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -11058,7 +10806,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:c68976fc02c0785c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T150000Z
 DTEND:20261127T160000Z
 SUMMARY:Tot Time
@@ -11079,7 +10827,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:4606e31fd171db6b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T160000Z
 DTEND:20261127T190000Z
 SUMMARY:Homeschool Jump
@@ -11105,7 +10853,7 @@ CATEGORIES:Elementary\,Fitness/Health\,High Schoolers\,Home SchoolProgram\
 END:VEVENT
 BEGIN:VEVENT
 UID:018e782045db6a61@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T163000Z
 DTEND:20261127T200000Z
 SUMMARY:Open Swim
@@ -11133,7 +10881,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:7938ce08af1cff75@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Open Swim
@@ -11162,7 +10910,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:f37028f2646b7041@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T170000Z
 DTEND:20261127T173000Z
 SUMMARY:Preschool Storytimes
@@ -11183,7 +10931,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Outdoor\,Preschoolers\,Storytime\,T
 END:VEVENT
 BEGIN:VEVENT
 UID:444323d1e7b88c02@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T160000Z
 DTEND:20261127T200000Z
 SUMMARY:Crafty Chaos: Fall Wreath Leaves
@@ -11197,7 +10945,7 @@ DESCRIPTION:<p>Get ready to crunch\, crinkle\, and create! Join us for a H
 END:VEVENT
 BEGIN:VEVENT
 UID:deb6936eea72f9b0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T213000Z
 DTEND:20261127T233000Z
 SUMMARY:Family Splash Night
@@ -11225,7 +10973,7 @@ CATEGORIES:Elementary\,Fitness/Health\,High Schoolers\,IndoorActivities\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:bc91e13c4a25937a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T230000Z
 DTEND:20261128T020000Z
 SUMMARY:“Irving Berlin’s Holiday Inn”: The Encore Musical Theatre Company
@@ -11247,7 +10995,7 @@ CATEGORIES:Observer Editor\,Babies\,Elementary\,Food\,IndoorActivities\,Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:018e782045db6a61@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261127T233000Z
 DTEND:20261128T010000Z
 SUMMARY:Open Swim
@@ -11275,7 +11023,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:0de556d64ada1984@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261128T110000Z
 DTEND:20261128T190000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -11304,7 +11052,7 @@ CATEGORIES:Babies\,Elementary\,Farmers Market\,Free\,High Schoolers\,Middl
 END:VEVENT
 BEGIN:VEVENT
 UID:08c681f57d548282@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261128T120000Z
 DTEND:20261128T150000Z
 SUMMARY:Turkey Trails- Ann Arbor
@@ -11328,7 +11076,7 @@ CATEGORIES:Advance Registration\,Elementary\,Expecting Parents\,Fitness/He
 END:VEVENT
 BEGIN:VEVENT
 UID:db0a6698a7426ea6@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261128T130000Z
 DTEND:20261128T140000Z
 SUMMARY:Toddler Time at Launch Trampoline
@@ -11351,7 +11099,7 @@ CATEGORIES:Fitness/Health\,Indoor Activities\,Preschoolers\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:3ac34ac81a421112@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261128T160000Z
 DTEND:20261128T210000Z
 SUMMARY:New Harvest Corn Maze
@@ -11375,7 +11123,7 @@ CATEGORIES:Elementary\,Fall Fun\,Halloween\,HighSchoolers\,Middle Schooler
 END:VEVENT
 BEGIN:VEVENT
 UID:a18165839275115e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261128T160000Z
 DTEND:20261128T190000Z
 SUMMARY:Open Swim
@@ -11400,7 +11148,7 @@ CATEGORIES:Babies\,Elementary\,Frugal\,High Schoolers\,IndoorActivities\,M
 END:VEVENT
 BEGIN:VEVENT
 UID:4ff2c02552339973@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261128T171500Z
 DTEND:20261128T194500Z
 SUMMARY:Open Swim
@@ -11427,7 +11175,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:3298e905a5362c65@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261128T180000Z
 DTEND:20261128T190000Z
 SUMMARY:Ann Arbor Civic Theater Presents: Myth-Understood
@@ -11448,7 +11196,7 @@ CATEGORIES:Performers\,Elementary\,Free\,High Schoolers\,IndoorActivities\
 END:VEVENT
 BEGIN:VEVENT
 UID:3227449f63e5d1d5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261128T180000Z
 DTEND:20261128T220000Z
 SUMMARY:Open Swim
@@ -11476,7 +11224,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:204c3e4a85d6f0b5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261128T180000Z
 DTEND:20261128T190000Z
 SUMMARY:“Myth-Understood”: Ann Arbor Civic Theatre Junior Theatre
@@ -11496,7 +11244,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:c08a607645a17ded@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261128T190000Z
 DTEND:20261128T200000Z
 SUMMARY:Littlest Sewists
@@ -11516,7 +11264,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:1492e5fc367958be@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261129T150000Z
 DTEND:20261129T153000Z
 SUMMARY:Spanish Storytime
@@ -11536,7 +11284,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:77212e136d7e1156@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261129T160000Z
 DTEND:20261129T170000Z
 SUMMARY:Family Swim
@@ -11560,7 +11308,7 @@ CATEGORIES:Elementary\,Fitness/Health\,IndoorActivities\,Preschoolers\,Swi
 END:VEVENT
 BEGIN:VEVENT
 UID:929c68a4b9c29c54@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
 SUMMARY:Gemily: the Ark
@@ -11578,7 +11326,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:d3fcdd6a6969310c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261129T173000Z
 DTEND:20261129T200000Z
 SUMMARY:Open Swim
@@ -11605,7 +11353,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:dc5eb7936c74085f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261129T180000Z
 DTEND:20261129T190000Z
 SUMMARY:Ann Arbor Civic Theater Presents: Myth-Understood
@@ -11626,7 +11374,7 @@ CATEGORIES:Performers\,Elementary\,Free\,High Schoolers\,IndoorActivities\
 END:VEVENT
 BEGIN:VEVENT
 UID:d44920f70df836ac@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261129T180000Z
 DTEND:20261129T220000Z
 SUMMARY:Open Swim
@@ -11654,7 +11402,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:f25947d1e1e83b50@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261129T180000Z
 DTEND:20261129T190000Z
 SUMMARY:“Myth-Understood”: Ann Arbor Civic Theatre Junior Theatre
@@ -11674,7 +11422,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:1f32952472ad9456@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261130T124500Z
 DTEND:20261130T133000Z
 SUMMARY:Pre-School Playtime
@@ -11696,7 +11444,7 @@ CATEGORIES:Advance Registration\,Fitness/Health\,IndoorActivities\,Playgro
 END:VEVENT
 BEGIN:VEVENT
 UID:d4867175b4f9fbcb@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261130T130000Z
 DTEND:20261130T151500Z
 SUMMARY:Open Swim
@@ -11723,7 +11471,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:094a807d059828d8@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261130T143000Z
 DTEND:20261130T150000Z
 SUMMARY:Preschool Storytimes
@@ -11744,7 +11492,7 @@ CATEGORIES:Preschool Storytimes\,Free\,Indoor Activities\,Preschoolers\,St
 END:VEVENT
 BEGIN:VEVENT
 UID:25b50ec0a73e819e@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261130T150000Z
 DTEND:20261130T163000Z
 SUMMARY:Preschool/Toddler Swim
@@ -11771,7 +11519,7 @@ CATEGORIES:Babies\,Indoor Activities\,Preschoolers\,Swimming\,Toddler
 END:VEVENT
 BEGIN:VEVENT
 UID:6ffeb42ceb46cfc0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261130T150000Z
 DTEND:20261130T160000Z
 SUMMARY:Tot Time
@@ -11792,7 +11540,7 @@ CATEGORIES:Advance Registration\,IndoorActivities\,Playgroup\,Preschoolers
 END:VEVENT
 BEGIN:VEVENT
 UID:ca5b417226d0fb70@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261130T163000Z
 DTEND:20261130T200000Z
 SUMMARY:Open Swim
@@ -11820,7 +11568,7 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
 END:VEVENT
 BEGIN:VEVENT
 UID:d4867175b4f9fbcb@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261130T170000Z
 DTEND:20261130T200000Z
 SUMMARY:Open Swim
@@ -11849,7 +11597,7 @@ CATEGORIES:Elementary\,High Schoolers\,Indoor Activities\,MiddleSchoolers\
 END:VEVENT
 BEGIN:VEVENT
 UID:ca5b417226d0fb70@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261130T233000Z
 DTEND:20261201T010000Z
 SUMMARY:Open Swim
@@ -11876,28 +11624,28 @@ CATEGORIES:Babies\,Elementary\,Fitness/Health\,High Schoolers\,IndoorActiv
  ities\,Middle Schoolers
 END:VEVENT
 BEGIN:VEVENT
-UID:55143b485a32fa18@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+UID:659c4a7cea458d46@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
 DTSTART:20261201T160000Z
 DTEND:20261201T163000Z
 SUMMARY:Preschool Storytimes
-LOCATION:Downtown Library: Kids Story Corner\, 343 S Fifth Ave\, Ann Arbor
- \, MI 48104
-GEO:42.2792;-83.7462
+LOCATION:Malletts Creek Branch: Program Room\, 3090 E Eisenhower Pkwy\, An
+ n Arbor\, MI 48108
+GEO:42.2436;-83.7156
 DESCRIPTION:Join us for stories and songs for listeners age 2 to 5 years\,
   accompanied by an adult. Siblings are welcome. Join us for stories and s
  ongs for listeners age 2 to 5 years\, accompanied by an adult. Siblings a
- re welcome.\n\nWhere: 343 S Fifth Ave\, Ann Arbor\, MI 48104\nAges: Age 2
- –5 Years\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nListed
-  by: Ann Arbor District Library\nDetails: https://aadl.org/node/644123\nF
- ound on: https://kideventsinannarbor.com/?event=55143b485a32fa18\n\nDoubl
- e check the time with the organizer before you go.
-URL:https://aadl.org/node/644123
+ re welcome.\n\nWhere: 3090 E Eisenhower Pkwy\, Ann Arbor\, MI 48108\nAges
+ : Age 2–5 Years\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\
+ nListed by: Ann Arbor District Library\nDetails: https://aadl.org/node/64
+ 4699\nFound on: https://kideventsinannarbor.com/?event=659c4a7cea458d46\n
+ \nDouble check the time with the organizer before you go.
+URL:https://aadl.org/node/644699
 CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:166a00ac2a8ebbb3@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261201T190000Z
 DTEND:20261201T210000Z
 SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
@@ -11917,7 +11665,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:01a77968db3978e4@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261202T153000Z
 DTEND:20261202T160000Z
 SUMMARY:Preschool Storytimes
@@ -11937,7 +11685,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:62ee2e24a6312fdc@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261202T230000Z
 DTEND:20261203T003000Z
 SUMMARY:Folk Song Jam Along
@@ -11958,7 +11706,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:7476ebba67564b11@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261203T160000Z
 DTEND:20261203T163000Z
 SUMMARY:Preschool Storytimes
@@ -11978,7 +11726,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:a4e3cc951e6c50cd@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261203T180000Z
 DTEND:20261203T184500Z
 SUMMARY:Young Scientists!
@@ -11998,7 +11746,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:bb12e1ecfebdc014@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261204T180000Z
 DTEND:20261204T183000Z
 SUMMARY:Preschool Storytimes
@@ -12018,7 +11766,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:a53591ec9b65105a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261205T160000Z
 DTEND:20261205T163000Z
 SUMMARY:French Storytime
@@ -12039,7 +11787,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:6a81983d3582ad81@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261205T190000Z
 DTEND:20261205T230000Z
 SUMMARY:WAPUR | Washtenaw Area Pick-Up Robotics!
@@ -12056,7 +11804,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:f3b93f561f6af748@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261206T150000Z
 DTEND:20261206T154500Z
 SUMMARY:Dancing Babies with Robin Robinson
@@ -12077,7 +11825,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:57d5538575f61dec@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261206T153000Z
 DTEND:20261206T173000Z
 SUMMARY:AADL Welcomes: Jewish Storytime and Activities
@@ -12096,7 +11844,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:1f47c3bd2b0a8825@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261206T160000Z
 DTEND:20261206T163000Z
 SUMMARY:Spanish Storytime
@@ -12116,7 +11864,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:33db08c222765161@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261206T180000Z
 DTEND:20261206T190000Z
 SUMMARY:Science or Magic?
@@ -12135,7 +11883,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:031a563fdfc5cb78@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261206T190000Z
 DTEND:20261206T210000Z
 SUMMARY:Gift Wrap Swap
@@ -12156,7 +11904,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:08de31de1fc6b343@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261207T153000Z
 DTEND:20261207T160000Z
 SUMMARY:Preschool ArtStart
@@ -12177,7 +11925,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:7b3ea6e0ed84f97f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261207T153000Z
 DTEND:20261207T160000Z
 SUMMARY:Preschool Storytimes
@@ -12197,7 +11945,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:638f882942e88ca2@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261208T160000Z
 DTEND:20261208T163000Z
 SUMMARY:Preschool Storytimes
@@ -12217,7 +11965,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:b35844e886b970e4@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261209T153000Z
 DTEND:20261209T160000Z
 SUMMARY:Preschool Storytimes
@@ -12237,7 +11985,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:a907bc7c77d2c3cc@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261209T180000Z
 DTEND:20261209T190000Z
 SUMMARY:Beaded Pipe Cleaner Icicles & Snowflakes
@@ -12257,7 +12005,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:dc53128416b5d18d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261209T183000Z
 DTEND:20261209T190000Z
 SUMMARY:Preschool ArtStart
@@ -12278,7 +12026,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:84de7e369b6cb6c9@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261210T153000Z
 DTEND:20261210T163000Z
 SUMMARY:Korean Storytime
@@ -12299,7 +12047,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:6f8408cacb5040fd@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261210T153000Z
 DTEND:20261210T160000Z
 SUMMARY:Preschool ArtStart
@@ -12320,7 +12068,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:b04a77c088fe4886@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261210T160000Z
 DTEND:20261210T163000Z
 SUMMARY:Preschool Storytimes
@@ -12340,7 +12088,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:2a1dfa58f46f02eb@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261211T180000Z
 DTEND:20261211T183000Z
 SUMMARY:Preschool Storytimes
@@ -12360,7 +12108,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:925473ce830be692@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261213T160000Z
 DTEND:20261213T163000Z
 SUMMARY:Arabic Storytime
@@ -12380,7 +12128,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:78eaa3e1ad71f6c9@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261214T153000Z
 DTEND:20261214T160000Z
 SUMMARY:Preschool Storytimes
@@ -12399,28 +12147,28 @@ URL:https://aadl.org/node/646344
 CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
-UID:34bfd21c5ddba07f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+UID:d1867d72a250c465@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
 DTSTART:20261215T160000Z
 DTEND:20261215T163000Z
 SUMMARY:Preschool Storytimes
-LOCATION:Downtown Library: Kids Story Corner\, 343 S Fifth Ave\, Ann Arbor
- \, MI 48104
-GEO:42.2792;-83.7462
+LOCATION:Malletts Creek Branch: Program Room\, 3090 E Eisenhower Pkwy\, An
+ n Arbor\, MI 48108
+GEO:42.2436;-83.7156
 DESCRIPTION:Join us for stories and songs for listeners age 2 to 5 years\,
   accompanied by an adult. Siblings are welcome. Join us for stories and s
  ongs for listeners age 2 to 5 years\, accompanied by an adult. Siblings a
- re welcome.\n\nWhere: 343 S Fifth Ave\, Ann Arbor\, MI 48104\nAges: Age 2
- –5 Years\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nListed
-  by: Ann Arbor District Library\nDetails: https://aadl.org/node/644124\nF
- ound on: https://kideventsinannarbor.com/?event=34bfd21c5ddba07f\n\nDoubl
- e check the time with the organizer before you go.
-URL:https://aadl.org/node/644124
+ re welcome.\n\nWhere: 3090 E Eisenhower Pkwy\, Ann Arbor\, MI 48108\nAges
+ : Age 2–5 Years\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\
+ nListed by: Ann Arbor District Library\nDetails: https://aadl.org/node/64
+ 4701\nFound on: https://kideventsinannarbor.com/?event=d1867d72a250c465\n
+ \nDouble check the time with the organizer before you go.
+URL:https://aadl.org/node/644701
 CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:53c16b67280f0304@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261216T153000Z
 DTEND:20261216T160000Z
 SUMMARY:Preschool Storytimes
@@ -12440,7 +12188,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:ce1b807034ce522f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
@@ -12460,7 +12208,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:688e09d742bb0584@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261217T153000Z
 DTEND:20261217T163000Z
 SUMMARY:Little Play Date!
@@ -12480,28 +12228,28 @@ URL:https://aadl.org/node/670760
 CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
-UID:44d598fb2d9f95d0@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+UID:c37146256f09ced5@kid-events-in-ann-arbor
+DTSTAMP:20261027T102859Z
 DTSTART:20261217T160000Z
 DTEND:20261217T163000Z
 SUMMARY:Preschool Storytimes
-LOCATION:Pittsfield Branch: Program Room\, 2359 Oak Valley Dr\, Ann Arbor\
- , MI 48103
-GEO:42.2451;-83.7877
+LOCATION:Traverwood Branch: Program Room\, 3333 Traverwood Dr\, Ann Arbor\
+ , MI 48105
+GEO:42.3095;-83.7086
 DESCRIPTION:Join us for stories and songs for listeners age 2 to 5 years\,
   accompanied by an adult. Siblings are welcome. Join us for stories and s
  ongs for listeners age 2 to 5 years\, accompanied by an adult. Siblings a
- re welcome.\n\nWhere: 2359 Oak Valley Dr\, Ann Arbor\, MI 48103\nAges: Ag
+ re welcome.\n\nWhere: 3333 Traverwood Dr\, Ann Arbor\, MI 48105\nAges: Ag
  e 2–5 Years\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nLis
- ted by: Ann Arbor District Library\nDetails: https://aadl.org/node/643982
- \nFound on: https://kideventsinannarbor.com/?event=44d598fb2d9f95d0\n\nDo
+ ted by: Ann Arbor District Library\nDetails: https://aadl.org/node/644233
+ \nFound on: https://kideventsinannarbor.com/?event=c37146256f09ced5\n\nDo
  uble check the time with the organizer before you go.
-URL:https://aadl.org/node/643982
+URL:https://aadl.org/node/644233
 CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:27473fa8aabcfadd@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261218T153000Z
 DTEND:20261218T163000Z
 SUMMARY:Sensation Stations
@@ -12521,7 +12269,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:5e83d6aa5ec62f0a@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261218T180000Z
 DTEND:20261218T183000Z
 SUMMARY:Preschool Storytimes
@@ -12541,7 +12289,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:61d7ecc9ef2f9390@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261219T160000Z
 DTEND:20261219T163000Z
 SUMMARY:Japanese Storytime
@@ -12561,7 +12309,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:f9678cf38ce1d889@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261219T160000Z
 DTEND:20261219T170000Z
 SUMMARY:Spy Academy!
@@ -12582,7 +12330,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:48c7bd25c9511179@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261220T160000Z
 DTEND:20261220T163000Z
 SUMMARY:Ojibway Storytime
@@ -12602,7 +12350,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:8e2cd1e0f551b6ff@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:All-Ages Mario Kart Tournament
@@ -12622,7 +12370,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:d9b97e80a5b56eb5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261220T180000Z
 DTEND:20261220T200000Z
 SUMMARY:Chesstastic
@@ -12642,7 +12390,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:7c0ff3d3101cb80b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261221T153000Z
 DTEND:20261221T160000Z
 SUMMARY:Preschool Storytimes
@@ -12662,7 +12410,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:99b2b7d95864a0c2@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261222T160000Z
 DTEND:20261222T163000Z
 SUMMARY:Preschool Storytimes
@@ -12682,7 +12430,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:5023f4ae38094878@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261223T153000Z
 DTEND:20261223T160000Z
 SUMMARY:Preschool Storytimes
@@ -12702,7 +12450,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:21f5bce8c2c08262@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261226T190000Z
 DTEND:20261226T200000Z
 SUMMARY:Art of Puppetry with Jeff Jantz
@@ -12723,7 +12471,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:b784999e9038874c@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261227T180000Z
 DTEND:20261227T190000Z
 SUMMARY:Drag Bingo
@@ -12744,7 +12492,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:9af0ac8bd155002b@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261228T153000Z
 DTEND:20261228T160000Z
 SUMMARY:Preschool Storytimes
@@ -12764,7 +12512,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:c1cd86cc3d704695@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261228T180000Z
 DTEND:20261228T190000Z
 SUMMARY:Dinosaur Dig Site
@@ -12784,7 +12532,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:4256cc7f6789c53f@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261229T160000Z
 DTEND:20261229T163000Z
 SUMMARY:Preschool Storytimes
@@ -12804,7 +12552,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:7d5bdc91a598d7a9@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261229T190000Z
 DTEND:20261229T210000Z
 SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
@@ -12824,7 +12572,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:58387339d74014d5@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261230T153000Z
 DTEND:20261230T160000Z
 SUMMARY:Preschool Storytimes
@@ -12844,7 +12592,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:6df384ad0aff04fd@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261230T160000Z
 DTEND:20261230T170000Z
 SUMMARY:Elephant and Piggie Storytime & Craft
@@ -12864,7 +12612,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:1db154e0258a8bca@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261230T190000Z
 DTEND:20261230T200000Z
 SUMMARY:Clothespin Dragonflies
@@ -12884,7 +12632,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:5ca2e0c8c40baf40@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261231T160000Z
 DTEND:20261231T170000Z
 SUMMARY:Noon Year's Eve!
@@ -12905,7 +12653,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:9b55e3ff2003ccf7@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20261231T160000Z
 DTEND:20261231T163000Z
 SUMMARY:Preschool Storytimes
@@ -12925,7 +12673,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:55bead056714a68d@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20270107T233000Z
 DTEND:20270108T003000Z
 SUMMARY:Feisty Women Book Club
@@ -12946,7 +12694,7 @@ CATEGORIES:Community Content
 END:VEVENT
 BEGIN:VEVENT
 UID:067901cac14e31ad@kid-events-in-ann-arbor
-DTSTAMP:20261026T110253Z
+DTSTAMP:20261027T102859Z
 DTSTART:20270109T140000Z
 DTEND:20270109T170000Z
 SUMMARY:Time Travel Half-Marathon/5K/10K – Ann Arbor
