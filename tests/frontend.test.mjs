@@ -925,12 +925,13 @@ test("opening one card's calendar menu closes another's", async () => {
   assert.equal(second.querySelector(".cal-panel").hidden, false);
 });
 
-test("the source button says View on event website", async () => {
+test("the source button says where it goes", async () => {
   const window = await load();
   for (const card of cards(window)) {
     const link = card.querySelector(".card-source");
     if (link) {
-      assert.equal(link.querySelector("span").textContent, "View on event website");
+      assert.match(link.querySelector("span").textContent,
+        /^View on (event website|source calendar)$/);
       assert.ok(link.querySelector("svg.icon"), "no website icon");
     }
   }
@@ -1723,6 +1724,26 @@ test("a javascript: url from a source never reaches an href", async () => {
   if (link) {
     assert.doesNotMatch(link.getAttribute("href") || "", /^javascript:/i);
   }
+});
+
+test("an event with no page of its own links to the source calendar", async () => {
+  const window = await loadPage(pageWith([{
+    id: "cal-1",
+    title: "Critters Up Close",
+    start: new Date(Date.now() + 3600e3).toISOString(),
+    venue: "Leslie Science & Nature Center",
+    city: "Ann Arbor",
+    url: "",
+    source_url: "https://discoverscienceandnature.org/calendars",
+    source: "discover_science",
+    source_name: "Hands-On Museum & Leslie Science",
+  }]));
+  showAll(window);
+
+  const link = window.document.getElementById("e-cal-1").querySelector(".card-source");
+  assert.ok(link, "every card should have a link");
+  assert.equal(link.getAttribute("href"), "https://discoverscienceandnature.org/calendars");
+  assert.equal(link.querySelector("span").textContent, "View on source calendar");
 });
 
 test("an ordinary https url still gets through", async () => {

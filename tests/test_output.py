@@ -92,20 +92,40 @@ def test_event_ids_are_unique(payload):
     assert len(set(ids)) == len(ids)
 
 
-def test_day_zero_lands_on_the_eastern_calendar_day(payload):
+def test_sample_is_built_against_the_eastern_clock(payload):
     """The site renders in Eastern. If the seed is built against the runner's
     UTC clock, every "today" event slides to tomorrow after 8pm Eastern and the
     page opens on an empty day. Caught in the wild on 2026-09-04 at 8:30pm.
+
+    This used to assert that something lands on today. The snapshot now keeps
+    real dates and goes stale on purpose, so a weekday with no recurring rule
+    is a legitimately empty day, and the test failed the nightly job for it.
+    Check the clock the build used instead.
     """
     from datetime import datetime
     from zoneinfo import ZoneInfo
 
     eastern_today = datetime.now(ZoneInfo("America/Detroit")).strftime("%Y-%m-%d")
-    on_today = [e for e in payload["events"] if e["start"][:10] == eastern_today]
-    assert on_today, (
-        f"nothing lands on {eastern_today}, the Eastern calendar day. "
-        "The seed is probably being built against UTC."
+    assert payload["generated"][:10] == eastern_today, (
+        f"sample was stamped {payload['generated']}, but the Eastern calendar "
+        f"day is {eastern_today}. The seed is probably being built against UTC."
     )
+
+
+def test_every_offset_matches_daylight_saving(payload):
+    """A -04:00 on a December date puts the event an hour early on the page."""
+    from scraper.tz import eastern_offset
+
+    wrong = []
+    for event in payload["events"]:
+        for field in ("start", "end"):
+            value = event.get(field)
+            if not value or value.endswith(("+00:00", "Z")):
+                continue
+            wall = datetime.fromisoformat(value).replace(tzinfo=None)
+            if not value.endswith(eastern_offset(wall)):
+                wrong.append(f"{event['title']} {field}={value}")
+    assert not wrong, "wrong offset: " + "; ".join(wrong[:5])
 
 
 def test_no_scraped_event_links_to_a_listing_page(payload):
@@ -123,6 +143,15 @@ def test_no_scraped_event_links_to_a_listing_page(payload):
            if e["source"] not in hand and is_listing_url(e["url"])]
     assert not bad, "these link to a listing rather than the event: " + ", ".join(
         f"{e['title']} -> {e['url']}" for e in bad[:5]
+    )
+
+
+def test_every_event_links_somewhere(payload):
+    """Every card gets a button: the event's own page, or failing that the
+    source's calendar."""
+    bare = [e for e in payload["events"] if not e["url"] and not e.get("source_url")]
+    assert not bare, "no link at all: " + ", ".join(
+        f"{e['source']}: {e['title']}" for e in bare[:5]
     )
 
 

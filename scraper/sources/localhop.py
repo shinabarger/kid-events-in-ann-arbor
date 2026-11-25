@@ -21,6 +21,7 @@ import requests as req
 
 from .. import http
 from ..models import Event
+from ..tz import EASTERN, eastern_offset
 
 API = "https://api.getlocalhop.com/1/classes/EventInstance"
 APP_ID = "zesqKJEzK7ncFXe57x4uWc4Moow3I2wGCq7zFcqI"
@@ -45,8 +46,8 @@ INCLUDE = ",".join([
 
 
 def _eastern_offset(dt: datetime) -> str:
-    """EDT or EST, the rough way. Good enough for event display."""
-    return "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+    """EDT or EST, from the tz database. See scraper/tz.py."""
+    return eastern_offset(dt)
 
 
 def _parse_api_dt(iso_str: str) -> str:
@@ -56,9 +57,10 @@ def _parse_api_dt(iso_str: str) -> str:
     try:
         cleaned = iso_str.replace("Z", "+00:00")
         dt_utc = datetime.fromisoformat(cleaned)
-        offset_hours = -4 if 3 <= dt_utc.month <= 11 else -5
-        dt_local = dt_utc + timedelta(hours=offset_hours)
-        return dt_local.strftime("%Y-%m-%dT%H:%M:%S") + _eastern_offset(dt_local)
+        if dt_utc.tzinfo is None:
+            dt_utc = dt_utc.replace(tzinfo=timezone.utc)
+        # The tz database, so the hour that repeats in November comes out right.
+        return dt_utc.astimezone(EASTERN).isoformat(timespec="seconds")
     except (ValueError, TypeError):
         return ""
 

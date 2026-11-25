@@ -28,6 +28,7 @@ from scraper.models import AGE_BANDS, AGE_BAND_LABELS, ZONE_LABELS, Event  # noq
 from scraper.run import (HORIZON_DAYS, defer_projections,  # noqa: E402
                         drop_listing_links, load_sites, mark_recurring,
                         mixed_sources)
+from scraper.tz import eastern_offset  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = ROOT
@@ -45,9 +46,8 @@ SOURCE_NAMES = {
     "reced": "Ann Arbor Rec & Ed",
 }
 
-# Deliberately no per-source fallback URL. A link that lands on a calendar
-# index makes someone click twice and then hunt for the row they already had,
-# so a row with no specific page of its own simply gets no link.
+# A row with no page of its own gets the source's calendar as source_url, via
+# drop_listing_links, so the card always has somewhere to send people.
 
 
 # The site renders in Eastern. Building the seed against the container's UTC
@@ -74,7 +74,7 @@ def stamp(day: str, clock: str | None) -> str:
     if clock:
         hour, minute = (int(p) for p in clock.split(":"))
     when = datetime.fromisoformat(day).replace(hour=hour, minute=minute)
-    offset = "-04:00" if 3 <= when.month <= 11 else "-05:00"
+    offset = eastern_offset(when)
     return when.strftime("%Y-%m-%dT%H:%M:%S") + offset
 
 

@@ -12,6 +12,7 @@ from datetime import datetime, timedelta
 
 from .. import http
 from ..models import Event
+from ..tz import EASTERN, eastern_offset
 
 BASE = "https://events.umich.edu"
 SOURCE = "umich"
@@ -36,7 +37,7 @@ def _iso(date_str: str, time_str: str) -> str:
         dt = datetime.strptime(f"{date_str} {time_str}", "%Y-%m-%d %H:%M:%S")
     except ValueError:
         return ""
-    offset = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+    offset = eastern_offset(dt)
     return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset
 
 
@@ -102,7 +103,7 @@ def is_family_sponsored(event) -> bool:
 
 def fetch(days: int = DAYS_AHEAD) -> list:
     events = []
-    today = datetime.now().date()
+    today = datetime.now(EASTERN).date()
     for offset in range(days):
         day = today + timedelta(days=offset)
         try:

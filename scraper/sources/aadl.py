@@ -19,6 +19,7 @@ from bs4 import BeautifulSoup
 
 from .. import http
 from ..models import Event
+from ..tz import eastern_offset
 
 BASE = "https://aadl.org"
 SOURCE = "aadl"
@@ -60,7 +61,7 @@ def _iso(dt: datetime | None) -> str | None:
     if dt is None:
         return None
     # AADL is always Eastern. Offset flips with DST.
-    offset = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+    offset = eastern_offset(dt)
     return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset
 
 

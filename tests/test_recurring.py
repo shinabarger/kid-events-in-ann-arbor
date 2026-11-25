@@ -83,6 +83,19 @@ def test_a_series_can_be_given_an_end_date(tmp_path):
     assert [e.start[:10] for e in events] == ["2026-09-05", "2026-09-12", "2026-09-19"]
 
 
+def test_a_series_can_be_given_a_start_date(tmp_path):
+    """A library between sessions publishes the next one ahead of time."""
+    path = tmp_path / "recurring.yaml"
+    path.write_text(
+        "series:\n"
+        "  - key: x\n    name: X\n    events:\n"
+        "      - title: Winter only\n        rule: every saturday\n"
+        "        time: '10:00'\n        starts: 2026-10-01\n        until: 2026-10-15\n"
+    )
+    events = recurring.fetch(str(path), days=120, today=TODAY)
+    assert [e.start[:10] for e in events] == ["2026-10-03", "2026-10-10"]
+
+
 def test_times_come_out_in_eastern_with_the_right_offset(tmp_path):
     """September is daylight time and December is not. Getting this wrong
     slides a 9am playgroup to 8am for half the year."""

@@ -25,6 +25,7 @@ from bs4 import BeautifulSoup
 
 from .. import http
 from ..models import Event
+from ..tz import EASTERN, eastern_offset
 
 
 def _as_list(value):
@@ -39,15 +40,14 @@ def _normalize_dt(value: str) -> str:
         return ""
     value = value.strip()
     if re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
-        month = int(value[5:7])
-        offset = "-04:00" if 3 <= month <= 11 else "-05:00"
+        offset = eastern_offset(datetime.fromisoformat(value))
         return f"{value}T00:00:00{offset}"
     try:
         dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
     except ValueError:
         return ""
     if dt.tzinfo is None:
-        offset = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+        offset = eastern_offset(dt)
         return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset
     return dt.isoformat()
 
@@ -169,8 +169,9 @@ def recover_time(html: str, date: str) -> tuple:
     if not match:
         return "", ""
 
-    offset = "-04:00" if 3 <= int(date[5:7]) <= 11 else "-05:00"
-    start = f"{date}T{_clock24(match.group(1), match.group(2), match.group(3))}{offset}"
+    clock = _clock24(match.group(1), match.group(2), match.group(3))
+    offset = eastern_offset(datetime.fromisoformat(f"{date}T{clock}"))
+    start = f"{date}T{clock}{offset}"
     end = ""
     if match.group(4):
         end = f"{date}T{_clock24(match.group(4), match.group(5), match.group(6))}{offset}"
@@ -324,7 +325,7 @@ def _ics_dt(value: str, params: str) -> str:
             dt = datetime.strptime(value, "%Y%m%d")
     except ValueError:
         return ""
-    offset = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+    offset = eastern_offset(dt)
     return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset
 
 
@@ -384,7 +385,7 @@ def harvest_tribe(site: dict) -> list:
     categories already structured. Always prefer this over scraping.
     """
     base = site["base"].rstrip("/")
-    start = datetime.now().date()
+    start = datetime.now(EASTERN).date()
     end = start + timedelta(days=site.get("days", 120))
     per_page = 50
     events = []
@@ -475,7 +476,7 @@ def _tribe_dt(value: str) -> str:
         dt = datetime.strptime(value[:19], "%Y-%m-%d %H:%M:%S")
     except ValueError:
         return ""
-    offset = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+    offset = eastern_offset(dt)
     return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset
 
 

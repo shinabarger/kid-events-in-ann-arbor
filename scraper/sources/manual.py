@@ -15,6 +15,7 @@ import os
 import yaml
 
 from ..models import Event
+from ..tz import as_eastern
 
 CONFIG_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "config")
 PATH = os.path.join(CONFIG_DIR, "manual_events.yaml")
@@ -36,8 +37,8 @@ def fetch(path: str = PATH) -> list:
         events.append(
             Event(
                 title=row["title"],
-                start=row["start"],
-                end=row.get("end"),
+                start=as_eastern(row["start"]),
+                end=as_eastern(row.get("end")) or None,
                 all_day=bool(row.get("all_day")),
                 description=row.get("description", ""),
                 url=row.get("url", ""),

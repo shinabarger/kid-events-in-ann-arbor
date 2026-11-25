@@ -27,6 +27,7 @@ from bs4 import BeautifulSoup
 
 from .. import http
 from ..models import Event
+from ..tz import EASTERN, eastern_offset
 
 BASE = "https://annarborwithkids.com"
 ICS_URL = f"{BASE}/events.ics"
@@ -80,7 +81,7 @@ def _dt(value: str, params: str) -> tuple:
             dt = datetime.strptime(value, "%Y%m%d")
     except ValueError:
         return "", False
-    offset = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+    offset = eastern_offset(dt)
     return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset, all_day
 
 
@@ -217,7 +218,7 @@ def parse_day_page(html: str, year: int) -> list:
                     d = d.replace(hour=t.hour, minute=t.minute)
                 except ValueError:
                     pass
-            offset = "-04:00" if 3 <= d.month <= 11 else "-05:00"
+            offset = eastern_offset(d)
             return d.strftime("%Y-%m-%dT%H:%M:%S") + offset
 
         events.append(
@@ -243,7 +244,7 @@ def fetch() -> list:
 
     # Feed is down. Walk the day pages instead.
     events = []
-    today = datetime.now()
+    today = datetime.now(EASTERN)
     for offset in range(60):
         day = today.fromordinal(today.toordinal() + offset)
         try:

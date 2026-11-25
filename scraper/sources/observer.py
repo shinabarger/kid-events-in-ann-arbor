@@ -31,6 +31,7 @@ from bs4 import BeautifulSoup
 from .. import http
 from ..classify import parse_age_range
 from ..models import Event
+from ..tz import EASTERN, eastern_offset
 
 BASE = "https://annarborobserver.com"
 KIDS_URL = f"{BASE}/kids-calendar/"
@@ -74,7 +75,7 @@ def month_year(text: str, fallback_year: int) -> tuple:
         r"\s+(20\d{2})\b", text)
     if match:
         return MONTHS[match.group(1)[:3].lower()], int(match.group(2))
-    return datetime.now().month, fallback_year
+    return datetime.now(EASTERN).month, fallback_year
 
 
 def parse_clock(token: str, is_pm_hint: bool):
@@ -119,7 +120,7 @@ def _iso(year: int, month: int, day: int, clock) -> str:
         dt = datetime(year, month, day, hour, minute)
     except ValueError:
         return ""
-    offset = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+    offset = eastern_offset(dt)
     return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset
 
 
@@ -269,7 +270,7 @@ def page_audience(title: str, description: str) -> str:
 
 
 def parse_page(html: str, fallback_year: int | None = None) -> list:
-    fallback_year = fallback_year or datetime.now().year
+    fallback_year = fallback_year or datetime.now(EASTERN).year
     soup = BeautifulSoup(html, "html.parser")
     main = soup.select_one("main") or soup
     text = main.get_text(" ", strip=True)

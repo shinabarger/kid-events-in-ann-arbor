@@ -16,7 +16,7 @@ down, because that is what a human needs to know:
 A rule is better than a scrape. It survives redesigns, it costs the
 organization nothing because we never touch their server, and it is honest
 about what it is. The cost is that it can go stale, which is what the
-`checked` date and the `until` field are for, and why every entry links back
+`checked` date and the `starts` and `until` fields are for, and why every entry links back
 to the page it came from.
 """
 
@@ -97,11 +97,14 @@ def _stamp(day: date, clock: str) -> str:
 def expand(series: dict, entry: dict, start: date, end: date) -> list:
     weeks, weekday = parse_rule(entry.get("rule", ""))
 
-    window_end = end
+    def as_date(value):
+        return value if isinstance(value, date) else datetime.fromisoformat(str(value)).date()
+
+    window_start, window_end = start, end
+    if entry.get("starts"):
+        window_start = max(window_start, as_date(entry["starts"]))
     if entry.get("until"):
-        stop = entry["until"]
-        stop = stop if isinstance(stop, date) else datetime.fromisoformat(str(stop)).date()
-        window_end = min(window_end, stop)
+        window_end = min(window_end, as_date(entry["until"]))
 
     begin, finish = _split_time(entry.get("time"))
 
@@ -109,7 +112,7 @@ def expand(series: dict, entry: dict, start: date, end: date) -> list:
         return entry.get(field, series.get(field, default))
 
     events = []
-    for day in occurrences(weeks, weekday, start, window_end):
+    for day in occurrences(weeks, weekday, window_start, window_end):
         events.append(
             Event(
                 title=entry["title"],

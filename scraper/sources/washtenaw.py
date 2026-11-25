@@ -17,13 +17,14 @@ from __future__ import annotations
 
 import json
 import re
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from urllib.parse import quote
 
 from bs4 import BeautifulSoup
 
 from .. import http
 from ..models import Event
+from ..tz import EASTERN, eastern_offset
 
 
 # The CivicPlus content API category for Parks & Recreation events.
@@ -36,8 +37,8 @@ SPECIAL_EVENTS_URL = "https://www.washtenaw.org/special-events"
 
 
 def _eastern_offset(dt: datetime) -> str:
-    """EDT or EST, the rough way. Good enough for event display."""
-    return "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+    """EDT or EST, from the tz database. See scraper/tz.py."""
+    return eastern_offset(dt)
 
 
 def _parse_api_dt(iso_str: str) -> str:
@@ -48,11 +49,10 @@ def _parse_api_dt(iso_str: str) -> str:
         # The API returns dates like "2026-09-20T13:00:00.000Z"
         cleaned = iso_str.replace("Z", "+00:00")
         dt_utc = datetime.fromisoformat(cleaned)
-        # Convert to Eastern (UTC-4 in summer, UTC-5 in winter)
-        offset_hours = -4 if 3 <= dt_utc.month <= 11 else -5
-        dt_local = dt_utc + timedelta(hours=offset_hours)
-        offset = _eastern_offset(dt_local)
-        return dt_local.strftime("%Y-%m-%dT%H:%M:%S") + offset
+        if dt_utc.tzinfo is None:
+            dt_utc = dt_utc.replace(tzinfo=timezone.utc)
+        # The tz database, so the hour that repeats in November comes out right.
+        return dt_utc.astimezone(EASTERN).isoformat(timespec="seconds")
     except (ValueError, TypeError):
         return ""
 

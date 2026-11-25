@@ -265,9 +265,10 @@ def mark_recurring(events: list) -> list:
     return events
 
 
-# A link that lands on a source's listing page is worse than no link. It makes
+# A link that lands on a source's listing page is not an event link. It makes
 # someone click twice and then hunt for the row they already had. If an adapter
-# could only manage the listing URL, drop it and let the button disappear.
+# could only manage the listing URL, it moves to source_url, and the card says
+# it goes to the source's calendar rather than pretending it is the event.
 LISTING_URLS = {
     "https://aadl.org/events",
     "https://annarborwithkids.com/events/",
@@ -314,11 +315,42 @@ def hand_written_sources() -> set:
     return {"manual"} | {s["key"] for s in recurring.load_series()}
 
 
+# Calendars for sources that are not in sources.yaml. Used only when an event
+# came back with no link at all, so every card still has somewhere to go.
+SOURCE_HOMES = {
+    "aadl": "https://aadl.org/events",
+    "aawk": "https://annarborwithkids.com/events/",
+    "a2observer_kids": "https://annarborobserver.com/kids-calendar/",
+    "cityspark_a2family": "https://www.annarborfamily.com/events/",
+    "ypsi_library": "https://www.ypsilibrary.org/events/",
+    "a2_parks_rec": "https://www.a2gov.org/Pages/Calendar.aspx",
+    "saline_library": "https://salinelibrary.org/events/",
+}
+
+
+def source_homes() -> dict:
+    homes = dict(SOURCE_HOMES)
+    for site in load_sites():
+        listings = site.get("listings") or []
+        home = (site.get("url") or site.get("calendar_page")
+                or (listings[0] if listings else "") or site.get("base") or "")
+        if home:
+            homes.setdefault(site["key"], home)
+    for series in recurring.load_series():
+        if series.get("url"):
+            homes.setdefault(series["key"], series["url"])
+    return homes
+
+
 def drop_listing_links(events: list, keep: set | None = None) -> list:
     keep = hand_written_sources() if keep is None else keep
+    homes = source_homes()
     for event in events:
         if event.source not in keep and is_listing_url(event.url):
+            event.source_url = event.url
             event.url = ""
+        if not event.url and not event.source_url:
+            event.source_url = homes.get(event.source, "")
     return events
 
 
@@ -426,6 +458,11 @@ def main() -> int:
     without_link = sum(1 for e in events if not e.url)
     if without_link:
         print(f"Events with no specific page to link to: {without_link}", file=sys.stderr)
+    nowhere = [e for e in events if not e.url and not e.source_url]
+    if nowhere:
+        print(f"Events with no link at all: {len(nowhere)}", file=sys.stderr)
+        for event in nowhere[:8]:
+            print(f"    {event.source}: {event.title[:56]}", file=sys.stderr)
     repeats = sum(1 for e in events if e.recurring and e.all_day)
     print(f"All day repeats flagged: {repeats}", file=sys.stderr)
 

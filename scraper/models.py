@@ -59,6 +59,9 @@ class Event:
     repeat_count: int = 0
     description: str = ""
     url: str = ""
+    # Where to look when there is no page for this one event: the source's
+    # own calendar. The card labels it as such, so nobody expects a detail page.
+    source_url: str = ""
     venue: str = ""
     address: str = ""
     city: str = ""

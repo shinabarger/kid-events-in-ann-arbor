@@ -92,7 +92,7 @@
 
   // An event stays in the main list until this long after it started, so
   // checking at 3pm does not still surface a 10am storytime that is over.
-  var PAST_TODAY_GRACE_HOURS = 3;
+  var PAST_TODAY_GRACE_HOURS = 2;
 
   var AGE_LABELS = {
     baby: "Babies", toddler: "Toddlers", preschool: "Preschool",
@@ -679,13 +679,21 @@
     copy.addEventListener("click", function () { copyLink(event, copy); });
 
     var source = node.querySelector(".card-source");
-    var sourceUrl = safeUrl(event.url);
-    if (sourceUrl) {
-      source.href = sourceUrl;
+    var eventUrl = safeUrl(event.url);
+    var calendarUrl = eventUrl ? "" : safeUrl(event.source_url);
+    if (eventUrl) {
+      source.href = eventUrl;
       source.setAttribute("aria-label",
         "View " + event.title + " on " + event.source_name + ", opens in a new tab");
+    } else if (calendarUrl) {
+      // No page for this one event, so send them to the source's calendar and
+      // say so, rather than letting them think it is the event page.
+      source.href = calendarUrl;
+      source.querySelector("span").textContent = "View on source calendar";
+      source.setAttribute("aria-label",
+        "Find " + event.title + " on the " + event.source_name +
+        " calendar, opens in a new tab");
     } else {
-      // No specific page to send anyone to, so do not send them to a listing.
       source.remove();
     }
 

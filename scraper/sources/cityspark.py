@@ -23,6 +23,7 @@ from datetime import datetime, timedelta, timezone
 import requests
 
 from ..models import Event
+from ..tz import eastern_offset
 
 SOURCE = "cityspark_a2family"
 SOURCE_NAME = "Ann Arbor Family"
@@ -103,7 +104,7 @@ def _normalize_dt(iso_str: str) -> str:
     if iso_str[-1] != "Z" and ("+" in iso_str[10:] or iso_str[10:].count("-") > 1):
         try:
             dt = datetime.fromisoformat(iso_str)
-            offset_str = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+            offset_str = eastern_offset(dt)
             return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset_str
         except (ValueError, TypeError):
             return ""
@@ -114,7 +115,7 @@ def _normalize_dt(iso_str: str) -> str:
         dt = datetime.fromisoformat(bare)
     except (ValueError, TypeError):
         return ""
-    offset_str = "-04:00" if 3 <= dt.month <= 11 else "-05:00"
+    offset_str = eastern_offset(dt)
     return dt.strftime("%Y-%m-%dT%H:%M:%S") + offset_str
 
 
