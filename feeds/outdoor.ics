@@ -9,162 +9,8 @@ X-WR-TIMEZONE:America/Detroit
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6f2372451039b52e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T140000Z
-DTEND:20261125T200000Z
-SUMMARY:Larcher Bakery
-LOCATION:the Farmer's Market
-DESCRIPTION:Where: the Farmer's Market\nCost: Not listed\nSignup: Drop in\
- , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
- r with Kids\nFound on: https://kideventsinannarbor.com/?event=6f237245103
- 9b52e\n\nDouble check the time with the organizer before you go.
-END:VEVENT
-BEGIN:VEVENT
-UID:0461a2c59fc0e9d6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T140000Z
-DTEND:20261125T160000Z
-SUMMARY:Soccer Clinic
-LOCATION:A2 Fieldhouse\, Ann Arbor Michigan\, Ann Arbor\, MI
-GEO:42.27087;-83.72633
-DESCRIPTION:A2 First Touch is hosting a 2 hour Soccer Clinic for kids ages
-  7-13 on the day off from school. Skills they're working on include: Firs
- t Touch Ball Mastery Finishing Small-Sided Games Do you need all day care
- ? They also offer a camp on those days.\n\nWhere: Ann Arbor\, MI\nAges: A
-  two-hour soccer clinic for kids ages 7-13\, covering first touch\, ball 
- mastery\, finishing\, and small-sided games on a school break day.\nCost:
-  50\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weather
- \nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calend
- ar/#!/event/20324372\nFound on: https://kideventsinannarbor.com/?event=04
- 61a2c59fc0e9d6\n\nDouble check the time with the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/20324372
-END:VEVENT
-BEGIN:VEVENT
-UID:110f4fdc7f3302f3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T160000Z
-DTEND:20261125T173000Z
-SUMMARY:Preschool/Toddler Swim
-LOCATION:Beach Middle School\, Chelsea Michigan\, Chelsea\, MI
-DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
- d\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\n
- Listed by: Ann Arbor with Kids\nFound on: https://kideventsinannarbor.com
- /?event=110f4fdc7f3302f3\n\nDouble check the time with the organizer befo
- re you go.
-END:VEVENT
-BEGIN:VEVENT
-UID:b26be8e9dec788f9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T160000Z
-DTEND:20261125T170000Z
-SUMMARY:Tot Time
-LOCATION:PAX Gymnastics\, Chelsea Michigan\, Ann Arbor\, MI
-GEO:42.27087;-83.72633
-DESCRIPTION:Join Chelsea's PAX Gymanstics for Tot Time - non-instructional
-  playtime in the gym. Tot Time gives parents a place to play indoors with
-  their preschool-aged toddlers in a safe\, clean environment.\n\nWhere: A
- nn Arbor\, MI\nAges: Drop-in\, non-instructional gym time for toddlers an
- d parents to play together on mats and apparatus. No pre-registration\; a
-  waiver is required.\nCost: 5\nSignup: Drop in\, no signup needed\nListed
-  by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calendar/#!/ev
- ent/20020698\nFound on: https://kideventsinannarbor.com/?event=b26be8e9de
- c788f9\n\nDouble check the time with the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/20020698
-END:VEVENT
-BEGIN:VEVENT
-UID:7d0e0f43eaab6e62@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T170000Z
-DTEND:20261125T173000Z
-SUMMARY:Chime Concert: Kerrytown Market & Shops
-LOCATION:315 Detroit St\, Ann Arbor\, MI 48104
-GEO:42.2852;-83.7442
-DESCRIPTION:Every Wed.\, Fri.\, & Sat. All invited to play one of 200 song
- s\, with melodies transcribed in numbers\, on the 17-bell chime’s numbere
- d keys. Ambitious players can add chords. Kids welcome. Noon–12:30 p.m. (
- Wed. & Fri.) & 10:30–11 a.m. (Sat.). Free. ofglobal@aol.com.\n\nWhere: 31
- 5 Detroit St\, Ann Arbor\, MI 48104\nCost: Free\nSignup: Drop in\, no sig
- nup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbor Observ
- er Kids Calendar\nDetails: https://annarborobserver.com/event/chime-conce
- rt-kerrytown-market-shops-30/2026-11-25/\nFound on: https://kideventsinan
- narbor.com/?event=7d0e0f43eaab6e62\n\nDouble check the time with the orga
- nizer before you go.
-URL:https://annarborobserver.com/event/chime-concert-kerrytown-market-shop
- s-30/2026-11-25/
-CATEGORIES:Free\,Observer Editor
-END:VEVENT
-BEGIN:VEVENT
-UID:1fbeb2f941923c70@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T173000Z
-DTEND:20261125T210000Z
-SUMMARY:Open Swim
-LOCATION:Mack Pool\, Ann Arbor Michigan\, Ann Arbor\, MI
-DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
- p: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed b
- y: Ann Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=
- 1fbeb2f941923c70\n\nDouble check the time with the organizer before you g
- o.
-END:VEVENT
-BEGIN:VEVENT
-UID:8e0ddbd7b4d9d32c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T210000Z
-DTEND:20261125T230000Z
-SUMMARY:Little Jams
-LOCATION:Neutral Zone\, 310 E. Washington St.\, Ann Arbor\, MI\, 48104
-GEO:42.28028511716843;-83.74558768084327
-DESCRIPTION:Jam out with a group of musicians who are passionate about lea
- rning and exploring the sounds of the world. All levels of music experien
- ce are welcome.\n\nWhere: 310 E. Washington St.\, Ann Arbor\, MI\, 48104\
- nAges: A music jam for young players of all experience levels\, led by mu
- sicians passionate about exploring world sounds.\nCost: Not listed\nSignu
- p: Drop in\, no signup needed\nListed by: Ann Arbor Family\nDetails: http
- s://annarborfamily.com/Calendar/#!/event/20324380\nFound on: https://kide
- ventsinannarbor.com/?event=8e0ddbd7b4d9d32c\n\nDouble check the time with
-  the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/20324380
-END:VEVENT
-BEGIN:VEVENT
-UID:6c256278270b5d40@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T220000Z
-DTEND:20261126T000000Z
-SUMMARY:Planes\, Trains\, and Campo Pizza
-LOCATION:HOMES Campus - Beer Garden\, 112 Jackson Plaza\, Ann Arbor\, MI\,
-  48103
-GEO:42.283062115619636;-83.80294443435002
-DESCRIPTION:Join us Thanksgiving Eve\, 11/25 for pizza\, pitcher specials\
- , and Planes\, Trains and Automobiles! Whether you're bringing your famil
- y or trying to avoid them\, we'll be showing this turkey day classic on t
- he projector screen at 7:00pm! Enjoy some beers and let us do the cooking
- .\n\nWhere: 112 Jackson Plaza\, Ann Arbor\, MI\, 48103\nAges: Thanksgivin
- g Eve gathering with pizza and pitcher specials\, plus a screening of Pla
- nes\, Trains and Automobiles on the projector. Movie is rated R.\nCost: $
- 20\nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\
- nListed by: Ann Arbor Family\nDetails: https://annarborfamily.com/Calenda
- r/#!/event/20413235\nFound on: https://kideventsinannarbor.com/?event=6c2
- 56278270b5d40\n\nDouble check the time with the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/20413235
-CATEGORIES:Film\, Food\, One-Time Event
-END:VEVENT
-BEGIN:VEVENT
-UID:1fbeb2f941923c70@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261126T003000Z
-DTEND:20261126T020000Z
-SUMMARY:Open Swim
-LOCATION:Mack Pool\, Ann Arbor Michigan\, Ann Arbor\, MI
-DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
- p: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed b
- y: Ann Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=
- 1fbeb2f941923c70\n\nDouble check the time with the organizer before you g
- o.
-END:VEVENT
-BEGIN:VEVENT
 UID:8cce8098c8c86baf@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261126T150000Z
 DTEND:20261126T150000Z
 SUMMARY:Milan Turkey Bowl
@@ -176,7 +22,7 @@ DESCRIPTION:Where: Wilson Park\, Milan Michigan\nCost: Not listed\nSignup:
 END:VEVENT
 BEGIN:VEVENT
 UID:c955b1ec89d0dab2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T150000Z
 DTEND:20261127T220000Z
 SUMMARY:Hillside Christmas Tree Farm
@@ -190,7 +36,7 @@ DESCRIPTION:Where: Hillside Christmas Tree Farm\, Manchester Michigan\nCos
 END:VEVENT
 BEGIN:VEVENT
 UID:9c19ae3cadd3d990@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T160000Z
 DTEND:20261127T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -203,7 +49,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:14ec756f7ebe733b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T170000Z
 DTEND:20261127T173000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -225,7 +71,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:4aff9d6973a62c27@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T173000Z
 DTEND:20261127T210000Z
 SUMMARY:Open Swim
@@ -238,7 +84,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:39e322e8d900115a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
 SUMMARY:Lake Erie Owl Prowl
@@ -251,7 +97,7 @@ DESCRIPTION:Where: Lake Erie Metropark\, Brownstown Michigan\nCost: Not li
 END:VEVENT
 BEGIN:VEVENT
 UID:4aff9d6973a62c27@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T003000Z
 DTEND:20261128T020000Z
 SUMMARY:Open Swim
@@ -264,7 +110,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:5ec9aa24747fba5d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T130000Z
 DTEND:20261128T160000Z
 SUMMARY:Turkey Trails- Ann Arbor
@@ -286,7 +132,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/19585725
 END:VEVENT
 BEGIN:VEVENT
 UID:333000d8f1fade2a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T140000Z
 DTEND:20261128T153000Z
 SUMMARY:Lillie parkrun
@@ -298,7 +144,7 @@ DESCRIPTION:Where: Lillie Park\, Ann Arbor MI\nCost: Not listed\nSignup: D
 END:VEVENT
 BEGIN:VEVENT
 UID:77b49f88eeacaa0b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T140000Z
 DTEND:20261128T160000Z
 SUMMARY:Thanksgiving Dog Parade (Family Friendly!)
@@ -321,7 +167,7 @@ CATEGORIES:Family Fun\, One-Time Event
 END:VEVENT
 BEGIN:VEVENT
 UID:8b7d19ed0e67c3ae@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Hillside Christmas Tree Farm
@@ -335,7 +181,7 @@ DESCRIPTION:Where: Hillside Christmas Tree Farm\, Manchester Michigan\nCos
 END:VEVENT
 BEGIN:VEVENT
 UID:2cb1d1d978dafd67@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T150000Z
 DTEND:20261128T170000Z
 SUMMARY:Walk on the Winter Side
@@ -348,7 +194,7 @@ DESCRIPTION:Where: Lake Erie Metropark\, Brownstown Michigan\nCost: Not li
 END:VEVENT
 BEGIN:VEVENT
 UID:bce4eb2db1ade1de@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:Ypsi Artisans Holiday Markets
@@ -371,7 +217,7 @@ CATEGORIES:Observer Editor\,Shopping\, Holiday\, One-Time Event
 END:VEVENT
 BEGIN:VEVENT
 UID:d2a99fe074b00ddc@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T153000Z
 DTEND:20261128T160000Z
 SUMMARY:Chime Concert: Kerrytown Market & Shops
@@ -393,7 +239,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:f27787e944f0285e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T153000Z
 DTEND:20261128T200000Z
 SUMMARY:Snacks with Santa
@@ -415,7 +261,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20379050
 END:VEVENT
 BEGIN:VEVENT
 UID:56ac41a9571ada24@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:Critter House Open Hours: Leslie Science & Nature Center
@@ -438,7 +284,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:23ce0295e7dbb27a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T170000Z
 DTEND:20261128T190000Z
 SUMMARY:Oh\, Deer
@@ -453,7 +299,7 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
 END:VEVENT
 BEGIN:VEVENT
 UID:01911f2cc7701e5e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T170000Z
 DTEND:20261128T190000Z
 SUMMARY:Open Swim
@@ -466,7 +312,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:259ddcbb5e531527@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T190000Z
 DTEND:20261128T230000Z
 SUMMARY:Open Swim
@@ -479,7 +325,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:71795a75022aadef@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T213000Z
 DTEND:20261129T003000Z
 SUMMARY:Light up the Park Pinckney Tree Lighting
@@ -492,7 +338,7 @@ DESCRIPTION:Where: Pinckney Farmers Market\, Pinckney Michigan\nCost: Not
 END:VEVENT
 BEGIN:VEVENT
 UID:864240edd3727a33@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Evening Owl Prowl
@@ -507,7 +353,7 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
 END:VEVENT
 BEGIN:VEVENT
 UID:f9ee719c1e7f9604@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T143000Z
 DTEND:20261129T143000Z
 SUMMARY:Leftovers Run
@@ -522,7 +368,7 @@ DESCRIPTION:Where: 8801 N Territorial Rd\, Dexter\, MI 48130\nDrive: about
 END:VEVENT
 BEGIN:VEVENT
 UID:a2b65ab67ff7cbca@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T150000Z
 DTEND:20261129T220000Z
 SUMMARY:Hillside Christmas Tree Farm
@@ -536,7 +382,7 @@ DESCRIPTION:Where: Hillside Christmas Tree Farm\, Manchester Michigan\nCos
 END:VEVENT
 BEGIN:VEVENT
 UID:c5912d190a2f37a0@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
 SUMMARY:Ypsi Artisans Holiday Markets
@@ -559,7 +405,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:780a31e2621d91fb@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T160000Z
 DTEND:20261129T210000Z
 SUMMARY:Sunday Artisan Market
@@ -576,7 +422,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:3eac4ade6849667c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T170000Z
 DTEND:20261129T200000Z
 SUMMARY:Critter House Open Hours: Leslie Science & Nature Center
@@ -599,7 +445,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:929c68a4b9c29c54@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
 SUMMARY:Gemily: the Ark
@@ -617,7 +463,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:a823b0e442183b89@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T190000Z
 DTEND:20261129T230000Z
 SUMMARY:Open Swim
@@ -629,21 +475,8 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
  o.
 END:VEVENT
 BEGIN:VEVENT
-UID:099bf256b1d166b8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261130T140000Z
-DTEND:20261130T160000Z
-SUMMARY:Winter Break Nerf Wars
-LOCATION:A2 Fieldhouse\, Ann Arbor Michigan\, Ann Arbor\, MI
-DESCRIPTION:Where: A2 Fieldhouse\, Ann Arbor Michigan\nCost: Not listed\nS
- ignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nList
- ed by: Ann Arbor with Kids\nFound on: https://kideventsinannarbor.com/?ev
- ent=099bf256b1d166b8\n\nDouble check the time with the organizer before y
- ou go.
-END:VEVENT
-BEGIN:VEVENT
 UID:1ecc870d395f139b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261130T160000Z
 DTEND:20261130T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -656,7 +489,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:a2beaddc3af2858c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261130T173000Z
 DTEND:20261130T210000Z
 SUMMARY:Open Swim
@@ -669,7 +502,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:a2beaddc3af2858c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261201T003000Z
 DTEND:20261201T020000Z
 SUMMARY:Open Swim
@@ -682,7 +515,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:d9a0497eec5377fd@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261201T160000Z
 DTEND:20261201T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -695,7 +528,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:399a13fd095ecff3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261201T173000Z
 DTEND:20261201T210000Z
 SUMMARY:Open Swim
@@ -707,23 +540,43 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
  o.
 END:VEVENT
 BEGIN:VEVENT
-UID:cc0b8795c6c8e3d7@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:e31e9975ccd2d277@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261201T220000Z
+DTEND:20261202T000000Z
+SUMMARY:Santa Pictures
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=e31e997
+ 5ccd2d277\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:14f7458010b719c1@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261202T140000Z
 DTEND:20261203T010000Z
-SUMMARY:JLC Huge Book Sale - Premium Access Day/Teachers Night
-LOCATION:Washtenaw Farm Council Fairgrounds\, Ann Arbor Michigan\, 5055 An
- n Arbor Saline Rd\, Ann Arbor\, MI 48103
-GEO:42.2019;-83.7527
-DESCRIPTION:Where: 5055 Ann Arbor Saline Rd\, Ann Arbor\, MI 48103\nDrive:
-  about 14 minutes from downtown Ann Arbor\nCost: Not listed\nSignup: Drop
-  in\, no signup needed\nOutdoors\, dress for the weather\nListed by: Ann 
- Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=cc0b879
- 5c6c8e3d7\n\nDouble check the time with the organizer before you go.
+SUMMARY:JLC HUGE Book Sale
+LOCATION:Washtenaw Farm Council Grounds\, 5055 Ann Arbor-Saline Rd\, Ann A
+ rbor\, MI\, 48103
+GEO:42.212497;-83.795036
+DESCRIPTION:Hello from Joe and Hailey\, the organizers of this sale. Pleas
+ e read below so you can understand who we are and why you should come to 
+ this book sale. You won't be disappointed with our sale\, we promise!\n\n
+ Where: 5055 Ann Arbor-Saline Rd\, Ann Arbor\, MI\, 48103\nDrive: about 14
+  minutes from downtown Ann Arbor\nAges: A large community book sale with 
+ tens of thousands of books\, plus DVDs\, CDs\, audiobooks\, puzzles\, and
+  board games.\nCost: Free\nSignup: Drop in\, no signup needed\nOutdoors\,
+  dress for the weather\nListed by: Ann Arbor Family\nDetails: https://ann
+ arborfamily.com/Calendar/#!/event/20226601\nFound on: https://kideventsin
+ annarbor.com/?event=14f7458010b719c1\n\nDouble check the time with the or
+ ganizer before you go.
+URL:https://annarborfamily.com/Calendar/#!/event/20226601
 END:VEVENT
 BEGIN:VEVENT
 UID:cd610ae6852c68ed@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261202T140000Z
 DTEND:20261202T200000Z
 SUMMARY:Larcher Bakery
@@ -735,7 +588,7 @@ DESCRIPTION:Where: the Farmer's Market\nCost: Not listed\nSignup: Drop in\
 END:VEVENT
 BEGIN:VEVENT
 UID:88e84354916fd8f7@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261202T160000Z
 DTEND:20261202T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -747,8 +600,21 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
  re you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:522c0bad6b33c3ff@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261202T160000Z
+DTEND:20261202T163000Z
+SUMMARY:Storytime
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=522c0ba
+ d6b33c3ff\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:56c99396e8053a83@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261202T173000Z
 DTEND:20261202T210000Z
 SUMMARY:Open Swim
@@ -761,7 +627,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:9c4fb5a2ef142221@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261202T210000Z
 DTEND:20261202T220000Z
 SUMMARY:“Autism Travel”: We Rock The Spectrum
@@ -778,25 +644,28 @@ URL:https://annarborobserver.com/event/autism-travel-we-rock-the-spectrum/
 CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
-UID:1db4f5a76590db74@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:76ed1f7c05c2e63d@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261202T233000Z
 DTEND:20261203T003000Z
 SUMMARY:Chess Club
-LOCATION:Ann Arbor\, MI
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Kids and Teens – Registration required\, see below. Please ent
  er grade in the comments field. Wednesday\, December 2 from 6:30 – 7:30 p
  m Registration begins Wednesday\, November 4. If you enjoy playing chess\
- , join us for our monthly chess games.\n\nCost: Free\nSignup: Registratio
- n required\, book before you go\nOutdoors\, dress for the weather\nListed
-  by: Dexter District Library\nDetails: https://dexter.lib.mi.us/events/ch
- ess-club-44/\nFound on: https://kideventsinannarbor.com/?event=1db4f5a765
- 90db74\n\nDouble check the time with the organizer before you go.
+ , join us for our monthly chess games.\n\nWhere: 3255 Alpine St\, Dexter\
+ , MI 48130\nCost: Free\nSignup: Registration required\, book before you g
+ o\nOutdoors\, dress for the weather\nListed by: Dexter District Library\n
+ Details: https://dexter.lib.mi.us/events/chess-club-44/\nFound on: https:
+ //kideventsinannarbor.com/?event=76ed1f7c05c2e63d\n\nDouble check the tim
+ e with the organizer before you go.
 URL:https://dexter.lib.mi.us/events/chess-club-44/
 END:VEVENT
 BEGIN:VEVENT
 UID:56c99396e8053a83@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261203T003000Z
 DTEND:20261203T020000Z
 SUMMARY:Open Swim
@@ -809,7 +678,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:810e1b20dad2e825@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261203T140000Z
 DTEND:20261204T010000Z
 SUMMARY:JLC Huge Book Sale
@@ -824,7 +693,7 @@ DESCRIPTION:Where: 5055 Ann Arbor Saline Rd\, Ann Arbor\, MI 48103\nDrive:
 END:VEVENT
 BEGIN:VEVENT
 UID:9f86adf8b23c6080@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261203T160000Z
 DTEND:20261203T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -837,7 +706,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:e8817b3664c39f14@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261203T173000Z
 DTEND:20261203T210000Z
 SUMMARY:Open Swim
@@ -850,7 +719,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:445315e1e7080f6d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261203T233000Z
 DTEND:20261204T030000Z
 SUMMARY:Holiday Nights
@@ -863,7 +732,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:8927a883c2d7e29a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T003000Z
 DTEND:20261204T023000Z
 SUMMARY:“A Child’s Christmas in Wales” & “A Christmas Memory”: Benchmark T
@@ -884,7 +753,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:36d5eb5dc03bcf01@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T140000Z
 DTEND:20261205T010000Z
 SUMMARY:JLC Huge Book Sale
@@ -899,7 +768,7 @@ DESCRIPTION:Where: 5055 Ann Arbor Saline Rd\, Ann Arbor\, MI 48103\nDrive:
 END:VEVENT
 BEGIN:VEVENT
 UID:97d833c6e083e109@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T160000Z
 DTEND:20261204T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -912,7 +781,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:51f28fb5f38c097b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T173000Z
 DTEND:20261204T210000Z
 SUMMARY:Open Swim
@@ -925,7 +794,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:08b11b1aae4ad1f6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T200000Z
 DTEND:20261204T210000Z
 SUMMARY:Chow Time
@@ -937,7 +806,7 @@ DESCRIPTION:Where: the Farm\nCost: Not listed\nSignup: Drop in\, no signup
 END:VEVENT
 BEGIN:VEVENT
 UID:e390852656a3fc69@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T220000Z
 DTEND:20261204T233000Z
 SUMMARY:Chelsea Tree Lighting
@@ -950,7 +819,7 @@ DESCRIPTION:Where: Pierce Park\, Chelsea Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:7e4bfc32b0959c67@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T220000Z
 DTEND:20261204T233000Z
 SUMMARY:Free Family Trivia Night
@@ -969,8 +838,23 @@ URL:https://www.a2gov.org/Pages/Calendar.aspx?trumbaEmbed=view%3Devent%26e
 CATEGORIES:Parks and Recreation
 END:VEVENT
 BEGIN:VEVENT
+UID:6b7574db5cca60ab@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261204T220000Z
+DTEND:20261205T030000Z
+SUMMARY:KindleFest & Midnight Madness
+LOCATION:Kerrytown Market & Shops\, Ann Arbor Michigan\, 315 Detroit St\, 
+ Ann Arbor\, MI 48104
+GEO:42.2852;-83.7442
+DESCRIPTION:Where: 315 Detroit St\, Ann Arbor\, MI 48104\nCost: Not listed
+ \nSignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nL
+ isted by: Ann Arbor with Kids\nFound on: https://kideventsinannarbor.com/
+ ?event=6b7574db5cca60ab\n\nDouble check the time with the organizer befor
+ e you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:d02ec4241462ad05@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T230000Z
 DTEND:20261205T010000Z
 SUMMARY:Light Up Dexter
@@ -983,7 +867,7 @@ DESCRIPTION:Where: Monument Park\, Dexter Michigan\nCost: Not listed\nSign
 END:VEVENT
 BEGIN:VEVENT
 UID:0acd17c07d34cfb8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T230000Z
 DTEND:20261205T010000Z
 SUMMARY:Under the Sea -Mother & Son Dance
@@ -996,7 +880,7 @@ DESCRIPTION:Where: Pittsfield Township Community Center\, Ann Arbor  Michi
 END:VEVENT
 BEGIN:VEVENT
 UID:8e20561aa3c3a8bb@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T233000Z
 DTEND:20261205T030000Z
 SUMMARY:Holiday Nights
@@ -1009,7 +893,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:c46139f2762bc456@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T000000Z
 DTEND:20261205T000000Z
 SUMMARY:Tecumseh Christmas Parade
@@ -1022,7 +906,7 @@ DESCRIPTION:Where: Downtown Tecumseh\, Tecumseh Michigan\nCost: Not listed
 END:VEVENT
 BEGIN:VEVENT
 UID:51f28fb5f38c097b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T003000Z
 DTEND:20261205T020000Z
 SUMMARY:Open Swim
@@ -1035,7 +919,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:c9c502e11d84d13e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T003000Z
 DTEND:20261205T023000Z
 SUMMARY:“A Child’s Christmas in Wales” & “A Christmas Memory”: Benchmark T
@@ -1056,7 +940,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:3ee4c490e48676af@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T140000Z
 DTEND:20261206T010000Z
 SUMMARY:JLC Huge Book Sale
@@ -1071,7 +955,7 @@ DESCRIPTION:Where: 5055 Ann Arbor Saline Rd\, Ann Arbor\, MI 48103\nDrive:
 END:VEVENT
 BEGIN:VEVENT
 UID:94358b16087393d9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T140000Z
 DTEND:20261205T153000Z
 SUMMARY:Lillie parkrun
@@ -1083,7 +967,7 @@ DESCRIPTION:Where: Lillie Park\, Ann Arbor MI\nCost: Not listed\nSignup: D
 END:VEVENT
 BEGIN:VEVENT
 UID:9d6ce2ff092e98fb@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T150000Z
 DTEND:20261205T210000Z
 SUMMARY:Christmas on the Farm
@@ -1095,7 +979,7 @@ DESCRIPTION:Where: Waterloo Farm Museum\, Grass Lake Michigan\nCost: Not l
 END:VEVENT
 BEGIN:VEVENT
 UID:aee6f9ba63969ca3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T150000Z
 DTEND:20261205T170000Z
 SUMMARY:Critter Investigators: Deer
@@ -1110,7 +994,7 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
 END:VEVENT
 BEGIN:VEVENT
 UID:b66fcbdc17f9e7c9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T150000Z
 DTEND:20261205T220000Z
 SUMMARY:Hillside Christmas Tree Farm
@@ -1124,7 +1008,7 @@ DESCRIPTION:Where: Hillside Christmas Tree Farm\, Manchester Michigan\nCos
 END:VEVENT
 BEGIN:VEVENT
 UID:3f04b2473ca2b9e4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T150000Z
 DTEND:20261205T200000Z
 SUMMARY:Holiday Fun
@@ -1136,7 +1020,7 @@ DESCRIPTION:Where: Maybury Farm\nCost: Not listed\nSignup: Drop in\, no si
 END:VEVENT
 BEGIN:VEVENT
 UID:cb544b133adf1dfb@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T150000Z
 DTEND:20261205T170000Z
 SUMMARY:Snacks with Santa
@@ -1149,7 +1033,7 @@ DESCRIPTION:Where: Lake Erie Metropark\, Brownstown Michigan\nCost: Not li
 END:VEVENT
 BEGIN:VEVENT
 UID:43c77291f3c72e7f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T150000Z
 DTEND:20261205T160000Z
 SUMMARY:Tadpoles: There's No Place Like Space
@@ -1163,8 +1047,21 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
  f\n\nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:d746364ff0ff14de@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Santa Pictures
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=d746364
+ ff0ff14de\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:2c4d6900af6f280d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T170000Z
 DTEND:20261205T190000Z
 SUMMARY:Open Swim
@@ -1177,7 +1074,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:d1d0fcf10f97ef10@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T170000Z
 DTEND:20261205T183000Z
 SUMMARY:Wild-n-Crafty: Hi-brrr-Nation
@@ -1192,7 +1089,7 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
 END:VEVENT
 BEGIN:VEVENT
 UID:f5fd310793d16a96@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T180000Z
 DTEND:20261205T193000Z
 SUMMARY:Winter Nature Crafts & Cocoa
@@ -1207,7 +1104,7 @@ DESCRIPTION:Where: 8801 N Territorial Rd\, Dexter\, MI 48130\nDrive: about
 END:VEVENT
 BEGIN:VEVENT
 UID:7c25433f6a594e1f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T190000Z
 DTEND:20261205T230000Z
 SUMMARY:Open Swim
@@ -1220,7 +1117,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:53d7c2190964fb90@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T210000Z
 DTEND:20261205T230000Z
 SUMMARY:Holiday Hustle
@@ -1233,7 +1130,7 @@ DESCRIPTION:Where: Monument Park\, Dexter Michigan\nCost: Not listed\nSign
 END:VEVENT
 BEGIN:VEVENT
 UID:dbef6202c03cbda1@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T223000Z
 DTEND:20261205T223000Z
 SUMMARY:Winterfest Light Parade
@@ -1246,7 +1143,7 @@ DESCRIPTION:Where: Downtown Belleville\, Belleville Michigan\nCost: Not li
 END:VEVENT
 BEGIN:VEVENT
 UID:abf299834696c27d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T230000Z
 DTEND:20261205T233000Z
 SUMMARY:Chelsea Lights Parade
@@ -1259,7 +1156,7 @@ DESCRIPTION:Where: Downtown Chelsea\, Chelsea Michigan\nCost: Not listed\n
 END:VEVENT
 BEGIN:VEVENT
 UID:9c26aab5b0043063@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T230000Z
 DTEND:20261205T230000Z
 SUMMARY:Manchester Christmas Parade
@@ -1272,7 +1169,7 @@ DESCRIPTION:Where: Downtown Manchester\, Manchester Michigan\nCost: Not li
 END:VEVENT
 BEGIN:VEVENT
 UID:1410a8a7dc9cc79d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T230000Z
 DTEND:20261205T230000Z
 SUMMARY:Milan Christmas Parade
@@ -1285,7 +1182,7 @@ DESCRIPTION:Where: Downtown Milan\, Milan Michigan\nCost: Not listed\nSign
 END:VEVENT
 BEGIN:VEVENT
 UID:d9abb36b217a086a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T230000Z
 DTEND:20261206T003000Z
 SUMMARY:Saline's Annual Holiday Parade
@@ -1298,7 +1195,7 @@ DESCRIPTION:Where: Downtown Saline\, Saline Michigan\nCost: Not listed\nSi
 END:VEVENT
 BEGIN:VEVENT
 UID:b182885b07fe1769@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T233000Z
 DTEND:20261206T030000Z
 SUMMARY:Holiday Nights
@@ -1311,7 +1208,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:a4524af581bdbd7d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T000000Z
 DTEND:20261206T020000Z
 SUMMARY:Christmas in Ida Parade
@@ -1323,7 +1220,7 @@ DESCRIPTION:Where: Downtown Ida\, Ida Michigan\nCost: Not listed\nSignup:
 END:VEVENT
 BEGIN:VEVENT
 UID:498f15dc53454113@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T003000Z
 DTEND:20261206T023000Z
 SUMMARY:“A Child’s Christmas in Wales” & “A Christmas Memory”: Benchmark T
@@ -1344,7 +1241,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:693c0403be1518d4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T150000Z
 DTEND:20261206T220000Z
 SUMMARY:Hillside Christmas Tree Farm
@@ -1358,7 +1255,7 @@ DESCRIPTION:Where: Hillside Christmas Tree Farm\, Manchester Michigan\nCos
 END:VEVENT
 BEGIN:VEVENT
 UID:24414aaa3b8e2880@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T150000Z
 DTEND:20261206T200000Z
 SUMMARY:Holiday Fun
@@ -1370,7 +1267,7 @@ DESCRIPTION:Where: Maybury Farm\nCost: Not listed\nSignup: Drop in\, no si
 END:VEVENT
 BEGIN:VEVENT
 UID:8e9b152cb72a84c6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T150000Z
 DTEND:20261206T210000Z
 SUMMARY:Homegrown
@@ -1383,7 +1280,7 @@ DESCRIPTION:Where: the Cobblestone Farm & Country Christmas\nCost: Not lis
 END:VEVENT
 BEGIN:VEVENT
 UID:ae4b95cb54c5bc76@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T150000Z
 DTEND:20261206T190000Z
 SUMMARY:Pet Pics with St. Nick at Rolling Hills
@@ -1402,7 +1299,7 @@ DESCRIPTION:Make the holiday season extra special by bringing the whole fa
 END:VEVENT
 BEGIN:VEVENT
 UID:fa69ae2793c12608@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T150000Z
 DTEND:20261206T203000Z
 SUMMARY:Sunday with Santa
@@ -1417,7 +1314,7 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
 END:VEVENT
 BEGIN:VEVENT
 UID:6778741ccee813a3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T160000Z
 DTEND:20261206T210000Z
 SUMMARY:Sunday Artisan Market
@@ -1434,7 +1331,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:61fa6d75d074ae42@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T170000Z
 DTEND:20261206T210000Z
 SUMMARY:Christmas on the Farm
@@ -1446,7 +1343,7 @@ DESCRIPTION:Where: Waterloo Farm Museum\, Grass Lake Michigan\nCost: Not l
 END:VEVENT
 BEGIN:VEVENT
 UID:31fc5800997ab4fe@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T190000Z
 DTEND:20261206T210000Z
 SUMMARY:Natural History of the Holidays
@@ -1459,7 +1356,7 @@ DESCRIPTION:Where: Lake Erie Metropark\, Brownstown Michigan\nCost: Not li
 END:VEVENT
 BEGIN:VEVENT
 UID:39ef12ec985e0181@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T190000Z
 DTEND:20261206T230000Z
 SUMMARY:Open Swim
@@ -1472,7 +1369,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:583b002d9fd2954f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T193000Z
 DTEND:20261206T213000Z
 SUMMARY:“A Child’s Christmas in Wales” & “A Christmas Memory”: Benchmark T
@@ -1493,7 +1390,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:008615e0e767014b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T233000Z
 DTEND:20261207T030000Z
 SUMMARY:Holiday Nights
@@ -1506,7 +1403,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:eb8e4e7a3cb1cad3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261207T160000Z
 DTEND:20261207T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1519,7 +1416,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:c9948b333c19a34e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261207T173000Z
 DTEND:20261207T210000Z
 SUMMARY:Open Swim
@@ -1532,7 +1429,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:c9948b333c19a34e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261208T003000Z
 DTEND:20261208T020000Z
 SUMMARY:Open Swim
@@ -1545,7 +1442,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:969882b1acb2f496@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261208T160000Z
 DTEND:20261208T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1558,7 +1455,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:99a9c0abb060258c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261208T173000Z
 DTEND:20261208T210000Z
 SUMMARY:Open Swim
@@ -1571,7 +1468,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:fb13f6eec4132642@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261209T140000Z
 DTEND:20261209T200000Z
 SUMMARY:Larcher Bakery
@@ -1583,7 +1480,7 @@ DESCRIPTION:Where: the Farmer's Market\nCost: Not listed\nSignup: Drop in\
 END:VEVENT
 BEGIN:VEVENT
 UID:3bfc4595379c68d6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261209T160000Z
 DTEND:20261209T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1595,8 +1492,21 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
  re you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:589956875f83583d@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261209T160000Z
+DTEND:20261209T163000Z
+SUMMARY:Storytime
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=5899568
+ 75f83583d\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:d3b530f078a85471@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261209T173000Z
 DTEND:20261209T210000Z
 SUMMARY:Open Swim
@@ -1609,7 +1519,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:6771ce161ef81021@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
 SUMMARY:Kids: Make + Believe Walking Sticks
@@ -1630,7 +1540,7 @@ CATEGORIES:Parks and Recreation
 END:VEVENT
 BEGIN:VEVENT
 UID:d3b530f078a85471@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261210T003000Z
 DTEND:20261210T020000Z
 SUMMARY:Open Swim
@@ -1643,7 +1553,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:c6c90d589d530843@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261210T160000Z
 DTEND:20261210T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1656,7 +1566,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:6bf9ae7e1a28dcf9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261210T173000Z
 DTEND:20261210T210000Z
 SUMMARY:Open Swim
@@ -1669,7 +1579,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:b6dd1022123a77a6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261210T233000Z
 DTEND:20261211T030000Z
 SUMMARY:Holiday Nights
@@ -1682,7 +1592,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:a291545d7daf3085@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261211T160000Z
 DTEND:20261211T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1695,7 +1605,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:2c66b75b5f2762fd@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261211T173000Z
 DTEND:20261211T210000Z
 SUMMARY:Open Swim
@@ -1707,8 +1617,21 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
  o.
 END:VEVENT
 BEGIN:VEVENT
+UID:60ba4e799c3c738c@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261211T210000Z
+DTEND:20261211T224500Z
+SUMMARY:Amateur Adventures
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=60ba4e7
+ 99c3c738c\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:36426b293d23fc27@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261211T230000Z
 DTEND:20261212T020000Z
 SUMMARY:Friday Night Holiday Fun
@@ -1720,8 +1643,23 @@ DESCRIPTION:Where: Lake Erie Metropark\, Brownstown Michigan\nCost: Not li
  efore you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:fb998066b4c085e0@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261211T230000Z
+DTEND:20261212T000000Z
+SUMMARY:Yule Log Making
+LOCATION:Independence Lake\, Whitmore Lake Michigan\, 3200 Jennings Rd\, W
+ hitmore Lake\, MI 48189
+GEO:42.3846;-83.8355
+DESCRIPTION:Where: 3200 Jennings Rd\, Whitmore Lake\, MI 48189\nDrive: abo
+ ut 20 minutes from downtown Ann Arbor\nCost: Not listed\nSignup: Drop in\
+ , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
+ r with Kids\nFound on: https://kideventsinannarbor.com/?event=fb998066b4c
+ 085e0\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:169f239e26174c07@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261211T233000Z
 DTEND:20261212T030000Z
 SUMMARY:Holiday Nights
@@ -1734,7 +1672,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:5f8e544935308d6f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261211T233000Z
 DTEND:20261212T003000Z
 SUMMARY:Sense-ational Winter Night Hike
@@ -1749,7 +1687,7 @@ DESCRIPTION:Where: 8801 N Territorial Rd\, Dexter\, MI 48130\nDrive: about
 END:VEVENT
 BEGIN:VEVENT
 UID:2c66b75b5f2762fd@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T003000Z
 DTEND:20261212T020000Z
 SUMMARY:Open Swim
@@ -1762,7 +1700,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:714cd80e1d39c8d8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T130000Z
 DTEND:20261212T150000Z
 SUMMARY:Crack o' Dawn Coffee Club
@@ -1775,7 +1713,7 @@ DESCRIPTION:Where: Lake Erie Metropark\, Brownstown Michigan\nCost: Not li
 END:VEVENT
 BEGIN:VEVENT
 UID:53f000ae98f492d9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T140000Z
 DTEND:20261212T170000Z
 SUMMARY:Candy Cane Course- Ann Arbor
@@ -1790,7 +1728,7 @@ DESCRIPTION:Where: 7660 Stony Creek Rd\, Ypsilanti\, MI 48197\nDrive: abou
 END:VEVENT
 BEGIN:VEVENT
 UID:c9e3c78953abffc8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T140000Z
 DTEND:20261212T153000Z
 SUMMARY:Lillie parkrun
@@ -1802,7 +1740,7 @@ DESCRIPTION:Where: Lillie Park\, Ann Arbor MI\nCost: Not listed\nSignup: D
 END:VEVENT
 BEGIN:VEVENT
 UID:e91b88ca95728370@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T143000Z
 DTEND:20261212T163000Z
 SUMMARY:Gingerbread Story Stroll and Cookie Decorating
@@ -1822,7 +1760,7 @@ CATEGORIES:Parks and Recreation
 END:VEVENT
 BEGIN:VEVENT
 UID:162f38f8b27da69c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T150000Z
 DTEND:20261212T170000Z
 SUMMARY:Birds in Your Binoculars
@@ -1835,7 +1773,7 @@ DESCRIPTION:Where: Lake Erie Metropark\, Brownstown Michigan\nCost: Not li
 END:VEVENT
 BEGIN:VEVENT
 UID:afce2bf3b4aca52d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T150000Z
 DTEND:20261212T220000Z
 SUMMARY:Hillside Christmas Tree Farm
@@ -1849,7 +1787,7 @@ DESCRIPTION:Where: Hillside Christmas Tree Farm\, Manchester Michigan\nCos
 END:VEVENT
 BEGIN:VEVENT
 UID:8cb12311a1e3b613@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T150000Z
 DTEND:20261212T200000Z
 SUMMARY:Holiday Fun
@@ -1861,7 +1799,7 @@ DESCRIPTION:Where: Maybury Farm\nCost: Not listed\nSignup: Drop in\, no si
 END:VEVENT
 BEGIN:VEVENT
 UID:7b20b37b5fa0b423@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T150000Z
 DTEND:20261212T170000Z
 SUMMARY:The Art of Nature: Waterfowl Studies
@@ -1876,7 +1814,7 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
 END:VEVENT
 BEGIN:VEVENT
 UID:06cc7513e60f2e9d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T153000Z
 DTEND:20261212T200000Z
 SUMMARY:Snacks with Santa
@@ -1890,8 +1828,21 @@ DESCRIPTION:Where: 4570 Huron River Pkwy\, Milford\, MI 48380\nDrive: abou
  2e9d\n\nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:c866a0d493a51bc5@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261212T160000Z
+DTEND:20261212T163000Z
+SUMMARY:Storytime
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=c866a0d
+ 493a51bc5\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:1f3ae2ae604415e1@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T170000Z
 DTEND:20261212T190000Z
 SUMMARY:Open Swim
@@ -1904,7 +1855,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:d5685ae11974e4ce@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T170000Z
 DTEND:20261212T190000Z
 SUMMARY:Winter Habitats
@@ -1918,26 +1869,41 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
  e\n\nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
-UID:42365f4e7bcde0bf@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:803edbb111c29974@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261212T180000Z
+DTEND:20261212T190000Z
+SUMMARY:Cooking Class for Kids
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=803edbb
+ 111c29974\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
+UID:2edd76a6888e0022@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T190000Z
 DTEND:20261212T200000Z
 SUMMARY:Faux Stained Glass
-LOCATION:Ann Arbor\, MI
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Grades 5 through 12 – Registration required\, see below. Pleas
  e enter grade in the comments field. Faux Stained Glass Saturday\, Decemb
  er 12 from 2:00 - 3:00 pm Registration begins Thursday\, November 12 Make
-  your own faux stained glass decoration.\n\nCost: Free\nSignup: Registrat
- ion required\, book before you go\nOutdoors\, dress for the weather\nList
- ed by: Dexter District Library\nDetails: https://dexter.lib.mi.us/events/
- faux-stained-glass-2/\nFound on: https://kideventsinannarbor.com/?event=4
- 2365f4e7bcde0bf\n\nDouble check the time with the organizer before you go
- .
+  your own faux stained glass decoration.\n\nWhere: 3255 Alpine St\, Dexte
+ r\, MI 48130\nCost: Free\nSignup: Registration required\, book before you
+  go\nOutdoors\, dress for the weather\nListed by: Dexter District Library
+ \nDetails: https://dexter.lib.mi.us/events/faux-stained-glass-2/\nFound o
+ n: https://kideventsinannarbor.com/?event=2edd76a6888e0022\n\nDouble chec
+ k the time with the organizer before you go.
 URL:https://dexter.lib.mi.us/events/faux-stained-glass-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5d61a00640c8b9d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T190000Z
 DTEND:20261212T230000Z
 SUMMARY:Open Swim
@@ -1950,7 +1916,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:26da911fba3b8412@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T223000Z
 DTEND:20261213T003000Z
 SUMMARY:Holiday Tree Lighting
@@ -1964,7 +1930,7 @@ DESCRIPTION:Where: Northfield Township Community Park\, Whitmore Lake Mich
 END:VEVENT
 BEGIN:VEVENT
 UID:6e271141e57c4852@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T230000Z
 DTEND:20261212T233000Z
 SUMMARY:Dexter Light Parade
@@ -1977,7 +1943,7 @@ DESCRIPTION:Where: Monument Park\, Dexter Michigan\nCost: Not listed\nSign
 END:VEVENT
 BEGIN:VEVENT
 UID:0f9de20b3cfc60e1@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T233000Z
 DTEND:20261213T030000Z
 SUMMARY:Holiday Nights
@@ -1990,7 +1956,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:57d738d00f92f600@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261213T150000Z
 DTEND:20261213T200000Z
 SUMMARY:Chelsea Farmers Market Holiday Pop Up
@@ -2004,8 +1970,21 @@ DESCRIPTION:Where: 5055 Ann Arbor Saline Rd\, Ann Arbor\, MI 48103\nDrive:
  00f92f600\n\nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:d3f9d5683d64383b@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261213T150000Z
+DTEND:20261213T190000Z
+SUMMARY:Craft-a-Thon
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=d3f9d56
+ 83d64383b\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:7c16e4192e327aab@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261213T150000Z
 DTEND:20261213T220000Z
 SUMMARY:Hillside Christmas Tree Farm
@@ -2019,7 +1998,7 @@ DESCRIPTION:Where: Hillside Christmas Tree Farm\, Manchester Michigan\nCos
 END:VEVENT
 BEGIN:VEVENT
 UID:9ce560491fcc44f0@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261213T150000Z
 DTEND:20261213T200000Z
 SUMMARY:Holiday Fun
@@ -2031,7 +2010,7 @@ DESCRIPTION:Where: Maybury Farm\nCost: Not listed\nSignup: Drop in\, no si
 END:VEVENT
 BEGIN:VEVENT
 UID:2012881a1e636a0a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261213T160000Z
 DTEND:20261213T200000Z
 SUMMARY:Santa
@@ -2043,7 +2022,7 @@ DESCRIPTION:Where: Domino Petting Farm\nCost: Not listed\nSignup: Drop in\
 END:VEVENT
 BEGIN:VEVENT
 UID:2a23925aec9b2415@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261213T160000Z
 DTEND:20261213T210000Z
 SUMMARY:Sunday Artisan Market
@@ -2060,7 +2039,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:58371682d07753bd@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261213T170000Z
 DTEND:20261213T210000Z
 SUMMARY:Santa’s Reindeer Barn
@@ -2077,7 +2056,7 @@ CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
 UID:67f70dccdf91b6f7@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261213T190000Z
 DTEND:20261213T230000Z
 SUMMARY:Open Swim
@@ -2090,7 +2069,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:13c699cdf6dc4d2b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261213T233000Z
 DTEND:20261214T030000Z
 SUMMARY:Holiday Nights
@@ -2103,7 +2082,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:988c4c837965803a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261214T160000Z
 DTEND:20261214T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -2116,7 +2095,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:0812c2d194af8997@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261214T173000Z
 DTEND:20261214T210000Z
 SUMMARY:Open Swim
@@ -2129,7 +2108,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:0812c2d194af8997@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261215T003000Z
 DTEND:20261215T020000Z
 SUMMARY:Open Swim
@@ -2142,7 +2121,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:0630d5c70674d5a3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261215T160000Z
 DTEND:20261215T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -2155,7 +2134,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:34ecd145264c43c7@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261215T173000Z
 DTEND:20261215T210000Z
 SUMMARY:Open Swim
@@ -2168,7 +2147,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:ea137c6d2fa1a8db@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261216T140000Z
 DTEND:20261216T200000Z
 SUMMARY:Larcher Bakery
@@ -2180,7 +2159,7 @@ DESCRIPTION:Where: the Farmer's Market\nCost: Not listed\nSignup: Drop in\
 END:VEVENT
 BEGIN:VEVENT
 UID:9ac81efff57b7a83@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261216T160000Z
 DTEND:20261216T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -2192,8 +2171,21 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
  re you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:06948362ea38156c@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261216T160000Z
+DTEND:20261216T163000Z
+SUMMARY:Storytime
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=0694836
+ 2ea38156c\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:1d030f2a666d3551@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261216T173000Z
 DTEND:20261216T210000Z
 SUMMARY:Open Swim
@@ -2206,7 +2198,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:1d030f2a666d3551@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261217T003000Z
 DTEND:20261217T020000Z
 SUMMARY:Open Swim
@@ -2219,7 +2211,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:190f61aa4684189a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261217T160000Z
 DTEND:20261217T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -2232,7 +2224,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:3c7cdb7b2fc56eff@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261217T173000Z
 DTEND:20261217T210000Z
 SUMMARY:Open Swim
@@ -2245,7 +2237,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:9ca16172e2bad5bc@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261217T233000Z
 DTEND:20261218T030000Z
 SUMMARY:Holiday Nights
@@ -2258,7 +2250,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:83b0a013fc2e836f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261218T160000Z
 DTEND:20261218T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -2271,7 +2263,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:d3fd649809068458@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261218T173000Z
 DTEND:20261218T210000Z
 SUMMARY:Open Swim
@@ -2283,8 +2275,21 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
  o.
 END:VEVENT
 BEGIN:VEVENT
+UID:44ad1a8628068474@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261218T180000Z
+DTEND:20261218T193000Z
+SUMMARY:Paws & Pages
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=44ad1a8
+ 628068474\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:725f7911becc2733@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261218T223000Z
 DTEND:20261218T233000Z
 SUMMARY:Candlelight Yoga in The Glass House
@@ -2297,7 +2302,7 @@ DESCRIPTION:Where: Robin Hills Farm\, Chelsea Michigan\nCost: Not listed\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ba789cd8b9a51e8b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261218T230000Z
 DTEND:20261219T020000Z
 SUMMARY:Friday Night Holiday Fun
@@ -2310,7 +2315,7 @@ DESCRIPTION:Where: Lake Erie Metropark\, Brownstown Michigan\nCost: Not li
 END:VEVENT
 BEGIN:VEVENT
 UID:f887d32674c7b7c6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261218T233000Z
 DTEND:20261219T030000Z
 SUMMARY:Holiday Nights
@@ -2323,7 +2328,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:d3fd649809068458@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T003000Z
 DTEND:20261219T020000Z
 SUMMARY:Open Swim
@@ -2336,7 +2341,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:6374c5146459c570@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T140000Z
 DTEND:20261219T153000Z
 SUMMARY:Lillie parkrun
@@ -2348,7 +2353,7 @@ DESCRIPTION:Where: Lillie Park\, Ann Arbor MI\nCost: Not listed\nSignup: D
 END:VEVENT
 BEGIN:VEVENT
 UID:fadf4926e505e360@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T150000Z
 DTEND:20261219T220000Z
 SUMMARY:Hillside Christmas Tree Farm
@@ -2362,7 +2367,7 @@ DESCRIPTION:Where: Hillside Christmas Tree Farm\, Manchester Michigan\nCos
 END:VEVENT
 BEGIN:VEVENT
 UID:15d931e18301c1e6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T150000Z
 DTEND:20261219T170000Z
 SUMMARY:Snowstorm Science
@@ -2375,7 +2380,7 @@ DESCRIPTION:Where: Lake Erie Metropark\, Brownstown Michigan\nCost: Not li
 END:VEVENT
 BEGIN:VEVENT
 UID:3be53adbddbaf780@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T150000Z
 DTEND:20261219T163000Z
 SUMMARY:What's It Like to Be: A Geologist
@@ -2390,7 +2395,7 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
 END:VEVENT
 BEGIN:VEVENT
 UID:3dffa16d9126a170@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T150000Z
 DTEND:20261219T160000Z
 SUMMARY:Winter Bird Discovery Hike
@@ -2405,7 +2410,7 @@ DESCRIPTION:Where: 4570 Huron River Pkwy\, Milford\, MI 48380\nDrive: abou
 END:VEVENT
 BEGIN:VEVENT
 UID:ba90ff99aa5e5cde@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T150000Z
 DTEND:20261219T170000Z
 SUMMARY:Winter Tree I.D.
@@ -2419,8 +2424,21 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
  e\n\nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:50ed1377f56de205@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261219T153000Z
+DTEND:20261219T193000Z
+SUMMARY:Library Legends: Crypt of the Death Giants
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=50ed137
+ 7f56de205\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:fcf7a33c7c1510b8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T153000Z
 DTEND:20261219T200000Z
 SUMMARY:Snacks with Santa
@@ -2435,7 +2453,7 @@ DESCRIPTION:Where: 4570 Huron River Pkwy\, Milford\, MI 48380\nDrive: abou
 END:VEVENT
 BEGIN:VEVENT
 UID:e51e66738a605e4a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T160000Z
 DTEND:20261219T200000Z
 SUMMARY:Santa
@@ -2447,7 +2465,7 @@ DESCRIPTION:Where: Domino Petting Farm\nCost: Not listed\nSignup: Drop in\
 END:VEVENT
 BEGIN:VEVENT
 UID:6bfd1cf9ee015f05@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T190000Z
 DTEND:20261219T230000Z
 SUMMARY:Open Swim
@@ -2460,7 +2478,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:2358884b99874c23@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T233000Z
 DTEND:20261220T030000Z
 SUMMARY:Holiday Nights
@@ -2473,7 +2491,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:2f341a7c03deda22@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261220T143000Z
 DTEND:20261220T193000Z
 SUMMARY:Santa Brunch
@@ -2486,7 +2504,7 @@ DESCRIPTION:Where: Polo Fields Country Club\, Ann Arbor Michigan\nCost: No
 END:VEVENT
 BEGIN:VEVENT
 UID:1572115611e4b501@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261220T150000Z
 DTEND:20261220T220000Z
 SUMMARY:Hillside Christmas Tree Farm
@@ -2500,7 +2518,7 @@ DESCRIPTION:Where: Hillside Christmas Tree Farm\, Manchester Michigan\nCos
 END:VEVENT
 BEGIN:VEVENT
 UID:8d1a51e04dda638a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261220T153000Z
 DTEND:20261220T200000Z
 SUMMARY:Snacks with Santa
@@ -2515,7 +2533,7 @@ DESCRIPTION:Where: 4570 Huron River Pkwy\, Milford\, MI 48380\nDrive: abou
 END:VEVENT
 BEGIN:VEVENT
 UID:14b995b15dea2036@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261220T160000Z
 DTEND:20261220T210000Z
 SUMMARY:Sunday Artisan Market
@@ -2532,7 +2550,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:416e9252e24026ae@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261220T190000Z
 DTEND:20261220T230000Z
 SUMMARY:Open Swim
@@ -2545,7 +2563,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:db0179464cb2de00@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261220T233000Z
 DTEND:20261221T030000Z
 SUMMARY:Holiday Nights
@@ -2557,8 +2575,21 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
  re you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:4d0a07f2c3e0e0e0@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261221T140000Z
+DTEND:20261221T160000Z
+SUMMARY:Winter Break Nerf Wars
+LOCATION:A2 Fieldhouse\, Ann Arbor Michigan\, Ann Arbor\, MI
+DESCRIPTION:Where: A2 Fieldhouse\, Ann Arbor Michigan\nCost: Not listed\nS
+ ignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nList
+ ed by: Ann Arbor with Kids\nFound on: https://kideventsinannarbor.com/?ev
+ ent=4d0a07f2c3e0e0e0\n\nDouble check the time with the organizer before y
+ ou go.
+END:VEVENT
+BEGIN:VEVENT
 UID:40826d433fdcad46@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261221T173000Z
 DTEND:20261221T210000Z
 SUMMARY:Open Swim
@@ -2571,7 +2602,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:4d0a07f2c3e0e0e0@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261221T180000Z
 DTEND:20261221T200000Z
 SUMMARY:Winter Break Nerf Wars
@@ -2584,7 +2615,7 @@ DESCRIPTION:Where: A2 Fieldhouse\, Ann Arbor Michigan\nCost: Not listed\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:4d0a07f2c3e0e0e0@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261221T220000Z
 DTEND:20261222T000000Z
 SUMMARY:Winter Break Nerf Wars
@@ -2596,8 +2627,23 @@ DESCRIPTION:Where: A2 Fieldhouse\, Ann Arbor Michigan\nCost: Not listed\nS
  ou go.
 END:VEVENT
 BEGIN:VEVENT
+UID:8d5b0d6046e21973@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261221T230000Z
+DTEND:20261222T013000Z
+SUMMARY:Lantern Lit Trail - Celebrate Solstice
+LOCATION:Independence Lake\, Whitmore Lake Michigan\, 3200 Jennings Rd\, W
+ hitmore Lake\, MI 48189
+GEO:42.3846;-83.8355
+DESCRIPTION:Where: 3200 Jennings Rd\, Whitmore Lake\, MI 48189\nDrive: abo
+ ut 20 minutes from downtown Ann Arbor\nCost: Not listed\nSignup: Drop in\
+ , no signup needed\nOutdoors\, dress for the weather\nListed by: Ann Arbo
+ r with Kids\nFound on: https://kideventsinannarbor.com/?event=8d5b0d6046e
+ 21973\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:f5c9b1f0befb32cd@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261221T233000Z
 DTEND:20261222T030000Z
 SUMMARY:Holiday Nights
@@ -2610,7 +2656,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:40826d433fdcad46@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261222T003000Z
 DTEND:20261222T020000Z
 SUMMARY:Open Swim
@@ -2623,7 +2669,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:40d5d28e77ba45c4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261222T173000Z
 DTEND:20261222T210000Z
 SUMMARY:Open Swim
@@ -2635,25 +2681,28 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
  o.
 END:VEVENT
 BEGIN:VEVENT
-UID:4d7c714271bf7dce@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:0ab954c57bc25db3@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261222T200000Z
 DTEND:20261222T210000Z
 SUMMARY:Candy Cane Taste Test and Hot Cocoa
-LOCATION:Ann Arbor\, MI
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Grades 5 through 12 - Registration required\, see below. Pleas
  e enter grade in the comments field. Candy Cane Taste Test and Hot Cocoa 
  Tuesday\, December 22 from 3:00 - 4:00 pm Registration begins Tuesday\, N
- ovember 24.\n\nCost: Free\nSignup: Registration required\, book before yo
- u go\nOutdoors\, dress for the weather\nListed by: Dexter District Librar
- y\nDetails: https://dexter.lib.mi.us/events/candy-cane-taste-test-and-hot
- -cocoa/\nFound on: https://kideventsinannarbor.com/?event=4d7c714271bf7dc
- e\n\nDouble check the time with the organizer before you go.
+ ovember 24.\n\nWhere: 3255 Alpine St\, Dexter\, MI 48130\nCost: Free\nSig
+ nup: Registration required\, book before you go\nOutdoors\, dress for the
+  weather\nListed by: Dexter District Library\nDetails: https://dexter.lib
+ .mi.us/events/candy-cane-taste-test-and-hot-cocoa/\nFound on: https://kid
+ eventsinannarbor.com/?event=0ab954c57bc25db3\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://dexter.lib.mi.us/events/candy-cane-taste-test-and-hot-cocoa/
 END:VEVENT
 BEGIN:VEVENT
 UID:719d48e8e6fcaf28@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261222T233000Z
 DTEND:20261223T030000Z
 SUMMARY:Holiday Nights
@@ -2666,7 +2715,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:e21af52c074c26f8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261223T140000Z
 DTEND:20261223T200000Z
 SUMMARY:Larcher Bakery
@@ -2677,8 +2726,21 @@ DESCRIPTION:Where: the Farmer's Market\nCost: Not listed\nSignup: Drop in\
  c26f8\n\nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:ad023a347f645708@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261223T160000Z
+DTEND:20261223T163000Z
+SUMMARY:Storytime
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=ad023a3
+ 47f645708\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:16fbb0d497e63368@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261223T173000Z
 DTEND:20261223T210000Z
 SUMMARY:Open Swim
@@ -2691,7 +2753,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:4c06eb2b6f3c1398@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261223T233000Z
 DTEND:20261224T030000Z
 SUMMARY:Holiday Nights
@@ -2704,7 +2766,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:16fbb0d497e63368@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261224T003000Z
 DTEND:20261224T020000Z
 SUMMARY:Open Swim
@@ -2717,7 +2779,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:db240b0e17fa655b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261224T173000Z
 DTEND:20261224T210000Z
 SUMMARY:Open Swim
@@ -2730,7 +2792,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:acb9ea015b8354a6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261225T173000Z
 DTEND:20261225T210000Z
 SUMMARY:Open Swim
@@ -2743,7 +2805,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:acb9ea015b8354a6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261226T003000Z
 DTEND:20261226T020000Z
 SUMMARY:Open Swim
@@ -2756,7 +2818,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:1f0e6b2926334dde@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261226T140000Z
 DTEND:20261226T153000Z
 SUMMARY:Lillie parkrun
@@ -2768,7 +2830,7 @@ DESCRIPTION:Where: Lillie Park\, Ann Arbor MI\nCost: Not listed\nSignup: D
 END:VEVENT
 BEGIN:VEVENT
 UID:d17725592f9a6ccc@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261226T150000Z
 DTEND:20261226T170000Z
 SUMMARY:Field Sketching
@@ -2783,7 +2845,7 @@ DESCRIPTION:Where: 17845 Savage Rd\, Belleville\, MI 48111\nDrive: about 2
 END:VEVENT
 BEGIN:VEVENT
 UID:f373c78b6b1fb2b2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261226T150000Z
 DTEND:20261226T160000Z
 SUMMARY:Winter Bird Discovery Hike
@@ -2798,7 +2860,7 @@ DESCRIPTION:Where: 4570 Huron River Pkwy\, Milford\, MI 48380\nDrive: abou
 END:VEVENT
 BEGIN:VEVENT
 UID:c6151ed57637de89@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261226T190000Z
 DTEND:20261226T230000Z
 SUMMARY:Open Swim
@@ -2811,7 +2873,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:f0af17507b8f9110@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261226T233000Z
 DTEND:20261227T030000Z
 SUMMARY:Holiday Nights
@@ -2824,7 +2886,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:8e8eaca42484b5ff@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261227T150000Z
 DTEND:20261227T160000Z
 SUMMARY:Winter Bird Discovery Hike
@@ -2839,7 +2901,7 @@ DESCRIPTION:Where: 4570 Huron River Pkwy\, Milford\, MI 48380\nDrive: abou
 END:VEVENT
 BEGIN:VEVENT
 UID:9ac0b2fb712dab14@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261227T190000Z
 DTEND:20261227T230000Z
 SUMMARY:Open Swim
@@ -2852,7 +2914,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:c83df6726491bef2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261227T233000Z
 DTEND:20261228T030000Z
 SUMMARY:Holiday Nights
@@ -2865,7 +2927,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:35ea7744c1360899@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261228T173000Z
 DTEND:20261228T210000Z
 SUMMARY:Open Swim
@@ -2878,7 +2940,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:b348a08507bd2145@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261228T233000Z
 DTEND:20261229T030000Z
 SUMMARY:Holiday Nights
@@ -2891,7 +2953,7 @@ DESCRIPTION:Where: Greenfield Village\, Dearborn Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:35ea7744c1360899@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261229T003000Z
 DTEND:20261229T020000Z
 SUMMARY:Open Swim
@@ -2904,7 +2966,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:f6ac47614e52f6b9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261229T173000Z
 DTEND:20261229T210000Z
 SUMMARY:Open Swim
@@ -2916,8 +2978,21 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
  o.
 END:VEVENT
 BEGIN:VEVENT
+UID:0adee3a469442401@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261229T180000Z
+DTEND:20261229T193000Z
+SUMMARY:Paws & Pages
+LOCATION:Northfield Township Area Library\, Whitmore Lake Michigan\, Whitm
+ ore Lake\, MI
+DESCRIPTION:Where: Northfield Township Area Library\, Whitmore Lake Michig
+ an\nCost: Not listed\nSignup: Drop in\, no signup needed\nListed by: Ann 
+ Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=0adee3a
+ 469442401\n\nDouble check the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:1f77cfd811abf4ab@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261230T120000Z
 DTEND:20261230T200000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -2932,7 +3007,7 @@ DESCRIPTION:Where: 315 Detroit St\, Ann Arbor\, MI 48104\nCost: Not listed
 END:VEVENT
 BEGIN:VEVENT
 UID:4d97ab8e56786830@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261230T140000Z
 DTEND:20261230T200000Z
 SUMMARY:Larcher Bakery
@@ -2943,8 +3018,21 @@ DESCRIPTION:Where: the Farmer's Market\nCost: Not listed\nSignup: Drop in\
  86830\n\nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:ba4e68b30c3564ea@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261230T140000Z
+DTEND:20261230T160000Z
+SUMMARY:Winter Break Nerf Wars
+LOCATION:A2 Fieldhouse\, Ann Arbor Michigan\, Ann Arbor\, MI
+DESCRIPTION:Where: A2 Fieldhouse\, Ann Arbor Michigan\nCost: Not listed\nS
+ ignup: Drop in\, no signup needed\nOutdoors\, dress for the weather\nList
+ ed by: Ann Arbor with Kids\nFound on: https://kideventsinannarbor.com/?ev
+ ent=ba4e68b30c3564ea\n\nDouble check the time with the organizer before y
+ ou go.
+END:VEVENT
+BEGIN:VEVENT
 UID:9db5d23f4022f3da@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261230T173000Z
 DTEND:20261230T210000Z
 SUMMARY:Open Swim
@@ -2957,7 +3045,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:ba4e68b30c3564ea@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261230T180000Z
 DTEND:20261230T200000Z
 SUMMARY:Winter Break Nerf Wars
@@ -2969,25 +3057,28 @@ DESCRIPTION:Where: A2 Fieldhouse\, Ann Arbor Michigan\nCost: Not listed\nS
  ou go.
 END:VEVENT
 BEGIN:VEVENT
-UID:6f33ed373a4d6636@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:2d746e60ef20d5a2@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261230T190000Z
 DTEND:20261230T203000Z
 SUMMARY:Games and Snacks
-LOCATION:Ann Arbor\, MI
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Grades 5 through 12 - Registration required\, see below. Pleas
  e enter grade in the comments field. Games and Snacks Wednesday\, Decembe
  r 30 from 2:00 - 3:30 pm Registration begins Tuesday\, December 1. Snacks
-  will be provided.\n\nCost: Free\nSignup: Registration required\, book be
- fore you go\nOutdoors\, dress for the weather\nListed by: Dexter District
-  Library\nDetails: https://dexter.lib.mi.us/events/games-and-snacks/\nFou
- nd on: https://kideventsinannarbor.com/?event=6f33ed373a4d6636\n\nDouble 
- check the time with the organizer before you go.
+  will be provided.\n\nWhere: 3255 Alpine St\, Dexter\, MI 48130\nCost: Fr
+ ee\nSignup: Registration required\, book before you go\nOutdoors\, dress 
+ for the weather\nListed by: Dexter District Library\nDetails: https://dex
+ ter.lib.mi.us/events/games-and-snacks/\nFound on: https://kideventsinanna
+ rbor.com/?event=2d746e60ef20d5a2\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://dexter.lib.mi.us/events/games-and-snacks/
 END:VEVENT
 BEGIN:VEVENT
 UID:9db5d23f4022f3da@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261231T003000Z
 DTEND:20261231T020000Z
 SUMMARY:Open Swim
@@ -3000,7 +3091,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:c97beb52c3e6048a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261231T173000Z
 DTEND:20261231T210000Z
 SUMMARY:Open Swim
@@ -3013,7 +3104,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:e33bba6d72ca6907@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270101T173000Z
 DTEND:20270101T210000Z
 SUMMARY:Open Swim
@@ -3026,7 +3117,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:e33bba6d72ca6907@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270102T003000Z
 DTEND:20270102T020000Z
 SUMMARY:Open Swim
@@ -3039,7 +3130,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:fd81915991129784@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270102T130000Z
 DTEND:20270102T200000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3054,7 +3145,7 @@ DESCRIPTION:Where: 315 Detroit St\, Ann Arbor\, MI 48104\nCost: Not listed
 END:VEVENT
 BEGIN:VEVENT
 UID:686e642c2ee4c668@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270102T140000Z
 DTEND:20270102T153000Z
 SUMMARY:Lillie parkrun
@@ -3066,7 +3157,7 @@ DESCRIPTION:Where: Lillie Park\, Ann Arbor MI\nCost: Not listed\nSignup: D
 END:VEVENT
 BEGIN:VEVENT
 UID:46ce10fd2892ccb2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270102T190000Z
 DTEND:20270102T230000Z
 SUMMARY:Open Swim
@@ -3079,7 +3170,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:bbbe26c59222f889@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270103T190000Z
 DTEND:20270103T230000Z
 SUMMARY:Open Swim
@@ -3092,7 +3183,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:63a3dda9f19dcc0c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270104T173000Z
 DTEND:20270104T210000Z
 SUMMARY:Open Swim
@@ -3105,7 +3196,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:63a3dda9f19dcc0c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270105T003000Z
 DTEND:20270105T020000Z
 SUMMARY:Open Swim
@@ -3118,7 +3209,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:6c674c0ff20e0627@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270105T173000Z
 DTEND:20270105T210000Z
 SUMMARY:Open Swim
@@ -3131,7 +3222,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:4666f89c0664848c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270106T173000Z
 DTEND:20270106T210000Z
 SUMMARY:Open Swim
@@ -3144,7 +3235,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:b7ab4dedcc6f523f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270106T233000Z
 DTEND:20270107T003000Z
 SUMMARY:Chess Club
@@ -3161,7 +3252,7 @@ URL:https://dexter.lib.mi.us/events/chess-club-45/
 END:VEVENT
 BEGIN:VEVENT
 UID:4666f89c0664848c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270107T003000Z
 DTEND:20270107T020000Z
 SUMMARY:Open Swim
@@ -3174,7 +3265,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:77f015a137141169@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270107T173000Z
 DTEND:20270107T210000Z
 SUMMARY:Open Swim
@@ -3187,7 +3278,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:a7b56ea6083e1e0b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270108T173000Z
 DTEND:20270108T210000Z
 SUMMARY:Open Swim
@@ -3200,7 +3291,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:a7b56ea6083e1e0b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270109T003000Z
 DTEND:20270109T020000Z
 SUMMARY:Open Swim
@@ -3213,7 +3304,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:534844f6da27656d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270109T130000Z
 DTEND:20270109T200000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3228,7 +3319,7 @@ DESCRIPTION:Where: 315 Detroit St\, Ann Arbor\, MI 48104\nCost: Not listed
 END:VEVENT
 BEGIN:VEVENT
 UID:2f37577a2cd29d4f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270109T140000Z
 DTEND:20270109T153000Z
 SUMMARY:Lillie parkrun
@@ -3240,7 +3331,7 @@ DESCRIPTION:Where: Lillie Park\, Ann Arbor MI\nCost: Not listed\nSignup: D
 END:VEVENT
 BEGIN:VEVENT
 UID:292370de01554ab4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270109T190000Z
 DTEND:20270109T230000Z
 SUMMARY:Open Swim
@@ -3253,7 +3344,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:3f328831c53bdfb0@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270110T190000Z
 DTEND:20270110T230000Z
 SUMMARY:Open Swim
@@ -3266,7 +3357,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:0fd54962c86679a8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270111T173000Z
 DTEND:20270111T210000Z
 SUMMARY:Open Swim
@@ -3279,7 +3370,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:0fd54962c86679a8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270112T003000Z
 DTEND:20270112T020000Z
 SUMMARY:Open Swim
@@ -3292,7 +3383,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:53b677ab79175ffe@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270112T173000Z
 DTEND:20270112T210000Z
 SUMMARY:Open Swim
@@ -3305,7 +3396,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:32a874388121adc1@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270113T173000Z
 DTEND:20270113T210000Z
 SUMMARY:Open Swim
@@ -3318,7 +3409,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:32a874388121adc1@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270114T003000Z
 DTEND:20270114T020000Z
 SUMMARY:Open Swim
@@ -3331,7 +3422,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:93a7a1594baa1527@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270114T173000Z
 DTEND:20270114T210000Z
 SUMMARY:Open Swim
@@ -3344,7 +3435,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:a409dfb19be35367@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270115T173000Z
 DTEND:20270115T210000Z
 SUMMARY:Open Swim
@@ -3357,7 +3448,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:a409dfb19be35367@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270116T003000Z
 DTEND:20270116T020000Z
 SUMMARY:Open Swim
@@ -3370,7 +3461,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:eaabc51cf46dd987@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270116T130000Z
 DTEND:20270116T200000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3385,7 +3476,7 @@ DESCRIPTION:Where: 315 Detroit St\, Ann Arbor\, MI 48104\nCost: Not listed
 END:VEVENT
 BEGIN:VEVENT
 UID:4a3571ee775e70ce@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270116T140000Z
 DTEND:20270116T153000Z
 SUMMARY:Lillie parkrun
@@ -3397,7 +3488,7 @@ DESCRIPTION:Where: Lillie Park\, Ann Arbor MI\nCost: Not listed\nSignup: D
 END:VEVENT
 BEGIN:VEVENT
 UID:ea0b189de7a0a790@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270116T190000Z
 DTEND:20270116T230000Z
 SUMMARY:Open Swim
@@ -3410,7 +3501,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:66c00841d2d666c2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270117T190000Z
 DTEND:20270117T230000Z
 SUMMARY:Open Swim
@@ -3423,7 +3514,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:a3c3410e3215da86@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270118T173000Z
 DTEND:20270118T210000Z
 SUMMARY:Open Swim
@@ -3436,7 +3527,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:1d18f437fcf6626d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270118T190000Z
 DTEND:20270118T203000Z
 SUMMARY:Book Bedazzling
@@ -3454,7 +3545,7 @@ URL:https://dexter.lib.mi.us/events/book-bedazzling/
 END:VEVENT
 BEGIN:VEVENT
 UID:a3c3410e3215da86@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270119T003000Z
 DTEND:20270119T020000Z
 SUMMARY:Open Swim
@@ -3467,7 +3558,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:3d60389386b60afe@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270119T173000Z
 DTEND:20270119T210000Z
 SUMMARY:Open Swim
@@ -3480,7 +3571,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:d6ccd578e129c5c2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270120T173000Z
 DTEND:20270120T210000Z
 SUMMARY:Open Swim
@@ -3493,7 +3584,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:d6ccd578e129c5c2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270121T003000Z
 DTEND:20270121T020000Z
 SUMMARY:Open Swim
@@ -3506,7 +3597,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:254e0306035f0eae@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270121T173000Z
 DTEND:20270121T210000Z
 SUMMARY:Open Swim
@@ -3519,7 +3610,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:9be1851743c0b9cb@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270122T173000Z
 DTEND:20270122T210000Z
 SUMMARY:Open Swim
@@ -3532,7 +3623,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:9be1851743c0b9cb@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T003000Z
 DTEND:20270123T020000Z
 SUMMARY:Open Swim
@@ -3545,7 +3636,7 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
 END:VEVENT
 BEGIN:VEVENT
 UID:3dbf6818aed30716@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T130000Z
 DTEND:20270123T200000Z
 SUMMARY:Ann Arbor Farmers Market
@@ -3560,7 +3651,7 @@ DESCRIPTION:Where: 315 Detroit St\, Ann Arbor\, MI 48104\nCost: Not listed
 END:VEVENT
 BEGIN:VEVENT
 UID:35ae1e033cd79923@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T140000Z
 DTEND:20270123T153000Z
 SUMMARY:Lillie parkrun
@@ -3571,8 +3662,27 @@ DESCRIPTION:Where: Lillie Park\, Ann Arbor MI\nCost: Not listed\nSignup: D
  1e033cd79923\n\nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:87527bbcd56c1c71@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20270123T190000Z
+DTEND:20270123T203000Z
+SUMMARY:Animals in Winter at Rolling Hills
+LOCATION:7660 Stony Creek Rd\, 7660 Stony Creek Rd\, Ypsilanti\, MI\, 4819
+ 7-6611
+GEO:42.1763099;-83.6509471
+DESCRIPTION:Learn how animals thrive in the winter as we explore forest an
+ d meadow. This family-friendly\, slow-paced stroll is perfect for curious
+  kids and adults. We will scan the trees\, listen for winter bird songs a
+ nd search for animal tracks and signs.\n\nWhere: 7660 Stony Creek Rd\, Yp
+ silanti\, MI\, 48197-6611\nDrive: about 20 minutes from downtown Ann Arbo
+ r\nAges: all ages\nCost: Not listed\nSignup: Drop in\, no signup needed\n
+ Outdoors\, dress for the weather\nListed by: Washtenaw County Parks\nFoun
+ d on: https://kideventsinannarbor.com/?event=87527bbcd56c1c71\n\nDouble c
+ heck the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:6742d8efb8b421d6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T190000Z
 DTEND:20270123T230000Z
 SUMMARY:Open Swim
@@ -3584,8 +3694,21 @@ DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
  o.
 END:VEVENT
 BEGIN:VEVENT
+UID:a102096c243451ad@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20270124T190000Z
+DTEND:20270124T230000Z
+SUMMARY:Open Swim
+LOCATION:Mack Pool\, Ann Arbor Michigan\, Ann Arbor\, MI
+DESCRIPTION:Where: Mack Pool\, Ann Arbor Michigan\nCost: Not listed\nSignu
+ p: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed b
+ y: Ann Arbor with Kids\nFound on: https://kideventsinannarbor.com/?event=
+ a102096c243451ad\n\nDouble check the time with the organizer before you g
+ o.
+END:VEVENT
+BEGIN:VEVENT
 UID:b8934ef9a03a516a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270130T120000Z
 DTEND:20270130T200000Z
 SUMMARY:Ice Fishing Derby at Independence Lake
@@ -3605,7 +3728,7 @@ DESCRIPTION:Join us for a fun-filled day of fishing! For adult division Fi
 END:VEVENT
 BEGIN:VEVENT
 UID:0a0bfb76484459f4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270203T233000Z
 DTEND:20270204T003000Z
 SUMMARY:Chess Club
@@ -3622,7 +3745,7 @@ URL:https://dexter.lib.mi.us/events/chess-club-46/
 END:VEVENT
 BEGIN:VEVENT
 UID:cf720825c9912d45@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270213T233000Z
 DTEND:20270214T013000Z
 SUMMARY:Glowball Dance at Meri Lou Recreation Center
@@ -3638,7 +3761,7 @@ DESCRIPTION:Wear your neon for a night of music\, dancing\, games\, and cr
 END:VEVENT
 BEGIN:VEVENT
 UID:d4fc462f504269ff@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270227T200000Z
 DTEND:20270228T010000Z
 SUMMARY:Ice Carving Festival at County Farm Park
@@ -3655,7 +3778,7 @@ DESCRIPTION:Celebrate winter with us at a new time and a new way! This yea
 END:VEVENT
 BEGIN:VEVENT
 UID:6c3c5af431c4f5b7@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270303T233000Z
 DTEND:20270304T003000Z
 SUMMARY:Chess Club

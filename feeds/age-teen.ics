@@ -9,174 +9,8 @@ X-WR-TIMEZONE:America/Detroit
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:08263d37906f6c73@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T050000Z
-DTEND:20261126T045900Z
-SUMMARY:Library Closes at 5 pm
-LOCATION:Saline District Library\, 555 N. Maple Road\, Saline\, MI\, 48176
-GEO:42.1778571;-83.7753767
-DESCRIPTION:The library will close at 5 pm today\, Wednesday\, November 25
- \, for the Thanksgiving holiday.\n\nWhere: 555 N. Maple Road\, Saline\, M
- I\, 48176\nDrive: about 18 minutes from downtown Ann Arbor\nAges: Infant/
- Toddler\, Youth\, Teen\, Adult\, Senior\nCost: Not listed\nSignup: Drop i
- n\, no signup needed\nIndoors\nListed by: Saline District Library\nDetail
- s: https://events.getlocalhop.com/library-closes-at-5-pm/event/AisZdXu6H5
- /\nFound on: https://kideventsinannarbor.com/?event=08263d37906f6c73\n\nD
- ouble check the time with the organizer before you go.
-URL:https://events.getlocalhop.com/library-closes-at-5-pm/event/AisZdXu6H5
- /
-CATEGORIES:Free\,Library
-END:VEVENT
-BEGIN:VEVENT
-UID:ac5a8fecb11d7691@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T150000Z
-DTEND:20261126T030000Z
-SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
- November
-LOCATION:emagine\, 44425 West 12 Mile Road\, Novi\, MI\, 48376
-GEO:42.490874;-83.485767
-DESCRIPTION:Emagine Together Screenings Emagine Together screenings offer 
- a relaxed\, inclusive movie experience tailored for families\, children\,
-  and teens with sensory needs in addition to new parents looking for a st
- ress-free outing with their little ones.\n\nWhere: 44425 West 12 Mile Roa
- d\, Novi\, MI\, 48376\nDrive: about 39 minutes from downtown Ann Arbor\nA
- ges: Emagine's inclusive screening series offers sensory-friendly movies 
- with brighter lighting and lower sound for families with sensory needs\, 
- dementia-friendly showings for caregivers and loved ones\,\nCost: 8.5\nSi
- gnup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Family\nD
- etails: https://annarborfamily.com/Calendar/#!/event/20335500\nFound on: 
- https://kideventsinannarbor.com/?event=ac5a8fecb11d7691\n\nDouble check t
- he time with the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/20335500
-END:VEVENT
-BEGIN:VEVENT
-UID:abc31299b61bd30d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T160000Z
-DTEND:20261125T200000Z
-SUMMARY:“Investigate Labs”: U-M Museum of Natural History
-LOCATION:1105 N University Ave\, Ann Arbor\, MI 48109
-GEO:42.2786;-83.7345
-DESCRIPTION:Every Tues.–Sun.\, except Nov. 26. All age 6 & up invited into
-  the museum’s labs to use scientific tools and museum specimens to answer
-  questions and solve problems. The newest program examines how membranes 
- can help solve water shortages. 11 a.m.–3 p.m.\, 1105 North University.\n
- \nWhere: 1105 N University Ave\, Ann Arbor\, MI 48109\nCost: Free\nSignup
- : Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Observer Kids
-  Calendar\nDetails: https://annarborobserver.com/event/investigate-labs-u
- -m-museum-of-natural-history-29/2026-11-25/\nFound on: https://kideventsi
- nannarbor.com/?event=abc31299b61bd30d\n\nDouble check the time with the o
- rganizer before you go.
-URL:https://annarborobserver.com/event/investigate-labs-u-m-museum-of-natu
- ral-history-29/2026-11-25/
-CATEGORIES:Free\,Observer Editor
-END:VEVENT
-BEGIN:VEVENT
-UID:209829c270f5b4f2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T190000Z
-DTEND:20261125T211500Z
-SUMMARY:Family Movie: Annie (1982)
-LOCATION:Saline District Library\, 555 N. Maple Road\, Saline\, MI\, 48176
-GEO:42.1778571;-83.7753767
-DESCRIPTION:Drop in for a Family Movie! We will be watching Annie (1982\, 
- PG). Peanut-free snacks are welcome. Caregiver supervision is required. R
- ecommended ages 3-12. No registration required.\n\nWhere: 555 N. Maple Ro
- ad\, Saline\, MI\, 48176\nDrive: about 18 minutes from downtown Ann Arbor
- \nAges: Infant/Toddler\, Youth\, Teen\, Adult\, Senior\nCost: Free\nSignu
- p: Drop in\, no signup needed\nIndoors\nListed by: Saline District Librar
- y\nDetails: https://events.getlocalhop.com/family-movie-annie-1982/event/
- p5G90szG5b/\nFound on: https://kideventsinannarbor.com/?event=209829c270f
- 5b4f2\n\nDouble check the time with the organizer before you go.
-URL:https://events.getlocalhop.com/family-movie-annie-1982/event/p5G90szG5
- b/
-CATEGORIES:Family Friendly\,Free\,Library\,Movies/Film
-END:VEVENT
-BEGIN:VEVENT
-UID:1bf205d1847386b9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T190000Z
-DTEND:20261125T200000Z
-SUMMARY:Pom Pom Avalanche
-LOCATION:Traverwood Branch: Program Room\, 3333 Traverwood Dr\, Ann Arbor\
- , MI 48105
-GEO:42.3095;-83.7086
-DESCRIPTION:Pom poms have been making people happy for at least a thousand
-  years! Come learn how to make your own pom poms and share the joy. We'll
-  have lots of snow-colored yarn (aka white) for you to make snowball pom 
- poms\, and every other color\, too.\n\nWhere: 3333 Traverwood Dr\, Ann Ar
- bor\, MI 48105\nAges: Grade K–12\nCost: Free\nSignup: Drop in\, no signup
-  needed\nIndoors\nListed by: Ann Arbor District Library\nDetails: https:/
- /aadl.org/node/673293\nFound on: https://kideventsinannarbor.com/?event=1
- bf205d1847386b9\n\nDouble check the time with the organizer before you go
- .
-URL:https://aadl.org/node/673293
-CATEGORIES:Crafts\,Observer pick
-END:VEVENT
-BEGIN:VEVENT
-UID:61773d327858cd4a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T200000Z
-DTEND:20261125T210000Z
-SUMMARY:Open Art for Teens
-LOCATION:Saline District Library\, 555 N Maple Rd\, Saline\, MI\, 48176
-GEO:42.1773262024;-83.7757339478
-DESCRIPTION:Teens are welcome to come create\, color\, and craft at the li
- brary from 3-4 PM on Wednesdays! No registration required.\n\nWhere: 555 
- N Maple Rd\, Saline\, MI\, 48176\nDrive: about 18 minutes from downtown A
- nn Arbor\nAges: A drop-in art session for teens to create\, color\, and c
- raft at the library\, no registration needed.\nCost: Not listed\nSignup: 
- Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Family\nDetails
- : https://annarborfamily.com/Calendar/#!/event/19792710\nFound on: https:
- //kideventsinannarbor.com/?event=61773d327858cd4a\n\nDouble check the tim
- e with the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/19792710
-END:VEVENT
-BEGIN:VEVENT
-UID:8e0ddbd7b4d9d32c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T210000Z
-DTEND:20261125T230000Z
-SUMMARY:Little Jams
-LOCATION:Neutral Zone\, 310 E. Washington St.\, Ann Arbor\, MI\, 48104
-GEO:42.28028511716843;-83.74558768084327
-DESCRIPTION:Jam out with a group of musicians who are passionate about lea
- rning and exploring the sounds of the world. All levels of music experien
- ce are welcome.\n\nWhere: 310 E. Washington St.\, Ann Arbor\, MI\, 48104\
- nAges: A music jam for young players of all experience levels\, led by mu
- sicians passionate about exploring world sounds.\nCost: Not listed\nSignu
- p: Drop in\, no signup needed\nListed by: Ann Arbor Family\nDetails: http
- s://annarborfamily.com/Calendar/#!/event/20324380\nFound on: https://kide
- ventsinannarbor.com/?event=8e0ddbd7b4d9d32c\n\nDouble check the time with
-  the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/20324380
-END:VEVENT
-BEGIN:VEVENT
-UID:fe5a7938317077de@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
-DTSTART:20261125T230000Z
-DTEND:20261126T000000Z
-SUMMARY:Video Game Music Live!
-LOCATION:Downtown Library: 1st Floor Lobby\, 343 S Fifth Ave\, Ann Arbor\,
-  MI 48104
-GEO:42.2792;-83.7462
-DESCRIPTION:A live performance of various Nintendo and other video game mu
- sic\, played by the Video Game Music Band from the University of Michigan
- ! A live performance of various Nintendo and other video game music\, pla
- yed by the Video Game Music Band from the University of Michigan!\n\nWher
- e: 343 S Fifth Ave\, Ann Arbor\, MI 48104\nAges: Grade K–Adult\nCost: Fre
- e\nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Dist
- rict Library\nDetails: https://aadl.org/node/672950\nFound on: https://ki
- deventsinannarbor.com/?event=fe5a7938317077de\n\nDouble check the time wi
- th the organizer before you go.
-URL:https://aadl.org/node/672950
-CATEGORIES:Public Event\,Free\,Observer Editor
-END:VEVENT
-BEGIN:VEVENT
 UID:e083f2aaae0d7fbb@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261126T050000Z
 DTEND:20261127T045900Z
 SUMMARY:Library Closed
@@ -195,7 +29,7 @@ CATEGORIES:Free\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:1deb24fbef087e47@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261126T150000Z
 DTEND:20261127T030000Z
 SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
@@ -218,7 +52,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20335500
 END:VEVENT
 BEGIN:VEVENT
 UID:eb14d09393078b65@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T050000Z
 DTEND:20261128T045900Z
 SUMMARY:Library Closed
@@ -237,7 +71,7 @@ CATEGORIES:Free\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:3df5fd0639d4c99f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T150000Z
 DTEND:20261128T030000Z
 SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
@@ -260,7 +94,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20335500
 END:VEVENT
 BEGIN:VEVENT
 UID:0deaeb0cc4d1409b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T160000Z
 DTEND:20261127T200000Z
 SUMMARY:“Investigate Labs”: U-M Museum of Natural History
@@ -281,28 +115,28 @@ URL:https://annarborobserver.com/event/investigate-labs-u-m-museum-of-natu
 CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
-UID:7f633f77d937ccdd@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:8ea8be491d2b54a9@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T170000Z
 DTEND:20261127T220000Z
 SUMMARY:Craft Friday: Collage\, Junk Journal & More: SCRAP Creative Reuse
-LOCATION:Ann Arbor\, MI
+LOCATION:SCRAP Creative Reuse\, Ann Arbor Michigan\, Ann Arbor\, MI
 DESCRIPTION:Join us in the education studio for a day of fun\, community-b
  ased crafting! In this extended session\, we’ll have plenty of time to ex
  plore the joys of collage\, junk journaling\, and making with scraps. Com
- e for the whole bit\, or for a while.\n\nCost: Free\nSignup: Drop in\, no
-  signup needed\nIndoors\nListed by: Ann Arbor Observer Kids Calendar\nDet
- ails: https://annarborobserver.com/event/craft-friday-collage-junk-journa
- l-more-scrap-creative-reuse/\nFound on: https://kideventsinannarbor.com/?
- event=7f633f77d937ccdd\n\nDouble check the time with the organizer before
-  you go.
+ e for the whole bit\, or for a while.\n\nWhere: SCRAP Creative Reuse\, An
+ n Arbor Michigan\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors
+ \nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://annarboro
+ bserver.com/event/craft-friday-collage-junk-journal-more-scrap-creative-r
+ euse/\nFound on: https://kideventsinannarbor.com/?event=8ea8be491d2b54a9\
+ n\nDouble check the time with the organizer before you go.
 URL:https://annarborobserver.com/event/craft-friday-collage-junk-journal-m
  ore-scrap-creative-reuse/
 CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
 UID:a14ed2cf85b1fb66@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T180000Z
 DTEND:20261127T210000Z
 SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
@@ -322,7 +156,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:3c873ec91373a0e4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261127T223000Z
 DTEND:20261128T003000Z
 SUMMARY:Tiny Apothecary
@@ -342,7 +176,7 @@ CATEGORIES:Crafts\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:77b49f88eeacaa0b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T140000Z
 DTEND:20261128T160000Z
 SUMMARY:Thanksgiving Dog Parade (Family Friendly!)
@@ -365,7 +199,7 @@ CATEGORIES:Family Fun\, One-Time Event
 END:VEVENT
 BEGIN:VEVENT
 UID:5f3940ed891c3314@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T150000Z
 DTEND:20261129T030000Z
 SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
@@ -388,7 +222,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20335500
 END:VEVENT
 BEGIN:VEVENT
 UID:bce4eb2db1ade1de@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:Ypsi Artisans Holiday Markets
@@ -411,7 +245,7 @@ CATEGORIES:Observer Editor\,Shopping\, Holiday\, One-Time Event
 END:VEVENT
 BEGIN:VEVENT
 UID:f27787e944f0285e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T153000Z
 DTEND:20261128T200000Z
 SUMMARY:Snacks with Santa
@@ -433,7 +267,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20379050
 END:VEVENT
 BEGIN:VEVENT
 UID:acf0bcf195b5b868@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T160000Z
 DTEND:20261128T170000Z
 SUMMARY:Drop-In Makerspace for Grades K-8
@@ -454,7 +288,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20202349
 END:VEVENT
 BEGIN:VEVENT
 UID:62bdd3b19c1db3b2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T160000Z
 DTEND:20261128T200000Z
 SUMMARY:“Investigate Labs”: U-M Museum of Natural History
@@ -476,7 +310,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:f4f93c9d13df5e80@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:Critters Up Close
@@ -497,7 +331,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:1ca259e1c12dbaa2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Splatoon 3: Hyper-Local Splatfest
@@ -517,7 +351,7 @@ CATEGORIES:Public Event\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:cbcbc53ba612577f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
@@ -537,7 +371,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:2574e394318e3034@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T183000Z
 DTEND:20261128T200000Z
 SUMMARY:(Pop) Punk Embroidery
@@ -557,7 +391,7 @@ CATEGORIES:Crafts\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:440db01eae8b719c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T190000Z
 DTEND:20261128T203000Z
 SUMMARY:A2CT Junior Theatre’s Myth-Understood
@@ -579,7 +413,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20501550
 END:VEVENT
 BEGIN:VEVENT
 UID:204c3e4a85d6f0b5@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T190000Z
 DTEND:20261128T200000Z
 SUMMARY:“Myth-Understood”: Ann Arbor Civic Theatre Junior Theatre
@@ -599,7 +433,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:756f99ed35fe5259@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261128T220000Z
 DTEND:20261128T220000Z
 SUMMARY:Smeet Fest is happening this Saturday (11/28) from 3–5pm at our do
@@ -617,7 +451,7 @@ URL:https://bsky.app/profile/ypsilibrary.org/post/3n2wvhkww2h2y
 END:VEVENT
 BEGIN:VEVENT
 UID:a89d38f7e6c49403@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T150000Z
 DTEND:20261130T030000Z
 SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
@@ -640,7 +474,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20335500
 END:VEVENT
 BEGIN:VEVENT
 UID:c5912d190a2f37a0@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
 SUMMARY:Ypsi Artisans Holiday Markets
@@ -663,7 +497,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:608f8ebb79cd52b5@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T154500Z
 DTEND:20261129T180000Z
 SUMMARY:Elemental Ecstatic Dance
@@ -682,7 +516,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:106afdec725b3dd4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T160000Z
 DTEND:20261129T160000Z
 SUMMARY:Warner Bros Cartoon Shorts
@@ -703,7 +537,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20027236
 END:VEVENT
 BEGIN:VEVENT
 UID:a4a8ac4984c08aae@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T160000Z
 DTEND:20261129T200000Z
 SUMMARY:“Investigate Labs”: U-M Museum of Natural History
@@ -725,7 +559,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:3319e50c147f819d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T170000Z
 DTEND:20261129T200000Z
 SUMMARY:Critters Up Close
@@ -746,7 +580,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:929c68a4b9c29c54@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
 SUMMARY:Gemily: the Ark
@@ -764,7 +598,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:d7ef8f447a116f4e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:One-String Electric Guitar
@@ -784,7 +618,7 @@ CATEGORIES:Crafts\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:7869041618d0d30e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:PokéBattle Sunday
@@ -804,7 +638,7 @@ CATEGORIES:Public Event\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:18afb4818dec09df@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
@@ -824,7 +658,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:942d2ba7bfff5b8e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T190000Z
 DTEND:20261129T203000Z
 SUMMARY:A2CT Junior Theatre’s Myth-Understood
@@ -846,7 +680,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20501550
 END:VEVENT
 BEGIN:VEVENT
 UID:f25947d1e1e83b50@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261129T190000Z
 DTEND:20261129T200000Z
 SUMMARY:“Myth-Understood”: Ann Arbor Civic Theatre Junior Theatre
@@ -866,7 +700,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:eb1bd0a822ff0aec@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261130T150000Z
 DTEND:20261201T030000Z
 SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
@@ -889,7 +723,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20335500
 END:VEVENT
 BEGIN:VEVENT
 UID:6b485196a0bf01ec@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261130T210000Z
 DTEND:20261201T000000Z
 SUMMARY:Family Night: Paint Your Own Pottery Drop-In
@@ -909,7 +743,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20346053
 END:VEVENT
 BEGIN:VEVENT
 UID:61dbf2fd0fcf1b8e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261130T220000Z
 DTEND:20261130T230000Z
 SUMMARY:Button Lab!
@@ -929,7 +763,7 @@ CATEGORIES:Crafts\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:14373d7369ae3ac4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261130T230000Z
 DTEND:20261201T003000Z
 SUMMARY:Beginner Needle Felting: Snow Hares
@@ -948,7 +782,7 @@ CATEGORIES:Crafts\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:3e8e7ea69defcf00@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261130T230000Z
 DTEND:20261201T000000Z
 SUMMARY:Haunted Mitten Presents: True Crime in Tree Town
@@ -968,7 +802,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:3a77f670654e945b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261201T050000Z
 DTEND:20261202T045900Z
 SUMMARY:Teen Subscription Boxes
@@ -990,7 +824,7 @@ CATEGORIES:Library\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:f32536cf48af4c9e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261201T050000Z
 DTEND:20261202T045900Z
 SUMMARY:Teen Take-n-Make: Napkin Rings and Cottagecore Napkins
@@ -1012,7 +846,7 @@ CATEGORIES:Free\,Library\,Food & Beverage\,Family Friendly\,Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:166a00ac2a8ebbb3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261201T190000Z
 DTEND:20261201T210000Z
 SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
@@ -1032,7 +866,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:32483d540a337e48@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261201T220000Z
 DTEND:20261202T000000Z
 SUMMARY:Letterpress Open Lab
@@ -1052,7 +886,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:3b87792a4ae6b183@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261201T230000Z
 DTEND:20261202T004500Z
 SUMMARY:CANCELED: AADL Welcomes | The Sierra Club
@@ -1072,7 +906,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:f793297deb689bd5@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261202T200000Z
 DTEND:20261202T210000Z
 SUMMARY:Open Art for Teens
@@ -1091,7 +925,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:62ee2e24a6312fdc@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261202T230000Z
 DTEND:20261203T003000Z
 SUMMARY:Folk Song Jam Along
@@ -1111,25 +945,28 @@ URL:https://aadl.org/node/647046
 CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
-UID:1db4f5a76590db74@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:76ed1f7c05c2e63d@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261202T233000Z
 DTEND:20261203T003000Z
 SUMMARY:Chess Club
-LOCATION:Ann Arbor\, MI
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Kids and Teens – Registration required\, see below. Please ent
  er grade in the comments field. Wednesday\, December 2 from 6:30 – 7:30 p
  m Registration begins Wednesday\, November 4. If you enjoy playing chess\
- , join us for our monthly chess games.\n\nCost: Free\nSignup: Registratio
- n required\, book before you go\nOutdoors\, dress for the weather\nListed
-  by: Dexter District Library\nDetails: https://dexter.lib.mi.us/events/ch
- ess-club-44/\nFound on: https://kideventsinannarbor.com/?event=1db4f5a765
- 90db74\n\nDouble check the time with the organizer before you go.
+ , join us for our monthly chess games.\n\nWhere: 3255 Alpine St\, Dexter\
+ , MI 48130\nCost: Free\nSignup: Registration required\, book before you g
+ o\nOutdoors\, dress for the weather\nListed by: Dexter District Library\n
+ Details: https://dexter.lib.mi.us/events/chess-club-44/\nFound on: https:
+ //kideventsinannarbor.com/?event=76ed1f7c05c2e63d\n\nDouble check the tim
+ e with the organizer before you go.
 URL:https://dexter.lib.mi.us/events/chess-club-44/
 END:VEVENT
 BEGIN:VEVENT
 UID:0de5eda994af268e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261203T223000Z
 DTEND:20261204T003000Z
 SUMMARY:Open Lab: Button Makers\, Silhouette Cutting Machines\, Die Cutter
@@ -1151,7 +988,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:fce9486d3cfe46ea@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261203T233000Z
 DTEND:20261204T004500Z
 SUMMARY:Emerging Writers Write-In
@@ -1171,7 +1008,7 @@ CATEGORIES:Writing & Publishing
 END:VEVENT
 BEGIN:VEVENT
 UID:7e4bfc32b0959c67@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261204T220000Z
 DTEND:20261204T233000Z
 SUMMARY:Free Family Trivia Night
@@ -1191,7 +1028,7 @@ CATEGORIES:Parks and Recreation
 END:VEVENT
 BEGIN:VEVENT
 UID:ac35c0a5722411a4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T151500Z
 DTEND:20261205T170000Z
 SUMMARY:Dungeons & Dragons Drop in for Teens
@@ -1205,8 +1042,23 @@ DESCRIPTION:Where: 5577 Whittaker Rd\, Ypsilanti\, MI 48197\nDrive: about
  me with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:d1a047966fb95016@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261205T180000Z
+DTEND:20261205T190000Z
+SUMMARY:TAG: Teen Advisory Group
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
+DESCRIPTION:Where: 3255 Alpine St\, Dexter\, MI 48130\nDrive: about 18 min
+ utes from downtown Ann Arbor\nCost: Not listed\nSignup: Drop in\, no sign
+ up needed\nIndoors\nListed by: Ann Arbor with Kids\nFound on: https://kid
+ eventsinannarbor.com/?event=d1a047966fb95016\n\nDouble check the time wit
+ h the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:c861b4e1b7260df3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T190000Z
 DTEND:20261205T210000Z
 SUMMARY:Giant Taco Sculptures
@@ -1226,7 +1078,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:7827d1bd5aed6dac@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261205T190000Z
 DTEND:20261205T210000Z
 SUMMARY:Thumping Stomp Boxes
@@ -1247,7 +1099,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:8c2e922daf13da8f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T190000Z
 DTEND:20261206T210000Z
 SUMMARY:Letterpress Open Lab
@@ -1267,7 +1119,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:ae00e983b7d0ab32@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261206T190000Z
 DTEND:20261206T210000Z
 SUMMARY:Sprang Weaving with Beth Battey
@@ -1286,25 +1138,27 @@ URL:https://aadl.org/node/669163
 CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
-UID:21356b5b5b18a25c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:852e5c2b725cfc40@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261207T213000Z
 DTEND:20261207T223000Z
 SUMMARY:Lego Club
-LOCATION:Ann Arbor\, MI
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Lego Club Monday\, December7 4:30 pm – 5:30 pm Grades K – 8 Dr
  op-In Program Kids in grades K through 8 are invited to spend an afternoo
  n making their own Lego creations while visiting with old friends and mak
- ing new ones.\n\nCost: Not listed\nSignup: Drop in\, no signup needed\nIn
- doors\nListed by: Dexter District Library\nDetails: https://dexter.lib.mi
- .us/events/lego-club-35/\nFound on: https://kideventsinannarbor.com/?even
- t=21356b5b5b18a25c\n\nDouble check the time with the organizer before you
-  go.
+ ing new ones.\n\nWhere: 3255 Alpine St\, Dexter\, MI 48130\nCost: Not lis
+ ted\nSignup: Drop in\, no signup needed\nIndoors\nListed by: Dexter Distr
+ ict Library\nDetails: https://dexter.lib.mi.us/events/lego-club-35/\nFoun
+ d on: https://kideventsinannarbor.com/?event=852e5c2b725cfc40\n\nDouble c
+ heck the time with the organizer before you go.
 URL:https://dexter.lib.mi.us/events/lego-club-35/
 END:VEVENT
 BEGIN:VEVENT
 UID:49918afff56bf316@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261207T230000Z
 DTEND:20261208T003000Z
 SUMMARY:Sewing Lab | Pattern Reading
@@ -1324,7 +1178,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:8a296912254f28c4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261207T233000Z
 DTEND:20261208T003000Z
 SUMMARY:Teen & Tween Cardmaking Workshop
@@ -1344,7 +1198,7 @@ CATEGORIES:Crafts\,Library\,Free\,Classes
 END:VEVENT
 BEGIN:VEVENT
 UID:1f243bb6158b56c2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261208T190000Z
 DTEND:20261208T210000Z
 SUMMARY:Introductory Woodcarving | Evergreen Trees
@@ -1365,7 +1219,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:8a7e5e4b88991c01@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261208T213000Z
 DTEND:20261208T223000Z
 SUMMARY:Teen Advisory Group
@@ -1380,7 +1234,7 @@ DESCRIPTION:Where: 5577 Whittaker Rd\, Ypsilanti\, MI 48197\nDrive: about
 END:VEVENT
 BEGIN:VEVENT
 UID:1d03c693517c9d0e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261208T230000Z
 DTEND:20261209T003000Z
 SUMMARY:Book Page Wreath
@@ -1400,7 +1254,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:09956ed1cf4a672a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261208T233000Z
 DTEND:20261209T010000Z
 SUMMARY:SDL Sleuth Squad
@@ -1421,7 +1275,7 @@ CATEGORIES:Free\,Educational\,Classes
 END:VEVENT
 BEGIN:VEVENT
 UID:3b16db9452f8ee50@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261209T130000Z
 DTEND:20261209T220000Z
 SUMMARY:Planet Fitness Toy Drive
@@ -1439,7 +1293,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:c591b25de57c1af9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261209T200000Z
 DTEND:20261209T210000Z
 SUMMARY:Open Art for Teens
@@ -1458,7 +1312,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:a0af99e6b6f8a493@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261209T223000Z
 DTEND:20261210T003000Z
 SUMMARY:Block Printing Workshop
@@ -1478,7 +1332,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:5f04796a480102e3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261209T230000Z
 DTEND:20261210T003000Z
 SUMMARY:Intro to Home Recording
@@ -1498,7 +1352,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:d9c039b9090c75ed@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261210T223000Z
 DTEND:20261211T003000Z
 SUMMARY:Open Lab: 3D Printers\, Laser Engraver\, 3D Pens
@@ -1519,7 +1373,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:8d942d226fb3146b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261210T223000Z
 DTEND:20261211T000000Z
 SUMMARY:Open Paint: Mini Acrylic Paintings
@@ -1539,7 +1393,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:0234f124f61c9f74@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261210T230000Z
 DTEND:20261211T003000Z
 SUMMARY:Mini Hoop Embroidery
@@ -1557,26 +1411,27 @@ URL:https://aadl.org/node/670835
 CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
-UID:7aa3be0d51dcfdac@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:9a1b8e03b33e0dac@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261211T160000Z
 DTEND:20261211T164500Z
-SUMMARY:Ho Ho Holiday Show
-LOCATION:Ann Arbor\, MI
+SUMMARY:Richard Paul Ho Ho Holiday Show for Kids of All Ages
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Ho Ho Holiday Show Friday\, December 11 11:00 am – 11:45 am Ch
  ildren of all ages Drop-In Program This 45-minute show for children of al
  l ages is a high-energy holiday hootenanny packed with magic\, music\, si
  ng-a-long fun\, and a sleigh-full of colorful ventriloquist characters.\n
- \nAges: all ages\nCost: Not listed\nSignup: Drop in\, no signup needed\nL
- isted by: Dexter District Library\nDetails: https://dexter.lib.mi.us/even
- ts/ho-ho-holiday-show/\nFound on: https://kideventsinannarbor.com/?event=
- 7aa3be0d51dcfdac\n\nDouble check the time with the organizer before you g
- o.
-URL:https://dexter.lib.mi.us/events/ho-ho-holiday-show/
+ \nWhere: 3255 Alpine St\, Dexter\, MI 48130\nDrive: about 18 minutes from
+  downtown Ann Arbor\nAges: all ages\nCost: Not listed\nSignup: Drop in\, 
+ no signup needed\nIndoors\nListed by: Ann Arbor with Kids\nFound on: http
+ s://kideventsinannarbor.com/?event=9a1b8e03b33e0dac\n\nDouble check the t
+ ime with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
 UID:613748b30b1f5231@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261211T223000Z
 DTEND:20261212T010000Z
 SUMMARY:Teen STEAM Cafe
@@ -1591,7 +1446,7 @@ DESCRIPTION:Where: 5577 Whittaker Rd\, Ypsilanti\, MI 48197\nDrive: about
 END:VEVENT
 BEGIN:VEVENT
 UID:b8fa825e1ef7e614@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T160000Z
 DTEND:20261212T230000Z
 SUMMARY:Tiny Expo Indie Art & Craft Fair
@@ -1610,8 +1465,45 @@ URL:https://aadl.org/node/675044
 CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
+UID:36386f5cddb70845@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261212T160000Z
+DTEND:20261212T230000Z
+SUMMARY:Tiny Expo: Ann Arbor District Library
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 12. More than 50 local artists and artisans. Also\, craft
+  activities (1–4 p.m.) for all ages. For a complete schedule see aadl.org
+ /tinyexpo. 11 a.m.–6 p.m.\, AADL Downtown. (734) 327–4200.\n\nAges: all a
+ ges\nCost: Not listed\nSignup: Drop in\, no signup needed\nIndoors\nListe
+ d by: Ann Arbor Observer Kids Calendar\nDetails: https://annarborobserver
+ .com/event/tiny-expo-ann-arbor-district-library/\nFound on: https://kidev
+ entsinannarbor.com/?event=36386f5cddb70845\n\nDouble check the time with 
+ the organizer before you go.
+URL:https://annarborobserver.com/event/tiny-expo-ann-arbor-district-librar
+ y/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:deceb806d132c883@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261212T180000Z
+DTEND:20261212T193000Z
+SUMMARY:Nature Detectives at Baker Woods
+LOCATION:11914 Trinkle Rd\, 11914 Trinkle Rd\, Dexter\, MI\, 48130
+GEO:42.3104752;-83.9633746
+DESCRIPTION:With our detective booklet in hand\, what sort of animal signs
+  will we come across?! Can we identify who left behind tracks? Or who bui
+ lt that nest? This discovery scavenger hunt will provide winter fun for t
+ he whole family! Program led by Kelsey Dehring.\n\nWhere: 11914 Trinkle R
+ d\, Dexter\, MI\, 48130\nDrive: about 24 minutes from downtown Ann Arbor\
+ nAges: all ages\nCost: Not listed\nSignup: Drop in\, no signup needed\nIn
+ doors\nListed by: Washtenaw County Parks\nFound on: https://kideventsinan
+ narbor.com/?event=deceb806d132c883\n\nDouble check the time with the orga
+ nizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:321728d079a82bfa@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Tiny Expo | Hands-On Crafts
@@ -1630,26 +1522,28 @@ URL:https://aadl.org/node/675116
 CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
-UID:42365f4e7bcde0bf@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:2edd76a6888e0022@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261212T190000Z
 DTEND:20261212T200000Z
 SUMMARY:Faux Stained Glass
-LOCATION:Ann Arbor\, MI
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Grades 5 through 12 – Registration required\, see below. Pleas
  e enter grade in the comments field. Faux Stained Glass Saturday\, Decemb
  er 12 from 2:00 - 3:00 pm Registration begins Thursday\, November 12 Make
-  your own faux stained glass decoration.\n\nCost: Free\nSignup: Registrat
- ion required\, book before you go\nOutdoors\, dress for the weather\nList
- ed by: Dexter District Library\nDetails: https://dexter.lib.mi.us/events/
- faux-stained-glass-2/\nFound on: https://kideventsinannarbor.com/?event=4
- 2365f4e7bcde0bf\n\nDouble check the time with the organizer before you go
- .
+  your own faux stained glass decoration.\n\nWhere: 3255 Alpine St\, Dexte
+ r\, MI 48130\nCost: Free\nSignup: Registration required\, book before you
+  go\nOutdoors\, dress for the weather\nListed by: Dexter District Library
+ \nDetails: https://dexter.lib.mi.us/events/faux-stained-glass-2/\nFound o
+ n: https://kideventsinannarbor.com/?event=2edd76a6888e0022\n\nDouble chec
+ k the time with the organizer before you go.
 URL:https://dexter.lib.mi.us/events/faux-stained-glass-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:78caba7140768538@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261213T180000Z
 DTEND:20261213T200000Z
 SUMMARY:Nålbinding: Ancient Fiber Arts Craft
@@ -1668,7 +1562,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:d3ad537768a43421@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261214T200000Z
 DTEND:20261214T210000Z
 SUMMARY:Teen Bingo for Books
@@ -1687,7 +1581,7 @@ CATEGORIES:Games\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:712887ad52dc4b95@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261215T050000Z
 DTEND:20261216T045900Z
 SUMMARY:Teen Take-n-Make: Sock Snowman
@@ -1708,7 +1602,7 @@ CATEGORIES:Free\,Library\,Food & Beverage\,Family Friendly\,Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:8183782b34706af8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261215T220000Z
 DTEND:20261216T000000Z
 SUMMARY:Riso Lab
@@ -1728,7 +1622,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:ce1b807034ce522f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
@@ -1748,7 +1642,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:b94a8e8f90fda9d2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261216T200000Z
 DTEND:20261216T210000Z
 SUMMARY:Open Art for Teens
@@ -1766,8 +1660,23 @@ URL:https://events.getlocalhop.com/open-art-for-teens/event/ghY3e9QJln/
 CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
+UID:b44d646bfd4315ac@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20261216T213000Z
+DTEND:20261216T223000Z
+SUMMARY:Teen Books and Bites
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
+DESCRIPTION:Where: 3255 Alpine St\, Dexter\, MI 48130\nDrive: about 18 min
+ utes from downtown Ann Arbor\nCost: Not listed\nSignup: Drop in\, no sign
+ up needed\nIndoors\nListed by: Ann Arbor with Kids\nFound on: https://kid
+ eventsinannarbor.com/?event=b44d646bfd4315ac\n\nDouble check the time wit
+ h the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:e2015546df8f356c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261216T220000Z
 DTEND:20261217T000000Z
 SUMMARY:Letterpress Open Lab
@@ -1787,7 +1696,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:b923aacc8488095a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261216T230000Z
 DTEND:20261217T000000Z
 SUMMARY:Embroidered Paper Bookmarks
@@ -1808,7 +1717,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:a1366e423eb5db5d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261217T223000Z
 DTEND:20261218T003000Z
 SUMMARY:Open Lab: Sewing Machines\, Silhouette Cutters\, Heat Press
@@ -1828,7 +1737,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:b8c9b21c12a6d0d1@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261218T220000Z
 DTEND:20261218T230000Z
 SUMMARY:Button Lab!
@@ -1848,7 +1757,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:4b3fe730dc234b7f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261218T233000Z
 DTEND:20261219T013000Z
 SUMMARY:Teen Glow Party
@@ -1867,7 +1776,7 @@ CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
 UID:37e23cb5b414f397@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T151500Z
 DTEND:20261219T170000Z
 SUMMARY:Dungeons & Dragons Drop in for Teens
@@ -1882,7 +1791,7 @@ DESCRIPTION:Where: 5577 Whittaker Rd\, Ypsilanti\, MI 48197\nDrive: about
 END:VEVENT
 BEGIN:VEVENT
 UID:a0c9774c7ff016b8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T180000Z
 DTEND:20261219T210000Z
 SUMMARY:Super Smash Bros. Ultimate Tournament
@@ -1903,7 +1812,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:19e46807a1c32ba3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261219T230000Z
 DTEND:20261220T003000Z
 SUMMARY:Intro to Sewing Machines: Mini Pillows
@@ -1923,7 +1832,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:8e2cd1e0f551b6ff@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:All-Ages Mario Kart Tournament
@@ -1943,7 +1852,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:d9b97e80a5b56eb5@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261220T180000Z
 DTEND:20261220T200000Z
 SUMMARY:Chesstastic
@@ -1963,7 +1872,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:505dd97bd016f821@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261220T200000Z
 DTEND:20261220T213000Z
 SUMMARY:Sew So Small: Pencil Case
@@ -1983,7 +1892,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:7ef3a9ad17387d43@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261221T223000Z
 DTEND:20261222T003000Z
 SUMMARY:Introductory Woodcarving | Evergreen Trees
@@ -2004,7 +1913,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:91b41ffe910ba1cf@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261221T230000Z
 DTEND:20261222T003000Z
 SUMMARY:Handmade Felt Food: Eggplant
@@ -2023,26 +1932,28 @@ URL:https://aadl.org/node/674661
 CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
-UID:1bb8f424229699ed@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:2e8da8ad2927b03b@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261222T160000Z
 DTEND:20261222T170000Z
 SUMMARY:Drop-In Sugar Cone Candy Tree Craft
-LOCATION:Ann Arbor\, MI
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Drop-In Sugar Cone Candy Tree Craft Tuesday\, December 22 11:0
  0 am - 12:00 pm Children of all ages Drop-In Program Children of all ages
   are invited to stop by the Library to make and decorate ice cream cones 
- to look like delicious trees! Registration is not required.\n\nAges: all 
- ages\nCost: Not listed\nSignup: Drop in\, no signup needed\nIndoors\nList
- ed by: Dexter District Library\nDetails: https://dexter.lib.mi.us/events/
- drop-in-sugar-cone-candy-tree-craft/\nFound on: https://kideventsinannarb
- or.com/?event=1bb8f424229699ed\n\nDouble check the time with the organize
- r before you go.
+ to look like delicious trees! Registration is not required.\n\nWhere: 325
+ 5 Alpine St\, Dexter\, MI 48130\nAges: all ages\nCost: Not listed\nSignup
+ : Drop in\, no signup needed\nIndoors\nListed by: Dexter District Library
+ \nDetails: https://dexter.lib.mi.us/events/drop-in-sugar-cone-candy-tree-
+ craft/\nFound on: https://kideventsinannarbor.com/?event=2e8da8ad2927b03b
+ \n\nDouble check the time with the organizer before you go.
 URL:https://dexter.lib.mi.us/events/drop-in-sugar-cone-candy-tree-craft/
 END:VEVENT
 BEGIN:VEVENT
 UID:95541c8d18f13e69@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261222T160000Z
 DTEND:20261222T180000Z
 SUMMARY:Open Lab: Soldering\, Electronics\, Circuits
@@ -2061,25 +1972,28 @@ URL:https://aadl.org/node/669104
 CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
-UID:4d7c714271bf7dce@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:0ab954c57bc25db3@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261222T200000Z
 DTEND:20261222T210000Z
 SUMMARY:Candy Cane Taste Test and Hot Cocoa
-LOCATION:Ann Arbor\, MI
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Grades 5 through 12 - Registration required\, see below. Pleas
  e enter grade in the comments field. Candy Cane Taste Test and Hot Cocoa 
  Tuesday\, December 22 from 3:00 - 4:00 pm Registration begins Tuesday\, N
- ovember 24.\n\nCost: Free\nSignup: Registration required\, book before yo
- u go\nOutdoors\, dress for the weather\nListed by: Dexter District Librar
- y\nDetails: https://dexter.lib.mi.us/events/candy-cane-taste-test-and-hot
- -cocoa/\nFound on: https://kideventsinannarbor.com/?event=4d7c714271bf7dc
- e\n\nDouble check the time with the organizer before you go.
+ ovember 24.\n\nWhere: 3255 Alpine St\, Dexter\, MI 48130\nCost: Free\nSig
+ nup: Registration required\, book before you go\nOutdoors\, dress for the
+  weather\nListed by: Dexter District Library\nDetails: https://dexter.lib
+ .mi.us/events/candy-cane-taste-test-and-hot-cocoa/\nFound on: https://kid
+ eventsinannarbor.com/?event=0ab954c57bc25db3\n\nDouble check the time wit
+ h the organizer before you go.
 URL:https://dexter.lib.mi.us/events/candy-cane-taste-test-and-hot-cocoa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bb92eabc1332c274@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261222T230000Z
 DTEND:20261223T000000Z
 SUMMARY:LEGO Letterpress
@@ -2099,7 +2013,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:3a8227323d9da2fd@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261222T230000Z
 DTEND:20261223T000000Z
 SUMMARY:The Art of Math
@@ -2119,7 +2033,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:244426de83dc64fe@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261224T050000Z
 DTEND:20261225T045900Z
 SUMMARY:Library Closed
@@ -2139,7 +2053,7 @@ CATEGORIES:Free\,Holiday\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:9fbde8de341434c8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261225T050000Z
 DTEND:20261226T045900Z
 SUMMARY:Library Closed
@@ -2159,7 +2073,7 @@ CATEGORIES:Free\,Holiday\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:9708fd2683c244bf@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261226T050000Z
 DTEND:20261227T045900Z
 SUMMARY:Library Closed
@@ -2179,7 +2093,7 @@ CATEGORIES:Free\,Holiday\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:080ab9e3a71a42da@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261226T180000Z
 DTEND:20261226T190000Z
 SUMMARY:Looking Forward to 2027: A Mini-Zine of Aspirations
@@ -2195,11 +2109,11 @@ DESCRIPTION:Make a mini 8-page zine to record your hopes and goals for 202
  dl.org/node/676167\nFound on: https://kideventsinannarbor.com/?event=080a
  b9e3a71a42da\n\nDouble check the time with the organizer before you go.
 URL:https://aadl.org/node/676167
-CATEGORIES:Crafts
+CATEGORIES:Crafts\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:2af7b69926c8edd3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261226T190000Z
 DTEND:20261226T200000Z
 SUMMARY:Owl Right\, Let's Fly!
@@ -2216,11 +2130,11 @@ DESCRIPTION:Meet a few of the owls\, hawks\, and falcons of the Michigan A
  kideventsinannarbor.com/?event=2af7b69926c8edd3\n\nDouble check the time 
  with the organizer before you go.
 URL:https://aadl.org/node/671304
-CATEGORIES:Public Event
+CATEGORIES:Public Event\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:696d59922d451023@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261227T160000Z
 DTEND:20261227T160000Z
 SUMMARY:Family-Friendly Film Series - The LEGO Movie
@@ -2235,7 +2149,7 @@ DESCRIPTION:Where: 603 E Liberty St\, Ann Arbor\, MI 48104\nAges: all ages
 END:VEVENT
 BEGIN:VEVENT
 UID:076527a7c3279811@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261227T170000Z
 DTEND:20261227T180000Z
 SUMMARY:DIY Animal Tracks Field Guides
@@ -2255,7 +2169,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:b784999e9038874c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261227T180000Z
 DTEND:20261227T190000Z
 SUMMARY:Drag Bingo
@@ -2276,7 +2190,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:1f1d4b86b4e6f8f7@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261227T180000Z
 DTEND:20261227T193000Z
 SUMMARY:Star Jars!
@@ -2296,7 +2210,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:4116ab7b60cd55dd@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261228T223000Z
 DTEND:20261229T003000Z
 SUMMARY:Jurassic Park Bingo & Movie Screening
@@ -2317,7 +2231,7 @@ CATEGORIES:Film & Video Events
 END:VEVENT
 BEGIN:VEVENT
 UID:17546366c7ca2a43@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261228T233000Z
 DTEND:20261229T003000Z
 SUMMARY:Dress to Impress IRL
@@ -2337,7 +2251,7 @@ CATEGORIES:Family Friendly\,Free\,Games\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:7d5bdc91a598d7a9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261229T190000Z
 DTEND:20261229T210000Z
 SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
@@ -2357,7 +2271,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:0a70b4fba6a0fb1f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261229T230000Z
 DTEND:20261230T003000Z
 SUMMARY:Board Game Night
@@ -2373,29 +2287,29 @@ DESCRIPTION:Join us to play some popular board games\, including Azul\, Ca
  eventsinannarbor.com/?event=0a70b4fba6a0fb1f\n\nDouble check the time wit
  h the organizer before you go.
 URL:https://aadl.org/node/677022
-CATEGORIES:Public Event
+CATEGORIES:Public Event\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
-UID:3be13609dc5d773c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:8b9f9ed98a002525@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261230T160000Z
 DTEND:20261230T170000Z
 SUMMARY:Drop-in New Year's Hat & Noisemaker Crafts
-LOCATION:Ann Arbor\, MI
+LOCATION:& Noisemaker Crafts
 DESCRIPTION:Drop-in New Year's Hat & Noisemaker Crafts Children of all age
  s and their families are invited to create hats and noisemakers to ring i
  n the New Year. For children of all ages and their families. No registrat
- ion required.\n\nAges: all ages\nCost: Not listed\nSignup: Drop in\, no s
- ignup needed\nListed by: Dexter District Library\nDetails: https://dexter
- .lib.mi.us/events/drop-in-new-years-hat-noisemaker-crafts-4/\nFound on: h
- ttps://kideventsinannarbor.com/?event=3be13609dc5d773c\n\nDouble check th
- e time with the organizer before you go.
+ ion required.\n\nWhere: & Noisemaker Crafts\nAges: all ages\nCost: Not li
+ sted\nSignup: Drop in\, no signup needed\nListed by: Dexter District Libr
+ ary\nDetails: https://dexter.lib.mi.us/events/drop-in-new-years-hat-noise
+ maker-crafts-4/\nFound on: https://kideventsinannarbor.com/?event=8b9f9ed
+ 98a002525\n\nDouble check the time with the organizer before you go.
 URL:https://dexter.lib.mi.us/events/drop-in-new-years-hat-noisemaker-craft
  s-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:1db154e0258a8bca@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261230T190000Z
 DTEND:20261230T200000Z
 SUMMARY:Clothespin Dragonflies
@@ -2411,50 +2325,53 @@ DESCRIPTION:Make your own little dragonflies to clip onto your houseplants
  nt=1db154e0258a8bca\n\nDouble check the time with the organizer before yo
  u go.
 URL:https://aadl.org/node/673517
-CATEGORIES:Crafts
+CATEGORIES:Crafts\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
-UID:6f33ed373a4d6636@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:2d746e60ef20d5a2@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20261230T190000Z
 DTEND:20261230T203000Z
 SUMMARY:Games and Snacks
-LOCATION:Ann Arbor\, MI
+LOCATION:Dexter District Library\, Dexter Michigan\, 3255 Alpine St\, Dext
+ er\, MI 48130
+GEO:42.3387;-83.8878
 DESCRIPTION:Grades 5 through 12 - Registration required\, see below. Pleas
  e enter grade in the comments field. Games and Snacks Wednesday\, Decembe
  r 30 from 2:00 - 3:30 pm Registration begins Tuesday\, December 1. Snacks
-  will be provided.\n\nCost: Free\nSignup: Registration required\, book be
- fore you go\nOutdoors\, dress for the weather\nListed by: Dexter District
-  Library\nDetails: https://dexter.lib.mi.us/events/games-and-snacks/\nFou
- nd on: https://kideventsinannarbor.com/?event=6f33ed373a4d6636\n\nDouble 
- check the time with the organizer before you go.
+  will be provided.\n\nWhere: 3255 Alpine St\, Dexter\, MI 48130\nCost: Fr
+ ee\nSignup: Registration required\, book before you go\nOutdoors\, dress 
+ for the weather\nListed by: Dexter District Library\nDetails: https://dex
+ ter.lib.mi.us/events/games-and-snacks/\nFound on: https://kideventsinanna
+ rbor.com/?event=2d746e60ef20d5a2\n\nDouble check the time with the organi
+ zer before you go.
 URL:https://dexter.lib.mi.us/events/games-and-snacks/
 END:VEVENT
 BEGIN:VEVENT
 UID:c337d74559186c7a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261230T230000Z
 DTEND:20261231T010000Z
 SUMMARY:Family Movie: Ratatouille (2007)
 LOCATION:Saline District Library\, 555 N. Maple Road\, Saline\, MI\, 48176
 GEO:42.1778571;-83.7753767
-DESCRIPTION:Drop in for a Family Movie! We will be watching Ratatouille (2
- 007\, G). Peanut-free snacks are welcome. Caregiver supervision is requir
- ed. Recommended ages 3-12. No registration required.\n\nWhere: 555 N. Map
- le Road\, Saline\, MI\, 48176\nDrive: about 18 minutes from downtown Ann 
- Arbor\nAges: Infant/Toddler\, Youth\, Teen\, Adult\, Senior\nCost: Free\n
- Signup: Drop in\, no signup needed\nIndoors\nListed by: Saline District L
- ibrary\nDetails: https://events.getlocalhop.com/family-movie-ratatouille-
- 2007/event/MQXAdJEX69/\nFound on: https://kideventsinannarbor.com/?event=
- c337d74559186c7a\n\nDouble check the time with the organizer before you g
- o.
+DESCRIPTION:Drop in for a Family Movie! We'll watch Ratatouille (2007\, G)
+ . The movie has a 1-hour-and-51-minute runtime. Peanut-free snacks are we
+ lcome. Caregiver supervision is required. Recommended ages 3-12. No regis
+ tration required.\n\nWhere: 555 N. Maple Road\, Saline\, MI\, 48176\nDriv
+ e: about 18 minutes from downtown Ann Arbor\nAges: Infant/Toddler\, Youth
+ \, Teen\, Adult\, Senior\nCost: Free\nSignup: Drop in\, no signup needed\
+ nIndoors\nListed by: Saline District Library\nDetails: https://events.get
+ localhop.com/family-movie-ratatouille-2007/event/MQXAdJEX69/\nFound on: h
+ ttps://kideventsinannarbor.com/?event=c337d74559186c7a\n\nDouble check th
+ e time with the organizer before you go.
 URL:https://events.getlocalhop.com/family-movie-ratatouille-2007/event/MQX
  AdJEX69/
 CATEGORIES:Family Friendly\,Free\,Library\,Movies/Film
 END:VEVENT
 BEGIN:VEVENT
 UID:735a3040099a59f5@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261230T230000Z
 DTEND:20261231T000000Z
 SUMMARY:Gem Art Bookmarks
@@ -2470,11 +2387,11 @@ DESCRIPTION:Join us to unwind and create gem art bookmarks. This is a perf
  1\nFound on: https://kideventsinannarbor.com/?event=735a3040099a59f5\n\nD
  ouble check the time with the organizer before you go.
 URL:https://aadl.org/node/676981
-CATEGORIES:Crafts
+CATEGORIES:Crafts\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:a0e18cc82e5e914b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20261231T050000Z
 DTEND:20270101T045900Z
 SUMMARY:Library Closed
@@ -2494,7 +2411,7 @@ CATEGORIES:Free\,Holiday\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:33e02a5b8a8280c4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270101T050000Z
 DTEND:20270102T045900Z
 SUMMARY:Library Closed
@@ -2514,7 +2431,7 @@ CATEGORIES:Free\,Holiday\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:4729c7576ef235b5@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270102T160000Z
 DTEND:20270102T170000Z
 SUMMARY:Drop-In Sticker Swap
@@ -2530,7 +2447,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-sticker-swap/
 END:VEVENT
 BEGIN:VEVENT
 UID:ff285b3ffc43ba23@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270103T170000Z
 DTEND:20270103T180000Z
 SUMMARY:Pony Bead 'Possum Keychains
@@ -2551,7 +2468,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:3ed6aa0750d48ab9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Hands-On Filmmaking Workshop with Caitlin Reid
@@ -2572,7 +2489,7 @@ CATEGORIES:Film & Video Events
 END:VEVENT
 BEGIN:VEVENT
 UID:944628636b8c8b05@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270103T190000Z
 DTEND:20270103T210000Z
 SUMMARY:Sew on the Go! | Handheld Sewing Machine Workshop
@@ -2592,7 +2509,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:48bd536f6f0080f1@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270104T213000Z
 DTEND:20270104T223000Z
 SUMMARY:Lego Club
@@ -2609,7 +2526,7 @@ URL:https://dexter.lib.mi.us/events/lego-club-36/
 END:VEVENT
 BEGIN:VEVENT
 UID:965120adb0065513@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270104T230000Z
 DTEND:20270105T003000Z
 SUMMARY:Sewing Lab | Sewing Basics
@@ -2629,7 +2546,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:117b6904873497d4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270104T233000Z
 DTEND:20270105T003000Z
 SUMMARY:Teen & Tween DIY Frames
@@ -2649,7 +2566,7 @@ CATEGORIES:Library\,Free\,Crafts\,Classes
 END:VEVENT
 BEGIN:VEVENT
 UID:cf5a706c836dd336@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270105T220000Z
 DTEND:20270106T000000Z
 SUMMARY:Letterpress Open Lab
@@ -2669,7 +2586,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:37b92d68b7a911a2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270105T230000Z
 DTEND:20270106T000000Z
 SUMMARY:Bookbinding: Petal Fold Book
@@ -2689,7 +2606,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:018e37efe8aefbab@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270105T230000Z
 DTEND:20270106T003000Z
 SUMMARY:Folk Song Jam Along
@@ -2710,7 +2627,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:217cd7c0d3eb22f5@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270106T160000Z
 DTEND:20270106T180000Z
 SUMMARY:Open Lab: Button Makers\, Silhouette Cutting Machines\, Die Cutter
@@ -2732,7 +2649,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:bc9463e05c6cba1d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270106T200000Z
 DTEND:20270106T210000Z
 SUMMARY:Open Art for Teens
@@ -2751,7 +2668,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:7d9a99d2df146261@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270106T223000Z
 DTEND:20270107T003000Z
 SUMMARY:Regency Ball
@@ -2770,7 +2687,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:fcf60f0328d0d52d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270106T230000Z
 DTEND:20270107T000000Z
 SUMMARY:From Ann Arbor to Antarctica
@@ -2789,7 +2706,7 @@ CATEGORIES:Lectures & Panel Discussions
 END:VEVENT
 BEGIN:VEVENT
 UID:b7ab4dedcc6f523f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270106T233000Z
 DTEND:20270107T003000Z
 SUMMARY:Chess Club
@@ -2806,7 +2723,7 @@ URL:https://dexter.lib.mi.us/events/chess-club-45/
 END:VEVENT
 BEGIN:VEVENT
 UID:7a3aa6c9bb71e67c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270107T230000Z
 DTEND:20270108T000000Z
 SUMMARY:Pharmacology for Everyone | Beyond the Headlines: The Science of G
@@ -2827,7 +2744,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:59fc9d1999972d22@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270107T233000Z
 DTEND:20270108T003000Z
 SUMMARY:Feisty Women Book Club: Best Offer Wins
@@ -2849,7 +2766,7 @@ CATEGORIES:Community Content
 END:VEVENT
 BEGIN:VEVENT
 UID:688d07ba194e8ba1@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270108T223000Z
 DTEND:20270109T003000Z
 SUMMARY:A Hygge Evening at the Library
@@ -2868,7 +2785,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:067901cac14e31ad@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270109T140000Z
 DTEND:20270109T170000Z
 SUMMARY:Time Travel Half-Marathon/5K/10K – Ann Arbor
@@ -2887,7 +2804,7 @@ CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
 UID:64b06ba31905992c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270109T160000Z
 DTEND:20270109T170000Z
 SUMMARY:Drop-in Winter Crafts
@@ -2903,7 +2820,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-winter-crafts-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:d06817becb1e935e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270109T180000Z
 DTEND:20270109T200000Z
 SUMMARY:Take A Hike with City of Ann Arbor Parks & Recreation and Shades o
@@ -2925,7 +2842,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:ad8b8ec47e9dac42@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270109T190000Z
 DTEND:20270109T203000Z
 SUMMARY:DJ Workshop
@@ -2944,7 +2861,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:6e449a2b16e691be@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270109T190000Z
 DTEND:20270109T210000Z
 SUMMARY:Letterpress Open Lab
@@ -2964,7 +2881,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:e582cf4bc50bb7b4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270109T220000Z
 DTEND:20270109T230000Z
 SUMMARY:AADL Welcomes | First Aid Skills Workshop
@@ -2984,7 +2901,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:e571c4b398eee89b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270110T200000Z
 DTEND:20270110T210000Z
 SUMMARY:Concert with Out Loud Chorus
@@ -3004,7 +2921,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:bd8053eede175f79@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270110T200000Z
 DTEND:20270110T213000Z
 SUMMARY:Tiny Fairy Cottages
@@ -3024,7 +2941,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:4d1c6cefa4a7f079@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270111T230000Z
 DTEND:20270112T003000Z
 SUMMARY:Introductory Home Plumbing | Toilets
@@ -3043,7 +2960,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:919874843119716f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270112T180000Z
 DTEND:20270112T200000Z
 SUMMARY:Introductory Woodcarving | Snow People
@@ -3064,7 +2981,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:19db26df19a6df6a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270112T190000Z
 DTEND:20270112T201500Z
 SUMMARY:Art History in the Afternoon: Theodore Gericault
@@ -3084,7 +3001,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:9757af640a3a508c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270112T230000Z
 DTEND:20270113T000000Z
 SUMMARY:Hand Lettering the Blackletter Alphabet
@@ -3105,7 +3022,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:34004f064af6f225@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270112T230000Z
 DTEND:20270113T003000Z
 SUMMARY:Handmade Felt Food: Pears
@@ -3126,7 +3043,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:493639d4d1ff9c4e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270113T200000Z
 DTEND:20270113T210000Z
 SUMMARY:Open Art for Teens
@@ -3145,7 +3062,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:02b5b8fef6286522@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270114T223000Z
 DTEND:20270115T003000Z
 SUMMARY:Open Lab: 3D Printers\, Laser Engraver\, 3D Pens\, Soldering Irons
@@ -3165,7 +3082,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:106687be7f67993a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270114T230000Z
 DTEND:20270115T000000Z
 SUMMARY:Needlework Variety
@@ -3186,7 +3103,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:57879a5ee380c77b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270115T050000Z
 DTEND:20270115T050000Z
 SUMMARY:End of Winter Reading Challenge
@@ -3203,7 +3120,7 @@ URL:https://dexter.lib.mi.us/events/end-of-winter-reading-challenge/
 END:VEVENT
 BEGIN:VEVENT
 UID:13a9f194ad5f9aa3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270115T223000Z
 DTEND:20270116T000000Z
 SUMMARY:Film Screening | Mock Trial
@@ -3224,7 +3141,7 @@ CATEGORIES:Film & Video Events
 END:VEVENT
 BEGIN:VEVENT
 UID:cdc3a0c71e5ea6bd@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270116T180000Z
 DTEND:20270116T200000Z
 SUMMARY:Bookbinding for Beginners
@@ -3244,7 +3161,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:6f061779e980ecf3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270116T210000Z
 DTEND:20270116T223000Z
 SUMMARY:K-Pop Party!
@@ -3265,7 +3182,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:bb03810d3ae0c065@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270117T170000Z
 DTEND:20270117T183000Z
 SUMMARY:Clay Chinese Dragon With Lyla Wang
@@ -3285,7 +3202,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:fef4b3dec33d0e2f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270117T170000Z
 DTEND:20270117T190000Z
 SUMMARY:Letterpress Open Lab
@@ -3305,7 +3222,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:20b6854db2169b7a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270118T180000Z
 DTEND:20270118T190000Z
 SUMMARY:Plastic Canvas Needlepoint Magnets
@@ -3326,7 +3243,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:1d18f437fcf6626d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270118T190000Z
 DTEND:20270118T203000Z
 SUMMARY:Book Bedazzling
@@ -3344,7 +3261,7 @@ URL:https://dexter.lib.mi.us/events/book-bedazzling/
 END:VEVENT
 BEGIN:VEVENT
 UID:a033944d6c22b18e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270118T230000Z
 DTEND:20270119T003000Z
 SUMMARY:Sewing Lab | Bias Binding in Garments
@@ -3364,7 +3281,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:a2a394f4d2af3926@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270119T220000Z
 DTEND:20270120T000000Z
 SUMMARY:Intro to 3D Printing
@@ -3384,7 +3301,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:425739d475d5223e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270119T223000Z
 DTEND:20270120T003000Z
 SUMMARY:Crochet Coasters: Mug of Cocoa
@@ -3405,7 +3322,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:0e12e51bc687e9b6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270119T230000Z
 DTEND:20270120T003000Z
 SUMMARY:80s Karaoke Night!
@@ -3425,7 +3342,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:2f27a42241a6aa03@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270120T200000Z
 DTEND:20270120T210000Z
 SUMMARY:Open Art for Teens
@@ -3444,7 +3361,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:b74732e428c1ad24@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270120T223000Z
 DTEND:20270121T003000Z
 SUMMARY:A Hygge Evening at the Library
@@ -3463,7 +3380,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:cd7b1fea2f6cf27d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270120T223000Z
 DTEND:20270121T003000Z
 SUMMARY:Riso Lab
@@ -3483,7 +3400,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:774bc5496a6cfb56@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270121T223000Z
 DTEND:20270122T003000Z
 SUMMARY:Open Lab: Sewing Machines\, Silhouette Cutters\, Heat Press
@@ -3503,7 +3420,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:b5439e599c89c979@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270121T230000Z
 DTEND:20270122T000000Z
 SUMMARY:Vintage Fridge Magnets: Detroit
@@ -3522,28 +3439,28 @@ URL:https://aadl.org/node/677345
 CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
-UID:4e89bb24bc023ae3@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+UID:39080f1c93ff0c20@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T153000Z
-DTEND:20270123T161500Z
-SUMMARY:Word Puzzlepalooza | Keynote with Tracy Bennett
-LOCATION:Downtown Library: 1st Floor Lobby\, 343 S Fifth Ave\, Ann Arbor\,
-  MI 48104
+DTEND:20270123T213000Z
+SUMMARY:Word Puzzlepalooza
+LOCATION:Downtown Library\, 343 S Fifth Ave\, Ann Arbor\, MI 48104
 GEO:42.2792;-83.7462
-DESCRIPTION:Kick off the day with a keynote address from Tracy Bennett\, o
- ne of the puzzlemakers at New York Times Games! This event is part of Wor
- d Puzzlepalooza. Visit aadl.org/wordpuzzlepalooza for more information.\n
- \nWhere: 343 S Fifth Ave\, Ann Arbor\, MI 48104\nCost: Free\nSignup: Drop
-  in\, no signup needed\nIndoors\nListed by: Ann Arbor District Library\nD
- etails: https://aadl.org/node/675912\nFound on: https://kideventsinannarb
- or.com/?event=4e89bb24bc023ae3\n\nDouble check the time with the organize
- r before you go.
-URL:https://aadl.org/node/675912
-CATEGORIES:Lectures & Panel Discussions\,Public Event
+DESCRIPTION:Whether you're a committed cruciverbalist or a Boggle dabbler\
+ , gather to play and connect with other word-loving enthusiasts at Word P
+ uzzlepalooza! Get tips for puzzle creation\, learn the ins-and-outs from 
+ experts\, and solve word puzzles and play word games in the Puzzletorium!
+ \n\nWhere: 343 S Fifth Ave\, Ann Arbor\, MI 48104\nCost: Free\nSignup: Dr
+ op in\, no signup needed\nIndoors\nListed by: Ann Arbor District Library\
+ nDetails: https://aadl.org/node/675918\nFound on: https://kideventsinanna
+ rbor.com/?event=39080f1c93ff0c20\n\nDouble check the time with the organi
+ zer before you go.
+URL:https://aadl.org/node/675918
+CATEGORIES:Public Event\,Lectures & Panel Discussions
 END:VEVENT
 BEGIN:VEVENT
 UID:0310e532fc182a8b@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T163000Z
 DTEND:20270123T173000Z
 SUMMARY:Word Puzzlepalooza | Crossword Construction 101
@@ -3563,7 +3480,7 @@ CATEGORIES:Lectures & Panel Discussions
 END:VEVENT
 BEGIN:VEVENT
 UID:cb7e4a6c0e7d45cb@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T163000Z
 DTEND:20270123T180000Z
 SUMMARY:Word Puzzlepalooza | Film Screening: The Palindromists
@@ -3582,7 +3499,7 @@ CATEGORIES:Film & Video Events
 END:VEVENT
 BEGIN:VEVENT
 UID:d016dc80c1b42f35@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T163000Z
 DTEND:20270123T173000Z
 SUMMARY:Word Puzzlepalooza | How to Make a Super Search
@@ -3601,7 +3518,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:ad9ce2217d853910@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T170000Z
 DTEND:20270123T213000Z
 SUMMARY:Word Puzzlepalooza | Puzzletorium
@@ -3622,7 +3539,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:b0a45a78cffd2d2e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T181500Z
 DTEND:20270123T191500Z
 SUMMARY:Word Puzzlepalooza | It's not JUST the Crossword: Other Word Puzzl
@@ -3643,8 +3560,27 @@ URL:https://aadl.org/node/675921
 CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
+UID:87527bbcd56c1c71@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20270123T190000Z
+DTEND:20270123T203000Z
+SUMMARY:Animals in Winter at Rolling Hills
+LOCATION:7660 Stony Creek Rd\, 7660 Stony Creek Rd\, Ypsilanti\, MI\, 4819
+ 7-6611
+GEO:42.1763099;-83.6509471
+DESCRIPTION:Learn how animals thrive in the winter as we explore forest an
+ d meadow. This family-friendly\, slow-paced stroll is perfect for curious
+  kids and adults. We will scan the trees\, listen for winter bird songs a
+ nd search for animal tracks and signs.\n\nWhere: 7660 Stony Creek Rd\, Yp
+ silanti\, MI\, 48197-6611\nDrive: about 20 minutes from downtown Ann Arbo
+ r\nAges: all ages\nCost: Not listed\nSignup: Drop in\, no signup needed\n
+ Outdoors\, dress for the weather\nListed by: Washtenaw County Parks\nFoun
+ d on: https://kideventsinannarbor.com/?event=87527bbcd56c1c71\n\nDouble c
+ heck the time with the organizer before you go.
+END:VEVENT
+BEGIN:VEVENT
 UID:2263eb373d3b8be6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270123T193000Z
 DTEND:20270123T203000Z
 SUMMARY:Word Puzzlepalooza | Crossword History with Natan Last
@@ -3665,7 +3601,7 @@ CATEGORIES:Lectures & Panel Discussions
 END:VEVENT
 BEGIN:VEVENT
 UID:de8ab34ac01ac1a2@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270124T190000Z
 DTEND:20270124T213000Z
 SUMMARY:Hand Painting Fabric with Botanical Dyes
@@ -3684,7 +3620,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:c765f4daadfa3a0a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270124T210000Z
 DTEND:20270124T220000Z
 SUMMARY:Black-Out Poetry
@@ -3704,7 +3640,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:e7fc763e47b4f701@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270125T233000Z
 DTEND:20270126T003000Z
 SUMMARY:One Year Time Capsule
@@ -3724,7 +3660,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:b14ea725bcc9275e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270126T223000Z
 DTEND:20270127T003000Z
 SUMMARY:Introductory Woodcarving | Snow People
@@ -3745,7 +3681,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:7b5552fb58b97d71@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270127T200000Z
 DTEND:20270127T210000Z
 SUMMARY:Open Art for Teens
@@ -3764,7 +3700,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:32a7e38e249cd1d8@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270127T223000Z
 DTEND:20270128T000000Z
 SUMMARY:Painted Playing Cards
@@ -3784,7 +3720,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:002eec96d858d9d9@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270127T230000Z
 DTEND:20270128T004500Z
 SUMMARY:AADL Welcomes | The Sierra Club
@@ -3804,7 +3740,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:c593e67d631fc831@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270127T230000Z
 DTEND:20270128T000000Z
 SUMMARY:Seasonal PLAY List with Rachael Renae
@@ -3823,7 +3759,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:ad480ccbcf9df49d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270127T233000Z
 DTEND:20270128T003000Z
 SUMMARY:Science Club: CheMYSTERY Lab
@@ -3846,7 +3782,7 @@ CATEGORIES:Educational\,STEAM\,Free\,Performer
 END:VEVENT
 BEGIN:VEVENT
 UID:f6d561c6f58007bc@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270128T220000Z
 DTEND:20270129T000000Z
 SUMMARY:Letterpress Open Lab
@@ -3866,7 +3802,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:3997a90dbc1b4c80@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270129T223000Z
 DTEND:20270130T003000Z
 SUMMARY:Let's Make Webcomics!
@@ -3886,7 +3822,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:694271bfc92c3a1d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270130T160000Z
 DTEND:20270130T180000Z
 SUMMARY:Groundhog Party
@@ -3907,7 +3843,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:45d25d5b5ea19715@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270130T180000Z
 DTEND:20270130T200000Z
 SUMMARY:90s Party!
@@ -3928,7 +3864,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:baf7e3d00e094930@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270130T180000Z
 DTEND:20270130T190000Z
 SUMMARY:Craft Stick Fairy Doors
@@ -3948,7 +3884,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:43c6abe0cdd40080@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270131T180000Z
 DTEND:20270131T190000Z
 SUMMARY:Iris Folded Valentines
@@ -3969,7 +3905,7 @@ CATEGORIES:Crafts
 END:VEVENT
 BEGIN:VEVENT
 UID:b42c1e614b3a5fad@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270131T180000Z
 DTEND:20270131T200000Z
 SUMMARY:Learn to Play: Magic The Gathering
@@ -3989,7 +3925,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:5e1bb5649c736a34@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:AADL Welcomes | Chinese New Year Celebration with Ann-Hua Chinese 
@@ -4010,7 +3946,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:08fc4171571b28c0@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270201T213000Z
 DTEND:20270201T223000Z
 SUMMARY:Lego Club
@@ -4027,7 +3963,7 @@ URL:https://dexter.lib.mi.us/events/lego-club-37/
 END:VEVENT
 BEGIN:VEVENT
 UID:f5806548400ba9dd@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270201T233000Z
 DTEND:20270202T003000Z
 SUMMARY:Teen & Tween No Sew Pillows
@@ -4048,7 +3984,7 @@ CATEGORIES:Library\,Free\,Crafts\,Classes
 END:VEVENT
 BEGIN:VEVENT
 UID:38d6b7913a6c7905@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270203T190000Z
 DTEND:20270203T201500Z
 SUMMARY:Significant Burials of Forest Hill Cemetery with Dale Carlson
@@ -4069,7 +4005,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:dacf419df148428a@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270203T200000Z
 DTEND:20270203T210000Z
 SUMMARY:Open Art for Teens
@@ -4088,7 +4024,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:0a0bfb76484459f4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270203T233000Z
 DTEND:20270204T003000Z
 SUMMARY:Chess Club
@@ -4105,7 +4041,7 @@ URL:https://dexter.lib.mi.us/events/chess-club-46/
 END:VEVENT
 BEGIN:VEVENT
 UID:43af1a5e3b00c2ea@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270210T200000Z
 DTEND:20270210T210000Z
 SUMMARY:Open Art for Teens
@@ -4124,7 +4060,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:b451b3d077335872@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270211T230000Z
 DTEND:20270212T000000Z
 SUMMARY:Drawn On The Way: The Story of Now Sketching Workshop
@@ -4143,7 +4079,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:515322a214fbcb95@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270212T162000Z
 DTEND:20270212T173000Z
 SUMMARY:1/2 Day Pizza Cafe for Teens
@@ -4164,7 +4100,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:090bb58bb5ecad29@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270213T160000Z
 DTEND:20270213T170000Z
 SUMMARY:Drop-in Valentine's Day Crafts
@@ -4180,7 +4116,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-valentines-day-crafts-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:cf720825c9912d45@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270213T233000Z
 DTEND:20270214T013000Z
 SUMMARY:Glowball Dance at Meri Lou Recreation Center
@@ -4195,8 +4131,151 @@ DESCRIPTION:Wear your neon for a night of music\, dancing\, games\, and cr
  720825c9912d45\n\nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:1530453d6b6b5cd0@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20270214T150000Z
+DTEND:20270214T210000Z
+SUMMARY:AAFAX | Ann Arbor Fiber Arts Expo
+LOCATION:Downtown Library: 1st Floor Lobby\, 343 S Fifth Ave\, Ann Arbor\,
+  MI 48104
+GEO:42.2792;-83.7462
+DESCRIPTION:Ann Arbor Fiber Arts Expo is a fiber-filled day full of demos\
+ , presentations\, and local vendors. Drop-in for a sampling of fiber arts
+  demos and hands-on activities. Vendors will be on hand selling accessori
+ es\, finished pieces\, yarn\, and all things fiber related!\n\nWhere: 343
+  S Fifth Ave\, Ann Arbor\, MI 48104\nCost: Free\nSignup: Drop in\, no sig
+ nup needed\nIndoors\nListed by: Ann Arbor District Library\nDetails: http
+ s://aadl.org/node/678205\nFound on: https://kideventsinannarbor.com/?even
+ t=1530453d6b6b5cd0\n\nDouble check the time with the organizer before you
+  go.
+URL:https://aadl.org/node/678205
+CATEGORIES:Public Event
+END:VEVENT
+BEGIN:VEVENT
+UID:30197040b58bb6c5@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20270214T153000Z
+DTEND:20270214T170000Z
+SUMMARY:AAFAX | Textiles of America
+LOCATION:Downtown Library: 4th Floor Program Room\, 343 S Fifth Ave\, Ann 
+ Arbor\, MI 48104
+GEO:42.2792;-83.7462
+DESCRIPTION:Textile specialist Joan Sheridan began collecting textiles at 
+ the age of 12 and has been going strong ever since. Her collection includ
+ es quilts\, needlework\, handwoven towels\, coverlets\, a carriage throw\
+ , and lace.\n\nWhere: 343 S Fifth Ave\, Ann Arbor\, MI 48104\nCost: Free\
+ nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Distri
+ ct Library\nDetails: https://aadl.org/node/677947\nFound on: https://kide
+ ventsinannarbor.com/?event=30197040b58bb6c5\n\nDouble check the time with
+  the organizer before you go.
+URL:https://aadl.org/node/677947
+CATEGORIES:Public Event
+END:VEVENT
+BEGIN:VEVENT
+UID:aa4bc3f0f39b76f9@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20270214T170000Z
+DTEND:20270214T200000Z
+SUMMARY:AAFAX | Drop-In Open Crafting
+LOCATION:Downtown Library: Secret Lab\, 343 S Fifth Ave\, Ann Arbor\, MI 4
+ 8104
+GEO:42.2792;-83.7462
+DESCRIPTION:Join us for drop-in crafting as we offer a sampling of fiber a
+ rts including jellyfish friendship bracelets\, simple needle books\, and 
+ felt hearts. This event is part of Ann Arbor Fiber Arts Expo. Visit aadl.
+ org/aafax for more information.\n\nWhere: 343 S Fifth Ave\, Ann Arbor\, M
+ I 48104\nAges: Grade K–Adult\nCost: Free\nSignup: Drop in\, no signup nee
+ ded\nIndoors\nListed by: Ann Arbor District Library\nDetails: https://aad
+ l.org/node/678206\nFound on: https://kideventsinannarbor.com/?event=aa4bc
+ 3f0f39b76f9\n\nDouble check the time with the organizer before you go.
+URL:https://aadl.org/node/678206
+CATEGORIES:Public Event
+END:VEVENT
+BEGIN:VEVENT
+UID:ded05d09281aa900@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20270214T170000Z
+DTEND:20270214T200000Z
+SUMMARY:AAFAX | Hands-On Demos
+LOCATION:Downtown Library: Lower Level Program Room\, 343 S Fifth Ave\, An
+ n Arbor\, MI 48104
+GEO:42.2792;-83.7462
+DESCRIPTION:Try your hand at spinning yarn\, weaving on our giant floor lo
+ om\, and other fiber arts. This event is part of Ann Arbor Fiber Arts Exp
+ o. Visit aadl.org/aafax for more information. Try your hand at spinning y
+ arn\, weaving on our giant floor loom\, and other fiber arts.\n\nWhere: 3
+ 43 S Fifth Ave\, Ann Arbor\, MI 48104\nAges: Grade K–Adult\nCost: Free\nS
+ ignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor District
+  Library\nDetails: https://aadl.org/node/678207\nFound on: https://kideve
+ ntsinannarbor.com/?event=ded05d09281aa900\n\nDouble check the time with t
+ he organizer before you go.
+URL:https://aadl.org/node/678207
+CATEGORIES:Public Event
+END:VEVENT
+BEGIN:VEVENT
+UID:60351bbb1166f27c@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20270214T173000Z
+DTEND:20270214T181500Z
+SUMMARY:AAFAX | All About Looms: Stone Age to Digital Age
+LOCATION:Downtown Library: 4th Floor Program Room\, 343 S Fifth Ave\, Ann 
+ Arbor\, MI 48104
+GEO:42.2792;-83.7462
+DESCRIPTION:Take a whirlwind trip exploring the history of the loom\, from
+  the earliest-known usage to the modern-day. Presented by Amanda Thatch\,
+  a textile\, book\, and paper artist\, who has taught at Penland\, John C
+ . Campbell Folk School\, and Haystack Mountain School.\n\nWhere: 343 S Fi
+ fth Ave\, Ann Arbor\, MI 48104\nCost: Free\nSignup: Drop in\, no signup n
+ eeded\nIndoors\nListed by: Ann Arbor District Library\nDetails: https://a
+ adl.org/node/678208\nFound on: https://kideventsinannarbor.com/?event=603
+ 51bbb1166f27c\n\nDouble check the time with the organizer before you go.
+URL:https://aadl.org/node/678208
+CATEGORIES:Public Event
+END:VEVENT
+BEGIN:VEVENT
+UID:718c7db4073e52e9@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20270214T184500Z
+DTEND:20270214T193000Z
+SUMMARY:AAFAX | Ways to Upcycle and Make Textiles Part of Your Everyday Li
+ fe
+LOCATION:Downtown Library: 4th Floor Program Room\, 343 S Fifth Ave\, Ann 
+ Arbor\, MI 48104
+GEO:42.2792;-83.7462
+DESCRIPTION:Join Sophia Adalaine\, the textile artist behind Taneko Says H
+ ello \, as she shares her journey through sewing\, minimizing her impact 
+ on what ends up in our landfill\, and making beloved textiles part of eve
+ ryday life.\n\nWhere: 343 S Fifth Ave\, Ann Arbor\, MI 48104\nCost: Free\
+ nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Distri
+ ct Library\nDetails: https://aadl.org/node/677948\nFound on: https://kide
+ ventsinannarbor.com/?event=718c7db4073e52e9\n\nDouble check the time with
+  the organizer before you go.
+URL:https://aadl.org/node/677948
+CATEGORIES:Public Event
+END:VEVENT
+BEGIN:VEVENT
+UID:5bf54d41292fbe78@kid-events-in-ann-arbor
+DTSTAMP:20261126T151420Z
+DTSTART:20270214T200000Z
+DTEND:20270214T210000Z
+SUMMARY:AAFAX | Reimagine with Gary Tyler
+LOCATION:Downtown Library: 4th Floor Program Room\, 343 S Fifth Ave\, Ann 
+ Arbor\, MI 48104
+GEO:42.2792;-83.7462
+DESCRIPTION:Framed as a teenager and convicted of murder by an all-white j
+ ury\, Gary Tyler spent more than four decades at Angola Prison. While the
+ re\, he became a volunteer in a new hospice program\, whose members chose
+  quilting as a way to raise funds.\n\nWhere: 343 S Fifth Ave\, Ann Arbor\
+ , MI 48104\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nList
+ ed by: Ann Arbor District Library\nDetails: https://aadl.org/node/678209\
+ nFound on: https://kideventsinannarbor.com/?event=5bf54d41292fbe78\n\nDou
+ ble check the time with the organizer before you go.
+URL:https://aadl.org/node/678209
+CATEGORIES:Public Event
+END:VEVENT
+BEGIN:VEVENT
 UID:4f6fd2dec1b3da1e@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270217T200000Z
 DTEND:20270217T210000Z
 SUMMARY:Open Art for Teens
@@ -4215,7 +4294,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:4745f28d8fde8258@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270220T180000Z
 DTEND:20270220T190000Z
 SUMMARY:Fabric\, Yarn\, and Notions Swap
@@ -4236,7 +4315,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:fcbd6e75981c7a87@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270224T200000Z
 DTEND:20270224T210000Z
 SUMMARY:Open Art for Teens
@@ -4255,7 +4334,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:68cf861d09a13a81@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270224T230000Z
 DTEND:20270225T003000Z
 SUMMARY:Introduction to Mahjong
@@ -4275,7 +4354,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:66b8d4af0c432670@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270224T233000Z
 DTEND:20270225T003000Z
 SUMMARY:Science Club: Crash Landing
@@ -4297,7 +4376,7 @@ CATEGORIES:Educational\,STEAM\,Free\,Performer
 END:VEVENT
 BEGIN:VEVENT
 UID:4cbab397224c249c@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270226T230000Z
 DTEND:20270227T003000Z
 SUMMARY:Introduction to Mahjong
@@ -4317,7 +4396,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:d2b11827326f4eef@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270301T213000Z
 DTEND:20270301T223000Z
 SUMMARY:Lego Club
@@ -4334,7 +4413,7 @@ URL:https://dexter.lib.mi.us/events/lego-club-38/
 END:VEVENT
 BEGIN:VEVENT
 UID:7408f1d688000f9f@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270302T190000Z
 DTEND:20270302T201500Z
 SUMMARY:Art History in the Afternoon: Titanic | Lost Treasures
@@ -4354,7 +4433,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:e1ecb25b291129e6@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270303T200000Z
 DTEND:20270303T210000Z
 SUMMARY:Open Art for Teens
@@ -4373,7 +4452,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:6c3c5af431c4f5b7@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270303T233000Z
 DTEND:20270304T003000Z
 SUMMARY:Chess Club
@@ -4390,7 +4469,7 @@ URL:https://dexter.lib.mi.us/events/chess-club-47/
 END:VEVENT
 BEGIN:VEVENT
 UID:3609aee08a830623@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270310T200000Z
 DTEND:20270310T210000Z
 SUMMARY:Open Art for Teens
@@ -4409,7 +4488,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:22799cc76c115a71@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270311T162000Z
 DTEND:20270311T171500Z
 SUMMARY:1/2 Day Pizza Cafe for Teens
@@ -4430,7 +4509,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:f7c62e614ed4f02d@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270312T162000Z
 DTEND:20270312T173000Z
 SUMMARY:1/2 Day Pizza Cafe for Teens
@@ -4451,7 +4530,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:74ccf905523a8bb4@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270317T190000Z
 DTEND:20270317T200000Z
 SUMMARY:Open Art for Teens
@@ -4470,7 +4549,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:67c93590d06d3d25@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270324T190000Z
 DTEND:20270324T200000Z
 SUMMARY:Open Art for Teens
@@ -4489,7 +4568,7 @@ CATEGORIES:Outdoor\,Library\,Free\,Crafts\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:030632e0689c5393@kid-events-in-ann-arbor
-DTSTAMP:20261125T152310Z
+DTSTAMP:20261126T151420Z
 DTSTART:20270324T223000Z
 DTEND:20270324T233000Z
 SUMMARY:Science Club: Planting for Pollinators
