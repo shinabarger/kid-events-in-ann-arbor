@@ -9,69 +9,8 @@ X-WR-TIMEZONE:America/Detroit
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:e083f2aaae0d7fbb@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
-DTSTART:20261126T050000Z
-DTEND:20261127T045900Z
-SUMMARY:Library Closed
-LOCATION:Saline District Library\, 555 N. Maple Road\, Saline\, MI\, 48176
-GEO:42.1778571;-83.7753767
-DESCRIPTION:The library will be closed today\, Thursday\, November 26\, fo
- r the Thanksgiving holiday.\n\nWhere: 555 N. Maple Road\, Saline\, MI\, 4
- 8176\nDrive: about 18 minutes from downtown Ann Arbor\nAges: Infant/Toddl
- er\, Youth\, Teen\, Adult\, Senior\nCost: Not listed\nSignup: Drop in\, n
- o signup needed\nIndoors\nListed by: Saline District Library\nDetails: ht
- tps://events.getlocalhop.com/library-closed/event/IzCIrAZ5Yr/\nFound on: 
- https://kideventsinannarbor.com/?event=e083f2aaae0d7fbb\n\nDouble check t
- he time with the organizer before you go.
-URL:https://events.getlocalhop.com/library-closed/event/IzCIrAZ5Yr/
-CATEGORIES:Free\,Library
-END:VEVENT
-BEGIN:VEVENT
-UID:b1fbbc4de1a83276@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
-DTSTART:20261126T131500Z
-DTEND:20261126T160000Z
-SUMMARY:Ann Arbor Turkey Trot: RF Events
-LOCATION:Lillie parkrun
-DESCRIPTION:All invited to run or walk 5K along a downtown route. Also\, a
-  1K “Tot Trot” for kids under age 10. Three deep awards in each age group
- . Hot chocolate and cookies at the finish line\, and appearances by Turke
- y Tom and Santa. Holiday-themed costumes encouraged.\n\nWhere: Lillie par
- krun\nCost: $42\nSignup: Drop in\, no signup needed\nIndoors\nListed by: 
- Ann Arbor Observer Kids Calendar\nDetails: https://annarborobserver.com/e
- vent/ann-arbor-turkey-trot-rf-events/\nFound on: https://kideventsinannar
- bor.com/?event=b1fbbc4de1a83276\n\nDouble check the time with the organiz
- er before you go.
-URL:https://annarborobserver.com/event/ann-arbor-turkey-trot-rf-events/
-CATEGORIES:Observer Editor
-END:VEVENT
-BEGIN:VEVENT
-UID:1deb24fbef087e47@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
-DTSTART:20261126T150000Z
-DTEND:20261127T030000Z
-SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
- November
-LOCATION:emagine\, 44425 West 12 Mile Road\, Novi\, MI\, 48376
-GEO:42.490874;-83.485767
-DESCRIPTION:Emagine Together Screenings Emagine Together screenings offer 
- a relaxed\, inclusive movie experience tailored for families\, children\,
-  and teens with sensory needs in addition to new parents looking for a st
- ress-free outing with their little ones.\n\nWhere: 44425 West 12 Mile Roa
- d\, Novi\, MI\, 48376\nDrive: about 39 minutes from downtown Ann Arbor\nA
- ges: Emagine's inclusive screening series offers sensory-friendly movies 
- with brighter lighting and lower sound for families with sensory needs\, 
- dementia-friendly showings for caregivers and loved ones\,\nCost: 8.5\nSi
- gnup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Family\nD
- etails: https://annarborfamily.com/Calendar/#!/event/20335500\nFound on: 
- https://kideventsinannarbor.com/?event=1deb24fbef087e47\n\nDouble check t
- he time with the organizer before you go.
-URL:https://annarborfamily.com/Calendar/#!/event/20335500
-END:VEVENT
-BEGIN:VEVENT
 UID:eb14d09393078b65@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261127T050000Z
 DTEND:20261128T045900Z
 SUMMARY:Library Closed
@@ -90,7 +29,7 @@ CATEGORIES:Free\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:3df5fd0639d4c99f@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261127T150000Z
 DTEND:20261128T030000Z
 SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
@@ -113,7 +52,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20335500
 END:VEVENT
 BEGIN:VEVENT
 UID:0fc8c1b0543b48de@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261127T150000Z
 DTEND:20261127T180000Z
 SUMMARY:Toddler Time at Launch
@@ -135,7 +74,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20053535
 END:VEVENT
 BEGIN:VEVENT
 UID:52639115d9b58c84@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261127T153000Z
 DTEND:20261127T163000Z
 SUMMARY:Baby Playgroups
@@ -155,7 +94,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:181d3e7058e1eaed@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261127T153000Z
 DTEND:20261127T230000Z
 SUMMARY:Toddler Turkey Trot
@@ -167,7 +106,7 @@ DESCRIPTION:Where: Hide and Seek Play Cafe\, Ann Arbor Michigan\nCost: Not
 END:VEVENT
 BEGIN:VEVENT
 UID:9c19ae3cadd3d990@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261127T160000Z
 DTEND:20261127T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -180,7 +119,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:a14ed2cf85b1fb66@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261127T180000Z
 DTEND:20261127T210000Z
 SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
@@ -200,7 +139,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e04b9e775b323b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T050000Z
 DTEND:20261128T050000Z
 SUMMARY:Shop Small Crawl
@@ -220,7 +159,7 @@ CATEGORIES:Family Fun\, Shopping\, Holiday\, One-Time Event
 END:VEVENT
 BEGIN:VEVENT
 UID:88534100e86b8544@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T140000Z
 DTEND:20261128T160000Z
 SUMMARY:PREGNANT & NEW Mamas & BABIES
@@ -237,7 +176,7 @@ URL:https://www.zeffy.com/en-US/ticketing/mamas-and-babies-playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:77b49f88eeacaa0b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T140000Z
 DTEND:20261128T160000Z
 SUMMARY:Thanksgiving Dog Parade (Family Friendly!)
@@ -260,7 +199,7 @@ CATEGORIES:Family Fun\, One-Time Event
 END:VEVENT
 BEGIN:VEVENT
 UID:6fa5d7dff04ccd50@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T140000Z
 DTEND:20261128T150000Z
 SUMMARY:Toddler Time at Launch
@@ -282,7 +221,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20053535
 END:VEVENT
 BEGIN:VEVENT
 UID:5f3940ed891c3314@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T150000Z
 DTEND:20261129T030000Z
 SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
@@ -305,7 +244,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20335500
 END:VEVENT
 BEGIN:VEVENT
 UID:bce4eb2db1ade1de@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:Ypsi Artisans Holiday Markets
@@ -328,7 +267,7 @@ CATEGORIES:Observer Editor\,Shopping\, Holiday\, One-Time Event
 END:VEVENT
 BEGIN:VEVENT
 UID:f27787e944f0285e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T153000Z
 DTEND:20261128T200000Z
 SUMMARY:Snacks with Santa
@@ -350,7 +289,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20379050
 END:VEVENT
 BEGIN:VEVENT
 UID:f4f93c9d13df5e80@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:Critters Up Close
@@ -371,7 +310,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:cbcbc53ba612577f@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
@@ -391,7 +330,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:204c3e4a85d6f0b5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T190000Z
 DTEND:20261128T200000Z
 SUMMARY:“Myth-Understood”: Ann Arbor Civic Theatre Junior Theatre
@@ -411,7 +350,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:756f99ed35fe5259@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261128T220000Z
 DTEND:20261128T220000Z
 SUMMARY:Smeet Fest is happening this Saturday (11/28) from 3–5pm at our do
@@ -429,7 +368,7 @@ URL:https://bsky.app/profile/ypsilibrary.org/post/3n2wvhkww2h2y
 END:VEVENT
 BEGIN:VEVENT
 UID:a89d38f7e6c49403@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261129T150000Z
 DTEND:20261130T030000Z
 SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
@@ -452,7 +391,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20335500
 END:VEVENT
 BEGIN:VEVENT
 UID:90f4d0f4f472bc17@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
 SUMMARY:Visit with Santa\, Mrs. Claus & The Grinch!
@@ -474,7 +413,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20252471
 END:VEVENT
 BEGIN:VEVENT
 UID:c5912d190a2f37a0@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
 SUMMARY:Ypsi Artisans Holiday Markets
@@ -497,7 +436,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:608f8ebb79cd52b5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261129T154500Z
 DTEND:20261129T180000Z
 SUMMARY:Elemental Ecstatic Dance
@@ -516,7 +455,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:1492e5fc367958be@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261129T160000Z
 DTEND:20261129T163000Z
 SUMMARY:Spanish Storytime
@@ -536,7 +475,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:106afdec725b3dd4@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261129T160000Z
 DTEND:20261129T160000Z
 SUMMARY:Warner Bros Cartoon Shorts
@@ -557,7 +496,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20027236
 END:VEVENT
 BEGIN:VEVENT
 UID:3319e50c147f819d@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261129T170000Z
 DTEND:20261129T200000Z
 SUMMARY:Critters Up Close
@@ -578,7 +517,7 @@ CATEGORIES:Observer pick
 END:VEVENT
 BEGIN:VEVENT
 UID:929c68a4b9c29c54@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
 SUMMARY:Gemily: the Ark
@@ -596,7 +535,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:18afb4818dec09df@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
@@ -616,7 +555,7 @@ CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:f25947d1e1e83b50@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261129T190000Z
 DTEND:20261129T200000Z
 SUMMARY:“Myth-Understood”: Ann Arbor Civic Theatre Junior Theatre
@@ -636,7 +575,7 @@ CATEGORIES:Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:eb1bd0a822ff0aec@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261130T150000Z
 DTEND:20261201T030000Z
 SUMMARY:Emagine for Everyone Returns with Inclusive Movie Screenings This 
@@ -659,7 +598,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20335500
 END:VEVENT
 BEGIN:VEVENT
 UID:2b84dc955e77708e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261130T153000Z
 DTEND:20261130T163000Z
 SUMMARY:Baby Playgroups
@@ -680,7 +619,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:31d6f4d0d7efd87a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261130T153000Z
 DTEND:20261130T160000Z
 SUMMARY:Book Babies Storytime
@@ -701,7 +640,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:1ecc870d395f139b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261130T160000Z
 DTEND:20261130T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -714,7 +653,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:ca3c1f7b9131d0f2@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261201T143000Z
 DTEND:20261201T150000Z
 SUMMARY:Book Babies Storytime
@@ -735,7 +674,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:4be15a3275a95137@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261201T143000Z
 DTEND:20261201T170000Z
 SUMMARY:Toddler Tuesdays $3 off kids 5 and under
@@ -757,7 +696,7 @@ URL:https://annarborfamily.com/Calendar/#!/event/20226822
 END:VEVENT
 BEGIN:VEVENT
 UID:751b906eaf0d3603@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261201T160000Z
 DTEND:20261201T170000Z
 SUMMARY:Baby Playgroups
@@ -778,7 +717,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:d9a0497eec5377fd@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261201T160000Z
 DTEND:20261201T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -791,7 +730,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:166a00ac2a8ebbb3@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261201T190000Z
 DTEND:20261201T210000Z
 SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
@@ -810,8 +749,29 @@ URL:https://annarborobserver.com/event/come-as-you-are-memory-cafe-dementi
 CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
+UID:7bdf02502b7d0f94@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261202T000000Z
+DTEND:20261202T023000Z
+SUMMARY:Tuesday English Country Dance: Ann Arbor Community of Traditional 
+ Music and Dance
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Tues.\, except Dec. 29. Historical and traditional Engli
+ sh dancing to live music. All dances taught and prompted\; no complicated
+  steps\, and no partner or experience needed. Bring clean\, flat\, nonsli
+ p shoes. First-timers asked to arrive at 6:45 p.m. On Dec.\n\nCost: $10\n
+ Signup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Ca
+ lendar\nDetails: https://annarborobserver.com/event/tuesday-english-count
+ ry-dance-ann-arbor-community-of-traditional-music-and-dance-12/2026-12-01
+ /\nFound on: https://kideventsinannarbor.com/?event=7bdf02502b7d0f94\n\nD
+ ouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/tuesday-english-country-dance-ann-a
+ rbor-community-of-traditional-music-and-dance-12/2026-12-01/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:af715b5f7b015085@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261202T143000Z
 DTEND:20261202T153000Z
 SUMMARY:Preschool Pals Storytime
@@ -833,7 +793,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:84dafa1e3f758686@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261202T153000Z
 DTEND:20261202T163000Z
 SUMMARY:Baby Playgroups
@@ -854,7 +814,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:88e84354916fd8f7@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261202T160000Z
 DTEND:20261202T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -867,7 +827,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:62ee2e24a6312fdc@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261202T230000Z
 DTEND:20261203T003000Z
 SUMMARY:Folk Song Jam Along
@@ -884,11 +844,11 @@ DESCRIPTION:Come sing and play! Get more music in your life and join us fo
  nannarbor.com/?event=62ee2e24a6312fdc\n\nDouble check the time with the o
  rganizer before you go.
 URL:https://aadl.org/node/647046
-CATEGORIES:Public Event
+CATEGORIES:Public Event\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:366aa87675110807@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261203T143000Z
 DTEND:20261203T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -911,7 +871,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:33c424dfef24d23e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261203T153000Z
 DTEND:20261203T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -933,7 +893,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:9f86adf8b23c6080@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261203T160000Z
 DTEND:20261203T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -946,7 +906,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:85edc7f5961a19c9@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261203T233000Z
 DTEND:20261204T000000Z
 SUMMARY:Family Fun Storytime
@@ -965,8 +925,28 @@ URL:https://events.getlocalhop.com/family-fun-storytime/event/MtoGAMYwBX/
 CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
+UID:025de8d44dca8b4b@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Words & Music Open Mic: Interfaith Center for Spiritual Growth
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 3 & 17. All musicians invited to play a 1- to 3-song set 
+ or share a story. Material should be family-friendly. Hosted by local sin
+ ger-songwriter Don Digirolamo. Sign up on arrival. 7–9 p.m. (doors\, 6:30
+  p.m.)\, 704 Airport Blvd.\, ste. 1. $5 suggested donation.\n\nAges: all 
+ ages\nCost: $5\nSignup: Registration required\, book before you go\nListe
+ d by: Ann Arbor Observer Kids Calendar\nDetails: https://annarborobserver
+ .com/event/words-music-open-mic-interfaith-center-for-spiritual-growth/20
+ 26-12-03/\nFound on: https://kideventsinannarbor.com/?event=025de8d44dca8
+ b4b\n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/words-music-open-mic-interfaith-cen
+ ter-for-spiritual-growth/2026-12-03/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:dd4275e2c4792fc6@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261204T150000Z
 DTEND:20261204T170000Z
 SUMMARY:Toddler Time
@@ -979,7 +959,7 @@ DESCRIPTION:Where: 3765 Plaza Dr\, Ann Arbor\, MI 48108\nCost: Not listed\
 END:VEVENT
 BEGIN:VEVENT
 UID:61708fbb84e1540a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261204T153000Z
 DTEND:20261204T163000Z
 SUMMARY:Baby Playgroups
@@ -999,7 +979,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:88c9eb29ff161b34@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261204T153000Z
 DTEND:20261204T160000Z
 SUMMARY:Family Fun Storytime
@@ -1020,7 +1000,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:97d833c6e083e109@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261204T160000Z
 DTEND:20261204T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1032,8 +1012,148 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
  re you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:ef573929d9300e02@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261204T180000Z
+DTEND:20261204T210000Z
+SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
+LOCATION:1105 N University Ave\, Ann Arbor\, MI 48109
+GEO:42.2786;-83.7345
+DESCRIPTION:Every Fri.–Sun. Three different audiovisual planetarium shows 
+ suitable for all ages. Did an Asteroid Really Kill the Dinosaurs?\n\nWher
+ e: 1105 N University Ave\, Ann Arbor\, MI 48109\nAges: all ages\nCost: $9
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/u-m-museum
+ -of-natural-history-planetarium-dome-theater-30/2026-12-04/\nFound on: ht
+ tps://kideventsinannarbor.com/?event=ef573929d9300e02\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborobserver.com/event/u-m-museum-of-natural-history-plane
+ tarium-dome-theater-30/2026-12-04/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:117f7d588f3d033d@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261204T195000Z
+DTEND:20261205T000000Z
+SUMMARY:“30th Annual Dr. Porter Synchronized Skating Classic”: Ann Arbor F
+ igure Skating Club
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6. This synchronized skating competition\, named in hon
+ or of the man who created the sport 75 years ago\, features over 150 team
+ s of all levels from across the US.\n\nCost: $18\nSignup: Drop in\, no si
+ gnup needed\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https:
+ //annarborobserver.com/event/30th-annual-dr-porter-synchronized-skating-c
+ lassic-ann-arbor-figure-skating-club/2026-12-04/\nFound on: https://kidev
+ entsinannarbor.com/?event=117f7d588f3d033d\n\nDouble check the time with 
+ the organizer before you go.
+URL:https://annarborobserver.com/event/30th-annual-dr-porter-synchronized-
+ skating-classic-ann-arbor-figure-skating-club/2026-12-04/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:779da6a33e6c961e@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261204T220000Z
+DTEND:20261205T030000Z
+SUMMARY:“Starry Night Light-up Planet”: Ann Arbor Art Center
+LOCATION:117 W Liberty St\, Ann Arbor\, MI 48104
+GEO:42.2799;-83.7498
+DESCRIPTION:All invited to drop in to design and decorate a light-up plane
+ t to light the way through the downtown Midnight Madness streets\, and th
+ en to bring home. Supplies provided while they last. Kids under age 12 mu
+ st be accompanied by an adult. 5–10 p.m.\, 117 W. Liberty. Free.\n\nWhere
+ : 117 W Liberty St\, Ann Arbor\, MI 48104\nCost: Free\nSignup: Drop in\, 
+ no signup needed\nIndoors\nListed by: Ann Arbor Observer Kids Calendar\nD
+ etails: https://annarborobserver.com/event/starry-night-light-up-planet-a
+ nn-arbor-art-center/\nFound on: https://kideventsinannarbor.com/?event=77
+ 9da6a33e6c961e\n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/starry-night-light-up-planet-ann-ar
+ bor-art-center/
+CATEGORIES:Free\,Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:d39b98a82c9b1f41@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261204T230000Z
+DTEND:20261205T000000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-04/1/\nFound on: https://k
+ ideventsinannarbor.com/?event=d39b98a82c9b1f41\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-04/1/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:c90b822879acb25b@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:“The Nutcracker: Clara’s Dream”: Randazzo Dance Company
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4 & 5. This local company of dancers of all ages performs
+  a family-friendly production of Tchaikovsky’s Christmas ballet set in ea
+ rly 20th-century America. Features live music with local composer Eric Ba
+ nnitt’s jazz-inspired arrangements of the “Party” and “Fight” scenes.\n\n
+ Ages: all ages\nCost: $30\nSignup: Drop in\, no signup needed\nIndoors\nL
+ isted by: Ann Arbor Observer Kids Calendar\nDetails: https://annarborobse
+ rver.com/event/the-nutcracker-claras-dream-randazzo-dance-company/2026-12
+ -04/\nFound on: https://kideventsinannarbor.com/?event=c90b822879acb25b\n
+ \nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/the-nutcracker-claras-dream-randazz
+ o-dance-company/2026-12-04/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:8b6b16c56dc37879@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-04/\nFound 
+ on: https://kideventsinannarbor.com/?event=8b6b16c56dc37879\n\nDouble che
+ ck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-04/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:d39b98a82c9b1f41@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261205T010000Z
+DTEND:20261205T020000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-04/2/\nFound on: https://k
+ ideventsinannarbor.com/?event=d39b98a82c9b1f41\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-04/2/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:19c44143a1f307ec@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261205T140000Z
 DTEND:20261205T160000Z
 SUMMARY:DADaS & Littles
@@ -1052,7 +1172,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:9ea18e353d9b0fa2@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261205T140000Z
 DTEND:20261205T150000Z
 SUMMARY:Toddler Time
@@ -1064,8 +1184,28 @@ DESCRIPTION:Where: 3765 Plaza Dr\, Ann Arbor\, MI 48108\nCost: Not listed\
  nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:a48c9f781da49611@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261205T140000Z
+DTEND:20261205T230000Z
+SUMMARY:“30th Annual Dr. Porter Synchronized Skating Classic”: Ann Arbor F
+ igure Skating Club
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6. This synchronized skating competition\, named in hon
+ or of the man who created the sport 75 years ago\, features over 150 team
+ s of all levels from across the US.\n\nCost: $18\nSignup: Drop in\, no si
+ gnup needed\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https:
+ //annarborobserver.com/event/30th-annual-dr-porter-synchronized-skating-c
+ lassic-ann-arbor-figure-skating-club/2026-12-05/\nFound on: https://kidev
+ entsinannarbor.com/?event=a48c9f781da49611\n\nDouble check the time with 
+ the organizer before you go.
+URL:https://annarborobserver.com/event/30th-annual-dr-porter-synchronized-
+ skating-classic-ann-arbor-figure-skating-club/2026-12-05/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:a53591ec9b65105a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261205T160000Z
 DTEND:20261205T163000Z
 SUMMARY:French Storytime
@@ -1085,8 +1225,187 @@ URL:https://aadl.org/node/673390
 CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
+UID:30f14e618aace2ac@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261205T170000Z
+DTEND:20261205T180000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-05/1/\nFound on: https://k
+ ideventsinannarbor.com/?event=30f14e618aace2ac\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-05/1/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb7396eb7885ef5@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261205T180000Z
+DTEND:20261205T210000Z
+SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
+LOCATION:1105 N University Ave\, Ann Arbor\, MI 48109
+GEO:42.2786;-83.7345
+DESCRIPTION:Every Fri.–Sun. Three different audiovisual planetarium shows 
+ suitable for all ages. Did an Asteroid Really Kill the Dinosaurs?\n\nWher
+ e: 1105 N University Ave\, Ann Arbor\, MI 48109\nAges: all ages\nCost: $9
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/u-m-museum
+ -of-natural-history-planetarium-dome-theater-30/2026-12-05/\nFound on: ht
+ tps://kideventsinannarbor.com/?event=5cb7396eb7885ef5\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborobserver.com/event/u-m-museum-of-natural-history-plane
+ tarium-dome-theater-30/2026-12-05/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:30f14e618aace2ac@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261205T190000Z
+DTEND:20261205T200000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-05/2/\nFound on: https://k
+ ideventsinannarbor.com/?event=30f14e618aace2ac\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-05/2/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:074111520461f40a@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261205T200000Z
+DTEND:20261205T220000Z
+SUMMARY:“The Nutcracker: Clara’s Dream”: Randazzo Dance Company
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4 & 5. This local company of dancers of all ages performs
+  a family-friendly production of Tchaikovsky’s Christmas ballet set in ea
+ rly 20th-century America. Features live music with local composer Eric Ba
+ nnitt’s jazz-inspired arrangements of the “Party” and “Fight” scenes.\n\n
+ Ages: all ages\nCost: $30\nSignup: Drop in\, no signup needed\nIndoors\nL
+ isted by: Ann Arbor Observer Kids Calendar\nDetails: https://annarborobse
+ rver.com/event/the-nutcracker-claras-dream-randazzo-dance-company/2026-12
+ -05/1/\nFound on: https://kideventsinannarbor.com/?event=074111520461f40a
+ \n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/the-nutcracker-claras-dream-randazz
+ o-dance-company/2026-12-05/1/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:30f14e618aace2ac@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261205T230000Z
+DTEND:20261206T000000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-05/4/\nFound on: https://k
+ ideventsinannarbor.com/?event=30f14e618aace2ac\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-05/4/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:a90518c5287655aa@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-05/\nFound 
+ on: https://kideventsinannarbor.com/?event=a90518c5287655aa\n\nDouble che
+ ck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-05/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:074111520461f40a@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:“The Nutcracker: Clara’s Dream”: Randazzo Dance Company
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4 & 5. This local company of dancers of all ages performs
+  a family-friendly production of Tchaikovsky’s Christmas ballet set in ea
+ rly 20th-century America. Features live music with local composer Eric Ba
+ nnitt’s jazz-inspired arrangements of the “Party” and “Fight” scenes.\n\n
+ Ages: all ages\nCost: $30\nSignup: Drop in\, no signup needed\nIndoors\nL
+ isted by: Ann Arbor Observer Kids Calendar\nDetails: https://annarborobse
+ rver.com/event/the-nutcracker-claras-dream-randazzo-dance-company/2026-12
+ -05/2/\nFound on: https://kideventsinannarbor.com/?event=074111520461f40a
+ \n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/the-nutcracker-claras-dream-randazz
+ o-dance-company/2026-12-05/2/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:30f14e618aace2ac@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261206T010000Z
+DTEND:20261206T020000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-05/3/\nFound on: https://k
+ ideventsinannarbor.com/?event=30f14e618aace2ac\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-05/3/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:0938b9aa4bdd6df3@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261206T133000Z
+DTEND:20261206T203000Z
+SUMMARY:“30th Annual Dr. Porter Synchronized Skating Classic”: Ann Arbor F
+ igure Skating Club
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6. This synchronized skating competition\, named in hon
+ or of the man who created the sport 75 years ago\, features over 150 team
+ s of all levels from across the US.\n\nCost: $18\nSignup: Drop in\, no si
+ gnup needed\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https:
+ //annarborobserver.com/event/30th-annual-dr-porter-synchronized-skating-c
+ lassic-ann-arbor-figure-skating-club/2026-12-06/\nFound on: https://kidev
+ entsinannarbor.com/?event=0938b9aa4bdd6df3\n\nDouble check the time with 
+ the organizer before you go.
+URL:https://annarborobserver.com/event/30th-annual-dr-porter-synchronized-
+ skating-classic-ann-arbor-figure-skating-club/2026-12-06/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:f3b93f561f6af748@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261206T150000Z
 DTEND:20261206T154500Z
 SUMMARY:Dancing Babies with Robin Robinson
@@ -1106,8 +1425,27 @@ URL:https://aadl.org/node/673280
 CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
+UID:f4b00286000e7298@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261206T154500Z
+DTEND:20261206T180000Z
+SUMMARY:Elemental Ecstatic Dance
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Sun. Dancers of all ages and abilities invited for free-
+ form dancing to a variety of recorded music\, from EDM to classical and a
+ mbient to world music. Wear loose clothes\, barefoot or stocking feet. 10
+ :45 a.m.–1 p.m.\, A2 Yoga\, 2030 Commerce.\n\nAges: all ages\nCost: $20\n
+ Signup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Ca
+ lendar\nDetails: https://annarborobserver.com/event/elemental-ecstatic-da
+ nce-12/2026-12-06/\nFound on: https://kideventsinannarbor.com/?event=f4b0
+ 0286000e7298\n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/elemental-ecstatic-dance-12/2026-12
+ -06/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:1f47c3bd2b0a8825@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261206T160000Z
 DTEND:20261206T163000Z
 SUMMARY:Spanish Storytime
@@ -1126,8 +1464,106 @@ URL:https://aadl.org/node/676698
 CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
+UID:1b76f41a003933eb@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261206T170000Z
+DTEND:20261206T180000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-06/1/\nFound on: https://k
+ ideventsinannarbor.com/?event=1b76f41a003933eb\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-06/1/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:33bd8693ed97ff3b@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
+LOCATION:1105 N University Ave\, Ann Arbor\, MI 48109
+GEO:42.2786;-83.7345
+DESCRIPTION:Every Fri.–Sun. Three different audiovisual planetarium shows 
+ suitable for all ages. Did an Asteroid Really Kill the Dinosaurs?\n\nWher
+ e: 1105 N University Ave\, Ann Arbor\, MI 48109\nAges: all ages\nCost: $9
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/u-m-museum
+ -of-natural-history-planetarium-dome-theater-30/2026-12-06/\nFound on: ht
+ tps://kideventsinannarbor.com/?event=33bd8693ed97ff3b\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborobserver.com/event/u-m-museum-of-natural-history-plane
+ tarium-dome-theater-30/2026-12-06/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:1b76f41a003933eb@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261206T190000Z
+DTEND:20261206T200000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-06/2/\nFound on: https://k
+ ideventsinannarbor.com/?event=1b76f41a003933eb\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-06/2/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:d7740810c8c0e509@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-06/\nFound 
+ on: https://kideventsinannarbor.com/?event=d7740810c8c0e509\n\nDouble che
+ ck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-06/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:7f28b9d49ffea2fc@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261206T210000Z
+DTEND:20261206T223000Z
+SUMMARY:“A Cozy Christmas with Classical Bells”: Zion Lutheran Church
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Family-friendly performance by this acclaimed Detroit-area han
+ dbell ensemble known for their interpretive flair\, technical skill\, inf
+ ormal choreography\, and a dash of humor.\n\nAges: all ages\nCost: $20\nS
+ ignup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Cal
+ endar\nDetails: https://annarborobserver.com/event/a-cozy-christmas-with-
+ classical-bells-zion-lutheran-church/\nFound on: https://kideventsinannar
+ bor.com/?event=7f28b9d49ffea2fc\n\nDouble check the time with the organiz
+ er before you go.
+URL:https://annarborobserver.com/event/a-cozy-christmas-with-classical-bel
+ ls-zion-lutheran-church/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:d9aa6cb5d2562136@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261207T153000Z
 DTEND:20261207T163000Z
 SUMMARY:Baby Playgroups
@@ -1148,7 +1584,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:4775f92008194313@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261207T153000Z
 DTEND:20261207T160000Z
 SUMMARY:Book Babies Storytime
@@ -1169,7 +1605,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:eb8e4e7a3cb1cad3@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261207T160000Z
 DTEND:20261207T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1182,7 +1618,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:a110d7512757b2ed@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261208T143000Z
 DTEND:20261208T150000Z
 SUMMARY:Book Babies Storytime
@@ -1203,7 +1639,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:71392b61caff09a9@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261208T160000Z
 DTEND:20261208T170000Z
 SUMMARY:Baby Playgroups
@@ -1224,7 +1660,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:969882b1acb2f496@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261208T160000Z
 DTEND:20261208T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1236,8 +1672,29 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
  re you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:f8959d4b9c181447@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261209T000000Z
+DTEND:20261209T023000Z
+SUMMARY:Tuesday English Country Dance: Ann Arbor Community of Traditional 
+ Music and Dance
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Tues.\, except Dec. 29. Historical and traditional Engli
+ sh dancing to live music. All dances taught and prompted\; no complicated
+  steps\, and no partner or experience needed. Bring clean\, flat\, nonsli
+ p shoes. First-timers asked to arrive at 6:45 p.m. On Dec.\n\nCost: $10\n
+ Signup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Ca
+ lendar\nDetails: https://annarborobserver.com/event/tuesday-english-count
+ ry-dance-ann-arbor-community-of-traditional-music-and-dance-12/2026-12-08
+ /\nFound on: https://kideventsinannarbor.com/?event=f8959d4b9c181447\n\nD
+ ouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/tuesday-english-country-dance-ann-a
+ rbor-community-of-traditional-music-and-dance-12/2026-12-08/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:3b16db9452f8ee50@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261209T130000Z
 DTEND:20261209T220000Z
 SUMMARY:Planet Fitness Toy Drive
@@ -1255,7 +1712,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:2255cbfd9e20cf51@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261209T143000Z
 DTEND:20261209T153000Z
 SUMMARY:Preschool Pals Storytime
@@ -1277,7 +1734,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:ee9f40336ebebfd1@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261209T153000Z
 DTEND:20261209T163000Z
 SUMMARY:Baby Playgroups
@@ -1297,7 +1754,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:3bfc4595379c68d6@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261209T160000Z
 DTEND:20261209T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1310,7 +1767,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:5fe51738499e56ad@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261210T143000Z
 DTEND:20261210T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -1333,7 +1790,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:84de7e369b6cb6c9@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261210T153000Z
 DTEND:20261210T163000Z
 SUMMARY:Korean Storytime
@@ -1354,7 +1811,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:264a19bf44a56df5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261210T153000Z
 DTEND:20261210T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -1376,7 +1833,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:c6c90d589d530843@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261210T160000Z
 DTEND:20261210T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1388,8 +1845,47 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
  re you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:036150417d21b716@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261210T230000Z
+DTEND:20261211T020000Z
+SUMMARY:Holiday Ukulele Night: Tree Town Ukes & Chelsea Party Loft
+LOCATION:Chelsea Party Loft\, Chelsea Michigan\, Chelsea\, MI
+DESCRIPTION:All invited for an evening of holiday music. Includes a strum-
+ along\, a beginner lesson\, an open mic\, and a ukulele-related swap meet
+ . 6–9 p.m.\, 1115 S. Main\, Chelsea. $5 suggested admission (kids under 1
+ 2 free). (734) 562–2022.\n\nWhere: Chelsea Party Loft\, Chelsea Michigan\
+ nCost: $5\nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Ar
+ bor Observer Kids Calendar\nDetails: https://annarborobserver.com/event/h
+ oliday-ukulele-night-tree-town-ukes-chelsea-party-loft/\nFound on: https:
+ //kideventsinannarbor.com/?event=036150417d21b716\n\nDouble check the tim
+ e with the organizer before you go.
+URL:https://annarborobserver.com/event/holiday-ukulele-night-tree-town-uke
+ s-chelsea-party-loft/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:3ad5cab0c7409540@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261210T230000Z
+DTEND:20261211T000000Z
+SUMMARY:“Light Up the Night”: Ann Arbor Chabad House
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:All invited to this family-friendly Chanukah celebration featu
+ ring a grand menorah lighting\, latkes\, donuts\, and music. 6 p.m.\, Lib
+ erty Plaza. Free. jlive.app/events/17829.\n\nAges: all ages\nCost: Free\n
+ Signup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Ca
+ lendar\nDetails: https://annarborobserver.com/event/light-up-the-night-an
+ n-arbor-chabad-house/\nFound on: https://kideventsinannarbor.com/?event=3
+ ad5cab0c7409540\n\nDouble check the time with the organizer before you go
+ .
+URL:https://annarborobserver.com/event/light-up-the-night-ann-arbor-chabad
+ -house/
+CATEGORIES:Free\,Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:e2447eb5b5cca215@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261210T233000Z
 DTEND:20261211T000000Z
 SUMMARY:Family Fun Storytime
@@ -1409,7 +1905,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:21f9c2d686f3c335@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261211T150000Z
 DTEND:20261211T170000Z
 SUMMARY:Toddler Time
@@ -1422,7 +1918,7 @@ DESCRIPTION:Where: 3765 Plaza Dr\, Ann Arbor\, MI 48108\nCost: Not listed\
 END:VEVENT
 BEGIN:VEVENT
 UID:c91280a15d5adddb@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261211T153000Z
 DTEND:20261211T163000Z
 SUMMARY:Baby Playgroups
@@ -1442,7 +1938,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:afdeb25e551b9de6@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261211T153000Z
 DTEND:20261211T160000Z
 SUMMARY:Family Fun Storytime
@@ -1463,7 +1959,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:c18533a0b1d4984b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261211T153000Z
 DTEND:20261211T163000Z
 SUMMARY:Toddler Activity Course
@@ -1483,7 +1979,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:a291545d7daf3085@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261211T160000Z
 DTEND:20261211T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1496,7 +1992,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:9a1b8e03b33e0dac@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261211T160000Z
 DTEND:20261211T164500Z
 SUMMARY:Richard Paul Ho Ho Holiday Show for Kids of All Ages
@@ -1514,8 +2010,184 @@ DESCRIPTION:Ho Ho Holiday Show Friday\, December 11 11:00 am – 11:45 am Ch
  ime with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:017eac974572a539@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261211T180000Z
+DTEND:20261211T210000Z
+SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
+LOCATION:1105 N University Ave\, Ann Arbor\, MI 48109
+GEO:42.2786;-83.7345
+DESCRIPTION:Every Fri.–Sun. Three different audiovisual planetarium shows 
+ suitable for all ages. Did an Asteroid Really Kill the Dinosaurs?\n\nWher
+ e: 1105 N University Ave\, Ann Arbor\, MI 48109\nAges: all ages\nCost: $9
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/u-m-museum
+ -of-natural-history-planetarium-dome-theater-30/2026-12-11/\nFound on: ht
+ tps://kideventsinannarbor.com/?event=017eac974572a539\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborobserver.com/event/u-m-museum-of-natural-history-plane
+ tarium-dome-theater-30/2026-12-11/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:d91027297fb584e2@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261211T230000Z
+DTEND:20261212T000000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-11/1/\nFound on: https://k
+ ideventsinannarbor.com/?event=d91027297fb584e2\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-11/1/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:d1ca9df58831b01f@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:“It’s a Wonderful Life: A Live Radio Play”: Saline Area Players
+LOCATION:Zion Lutheran Church\, Ann Arbor Michigan\, Ann Arbor\, MI
+DESCRIPTION:Dec. 11–13. Glenn Bugala directs local child and adult actors 
+ in a stage version of Frank Capra’s 1946 sentimental classic film about a
+  man who gets a second chance at life\, presented in the form of a 1940s 
+ radio show.\n\nWhere: Zion Lutheran Church\, Ann Arbor Michigan\nCost: $1
+ 5\nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obse
+ rver Kids Calendar\nDetails: https://annarborobserver.com/event/its-a-won
+ derful-life-a-live-radio-play-saline-area-players/2026-12-11/\nFound on: 
+ https://kideventsinannarbor.com/?event=d1ca9df58831b01f\n\nDouble check t
+ he time with the organizer before you go.
+URL:https://annarborobserver.com/event/its-a-wonderful-life-a-live-radio-p
+ lay-saline-area-players/2026-12-11/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:c555771c1a8878d5@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T003000Z
+DTEND:20261212T020000Z
+SUMMARY:Holiday Concert: Washtenaw Women’s Community Chorus
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Joshua Marzan directs this independent 30-member local women’s
+  chorus in an eclectic program of traditional seasonal songs\, and contem
+ porary holiday choral works. Also\, handbell music by the First Presbyter
+ ian Church Sanctus Ringers\, directed by David VanderMeer.\n\nCost: $10\n
+ Signup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Ca
+ lendar\nDetails: https://annarborobserver.com/event/holiday-concert-washt
+ enaw-womens-community-chorus/\nFound on: https://kideventsinannarbor.com/
+ ?event=c555771c1a8878d5\n\nDouble check the time with the organizer befor
+ e you go.
+URL:https://annarborobserver.com/event/holiday-concert-washtenaw-womens-co
+ mmunity-chorus/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:d33fe34fa324f9b9@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-11/\nFound 
+ on: https://kideventsinannarbor.com/?event=d33fe34fa324f9b9\n\nDouble che
+ ck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-11/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:d91027297fb584e2@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T010000Z
+DTEND:20261212T020000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-11/2/\nFound on: https://k
+ ideventsinannarbor.com/?event=d91027297fb584e2\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-11/2/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:e5cf2d0c2e77a052@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T135500Z
+DTEND:20261212T170000Z
+SUMMARY:“Candy Cane Course”: Bodies Race Company
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Chip-timed 5K\, 10K\, and 15K races (9 a.m.). Awards. Also\, a
+  1-mile fun run and kid’s dash (8:55 a.m.). T-shirt and finisher medal wi
+ th all entries. Treats. Packet pickup begins at 7:30 a.m. 8:55 a.m.–noon\
+ , Rolling Hills County Park\, 7660 Stony Creek Rd.\, Ypsi Twp.\n\nCost: $
+ 27\nSignup: Registration required\, book before you go\nOutdoors\, dress 
+ for the weather\nListed by: Ann Arbor Observer Kids Calendar\nDetails: ht
+ tps://annarborobserver.com/event/candy-cane-course-bodies-race-company/\n
+ Found on: https://kideventsinannarbor.com/?event=e5cf2d0c2e77a052\n\nDoub
+ le check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/candy-cane-course-bodies-race-compa
+ ny/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:977f5af4a2126765@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T140000Z
+DTEND:20261212T210000Z
+SUMMARY:Huron Gun Collectors
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 12 & 13. About 100 dealers and collectors offer guns\, kn
+ ives\, ammunition\, and other hunting equipment for sale\, including anti
+ ques and collectibles. Concessions. Youths age 17 & under must be accompa
+ nied by an adult. 9 a.m.–4 p.m. (Sat.) & 9 a.m.–3 p.m.\n\nCost: $5\nSignu
+ p: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed b
+ y: Ann Arbor Observer Kids Calendar\nDetails: https://annarborobserver.co
+ m/event/huron-gun-collectors-2/2026-12-12/\nFound on: https://kideventsin
+ annarbor.com/?event=977f5af4a2126765\n\nDouble check the time with the or
+ ganizer before you go.
+URL:https://annarborobserver.com/event/huron-gun-collectors-2/2026-12-12/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:083891a59947c900@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T140000Z
+DTEND:20261212T160000Z
+SUMMARY:Jolly Jog Fun Run: Fleet Feet
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:5K noncompetitive run/walk. Holiday attire encouraged\; first 
+ 125 registered get a Santa suit to wear on the run and take home. Toy and
+  cash donations for Mott Children’s Hospital encouraged. 9–11 a.m.\, 123 
+ E. Liberty.\n\nCost: $12\nSignup: Registration required\, book before you
+  go\nIndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https
+ ://annarborobserver.com/event/jolly-jog-fun-run-fleet-feet/\nFound on: ht
+ tps://kideventsinannarbor.com/?event=083891a59947c900\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborobserver.com/event/jolly-jog-fun-run-fleet-feet/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:3e858a7ec4ff48cc@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261212T140000Z
 DTEND:20261212T160000Z
 SUMMARY:Mamas & Littles
@@ -1535,7 +2207,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:807cd480682f553a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261212T140000Z
 DTEND:20261212T150000Z
 SUMMARY:Toddler Time
@@ -1548,7 +2220,7 @@ DESCRIPTION:Where: 3765 Plaza Dr\, Ann Arbor\, MI 48108\nCost: Not listed\
 END:VEVENT
 BEGIN:VEVENT
 UID:b8fa825e1ef7e614@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261212T160000Z
 DTEND:20261212T230000Z
 SUMMARY:Tiny Expo Indie Art & Craft Fair
@@ -1568,7 +2240,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:36386f5cddb70845@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261212T160000Z
 DTEND:20261212T230000Z
 SUMMARY:Tiny Expo: Ann Arbor District Library
@@ -1586,8 +2258,28 @@ URL:https://annarborobserver.com/event/tiny-expo-ann-arbor-district-librar
 CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
+UID:b7f08898656026bc@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T170000Z
+DTEND:20261212T180000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-12/1/\nFound on: https://k
+ ideventsinannarbor.com/?event=b7f08898656026bc\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-12/1/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:deceb806d132c883@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261212T180000Z
 DTEND:20261212T193000Z
 SUMMARY:Nature Detectives at Baker Woods
@@ -1604,8 +2296,241 @@ DESCRIPTION:With our detective booklet in hand\, what sort of animal signs
  nizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:0fa2f27389d3285f@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T180000Z
+DTEND:20261212T210000Z
+SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
+LOCATION:1105 N University Ave\, Ann Arbor\, MI 48109
+GEO:42.2786;-83.7345
+DESCRIPTION:Every Fri.–Sun. Three different audiovisual planetarium shows 
+ suitable for all ages. Did an Asteroid Really Kill the Dinosaurs?\n\nWher
+ e: 1105 N University Ave\, Ann Arbor\, MI 48109\nAges: all ages\nCost: $9
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/u-m-museum
+ -of-natural-history-planetarium-dome-theater-30/2026-12-12/\nFound on: ht
+ tps://kideventsinannarbor.com/?event=0fa2f27389d3285f\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborobserver.com/event/u-m-museum-of-natural-history-plane
+ tarium-dome-theater-30/2026-12-12/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:b7f08898656026bc@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T190000Z
+DTEND:20261212T200000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-12/2/\nFound on: https://k
+ ideventsinannarbor.com/?event=b7f08898656026bc\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-12/2/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:4fc826be4d64112a@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T200000Z
+DTEND:20261212T220000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-12/1/\nFoun
+ d on: https://kideventsinannarbor.com/?event=4fc826be4d64112a\n\nDouble c
+ heck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-12/1/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:33c8c2a89bf0ed98@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T210000Z
+DTEND:20261213T000000Z
+SUMMARY:Christmas in the Village: Historic Webster Village
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:All invited to wander this preserved & restored 19th century v
+ illage\, lit by luminarias and decorated in period style for the holidays
+ \, as the costumed members of a cappella chorus Arbor Consort sing carols
+ .\n\nCost: $10\nSignup: Drop in\, no signup needed\nOutdoors\, dress for 
+ the weather\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https:
+ //annarborobserver.com/event/christmas-in-the-village-historic-webster-vi
+ llage/\nFound on: https://kideventsinannarbor.com/?event=33c8c2a89bf0ed98
+ \n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/christmas-in-the-village-historic-w
+ ebster-village/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:b7f08898656026bc@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261212T230000Z
+DTEND:20261213T000000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-12/4/\nFound on: https://k
+ ideventsinannarbor.com/?event=b7f08898656026bc\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-12/4/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:4fc826be4d64112a@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-12/2/\nFoun
+ d on: https://kideventsinannarbor.com/?event=4fc826be4d64112a\n\nDouble c
+ heck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-12/2/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:624dd25f6acf1849@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:“It’s a Wonderful Life: A Live Radio Play”: Saline Area Players
+LOCATION:Zion Lutheran Church\, Ann Arbor Michigan\, Ann Arbor\, MI
+DESCRIPTION:Dec. 11–13. Glenn Bugala directs local child and adult actors 
+ in a stage version of Frank Capra’s 1946 sentimental classic film about a
+  man who gets a second chance at life\, presented in the form of a 1940s 
+ radio show.\n\nWhere: Zion Lutheran Church\, Ann Arbor Michigan\nCost: $1
+ 5\nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obse
+ rver Kids Calendar\nDetails: https://annarborobserver.com/event/its-a-won
+ derful-life-a-live-radio-play-saline-area-players/2026-12-12/\nFound on: 
+ https://kideventsinannarbor.com/?event=624dd25f6acf1849\n\nDouble check t
+ he time with the organizer before you go.
+URL:https://annarborobserver.com/event/its-a-wonderful-life-a-live-radio-p
+ lay-saline-area-players/2026-12-12/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:2b3a3d4709a06f65@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T003000Z
+DTEND:20261213T020000Z
+SUMMARY:“Winter Blast”: Vocal Arts Ensemble
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Ben Cohen leads this local chamber choir in Renaissance and Ba
+ roque music for choir and brass\, as well as carols and other a cappella 
+ gems\, on the theme of the antiphonal nature of December: solitude & gath
+ ering\, harsh winds & warm hearths\, endings & beginnings.\n\nCost: $25\n
+ Signup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Ca
+ lendar\nDetails: https://annarborobserver.com/event/winter-blast-vocal-ar
+ ts-ensemble/\nFound on: https://kideventsinannarbor.com/?event=2b3a3d4709
+ a06f65\n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/winter-blast-vocal-arts-ensemble/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:b7f08898656026bc@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T010000Z
+DTEND:20261213T020000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-12/3/\nFound on: https://k
+ ideventsinannarbor.com/?event=b7f08898656026bc\n\nDouble check the time w
+ ith the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-12/3/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:d66594c18a287afd@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T140000Z
+DTEND:20261213T200000Z
+SUMMARY:Huron Gun Collectors
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 12 & 13. About 100 dealers and collectors offer guns\, kn
+ ives\, ammunition\, and other hunting equipment for sale\, including anti
+ ques and collectibles. Concessions. Youths age 17 & under must be accompa
+ nied by an adult. 9 a.m.–4 p.m. (Sat.) & 9 a.m.–3 p.m.\n\nCost: $5\nSignu
+ p: Drop in\, no signup needed\nOutdoors\, dress for the weather\nListed b
+ y: Ann Arbor Observer Kids Calendar\nDetails: https://annarborobserver.co
+ m/event/huron-gun-collectors-2/2026-12-13/\nFound on: https://kideventsin
+ annarbor.com/?event=d66594c18a287afd\n\nDouble check the time with the or
+ ganizer before you go.
+URL:https://annarborobserver.com/event/huron-gun-collectors-2/2026-12-13/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:5d3751431fb640f2@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T154500Z
+DTEND:20261213T180000Z
+SUMMARY:Elemental Ecstatic Dance
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Sun. Dancers of all ages and abilities invited for free-
+ form dancing to a variety of recorded music\, from EDM to classical and a
+ mbient to world music. Wear loose clothes\, barefoot or stocking feet. 10
+ :45 a.m.–1 p.m.\, A2 Yoga\, 2030 Commerce.\n\nAges: all ages\nCost: $20\n
+ Signup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Ca
+ lendar\nDetails: https://annarborobserver.com/event/elemental-ecstatic-da
+ nce-12/2026-12-13/\nFound on: https://kideventsinannarbor.com/?event=5d37
+ 51431fb640f2\n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/elemental-ecstatic-dance-12/2026-12
+ -13/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb9c10f4664ef08@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T164500Z
+DTEND:20261213T210500Z
+SUMMARY:Holiday Open Skate & Exhibition: Ann Arbor Figure Skating Club
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Family open skate with an appearance by Santa and sale of hot 
+ cocoa (11:45 a.m. –12:45 p.m. )\, followed by an exhibition ( 1 –4 p.m. )
+  of freestyle\, ice dance\, and pairs routines by AAFSC members of all ag
+ es and skating levels. 11:45 a.m.\n\nAges: all ages\nCost: Free\nSignup: 
+ Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Calendar\n
+ Details: https://annarborobserver.com/event/holiday-open-skate-exhibition
+ -ann-arbor-figure-skating-club/\nFound on: https://kideventsinannarbor.co
+ m/?event=4bb9c10f4664ef08\n\nDouble check the time with the organizer bef
+ ore you go.
+URL:https://annarborobserver.com/event/holiday-open-skate-exhibition-ann-a
+ rbor-figure-skating-club/
+CATEGORIES:Free\,Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:58371682d07753bd@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261213T170000Z
 DTEND:20261213T210000Z
 SUMMARY:Santa’s Reindeer Barn
@@ -1621,8 +2546,126 @@ URL:https://annarborobserver.com/event/santas-reindeer-barn/
 CATEGORIES:Community Listing
 END:VEVENT
 BEGIN:VEVENT
+UID:b8ff488556e2ed74@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
+LOCATION:1105 N University Ave\, Ann Arbor\, MI 48109
+GEO:42.2786;-83.7345
+DESCRIPTION:Every Fri.–Sun. Three different audiovisual planetarium shows 
+ suitable for all ages. Did an Asteroid Really Kill the Dinosaurs?\n\nWher
+ e: 1105 N University Ave\, Ann Arbor\, MI 48109\nAges: all ages\nCost: $9
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/u-m-museum
+ -of-natural-history-planetarium-dome-theater-30/2026-12-13/\nFound on: ht
+ tps://kideventsinannarbor.com/?event=b8ff488556e2ed74\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborobserver.com/event/u-m-museum-of-natural-history-plane
+ tarium-dome-theater-30/2026-12-13/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:0bdc7e01b7f45d54@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T190000Z
+DTEND:20261213T200000Z
+SUMMARY:“Frozen JR.”: Professional Youth Theatre of Michigan
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 4–6 & 11–13. Megan Wright-Jones directs 4 casts of local 
+ youth actors in grades 2–12 in a one-act version of this 2018 Broadway mu
+ sical\, itself based on the hit 2013 animated movie\, a loose adaptation 
+ of Hans Christian Andersen’s The Snow Queen.\n\nAges: all ages\nCost: $10
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/frozen-jr-
+ professional-youth-theatre-of-michigan/2026-12-13/\nFound on: https://kid
+ eventsinannarbor.com/?event=0bdc7e01b7f45d54\n\nDouble check the time wit
+ h the organizer before you go.
+URL:https://annarborobserver.com/event/frozen-jr-professional-youth-theatr
+ e-of-michigan/2026-12-13/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:19f2b45da5fa9a30@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-13/\nFound 
+ on: https://kideventsinannarbor.com/?event=19f2b45da5fa9a30\n\nDouble che
+ ck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-13/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:aef1b5c42d5e60b4@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:“It’s a Wonderful Life: A Live Radio Play”: Saline Area Players
+LOCATION:Zion Lutheran Church\, Ann Arbor Michigan\, Ann Arbor\, MI
+DESCRIPTION:Dec. 11–13. Glenn Bugala directs local child and adult actors 
+ in a stage version of Frank Capra’s 1946 sentimental classic film about a
+  man who gets a second chance at life\, presented in the form of a 1940s 
+ radio show.\n\nWhere: Zion Lutheran Church\, Ann Arbor Michigan\nCost: $1
+ 5\nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obse
+ rver Kids Calendar\nDetails: https://annarborobserver.com/event/its-a-won
+ derful-life-a-live-radio-play-saline-area-players/2026-12-13/\nFound on: 
+ https://kideventsinannarbor.com/?event=aef1b5c42d5e60b4\n\nDouble check t
+ he time with the organizer before you go.
+URL:https://annarborobserver.com/event/its-a-wonderful-life-a-live-radio-p
+ lay-saline-area-players/2026-12-13/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6c805631554c04@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T203000Z
+DTEND:20261213T220000Z
+SUMMARY:“Holiday Celebration!”: Ypsilanti Symphony Orchestra
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Adam Riccinto directs this volunteer community orchestra in a 
+ family-friendly program highlighted by Tchaikovsky’s evocative Symphony N
+ o. 1 in G minor (Winter Daydreams). Also\, other holiday favorites and an
+  appearance by Santa.\n\nAges: all ages\nCost: $13\nSignup: Drop in\, no 
+ signup needed\nListed by: Ann Arbor Observer Kids Calendar\nDetails: http
+ s://annarborobserver.com/event/holiday-celebration-ypsilanti-symphony-orc
+ hestra/\nFound on: https://kideventsinannarbor.com/?event=4e6c805631554c0
+ 4\n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/holiday-celebration-ypsilanti-symph
+ ony-orchestra/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ccb1eda5e9e5e9@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261213T210000Z
+DTEND:20261213T220000Z
+SUMMARY:“Ensembles Holiday Concert”: Ann Arbor Concert Band
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:A variety of small brass and woodwind ensembles\, with piano a
+ ccompaniment\, perform seasonal music\, from contemporary works to holida
+ y classics. Followed by hot chocolate and cookies. 4–5 p.m.\, Trinity Eva
+ ngelical Lutheran Church\, 1400 W. Stadium.\n\nCost: $10\nSignup: Drop in
+ \, no signup needed\nIndoors\nListed by: Ann Arbor Observer Kids Calendar
+ \nDetails: https://annarborobserver.com/event/ensembles-holiday-concert-a
+ nn-arbor-concert-band/\nFound on: https://kideventsinannarbor.com/?event=
+ c5ccb1eda5e9e5e9\n\nDouble check the time with the organizer before you g
+ o.
+URL:https://annarborobserver.com/event/ensembles-holiday-concert-ann-arbor
+ -concert-band/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:d644d1250fa3dc43@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261214T153000Z
 DTEND:20261214T163000Z
 SUMMARY:Baby Playgroups
@@ -1643,7 +2686,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:9b531152f0bf2c93@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261214T153000Z
 DTEND:20261214T163000Z
 SUMMARY:Preschool Playtime
@@ -1663,7 +2706,7 @@ CATEGORIES:Family Friendly\,Free\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:988c4c837965803a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261214T160000Z
 DTEND:20261214T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1676,7 +2719,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:39033606ac262de0@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261215T153000Z
 DTEND:20261215T160000Z
 SUMMARY:Music & Movement
@@ -1696,7 +2739,7 @@ CATEGORIES:Family Friendly\,Library\,Free\,Music & Theater
 END:VEVENT
 BEGIN:VEVENT
 UID:a98bace0e0fd53b2@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261215T160000Z
 DTEND:20261215T170000Z
 SUMMARY:Baby Playgroups
@@ -1717,7 +2760,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:0630d5c70674d5a3@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261215T160000Z
 DTEND:20261215T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1730,7 +2773,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:c1735d5e9439fdb7@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261215T210000Z
 DTEND:20261215T230000Z
 SUMMARY:Drop-In Card Creations
@@ -1748,8 +2791,29 @@ URL:https://events.getlocalhop.com/dropin-card-creations/event/k47dga4oDz/
 CATEGORIES:Crafts\,Family Friendly\,Free\,Library
 END:VEVENT
 BEGIN:VEVENT
+UID:90e52f5f4ea80cb4@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261216T000000Z
+DTEND:20261216T023000Z
+SUMMARY:Tuesday English Country Dance: Ann Arbor Community of Traditional 
+ Music and Dance
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Tues.\, except Dec. 29. Historical and traditional Engli
+ sh dancing to live music. All dances taught and prompted\; no complicated
+  steps\, and no partner or experience needed. Bring clean\, flat\, nonsli
+ p shoes. First-timers asked to arrive at 6:45 p.m. On Dec.\n\nCost: $10\n
+ Signup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Ca
+ lendar\nDetails: https://annarborobserver.com/event/tuesday-english-count
+ ry-dance-ann-arbor-community-of-traditional-music-and-dance-12/2026-12-15
+ /\nFound on: https://kideventsinannarbor.com/?event=90e52f5f4ea80cb4\n\nD
+ ouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/tuesday-english-country-dance-ann-a
+ rbor-community-of-traditional-music-and-dance-12/2026-12-15/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:a519787c543b8881@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261216T150000Z
 DTEND:20261216T170000Z
 SUMMARY:Drop-In Card Creations
@@ -1768,7 +2832,7 @@ CATEGORIES:Crafts\,Family Friendly\,Free\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:4759f5c48489d320@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261216T153000Z
 DTEND:20261216T163000Z
 SUMMARY:Baby Playgroups
@@ -1789,7 +2853,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:9ac81efff57b7a83@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261216T160000Z
 DTEND:20261216T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1802,7 +2866,7 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
 END:VEVENT
 BEGIN:VEVENT
 UID:ce1b807034ce522f@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
@@ -1822,7 +2886,7 @@ CATEGORIES:Community Listing\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:310d408eafadc487@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261217T153000Z
 DTEND:20261217T161500Z
 SUMMARY:Enjoy the Process: Art Exploration for Toddlers
@@ -1844,7 +2908,7 @@ CATEGORIES:STEAM\,Library\,Arts & Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:688e09d742bb0584@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261217T153000Z
 DTEND:20261217T163000Z
 SUMMARY:Little Play Date!
@@ -1865,7 +2929,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:190f61aa4684189a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261217T160000Z
 DTEND:20261217T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1877,8 +2941,28 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
  re you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:1221e74f7d78350d@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:Words & Music Open Mic: Interfaith Center for Spiritual Growth
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Dec. 3 & 17. All musicians invited to play a 1- to 3-song set 
+ or share a story. Material should be family-friendly. Hosted by local sin
+ ger-songwriter Don Digirolamo. Sign up on arrival. 7–9 p.m. (doors\, 6:30
+  p.m.)\, 704 Airport Blvd.\, ste. 1. $5 suggested donation.\n\nAges: all 
+ ages\nCost: $5\nSignup: Registration required\, book before you go\nListe
+ d by: Ann Arbor Observer Kids Calendar\nDetails: https://annarborobserver
+ .com/event/words-music-open-mic-interfaith-center-for-spiritual-growth/20
+ 26-12-17/\nFound on: https://kideventsinannarbor.com/?event=1221e74f7d783
+ 50d\n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/words-music-open-mic-interfaith-cen
+ ter-for-spiritual-growth/2026-12-17/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:806461787ae6bbc3@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261218T150000Z
 DTEND:20261218T170000Z
 SUMMARY:Toddler Time
@@ -1891,7 +2975,7 @@ DESCRIPTION:Where: 3765 Plaza Dr\, Ann Arbor\, MI 48108\nCost: Not listed\
 END:VEVENT
 BEGIN:VEVENT
 UID:3d34ccbcbda06185@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261218T153000Z
 DTEND:20261218T163000Z
 SUMMARY:Baby Playgroups
@@ -1911,7 +2995,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:27473fa8aabcfadd@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261218T153000Z
 DTEND:20261218T163000Z
 SUMMARY:Sensation Stations
@@ -1931,7 +3015,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:83b0a013fc2e836f@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261218T160000Z
 DTEND:20261218T173000Z
 SUMMARY:Preschool/Toddler Swim
@@ -1943,8 +3027,47 @@ DESCRIPTION:Where: Beach Middle School\, Chelsea Michigan\nCost: Not liste
  re you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:ccb0d00ce495c4fc@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261218T180000Z
+DTEND:20261218T210000Z
+SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
+LOCATION:1105 N University Ave\, Ann Arbor\, MI 48109
+GEO:42.2786;-83.7345
+DESCRIPTION:Every Fri.–Sun. Three different audiovisual planetarium shows 
+ suitable for all ages. Did an Asteroid Really Kill the Dinosaurs?\n\nWher
+ e: 1105 N University Ave\, Ann Arbor\, MI 48109\nAges: all ages\nCost: $9
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/u-m-museum
+ -of-natural-history-planetarium-dome-theater-30/2026-12-18/\nFound on: ht
+ tps://kideventsinannarbor.com/?event=ccb0d00ce495c4fc\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborobserver.com/event/u-m-museum-of-natural-history-plane
+ tarium-dome-theater-30/2026-12-18/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:101713acff8f0ecb@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-18/\nFound 
+ on: https://kideventsinannarbor.com/?event=101713acff8f0ecb\n\nDouble che
+ ck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-18/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:7a85547c9af5793e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261219T140000Z
 DTEND:20261219T160000Z
 SUMMARY:DADaS & Littles
@@ -1963,7 +3086,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:ff405fc30331114e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261219T140000Z
 DTEND:20261219T150000Z
 SUMMARY:Toddler Time
@@ -1975,8 +3098,106 @@ DESCRIPTION:Where: 3765 Plaza Dr\, Ann Arbor\, MI 48108\nCost: Not listed\
  nDouble check the time with the organizer before you go.
 END:VEVENT
 BEGIN:VEVENT
+UID:5fc5154b450610df@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261219T180000Z
+DTEND:20261219T210000Z
+SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
+LOCATION:1105 N University Ave\, Ann Arbor\, MI 48109
+GEO:42.2786;-83.7345
+DESCRIPTION:Every Fri.–Sun. Three different audiovisual planetarium shows 
+ suitable for all ages. Did an Asteroid Really Kill the Dinosaurs?\n\nWher
+ e: 1105 N University Ave\, Ann Arbor\, MI 48109\nAges: all ages\nCost: $9
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/u-m-museum
+ -of-natural-history-planetarium-dome-theater-30/2026-12-19/\nFound on: ht
+ tps://kideventsinannarbor.com/?event=5fc5154b450610df\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborobserver.com/event/u-m-museum-of-natural-history-plane
+ tarium-dome-theater-30/2026-12-19/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:52c80be0446021e1@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261219T200000Z
+DTEND:20261219T220000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-19/1/\nFoun
+ d on: https://kideventsinannarbor.com/?event=52c80be0446021e1\n\nDouble c
+ heck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-19/1/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:dbd3f5966edd7d91@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:Holiday Pops Concert: Ann Arbor Symphony Orchestra
+LOCATION:Hill Auditorium\, Ann Arbor Michigan\, Ann Arbor\, MI
+DESCRIPTION:A2SO music director Earl Lee leads the orchestra in a program 
+ of family-friendly carols\, holiday hits\, and sing-alongs\, including mu
+ sic from Tchaikovsky’s The Nutcracker and works by Bizet\, Vivaldi\, Mark
+  Hayes\, Kristen Anderson-Lopez\, Leroy Anderson\, and others.\n\nWhere: 
+ Hill Auditorium\, Ann Arbor Michigan\nAges: all ages\nCost: $35\nSignup: 
+ Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Observer Kids C
+ alendar\nDetails: https://annarborobserver.com/event/holiday-pops-concert
+ -ann-arbor-symphony-orchestra/\nFound on: https://kideventsinannarbor.com
+ /?event=dbd3f5966edd7d91\n\nDouble check the time with the organizer befo
+ re you go.
+URL:https://annarborobserver.com/event/holiday-pops-concert-ann-arbor-symp
+ hony-orchestra/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:52c80be0446021e1@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-19/2/\nFoun
+ d on: https://kideventsinannarbor.com/?event=52c80be0446021e1\n\nDouble c
+ heck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-19/2/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:41b3ede8ebcc723f@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261220T154500Z
+DTEND:20261220T180000Z
+SUMMARY:Elemental Ecstatic Dance
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Sun. Dancers of all ages and abilities invited for free-
+ form dancing to a variety of recorded music\, from EDM to classical and a
+ mbient to world music. Wear loose clothes\, barefoot or stocking feet. 10
+ :45 a.m.–1 p.m.\, A2 Yoga\, 2030 Commerce.\n\nAges: all ages\nCost: $20\n
+ Signup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Ca
+ lendar\nDetails: https://annarborobserver.com/event/elemental-ecstatic-da
+ nce-12/2026-12-20/\nFound on: https://kideventsinannarbor.com/?event=41b3
+ ede8ebcc723f\n\nDouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/elemental-ecstatic-dance-12/2026-12
+ -20/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:48c7bd25c9511179@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261220T160000Z
 DTEND:20261220T163000Z
 SUMMARY:Ojibway Storytime
@@ -1996,7 +3217,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:8e2cd1e0f551b6ff@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:All-Ages Mario Kart Tournament
@@ -2012,11 +3233,11 @@ DESCRIPTION:It's a Mario Kart 8 Tourney for kids\, teens\, and adults! Bri
  8e2cd1e0f551b6ff\n\nDouble check the time with the organizer before you g
  o.
 URL:https://aadl.org/node/666430
-CATEGORIES:Public Event
+CATEGORIES:Public Event\,Free\,Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:d9b97e80a5b56eb5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261220T180000Z
 DTEND:20261220T200000Z
 SUMMARY:Chesstastic
@@ -2032,11 +3253,90 @@ DESCRIPTION:Chess players of all ages are invited to drop-in to play a fri
  or.com/?event=d9b97e80a5b56eb5\n\nDouble check the time with the organize
  r before you go.
 URL:https://aadl.org/node/670983
-CATEGORIES:Public Event
+CATEGORIES:Public Event\,Free\,Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:db72fd7603e525eb@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:U-M Museum of Natural History Planetarium & Dome Theater
+LOCATION:1105 N University Ave\, Ann Arbor\, MI 48109
+GEO:42.2786;-83.7345
+DESCRIPTION:Every Fri.–Sun. Three different audiovisual planetarium shows 
+ suitable for all ages. Did an Asteroid Really Kill the Dinosaurs?\n\nWher
+ e: 1105 N University Ave\, Ann Arbor\, MI 48109\nAges: all ages\nCost: $9
+ \nSignup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Obser
+ ver Kids Calendar\nDetails: https://annarborobserver.com/event/u-m-museum
+ -of-natural-history-planetarium-dome-theater-30/2026-12-20/\nFound on: ht
+ tps://kideventsinannarbor.com/?event=db72fd7603e525eb\n\nDouble check the
+  time with the organizer before you go.
+URL:https://annarborobserver.com/event/u-m-museum-of-natural-history-plane
+ tarium-dome-theater-30/2026-12-20/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e1611234273c0b@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261220T190000Z
+DTEND:20261220T210000Z
+SUMMARY:Winter Solstice Celebration: Michigan Friends Center
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:All invited to join a circle of people for singing and reflect
+ ive silence to celebrate the year’s longest night. All ages welcome\, but
+  the program may be too quiet for some young children. Dress for the weat
+ her. 2–4 p.m.\, 7748 Clark Lake Rd.\, Chelsea. Free\, donations accepted.
+ \n\nAges: all ages\nCost: Free\nSignup: Drop in\, no signup needed\nListe
+ d by: Ann Arbor Observer Kids Calendar\nDetails: https://annarborobserver
+ .com/event/winter-solstice-celebration-michigan-friends-center/\nFound on
+ : https://kideventsinannarbor.com/?event=e1e1611234273c0b\n\nDouble check
+  the time with the organizer before you go.
+URL:https://annarborobserver.com/event/winter-solstice-celebration-michiga
+ n-friends-center/
+CATEGORIES:Free\,Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:28aef24c78891c41@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261220T190000Z
+DTEND:20261220T210000Z
+SUMMARY:“Grumpelstiltskin”: Theatre Nova
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Fri.–Sun.\, Dec. 4–Jan. 3\, & Dec. 24. Mike Sandusky dir
+ ects local performers in Carla Milarch’s new holiday panto\, which mixes 
+ the Brothers Grimm and Charles Dickens with showtunes and popular music. 
+ Music by Tony Reimer.\n\nCost: $35\nSignup: Drop in\, no signup needed\nI
+ ndoors\nListed by: Ann Arbor Observer Kids Calendar\nDetails: https://ann
+ arborobserver.com/event/grumpelstiltskin-theatre-nova/2026-12-20/\nFound 
+ on: https://kideventsinannarbor.com/?event=28aef24c78891c41\n\nDouble che
+ ck the time with the organizer before you go.
+URL:https://annarborobserver.com/event/grumpelstiltskin-theatre-nova/2026-
+ 12-20/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:1a9bc6a2c380cde2@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261220T190000Z
+DTEND:20261220T210000Z
+SUMMARY:“River Raisin Ragtime Revue Holiday Show”: The Ark
+LOCATION:The Ark\, Ann Arbor Michigan\, Ann Arbor\, MI
+DESCRIPTION:This acclaimed Tecumseh-based ensemble of musicians performs a
+  family-friendly program of ragtime and early jazz versions of holiday fa
+ vorites. Features an appearance by Santa and Mrs. Claus. 2 p.m.\, 316 S. 
+ Main.\n\nWhere: The Ark\, Ann Arbor Michigan\nAges: all ages\nCost: $40\n
+ Signup: Drop in\, no signup needed\nIndoors\nListed by: Ann Arbor Observe
+ r Kids Calendar\nDetails: https://annarborobserver.com/event/river-raisin
+ -ragtime-revue-holiday-show-the-ark/\nFound on: https://kideventsinannarb
+ or.com/?event=1a9bc6a2c380cde2\n\nDouble check the time with the organize
+ r before you go.
+URL:https://annarborobserver.com/event/river-raisin-ragtime-revue-holiday-
+ show-the-ark/
+CATEGORIES:Observer Editor
 END:VEVENT
 BEGIN:VEVENT
 UID:6345be368dc4f0e0@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261221T153000Z
 DTEND:20261221T163000Z
 SUMMARY:Baby Playgroups
@@ -2057,7 +3357,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:070b01f2d9695641@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261222T160000Z
 DTEND:20261222T170000Z
 SUMMARY:Baby Playgroups
@@ -2078,7 +3378,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:2e8da8ad2927b03b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261222T160000Z
 DTEND:20261222T170000Z
 SUMMARY:Drop-In Sugar Cone Candy Tree Craft
@@ -2097,8 +3397,29 @@ DESCRIPTION:Drop-In Sugar Cone Candy Tree Craft Tuesday\, December 22 11:0
 URL:https://dexter.lib.mi.us/events/drop-in-sugar-cone-candy-tree-craft/
 END:VEVENT
 BEGIN:VEVENT
+UID:a7fa35d2b08fca4f@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261223T000000Z
+DTEND:20261223T023000Z
+SUMMARY:Tuesday English Country Dance: Ann Arbor Community of Traditional 
+ Music and Dance
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Every Tues.\, except Dec. 29. Historical and traditional Engli
+ sh dancing to live music. All dances taught and prompted\; no complicated
+  steps\, and no partner or experience needed. Bring clean\, flat\, nonsli
+ p shoes. First-timers asked to arrive at 6:45 p.m. On Dec.\n\nCost: $10\n
+ Signup: Drop in\, no signup needed\nListed by: Ann Arbor Observer Kids Ca
+ lendar\nDetails: https://annarborobserver.com/event/tuesday-english-count
+ ry-dance-ann-arbor-community-of-traditional-music-and-dance-12/2026-12-22
+ /\nFound on: https://kideventsinannarbor.com/?event=a7fa35d2b08fca4f\n\nD
+ ouble check the time with the organizer before you go.
+URL:https://annarborobserver.com/event/tuesday-english-country-dance-ann-a
+ rbor-community-of-traditional-music-and-dance-12/2026-12-22/
+CATEGORIES:Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:7beac19143774309@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261223T153000Z
 DTEND:20261223T163000Z
 SUMMARY:Baby Playgroups
@@ -2119,7 +3440,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:244426de83dc64fe@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261224T050000Z
 DTEND:20261225T045900Z
 SUMMARY:Library Closed
@@ -2138,8 +3459,48 @@ URL:https://events.getlocalhop.com/library-closed/event/8ERZbREYlv/
 CATEGORIES:Free\,Holiday\,Library
 END:VEVENT
 BEGIN:VEVENT
+UID:8005210ebb0abfaa@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261224T230000Z
+DTEND:20261225T003000Z
+SUMMARY:Candlelight & Carols: First Unitarian Universalist Congregation
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Two programs of readings interspersed with congregational caro
+ l singing led by the church’s choir. Also\, a youth pageant (3:30 p.m.) e
+ xploring the Nativity story in which all are welcome to participate\; no 
+ rehearsals needed. 6 & 8 p.m.\n\nAges: all ages\nCost: Free\nSignup: Drop
+  in\, no signup needed\nListed by: Ann Arbor Observer Kids Calendar\nDeta
+ ils: https://annarborobserver.com/event/candlelight-carols-first-unitaria
+ n-universalist-congregation/2026-12-24/1/\nFound on: https://kideventsina
+ nnarbor.com/?event=8005210ebb0abfaa\n\nDouble check the time with the org
+ anizer before you go.
+URL:https://annarborobserver.com/event/candlelight-carols-first-unitarian-
+ universalist-congregation/2026-12-24/1/
+CATEGORIES:Free\,Observer Editor
+END:VEVENT
+BEGIN:VEVENT
+UID:8005210ebb0abfaa@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20261225T010000Z
+DTEND:20261225T023000Z
+SUMMARY:Candlelight & Carols: First Unitarian Universalist Congregation
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:Two programs of readings interspersed with congregational caro
+ l singing led by the church’s choir. Also\, a youth pageant (3:30 p.m.) e
+ xploring the Nativity story in which all are welcome to participate\; no 
+ rehearsals needed. 6 & 8 p.m.\n\nAges: all ages\nCost: Free\nSignup: Drop
+  in\, no signup needed\nListed by: Ann Arbor Observer Kids Calendar\nDeta
+ ils: https://annarborobserver.com/event/candlelight-carols-first-unitaria
+ n-universalist-congregation/2026-12-24/2/\nFound on: https://kideventsina
+ nnarbor.com/?event=8005210ebb0abfaa\n\nDouble check the time with the org
+ anizer before you go.
+URL:https://annarborobserver.com/event/candlelight-carols-first-unitarian-
+ universalist-congregation/2026-12-24/2/
+CATEGORIES:Free\,Observer Editor
+END:VEVENT
+BEGIN:VEVENT
 UID:9fbde8de341434c8@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261225T050000Z
 DTEND:20261226T045900Z
 SUMMARY:Library Closed
@@ -2159,7 +3520,7 @@ CATEGORIES:Free\,Holiday\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:34dfcfab07cd4cbb@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261225T153000Z
 DTEND:20261225T163000Z
 SUMMARY:Baby Playgroup
@@ -2171,7 +3532,7 @@ DESCRIPTION:Where: Downtown Branch of AADL\, Ann Arbor Michigan\nCost: Not
 END:VEVENT
 BEGIN:VEVENT
 UID:9708fd2683c244bf@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261226T050000Z
 DTEND:20261227T045900Z
 SUMMARY:Library Closed
@@ -2191,7 +3552,7 @@ CATEGORIES:Free\,Holiday\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:433c7c8a8433123a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261226T140000Z
 DTEND:20261226T160000Z
 SUMMARY:Expecting & New Mamas & Babies
@@ -2210,7 +3571,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:696d59922d451023@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261227T160000Z
 DTEND:20261227T160000Z
 SUMMARY:Family-Friendly Film Series - The LEGO Movie
@@ -2225,7 +3586,7 @@ DESCRIPTION:Where: 603 E Liberty St\, Ann Arbor\, MI 48104\nAges: all ages
 END:VEVENT
 BEGIN:VEVENT
 UID:b784999e9038874c@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261227T180000Z
 DTEND:20261227T190000Z
 SUMMARY:Drag Bingo
@@ -2246,7 +3607,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:b7cfe2102ca8dad9@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261228T153000Z
 DTEND:20261228T163000Z
 SUMMARY:Baby Playgroups
@@ -2267,7 +3628,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:21426150479e50f5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261229T160000Z
 DTEND:20261229T170000Z
 SUMMARY:Baby Playgroups
@@ -2287,28 +3648,8 @@ URL:https://aadl.org/node/644755
 CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
-UID:7d5bdc91a598d7a9@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
-DTSTART:20261229T190000Z
-DTEND:20261229T210000Z
-SUMMARY:“Come As You Are” Memory Café: Dementia Friendly Services
-LOCATION:Ann Arbor\, MI
-DESCRIPTION:Memory Cafés are comfortable social gatherings in dementia fri
- endly venues that allow people experiencing memory loss and a loved one t
- o connect\, socialize\, and build new support networks. Cafés are free an
- d all are welcome. Co-sponsored by AARP Michigan.\n\nAges: all ages\nCost
- : Free\nSignup: Drop in\, no signup needed\nListed by: Ann Arbor Observer
-  Kids Calendar\nDetails: https://annarborobserver.com/event/come-as-you-a
- re-memory-cafe-dementia-friendly-services-8/\nFound on: https://kidevents
- inannarbor.com/?event=7d5bdc91a598d7a9\n\nDouble check the time with the 
- organizer before you go.
-URL:https://annarborobserver.com/event/come-as-you-are-memory-cafe-dementi
- a-friendly-services-8/
-CATEGORIES:Community Listing\,Free
-END:VEVENT
-BEGIN:VEVENT
 UID:436b0c03a2636cab@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261230T153000Z
 DTEND:20261230T163000Z
 SUMMARY:Baby Playgroups
@@ -2328,7 +3669,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:8b9f9ed98a002525@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261230T160000Z
 DTEND:20261230T170000Z
 SUMMARY:Drop-in New Year's Hat & Noisemaker Crafts
@@ -2346,7 +3687,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-new-years-hat-noisemaker-craft
 END:VEVENT
 BEGIN:VEVENT
 UID:bdbc7271a85e772a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261230T163000Z
 DTEND:20261230T173000Z
 SUMMARY:Noon Year's Eve ...Eve
@@ -2368,7 +3709,7 @@ CATEGORIES:Crafts\,Family Friendly\,Festival & Fair\,Free\,Holiday\,Librar
 END:VEVENT
 BEGIN:VEVENT
 UID:c337d74559186c7a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261230T230000Z
 DTEND:20261231T010000Z
 SUMMARY:Family Movie: Ratatouille (2007)
@@ -2390,7 +3731,7 @@ CATEGORIES:Family Friendly\,Free\,Library\,Movies/Film
 END:VEVENT
 BEGIN:VEVENT
 UID:a0e18cc82e5e914b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20261231T050000Z
 DTEND:20270101T045900Z
 SUMMARY:Library Closed
@@ -2410,7 +3751,7 @@ CATEGORIES:Free\,Holiday\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:33e02a5b8a8280c4@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270101T050000Z
 DTEND:20270102T045900Z
 SUMMARY:Library Closed
@@ -2430,7 +3771,7 @@ CATEGORIES:Free\,Holiday\,Library
 END:VEVENT
 BEGIN:VEVENT
 UID:9644da9ee72d29d5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270102T140000Z
 DTEND:20270102T160000Z
 SUMMARY:DADaS & Littles
@@ -2449,7 +3790,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:32bc1d6c885f8f8c@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270102T153000Z
 DTEND:20270102T161500Z
 SUMMARY:Dancing Babies with Momo Kajiwara
@@ -2470,7 +3811,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:4729c7576ef235b5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270102T160000Z
 DTEND:20270102T170000Z
 SUMMARY:Drop-In Sticker Swap
@@ -2486,7 +3827,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-sticker-swap/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c2b8d4c2637aeed@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270104T143000Z
 DTEND:20270104T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -2509,7 +3850,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:f9d453160a881085@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270104T153000Z
 DTEND:20270104T163000Z
 SUMMARY:Baby Playgroups
@@ -2530,7 +3871,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:cc9a2cc3ab0849d9@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270104T153000Z
 DTEND:20270104T160000Z
 SUMMARY:Book Babies Storytime
@@ -2551,7 +3892,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:60203250b9c77021@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270105T143000Z
 DTEND:20270105T150000Z
 SUMMARY:Book Babies Storytime
@@ -2572,7 +3913,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:8bb6eabcb175734c@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270105T153000Z
 DTEND:20270105T160000Z
 SUMMARY:Toddler Tales Storytime
@@ -2595,7 +3936,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:16ec9ad8fcfbfb8a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270105T160000Z
 DTEND:20270105T170000Z
 SUMMARY:Baby Playgroups
@@ -2616,7 +3957,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:018e37efe8aefbab@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270105T230000Z
 DTEND:20270106T003000Z
 SUMMARY:Folk Song Jam Along
@@ -2637,7 +3978,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:b26280039e8336e8@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270106T143000Z
 DTEND:20270106T150000Z
 SUMMARY:Preschool Pals Storytime
@@ -2659,7 +4000,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:7213dfee25c21220@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270106T153000Z
 DTEND:20270106T163000Z
 SUMMARY:Baby Playgroups
@@ -2679,7 +4020,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:ac509d67edc2a78b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270107T153000Z
 DTEND:20270107T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -2701,7 +4042,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:99d893aae867a709@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270107T233000Z
 DTEND:20270108T000000Z
 SUMMARY:Family Fun Storytime
@@ -2721,7 +4062,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:59fc9d1999972d22@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270107T233000Z
 DTEND:20270108T003000Z
 SUMMARY:Feisty Women Book Club: Best Offer Wins
@@ -2743,7 +4084,7 @@ CATEGORIES:Community Content
 END:VEVENT
 BEGIN:VEVENT
 UID:29553b90f9e66990@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270108T153000Z
 DTEND:20270108T163000Z
 SUMMARY:Baby Playgroups
@@ -2763,7 +4104,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:2976e79cf236b04e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270108T153000Z
 DTEND:20270108T160000Z
 SUMMARY:Family Fun Storytime
@@ -2783,7 +4124,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:30d9f980e354fcc6@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270109T140000Z
 DTEND:20270109T160000Z
 SUMMARY:Mamas & Littles
@@ -2802,27 +4143,8 @@ URL:https://themamasnetwork.org/events
 CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
-UID:067901cac14e31ad@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
-DTSTART:20270109T140000Z
-DTEND:20270109T170000Z
-SUMMARY:Time Travel Half-Marathon/5K/10K – Ann Arbor
-LOCATION:Ann Arbor\, MI
-DESCRIPTION:Race Day Schedule 7:30-8:45am Packet Pickup 8:55am Kids Dash (
- Meet at the Start Line and we will walk participants out to the starting 
- area) 9:00am National Anthem and Race Start!\n\nAges: all ages\nCost: $25
- .98\nSignup: Registration required\, book before you go\nIndoors\nListed 
- by: Ann Arbor Observer Kids Calendar\nDetails: https://annarborobserver.c
- om/event/time-travel-half-marathon-5k-10k-ann-arbor/\nFound on: https://k
- ideventsinannarbor.com/?event=067901cac14e31ad\n\nDouble check the time w
- ith the organizer before you go.
-URL:https://annarborobserver.com/event/time-travel-half-marathon-5k-10k-an
- n-arbor/
-CATEGORIES:Community Listing
-END:VEVENT
-BEGIN:VEVENT
 UID:5d654db42cacf061@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270109T160000Z
 DTEND:20270109T170000Z
 SUMMARY:Chinese Storytime
@@ -2843,7 +4165,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:64b06ba31905992c@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270109T160000Z
 DTEND:20270109T170000Z
 SUMMARY:Drop-in Winter Crafts
@@ -2859,7 +4181,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-winter-crafts-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:b850de85145985a6@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270109T160000Z
 DTEND:20270109T163000Z
 SUMMARY:French Storytime
@@ -2880,7 +4202,7 @@ CATEGORIES:Preschool Storytimes
 END:VEVENT
 BEGIN:VEVENT
 UID:e571c4b398eee89b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270110T200000Z
 DTEND:20270110T210000Z
 SUMMARY:Concert with Out Loud Chorus
@@ -2900,7 +4222,7 @@ CATEGORIES:Performers
 END:VEVENT
 BEGIN:VEVENT
 UID:25743bf9fc00e38b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270111T143000Z
 DTEND:20270111T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -2923,7 +4245,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:4ad450bcbe282a5a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270111T153000Z
 DTEND:20270111T163000Z
 SUMMARY:Baby Playgroups
@@ -2944,7 +4266,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:80f97b5238d43f39@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270111T153000Z
 DTEND:20270111T160000Z
 SUMMARY:Book Babies Storytime
@@ -2965,7 +4287,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:fc5e3e2fa0d32cde@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270111T153000Z
 DTEND:20270111T160000Z
 SUMMARY:Little Ones Storytime
@@ -2985,7 +4307,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:816e672ee78699ac@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270111T153000Z
 DTEND:20270111T163000Z
 SUMMARY:Toddler Activity Course
@@ -3005,7 +4327,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:e300e7bff4578d59@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270111T160000Z
 DTEND:20270111T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -3024,7 +4346,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:5f9a5f973128eba1@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270112T143000Z
 DTEND:20270112T150000Z
 SUMMARY:Book Babies Storytime
@@ -3045,7 +4367,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:9e38828739127028@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270112T153000Z
 DTEND:20270112T160000Z
 SUMMARY:Baby Time
@@ -3065,7 +4387,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:162acfb2fd40146b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270112T153000Z
 DTEND:20270112T163000Z
 SUMMARY:Sensation Stations
@@ -3085,7 +4407,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:63a342ab9777bdd3@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270112T153000Z
 DTEND:20270112T160000Z
 SUMMARY:Toddler Tales Storytime
@@ -3108,7 +4430,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:63c26e48758aa53b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270112T160000Z
 DTEND:20270112T170000Z
 SUMMARY:Baby Playgroups
@@ -3129,7 +4451,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:35de59bf262cf8f0@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270113T143000Z
 DTEND:20270113T150000Z
 SUMMARY:Preschool Pals Storytime
@@ -3151,7 +4473,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:eadf59c2f8bf967e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270113T153000Z
 DTEND:20270113T163000Z
 SUMMARY:Baby Playgroups
@@ -3172,7 +4494,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:7f478d122ac71ef3@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270113T153000Z
 DTEND:20270113T160000Z
 SUMMARY:Baby Time
@@ -3192,7 +4514,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:fc25135089a4fdfc@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270113T153000Z
 DTEND:20270113T163000Z
 SUMMARY:Korean Storytime
@@ -3213,7 +4535,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:c8fa70a2b12d9f02@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270113T153000Z
 DTEND:20270113T160000Z
 SUMMARY:Read Sing Play
@@ -3233,7 +4555,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:f998975446da62b6@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270114T153000Z
 DTEND:20270114T163000Z
 SUMMARY:Little Play Date!
@@ -3254,7 +4576,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:b71f1ae64431f01e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270114T153000Z
 DTEND:20270114T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -3276,7 +4598,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:9610360e4e329833@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270114T153000Z
 DTEND:20270114T160000Z
 SUMMARY:Read Sing Play
@@ -3297,7 +4619,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:6354001b19e7e496@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270114T160000Z
 DTEND:20270114T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -3316,7 +4638,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:d069b37200b30029@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270114T233000Z
 DTEND:20270115T000000Z
 SUMMARY:Family Fun Storytime
@@ -3336,7 +4658,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:f77128cd2960fcbc@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270115T153000Z
 DTEND:20270115T163000Z
 SUMMARY:Baby Playgroups
@@ -3356,7 +4678,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:0009d2cf110e3fef@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270115T153000Z
 DTEND:20270115T160000Z
 SUMMARY:Family Fun Storytime
@@ -3376,7 +4698,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:3a6ed80f13b6506e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270116T050000Z
 DTEND:20270116T050000Z
 SUMMARY:KinderConcert!
@@ -3392,7 +4714,7 @@ URL:https://dexter.lib.mi.us/events/kinderconcert-19/
 END:VEVENT
 BEGIN:VEVENT
 UID:b980e6acc6dff318@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270116T140000Z
 DTEND:20270116T160000Z
 SUMMARY:DADaS & Littles
@@ -3411,7 +4733,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:d3d4659d671fb041@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270116T160000Z
 DTEND:20270116T163000Z
 SUMMARY:Spanish Storytime
@@ -3431,7 +4753,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:f28d3052d287676b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270116T190000Z
 DTEND:20270116T194500Z
 SUMMARY:Baby Chinese Storytime
@@ -3452,7 +4774,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:ce73d4cd00a25197@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270116T193000Z
 DTEND:20270116T200000Z
 SUMMARY:Ann Arbor Symphony KinderConcert
@@ -3475,7 +4797,7 @@ CATEGORIES:Educational\,Elementary\,Family Friendly\,Free\,Library\,Music
 END:VEVENT
 BEGIN:VEVENT
 UID:d486420b592a5fe8@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270118T153000Z
 DTEND:20270118T163000Z
 SUMMARY:Baby Playgroups
@@ -3496,7 +4818,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:644d6da4ba354201@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270118T153000Z
 DTEND:20270118T160000Z
 SUMMARY:Little Ones Storytime
@@ -3516,7 +4838,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:a2fb77b5ec546a24@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270118T160000Z
 DTEND:20270118T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -3535,7 +4857,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:61c5e47da861164e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270119T143000Z
 DTEND:20270119T150000Z
 SUMMARY:Book Babies Storytime
@@ -3556,7 +4878,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:8daee516b31e7c2d@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270119T153000Z
 DTEND:20270119T160000Z
 SUMMARY:Baby Time
@@ -3576,7 +4898,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:63d0e40a296cc7c6@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270119T153000Z
 DTEND:20270119T160000Z
 SUMMARY:Toddler Tales Storytime
@@ -3599,7 +4921,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:e289e9f70ac32f00@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270119T160000Z
 DTEND:20270119T170000Z
 SUMMARY:Baby Playgroups
@@ -3620,7 +4942,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:bf7ac9191efff557@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270120T143000Z
 DTEND:20270120T150000Z
 SUMMARY:Preschool Pals Storytime
@@ -3642,7 +4964,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:4d7bafb0964f96d8@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270120T153000Z
 DTEND:20270120T163000Z
 SUMMARY:Baby Playgroups
@@ -3662,7 +4984,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:bcf210ec705895bf@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270120T153000Z
 DTEND:20270120T160000Z
 SUMMARY:Baby Time
@@ -3682,7 +5004,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:f359ec54afd6621f@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270120T153000Z
 DTEND:20270120T160000Z
 SUMMARY:Read Sing Play
@@ -3702,7 +5024,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:307cf8176977be13@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270121T153000Z
 DTEND:20270121T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -3724,7 +5046,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:29475d4cc35f339e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270121T153000Z
 DTEND:20270121T160000Z
 SUMMARY:Read Sing Play
@@ -3745,7 +5067,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:c6932b69156421d1@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270121T160000Z
 DTEND:20270121T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -3764,7 +5086,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dcff53734b90b9c5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270121T233000Z
 DTEND:20270122T000000Z
 SUMMARY:Family Fun Storytime
@@ -3784,7 +5106,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:d2fbf79533d9a1cf@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270122T153000Z
 DTEND:20270122T163000Z
 SUMMARY:Baby Playgroups
@@ -3804,7 +5126,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:88251a40d2234f4f@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270122T153000Z
 DTEND:20270122T160000Z
 SUMMARY:Family Fun Storytime
@@ -3824,7 +5146,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:3999673b69d296b2@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270123T140000Z
 DTEND:20270123T160000Z
 SUMMARY:Expecting & New Mamas & Babies
@@ -3843,7 +5165,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:87527bbcd56c1c71@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270123T190000Z
 DTEND:20270123T203000Z
 SUMMARY:Animals in Winter at Rolling Hills
@@ -3862,7 +5184,7 @@ DESCRIPTION:Learn how animals thrive in the winter as we explore forest an
 END:VEVENT
 BEGIN:VEVENT
 UID:3ebce86fe194987e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270125T143000Z
 DTEND:20270125T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -3885,7 +5207,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:8dadbc8c75b036a7@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270125T153000Z
 DTEND:20270125T163000Z
 SUMMARY:Baby Playgroups
@@ -3906,7 +5228,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:43f5d739a142aabd@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270125T153000Z
 DTEND:20270125T160000Z
 SUMMARY:Book Babies Storytime
@@ -3927,7 +5249,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:782eaf621d77896b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270125T153000Z
 DTEND:20270125T160000Z
 SUMMARY:Little Ones Storytime
@@ -3947,7 +5269,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:e7583753319ecedd@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270125T160000Z
 DTEND:20270125T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -3966,7 +5288,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:fa0e853d5b6932f3@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270126T143000Z
 DTEND:20270126T150000Z
 SUMMARY:Book Babies Storytime
@@ -3987,7 +5309,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:41409ce6ccec9788@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270126T153000Z
 DTEND:20270126T160000Z
 SUMMARY:Baby Time
@@ -4007,7 +5329,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:7791ebecfc0b6f5e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270126T153000Z
 DTEND:20270126T160000Z
 SUMMARY:Toddler Tales Storytime
@@ -4030,7 +5352,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:1873683792944b2f@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270126T160000Z
 DTEND:20270126T170000Z
 SUMMARY:Baby Playgroups
@@ -4051,7 +5373,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:4ff0a518cd32c030@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270127T143000Z
 DTEND:20270127T150000Z
 SUMMARY:Preschool Pals Storytime
@@ -4073,7 +5395,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:9d4446856380f3ea@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270127T153000Z
 DTEND:20270127T163000Z
 SUMMARY:Baby Playgroups
@@ -4093,7 +5415,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:b29281fa726ce6b4@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270127T153000Z
 DTEND:20270127T160000Z
 SUMMARY:Baby Time
@@ -4113,7 +5435,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:337431dc3089f394@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270127T153000Z
 DTEND:20270127T160000Z
 SUMMARY:Read Sing Play
@@ -4133,7 +5455,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ad480ccbcf9df49d@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270127T233000Z
 DTEND:20270128T003000Z
 SUMMARY:Science Club: CheMYSTERY Lab
@@ -4156,7 +5478,7 @@ CATEGORIES:Educational\,STEAM\,Free\,Performer
 END:VEVENT
 BEGIN:VEVENT
 UID:d7d60db32f26c8b2@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270128T153000Z
 DTEND:20270128T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -4178,7 +5500,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:e79a6200e07b5026@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270128T153000Z
 DTEND:20270128T160000Z
 SUMMARY:Read Sing Play
@@ -4199,7 +5521,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:addcb0fe81dabfec@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270128T160000Z
 DTEND:20270128T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -4218,7 +5540,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:4a7c854322c50f03@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270128T233000Z
 DTEND:20270129T000000Z
 SUMMARY:Family Fun Storytime
@@ -4238,7 +5560,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:b80b1057285dec7e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270129T153000Z
 DTEND:20270129T163000Z
 SUMMARY:Baby Playgroups
@@ -4258,7 +5580,7 @@ CATEGORIES:Baby Playgroups
 END:VEVENT
 BEGIN:VEVENT
 UID:3beca6c3a212f517@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270129T153000Z
 DTEND:20270129T163000Z
 SUMMARY:Baby and Toddler Rave
@@ -4278,7 +5600,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:0821349d08fde089@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270129T153000Z
 DTEND:20270129T160000Z
 SUMMARY:Family Fun Storytime
@@ -4298,7 +5620,7 @@ CATEGORIES:Storytime\,Family Friendly\,Library\,Free\,Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:694271bfc92c3a1d@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270130T160000Z
 DTEND:20270130T180000Z
 SUMMARY:Groundhog Party
@@ -4319,7 +5641,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:5e1bb5649c736a34@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:AADL Welcomes | Chinese New Year Celebration with Ann-Hua Chinese 
@@ -4340,7 +5662,7 @@ CATEGORIES:Public Event
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a2444dfa44812a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270201T153000Z
 DTEND:20270201T160000Z
 SUMMARY:Little Ones Storytime
@@ -4360,7 +5682,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:acf9ffe2800c9671@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270201T160000Z
 DTEND:20270201T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -4379,7 +5701,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:87d9375a2965a7ef@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270202T150000Z
 DTEND:20270202T153000Z
 SUMMARY:Drop-In Toddler Story Time
@@ -4397,7 +5719,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-toddler-story-time-11-2027-02-
 END:VEVENT
 BEGIN:VEVENT
 UID:255efc524ad7b11c@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270202T153000Z
 DTEND:20270202T160000Z
 SUMMARY:Baby Time
@@ -4417,7 +5739,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ab842d3d0917453b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270203T153000Z
 DTEND:20270203T160000Z
 SUMMARY:Baby Time
@@ -4437,7 +5759,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:849e0794a8704a77@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270203T153000Z
 DTEND:20270203T160000Z
 SUMMARY:Read Sing Play
@@ -4457,7 +5779,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:a4b1cbd8f30bb928@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270204T153000Z
 DTEND:20270204T160000Z
 SUMMARY:Read Sing Play
@@ -4478,7 +5800,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:765d144afbb14723@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270204T160000Z
 DTEND:20270204T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -4497,7 +5819,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:7285b84049bd3d3e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270206T140000Z
 DTEND:20270206T160000Z
 SUMMARY:DADaS & Littles
@@ -4516,7 +5838,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:ff3a31d300af9cf4@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270208T143000Z
 DTEND:20270208T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -4539,7 +5861,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:032572860cb0126b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270208T153000Z
 DTEND:20270208T160000Z
 SUMMARY:Book Babies Storytime
@@ -4560,7 +5882,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:a36fb7c4111934d0@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270208T153000Z
 DTEND:20270208T160000Z
 SUMMARY:Little Ones Storytime
@@ -4580,7 +5902,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:92cb10707048f5a0@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270208T160000Z
 DTEND:20270208T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -4599,7 +5921,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:38ca6eb9188ed5b8@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270209T143000Z
 DTEND:20270209T150000Z
 SUMMARY:Book Babies Storytime
@@ -4620,7 +5942,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:83c14d03fa060e21@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270209T153000Z
 DTEND:20270209T160000Z
 SUMMARY:Baby Time
@@ -4640,7 +5962,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:61c20795875c2760@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270209T153000Z
 DTEND:20270209T160000Z
 SUMMARY:Toddler Tales Storytime
@@ -4663,7 +5985,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:76e41f07c1332182@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270210T143000Z
 DTEND:20270210T150000Z
 SUMMARY:Preschool Pals Storytime
@@ -4685,7 +6007,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:7031d7aa0f99a867@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270210T153000Z
 DTEND:20270210T160000Z
 SUMMARY:Baby Time
@@ -4705,7 +6027,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:14898a100089d507@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270210T153000Z
 DTEND:20270210T160000Z
 SUMMARY:Read Sing Play
@@ -4725,7 +6047,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:8eec676a430f9ba4@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270211T153000Z
 DTEND:20270211T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -4747,7 +6069,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:66c8f74570e4953f@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270211T153000Z
 DTEND:20270211T160000Z
 SUMMARY:Read Sing Play
@@ -4768,7 +6090,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:415f3209ea993c9b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270211T160000Z
 DTEND:20270211T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -4787,7 +6109,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:a8888d0659d13ff8@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270213T140000Z
 DTEND:20270213T160000Z
 SUMMARY:Mamas & Littles
@@ -4807,7 +6129,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:090bb58bb5ecad29@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270213T160000Z
 DTEND:20270213T170000Z
 SUMMARY:Drop-in Valentine's Day Crafts
@@ -4823,7 +6145,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-valentines-day-crafts-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:cf720825c9912d45@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270213T233000Z
 DTEND:20270214T013000Z
 SUMMARY:Glowball Dance at Meri Lou Recreation Center
@@ -4839,7 +6161,7 @@ DESCRIPTION:Wear your neon for a night of music\, dancing\, games\, and cr
 END:VEVENT
 BEGIN:VEVENT
 UID:1cd664a50a189ec1@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270215T143000Z
 DTEND:20270215T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -4862,7 +6184,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:bd6e385218db4239@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270215T153000Z
 DTEND:20270215T160000Z
 SUMMARY:Book Babies Storytime
@@ -4883,7 +6205,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:04b0386374fbe5d5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270215T153000Z
 DTEND:20270215T160000Z
 SUMMARY:Little Ones Storytime
@@ -4903,7 +6225,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:0431b0895dae7861@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270215T160000Z
 DTEND:20270215T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -4922,7 +6244,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:3a0e4e386451fff6@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270216T143000Z
 DTEND:20270216T150000Z
 SUMMARY:Book Babies Storytime
@@ -4943,7 +6265,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:70e7464503000670@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270216T153000Z
 DTEND:20270216T160000Z
 SUMMARY:Baby Time
@@ -4963,7 +6285,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:a1222fa3d62bb039@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270216T153000Z
 DTEND:20270216T160000Z
 SUMMARY:Toddler Tales Storytime
@@ -4986,7 +6308,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:45668bf79f2df858@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270217T143000Z
 DTEND:20270217T150000Z
 SUMMARY:Preschool Pals Storytime
@@ -5008,7 +6330,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:126b1ce292e43a8c@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270217T153000Z
 DTEND:20270217T160000Z
 SUMMARY:Baby Time
@@ -5028,7 +6350,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ac6dd11a2790c4b1@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270217T153000Z
 DTEND:20270217T160000Z
 SUMMARY:Read Sing Play
@@ -5048,7 +6370,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:b30bf689842867aa@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270218T153000Z
 DTEND:20270218T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -5070,7 +6392,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:56d82740b4b49d03@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270218T153000Z
 DTEND:20270218T160000Z
 SUMMARY:Read Sing Play
@@ -5091,7 +6413,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:a34dfb49036396ce@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270218T160000Z
 DTEND:20270218T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -5110,7 +6432,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:de9915747e19b753@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270220T140000Z
 DTEND:20270220T160000Z
 SUMMARY:DADaS & Littles
@@ -5129,7 +6451,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:8744893b900bc736@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270222T143000Z
 DTEND:20270222T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -5152,7 +6474,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:de97fbf957d930f8@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270222T153000Z
 DTEND:20270222T160000Z
 SUMMARY:Book Babies Storytime
@@ -5173,7 +6495,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:3b9f708db6c52b9a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270222T153000Z
 DTEND:20270222T160000Z
 SUMMARY:Little Ones Storytime
@@ -5193,7 +6515,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:788deb81ed102464@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270222T160000Z
 DTEND:20270222T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -5212,7 +6534,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:1cd789dd468882dd@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270223T143000Z
 DTEND:20270223T150000Z
 SUMMARY:Book Babies Storytime
@@ -5233,7 +6555,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:f9dfe66c821f2f6e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270223T153000Z
 DTEND:20270223T160000Z
 SUMMARY:Baby Time
@@ -5253,7 +6575,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:1b789e6ddaa00e03@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270223T153000Z
 DTEND:20270223T160000Z
 SUMMARY:Toddler Tales Storytime
@@ -5276,7 +6598,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:dbbbe6dab6a2d0eb@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270224T143000Z
 DTEND:20270224T150000Z
 SUMMARY:Preschool Pals Storytime
@@ -5298,7 +6620,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:67ca4dedffaa8cb9@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270224T153000Z
 DTEND:20270224T160000Z
 SUMMARY:Baby Time
@@ -5318,7 +6640,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:042fe87425102f52@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270224T153000Z
 DTEND:20270224T160000Z
 SUMMARY:Read Sing Play
@@ -5338,7 +6660,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:66b8d4af0c432670@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270224T233000Z
 DTEND:20270225T003000Z
 SUMMARY:Science Club: Crash Landing
@@ -5360,7 +6682,7 @@ CATEGORIES:Educational\,STEAM\,Free\,Performer
 END:VEVENT
 BEGIN:VEVENT
 UID:24971f3068010bea@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270225T153000Z
 DTEND:20270225T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -5382,7 +6704,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:651cfc572d3a72c8@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270225T153000Z
 DTEND:20270225T160000Z
 SUMMARY:Read Sing Play
@@ -5403,7 +6725,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:84f8460cb40dffc5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270225T160000Z
 DTEND:20270225T163000Z
 SUMMARY:Drop-In Story Time at the Library
@@ -5422,7 +6744,7 @@ URL:https://dexter.lib.mi.us/events/drop-in-story-time-at-the-library-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:95508dec11c83e00@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270227T140000Z
 DTEND:20270227T160000Z
 SUMMARY:Expecting & New Mamas & Babies
@@ -5441,7 +6763,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:faa8ad2c083ed2d1@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270301T143000Z
 DTEND:20270301T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -5464,7 +6786,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:59a224f063c04c4a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270301T153000Z
 DTEND:20270301T160000Z
 SUMMARY:Book Babies Storytime
@@ -5485,7 +6807,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:ba4f8371ab855f69@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270301T153000Z
 DTEND:20270301T160000Z
 SUMMARY:Little Ones Storytime
@@ -5505,7 +6827,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:46118e6b0eed8dca@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270302T143000Z
 DTEND:20270302T150000Z
 SUMMARY:Book Babies Storytime
@@ -5526,7 +6848,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:8d785114fab3c7fb@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270302T153000Z
 DTEND:20270302T160000Z
 SUMMARY:Baby Time
@@ -5546,7 +6868,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ad9665d35283d2e0@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270302T153000Z
 DTEND:20270302T160000Z
 SUMMARY:Toddler Tales Storytime
@@ -5569,7 +6891,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:a3974a867b4fca65@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270303T143000Z
 DTEND:20270303T150000Z
 SUMMARY:Preschool Pals Storytime
@@ -5591,7 +6913,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:9b6bdfb055196a7a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270303T153000Z
 DTEND:20270303T160000Z
 SUMMARY:Baby Time
@@ -5611,7 +6933,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:10f743d687ba259f@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270303T153000Z
 DTEND:20270303T160000Z
 SUMMARY:Read Sing Play
@@ -5631,7 +6953,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:5603eebe5f5a1d9c@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270304T153000Z
 DTEND:20270304T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -5653,7 +6975,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:4f01a99696c79ac7@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270304T153000Z
 DTEND:20270304T160000Z
 SUMMARY:Read Sing Play
@@ -5674,7 +6996,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:4a18a34ee710eb3e@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270306T140000Z
 DTEND:20270306T160000Z
 SUMMARY:DADaS & Littles
@@ -5693,7 +7015,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:68b70758a180c902@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270308T143000Z
 DTEND:20270308T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -5716,7 +7038,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:6de391d0c3367c09@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270308T153000Z
 DTEND:20270308T160000Z
 SUMMARY:Book Babies Storytime
@@ -5737,7 +7059,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:8af1dca205f53c9f@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270308T153000Z
 DTEND:20270308T160000Z
 SUMMARY:Little Ones Storytime
@@ -5757,7 +7079,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:186bf8ecf4d9c549@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270309T143000Z
 DTEND:20270309T150000Z
 SUMMARY:Book Babies Storytime
@@ -5778,7 +7100,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:787dd28a89fd435b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270309T153000Z
 DTEND:20270309T160000Z
 SUMMARY:Baby Time
@@ -5798,7 +7120,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:1b4a36fe707b30ef@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270309T153000Z
 DTEND:20270309T160000Z
 SUMMARY:Toddler Tales Storytime
@@ -5821,7 +7143,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:992909e8860d4067@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270310T143000Z
 DTEND:20270310T150000Z
 SUMMARY:Preschool Pals Storytime
@@ -5843,7 +7165,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:dd8c73a1797321d5@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270310T153000Z
 DTEND:20270310T160000Z
 SUMMARY:Baby Time
@@ -5863,7 +7185,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:0eb13a983c13193b@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270310T153000Z
 DTEND:20270310T160000Z
 SUMMARY:Read Sing Play
@@ -5883,7 +7205,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:a0a74747f4351d59@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270311T153000Z
 DTEND:20270311T160000Z
 SUMMARY:Preschool Pals Storytime
@@ -5905,7 +7227,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:14a5fce2d9ebdad0@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270311T153000Z
 DTEND:20270311T160000Z
 SUMMARY:Read Sing Play
@@ -5926,7 +7248,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:6bb4ace699d286fa@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270313T140000Z
 DTEND:20270313T160000Z
 SUMMARY:Mamas & Littles
@@ -5946,7 +7268,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:e2dcbfd70b129b28@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270315T133000Z
 DTEND:20270315T140000Z
 SUMMARY:Toddler Tales Storytime
@@ -5969,7 +7291,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:4d48ab340ea3e959@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270315T143000Z
 DTEND:20270315T150000Z
 SUMMARY:Book Babies Storytime
@@ -5990,7 +7312,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:5471b79c214ca699@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270315T143000Z
 DTEND:20270315T150000Z
 SUMMARY:Little Ones Storytime
@@ -6010,7 +7332,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:99a330a657803cc7@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270316T133000Z
 DTEND:20270316T140000Z
 SUMMARY:Book Babies Storytime
@@ -6031,7 +7353,7 @@ CATEGORIES:Library\,Free\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:b515fbd07ec69759@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270316T143000Z
 DTEND:20270316T150000Z
 SUMMARY:Baby Time
@@ -6051,7 +7373,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:c9294c6478057a09@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270316T143000Z
 DTEND:20270316T150000Z
 SUMMARY:Toddler Tales Storytime
@@ -6074,7 +7396,7 @@ CATEGORIES:Storytime\,Free\,Library\,Family Friendly\,Educational
 END:VEVENT
 BEGIN:VEVENT
 UID:bab73e0bb2dfd97a@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270317T133000Z
 DTEND:20270317T140000Z
 SUMMARY:Preschool Pals Storytime
@@ -6096,7 +7418,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:fdeeb44d30dcf0b1@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270317T143000Z
 DTEND:20270317T150000Z
 SUMMARY:Baby Time
@@ -6116,7 +7438,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:3cd92671875fa591@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270317T143000Z
 DTEND:20270317T150000Z
 SUMMARY:Read Sing Play
@@ -6136,7 +7458,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ad7cd9976e63aa30@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270318T143000Z
 DTEND:20270318T150000Z
 SUMMARY:Preschool Pals Storytime
@@ -6158,7 +7480,7 @@ CATEGORIES:Storytime\,Library\,Family Friendly\,Free
 END:VEVENT
 BEGIN:VEVENT
 UID:922a1d6d57863a65@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270318T143000Z
 DTEND:20270318T150000Z
 SUMMARY:Read Sing Play
@@ -6179,7 +7501,7 @@ CATEGORIES:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:39ea081cb74ea5d2@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270320T130000Z
 DTEND:20270320T150000Z
 SUMMARY:DADaS & Littles
@@ -6198,7 +7520,7 @@ CATEGORIES:Playgroup
 END:VEVENT
 BEGIN:VEVENT
 UID:030632e0689c5393@kid-events-in-ann-arbor
-DTSTAMP:20261126T151420Z
+DTSTAMP:20261127T151337Z
 DTSTART:20270324T223000Z
 DTEND:20270324T233000Z
 SUMMARY:Science Club: Planting for Pollinators
@@ -6217,5 +7539,24 @@ DESCRIPTION:Let&rsquo\;s buzz into the world of pollinators and plants. In
 URL:https://events.getlocalhop.com/science-club-planting-for-pollinators/e
  vent/Pp51yZbEZq/
 CATEGORIES:Animals\,Educational\,STEAM\,Free\,Performer
+END:VEVENT
+BEGIN:VEVENT
+UID:67ca196a272a2394@kid-events-in-ann-arbor
+DTSTAMP:20261127T151337Z
+DTSTART:20270327T130000Z
+DTEND:20270327T150000Z
+SUMMARY:Expecting & New Mamas & Babies
+LOCATION:Little Break Cowork\, 3909 Research Park Dr Suite 300\, Ann Arbor
+ \, MI 48108
+GEO:42.2308;-83.7135
+DESCRIPTION:For anyone pregnant or in the first months with a new baby. Br
+ ing the baby\, or come before they arrive.\n\nWhere: 3909 Research Park D
+ r Suite 300\, Ann Arbor\, MI 48108\nAges: Newborns and babies\, and anyon
+ e expecting\nCost: Free\nSignup: Drop in\, no signup needed\nIndoors\nLis
+ ted by: The Mamas Network (repeating)\nDetails: https://themamasnetwork.o
+ rg/events\nFound on: https://kideventsinannarbor.com/?event=67ca196a272a2
+ 394\n\nDouble check the time with the organizer before you go.
+URL:https://themamasnetwork.org/events
+CATEGORIES:Playgroup
 END:VEVENT
 END:VCALENDAR
